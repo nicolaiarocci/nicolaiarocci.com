@@ -11,7 +11,7 @@ a few [open source projects][1], a [Microsoft MVP][2], [MongoDB Master][3] and
 10][5] project. In my hometown I also run the [local CoderDojo][6], a coding
 club for kids. 
 
-I am a former competitive runner and climber now keeping myself in shape with
+I am a former competitive runner and climber now keeping myself busy with
 swimming and bodyweight training. I love reading [good books][8], hiking in the
 wilderness and riding my Triumph Bonneville. I have three awesome kids and
 a beautiful wife.
