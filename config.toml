@@ -69,7 +69,7 @@ weight = 114
 [params]
 author = "Nicola Iarocci"
 authorlocation = "Ravenna, Italy"
-authorwebsite = "http://nicolaiarocci.com/about"
+authorwebsite = "http://nicolaiarocci.com"
 description = "Coder at Heart"
 metadescription = "Personal website of Nicola Iarocci. Mostly on Coding and Open Source."
 bio = "Coder at Heart"
