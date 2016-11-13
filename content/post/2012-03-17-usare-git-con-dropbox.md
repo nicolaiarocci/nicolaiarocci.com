@@ -21,7 +21,7 @@ tags:
 
 Recentemente, più che altro per curiosità, ho giocato con una terza opzione: <a title="Dropbox" href="http://db.tt/V8L8FFo" target="_blank">Dropbox</a>. Per me Dropbox è uno strumento indispensabile sia per il lavoro che per le mie cose personali. Su qualunque computer io sia, ovunque mi trovi, grazie a Dropbox ho accesso al mio materiale. Dunque, mi son detto, perché non usarlo anche per il codice,  pur senza rinunciare al controllo versione offerto da Git?
 
-[<img style="border-style: initial; border-color: initial; border-image: initial; border-width: 0px;" title="Dropbox" src="images/dropbox.png?resize=525%2C131" alt="Dropbox" data-recalc-dims="1" />][1]
+[<img style="border-style: initial; border-color: initial; border-image: initial; border-width: 0px;" title="Dropbox" src="/images/dropbox.png?resize=525%2C131" alt="Dropbox" data-recalc-dims="1" />][1]
 
 Ebbene ho scoperto che non solo è possibile, è anche molto semplice. In realtà non c&#8217;è nulla di nuovo in quel che vi mostro, la &#8216;magia&#8217; la fa tutta Dropbox. <!--more-->
 
