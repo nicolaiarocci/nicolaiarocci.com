@@ -9,6 +9,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2016
 
+  * [La vegetariana](https://www.goodreads.com/review/show/1811020001), Han Kang
   * [L&#8217;ultimo serpente][1], A.B. Guthrie
   * [Mea culpa][2], Francesco Fuschini
   * [Il vecchio e il mare][3], Ernest Hemingway
