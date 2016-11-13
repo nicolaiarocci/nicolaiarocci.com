@@ -1,0 +1,96 @@
+baseurl = "http://nicolaiarocci.com/"
+title = "Nicola Iarocci"
+copyright = "All rights reserved - 2016"
+theme = "casper"
+languagecode = "en-US"
+paginate = 5
+pluralizelisttitles = false
+PygmentsCodeFences = true
+
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "/"
+weight = -120
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 100
+
+[[menu.main]]
+name = "Open Source"
+url = "/opensource"
+weight = 101
+
+
+[[menu.main]]
+name = "Speaking"
+url = "/talks"
+weight = 102
+
+[[menu.main]]
+name = "Reading"
+url = "/books-i-have-read"
+weight = 103
+
+
+[[menu.main]]
+name = "MongoDB"
+url = "/il-piccolo-libro-di-mongodb-edizione-italiana"
+weight = 104
+
+[[menu.main]]
+pre = "<h3>Follow me</h3>"
+name = "Twitter"
+url = "https://twitter.com/nicolaiarocci"
+weight = 110
+
+[[menu.main]]
+name = "Github"
+url = "https://github.com/nicolaiarocci"
+weight = 111
+
+[[menu.main]]
+name = "Stack Overflow"
+url = "https://stackoverflow.com/users/323269/nicola-iarocci?tab=profile"
+weight = 112
+
+[[menu.main]]
+name = "Speaker Deck"
+url = "http://speakerdeck.com/u/nicola"
+weight = 113
+
+[[menu.main]]
+name = "LinkedIn"
+url = "http://www.linkedin.com/in/nicolaiarocci"
+weight = 114
+
+[params]
+author = "Nicola Iarocci"
+authorlocation = "Ravenna, Italy"
+authorwebsite = "http://nicolaiarocci.com/about"
+description = "Coder at Heart"
+metadescription = "Personal website of Nicola Iarocci. Mostly on Coding and Open Source."
+bio = "Coder at Heart"
+cover = "images/hacking.jpg"
+logo = "images/avatar.png"
+custom_css = ["css/gist.css", "css/custom.css"]
+shareenabled = false
+
+githubName = "nicolaiarocci"
+twitterName = "nicolaiarocci"
+#facebookName = "nicolaiarocci"
+linkedinName = "nicolaiarocci"
+stackoverflowName = "323269"
+
+googleAnalyticsUserID = "UA-19006041-1"
+hideHUGOSupport = true
+
+[permalinks]
+post = "/:slug/"
+
+[sitemap]
+ChangeFreq = ""
+Filename = "sitemap.xml"
+Priority = "-1"

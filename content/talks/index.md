@@ -1,0 +1,60 @@
+---
+title: Speaking
+author: Nicola Iarocci
+layout: page
+date: 2013-04-27
+share: false
+image: images/nicola@piterpy.jpg
+---
+I speak at conferences and local meetups. Here&#8217;s a list of my most recent engagements. Want me to talk at your event? [Get in touch][1]!
+
+- Future Decoded 2016: [Python Tools for Visual Studio][2]
+- PyConUK 2016: [Cerberus, Data Validation for Humans][3]
+- PyterPy 2016: [Eve, REST APIs for Humans][4]
+- PyCon Italy 2016: [Cerberus, Data Validation for Humans][3] ([video, Italian][5])
+- PyCon Italy 2016: [Web Framework Royal Rumble][6]
+- Western Europe MVP Open Day 2016: [Real Life .NET Cross Platform][7]
+- OpenDomus.net Communities Meetup: [Real Life .NET Cross Platform][7]
+- Microsoft TecHeroes: [Real Life .NET Cross Platform (Italian)][8]
+- Microsoft Best of Build: [Bash on Ubuntu on Windows (Italian)][9]
+- Microsoft TecHeroes: [Vim for Visual Studio (Italian)][10]
+- Microsoft TecHeroes: [Python Tools for Visual Studio (Italian)][11]
+- Microsoft TecHeroes: [CoderDoojo Coding Club for Kids (Italian)][12]
+- Persona Live 2015: [Eve, REST APIs for Humans][4]
+- EuroPython 2014: [Eve, REST APIs for Humans][4]
+- PyCon Italy 2014: [Eve, REST APIs for Humans][4]
+- PyCon Sweden 2014: [Eve, REST APIs for Humans][4]
+- Python Meetup: [Eve, REST APIs for Humans][4]
+- FOSDEM 2014: [Eve, REST APIs for Humans][4]
+- RomagnaCamp 2013: [We Are All Remote Workers][13]
+- NoSQL Day 2013: [RESTful Web API and MongoDB go for a picnic][14]
+- MongoTorino 2013: [RESTful Web API and MongoDB go for a picnic][14]
+- A Morning With MongoDB: [RESTful Web API and MongoDB go for a picnic][14]
+- EuroPython 2012: [Developing RESTful Web APIs with Python, Flask and MongoDB][15]
+- Agenda Digitale Ravenna 2014: [CoderDojo Romagna][16]
+- Cultura d'Impresa 2.0: [Online / Offline][17]
+- Liceo Artistico Severini (Ravenna): [Identità Reale, Virtuale e Digitale][18]
+- Liceo Artistico Severini (Ravenna): [Personal Branding per Studenti e non solo][19]
+- KnowCamp 2011: [Fuga dalla Comfort Zone][20]
+- RomagnaCamp 2011: [Quattro passi tra le nuvole][21]
+ [1]: mailto:speaking@nicolaiarocci.com
+ [2]: https://speakerdeck.com/nicola/python-tools-for-visual-studio
+ [3]: https://speakerdeck.com/nicola/cerberus
+ [4]: https://speakerdeck.com/nicola/eve-rest-api-for-humans
+ [5]: https://youtu.be/WQJP_2FkBqI
+ [6]: https://speakerdeck.com/nicola/flask-web-development-one-drop-at-a-time
+ [7]: https://speakerdeck.com/nicola/real-life-net-cross-platform
+ [8]: https://channel9.msdn.com/Shows/TecHeroes/TecHeroes-Real-Life-Net-Cross-Platform
+ [9]: https://channel9.msdn.com/Shows/Best-of-Build--Italy/Bash-su-Ubuntu-su-Windows
+ [10]: https://channel9.msdn.com/Shows/TecHeroes/TecHeroes-VSVim-Editor
+ [11]: https://channel9.msdn.com/Shows/TecHeroes/TecHeroes-Python-tools-per-Visual-Studio
+ [12]: https://channel9.msdn.com/Shows/TecHeroes/TecHeroes-CoderDojo-Coding-Club-for-Kids
+ [13]: https://speakerdeck.com/nicola/we-are-all-remote-workers
+ [14]: https://speakerdeck.com/nicola/restful-web-api-and-mongodb-go-for-a-pic-nic
+ [15]: https://speakerdeck.com/nicola/developing-restful-web-apis-with-python-flask-and-mongodb
+ [16]: https://speakerdeck.com/nicola/coderdojo-romagna
+ [17]: https://speakerdeck.com/nicola/online
+ [18]: https://speakerdeck.com/nicola/identita-reale-virtuale-e-digitale
+ [19]: https://speakerdeck.com/nicola/personal-branding-per-studenti-e-non-solo
+ [20]: https://speakerdeck.com/nicola/fuga-dalla-comfort-zone
+ [21]: https://speakerdeck.com/nicola/quattro-passi-tra-le-nuvole
