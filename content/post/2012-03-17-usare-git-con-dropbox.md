@@ -94,6 +94,6 @@ E&#8217; sufficiente condividere il folder Dropbox con altre persone per creare 
 
 BitBucket o GitHub (a pagamento) rimangono la soluzione ideale, e offrono molte funzionalità comunque assenti in Git+Dropbox (interfaccia web, wiki, issues, eccetera). Per piccoli progetti personali Dropbox offre una alternativa a buon mercato, rapida e comoda.
 
-_PS: se create un account Dropbox dal link dell&#8217;articolo, oppure da <a href="http://db.tt/V8L8FFo" title="Dropbox" target="_blank">questo</a>, ricevete 500BMB extra (e altrettanti ne otterrà il sottoscritto)!_
+*PS: se create un account Dropbox dal link dell&#8217;articolo, oppure da <a href="http://db.tt/V8L8FFo" title="Dropbox" target="_blank">questo</a>, ricevete 500BMB extra (e altrettanti ne otterrà il sottoscritto)!*
 
  [1]: http://db.tt/V8L8FFo
