@@ -3,7 +3,6 @@ title: Introducing SimpleObjectCache a simple cross-platform object cache for .N
 author: Nicola Iarocci
 layout: post
 date: 2016-07-20
-share: false
 url: /introducing-simpleobjectcache-a-simple-cross-platform-object-cache-for-net-systems/
 categories:
   - Programming
