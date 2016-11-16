@@ -75,7 +75,7 @@ metadescription = "Personal website of Nicola Iarocci. Mostly on Coding and Open
 bio = "Coder at Heart"
 cover = "images/hacking.jpg"
 logo = "images/avatar.png"
-custom_css = ["css/gist.css", "css/custom.css"]
+custom_css = ["css/custom.css"]
 shareenabled = false
 
 githubName = "nicolaiarocci"

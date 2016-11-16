@@ -2,3 +2,19 @@
     height: 65vh;
 }
 
+.gist-meta {
+	display: none;
+}
+
+.gist-file, .gist-meta, .gist-data {
+	border: 0 !important;
+}
+
+table tbody tr {
+    border: none
+}
+
+table tbody tr:nth-child(2n + 1) {
+    background-color: #ffffff;
+}
+
