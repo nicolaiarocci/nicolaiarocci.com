@@ -4,6 +4,7 @@ author: Nicola Iarocci
 layout: page
 date: 2012-02-21
 share: false
+image: images/mongodb.png
 ---
 Il Piccolo Libro di MongoDB è la traduzione autorizzata di [The Little MongoDB Book][1] di Karl Seguin.
 
