@@ -6,10 +6,10 @@ date: 2010-11-22
 share: false
 ---
 This is the website of Nicola Iarocci. I&#8217;m a coder at heart author of
-a few [open source projects][1], a [Microsoft MVP][2], [MongoDB Master][3] and
-[Conference Speaker][4]. I live in Ravenna, Italy, where I work on the [Amica
-10][5] project. In my hometown I also run the [local CoderDojo][6], a coding
-club for kids. 
+several [open source projects][1], a [Microsoft MVP][2], [MongoDB
+Master][3] and [Conference Speaker][4]. I live in Ravenna, Italy, where I work
+on the [Amica 10][5] project. In my hometown I also run the [local
+CoderDojo][6], a coding club for kids. 
 
 I am a former competitive runner and climber now keeping myself busy with
 swimming and bodyweight training. I love reading [good books][8], hiking in the
