@@ -33,6 +33,8 @@ Here is a list of my open source projects. You can see check the source code for
 
 - [Il Piccolo Libro di MongoDB][15]. Authorized Italian translation of The Little MongoDB Book di Karl Seguin. 
 
+- Many more OSS projects I have worked on have been released by [my company][17].
+
 You can follow my [open source activity][16].
 
  [1]: https://github.com/nicolaiarocci/
@@ -51,3 +53,4 @@ You can follow my [open source activity][16].
  [14]: https://github.com/FatturaElettronicaPA/BusinessObjects "BusinessObjects"
  [15]: http://nicolaiarocci.com/il-piccolo-libro-di-mongodb-edizione-italiana/ "Il Piccolo Libro di MongoDB"
  [16]: https://github.com/nicolaiarocci?tab=activity "Nicola Iarocci Public Activity on GitHub"
+ [17]: https://github.com/CIR2000
