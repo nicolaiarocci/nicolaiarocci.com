@@ -4,7 +4,6 @@ author: Nicola Iarocci
 layout: page
 date: 2013-04-28
 share: false
-image: images/open.jpg
 ---
 Here is a list of my open source projects. You can see check the source code for all of them on [GitHub][1].
 
