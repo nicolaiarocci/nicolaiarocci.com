@@ -41,6 +41,17 @@ url = "/il-piccolo-libro-di-mongodb-edizione-italiana"
 weight = 104
 
 [[menu.main]]
+pre = "<h3>Subscribe</h3>"
+name = "New posts via mail"
+url = "http://eepurl.com/b-_Pzz"
+weight = 105
+
+[[menu.main]]
+name = "RSS feed"
+url = "http://nicolaiarocci.com/index.xml"
+weight = 106
+
+[[menu.main]]
 pre = "<h3>Follow me</h3>"
 name = "Twitter"
 url = "https://twitter.com/nicolaiarocci"
