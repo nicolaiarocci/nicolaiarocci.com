@@ -9,6 +9,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2016
 
+  * [Zero K](https://www.goodreads.com/review/show/1829463425), Don DeLillo
   * [Il sentiero degli eroi](https://www.goodreads.com/review/show/1818507095),
       Marco Albino Ferrari
   * [La vegetariana](https://www.goodreads.com/review/show/1811020001), Han Kang
