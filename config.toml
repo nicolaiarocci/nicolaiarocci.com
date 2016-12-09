@@ -1,4 +1,4 @@
-baseurl = "http://nicolaiarocci.com/"
+baseurl = "https://nicolaiarocci.com/"
 title = "Nicola Iarocci"
 copyright = "All rights reserved - 2016"
 theme = "casper"
@@ -48,7 +48,7 @@ weight = 105
 
 [[menu.main]]
 name = "RSS feed"
-url = "http://nicolaiarocci.com/index.xml"
+url = "https://nicolaiarocci.com/index.xml"
 weight = 106
 
 [[menu.main]]
@@ -80,7 +80,7 @@ weight = 114
 [params]
 author = "Nicola Iarocci"
 authorlocation = "Ravenna, Italy"
-authorwebsite = "http://nicolaiarocci.com"
+authorwebsite = "https://nicolaiarocci.com"
 description = "Coder at Heart"
 metadescription = "Personal website of Nicola Iarocci. Mostly on Coding and Open Source."
 bio = "Coder at Heart"
