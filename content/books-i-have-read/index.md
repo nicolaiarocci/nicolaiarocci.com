@@ -7,6 +7,11 @@ share: false
 ---
 This is a partial list of the books I have read. I have it both to jog my memory and because I have read a lot of stuff I have loved, and want other people to find it.
 
+## 2017
+
+* [Fiabe lapponi](https://www.goodreads.com/review/show/1871063494), Bruno
+    Berni
+
 ## 2016
 
 * [I viaggi di Jupiter](https://www.goodreads.com/review/show/1856934440), Ted
