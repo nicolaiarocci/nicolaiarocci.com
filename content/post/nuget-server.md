@@ -14,7 +14,7 @@ adventuring down the same path.
 *If I don't need to convince you on the usefulness and importance of packages
 in modern software development, then you can safely jump to [The case for
 private NuGet feeds](#the-case-for-private-nuget-feeds), and spare yourself
-some my ramblings.*
+some of my ramblings.*
 
 ## Why you should package
 Before I get down to business allow me a little digression to stress the
@@ -118,7 +118,7 @@ Format][9] and its performance has skyrocketed since then.
 ## Create a NuGet Server in Visual Studio
 In Visual Studio select File > New > Project to create a new project. In order
 to get the latest version of NuGet.Server, make sure you set the target
-framewrk to .NET Framework 4.6 or above. 
+framework to .NET Framework 4.6 or above. 
 
 ![New VS project with .NET 4.6 or above][img2]
 
