@@ -9,10 +9,9 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2017
 
-* [Born to run](https://www.goodreads.com/review/show/1890818775), Bruce
-    Springsteen
-* [Fiabe lapponi](https://www.goodreads.com/review/show/1871063494), Bruno
-    Berni
+* [Scherzetto](https://www.goodreads.com/review/show/1892990789), Domenico Starnone
+* [Born to run](https://www.goodreads.com/review/show/1890818775), Bruce Springsteen
+* [Fiabe lapponi](https://www.goodreads.com/review/show/1871063494), Bruno Berni
 
 ## 2016
 
