@@ -54,7 +54,7 @@ hesitant and unsure about this whole thing. Part of me just wants to keep going
 the way it's always been, as with any form of financing also comes more
 responsability. The other half of me wants to work more on this thing, make it
 bigger. Eventually we will get there but, unless something changes, it will
-take a quite some time.
+take quite some time.
 
 By the way, next March I am speaking about RESTful Web Services at
 [Codemotion Rome 2017][8]. Presentation will include a Eve live demo, so if
