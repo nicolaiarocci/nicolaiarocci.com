@@ -9,6 +9,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2017
 
+* [L'arte di essere fragili](https://www.goodreads.com/review/show/1915042009),
+    Alessandro D'Avenia
 * [Sei pezzi facili](https://www.goodreads.com/review/show/1900070244), Richard
     Faynman
 * [Scherzetto](https://www.goodreads.com/review/show/1892990789), Domenico Starnone
