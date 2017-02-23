@@ -49,6 +49,11 @@ support for Python.
 
 Or you fallback to good ole trusted Vim, like I did.
 
+UPDATE (Feb 22, 2017). There's now an [official post][5] up at the Microsoft
+Python Engineering blog, by Steve Dower. Looks like using Python with Visual
+Studio 2017 will initially require a separate "preview" build of VS itself.
+Only months later Python support will be merged to the official bundle. 
+
 *join the [newsletter][nl] to get an email alert when a new post surfaces on
 this site. if you want to get in touch, i am @[nicolaiarocci][tw] on twitter.*
 
@@ -56,6 +61,7 @@ this site. if you want to get in touch, i am @[nicolaiarocci][tw] on twitter.*
 [2]: https://www.google.com/?gfe_rd=cr&ei=Lh2oWNCJENCv8wfrtaqYDA&gws_rd=cr#q=python+tools+visual+studio+2017+rc3
 [3]: https://www.visualstudio.com/en-us/news/releasenotes/vs2017-relnotes
 [4]: https://github.com/Microsoft/PTVS/issues/2099
+[5]: https://blogs.msdn.microsoft.com/pythonengineering/2017/02/22/python-in-vs2017/
 
 
 [tw]: http://twitter.com/nicolaiarocci
