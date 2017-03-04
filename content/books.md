@@ -4,6 +4,7 @@ author: Nicola Iarocci
 layout: page
 date: 2015-06-09
 share: false
+slug: books-i-have-read
 ---
 This is a partial list of the books I have read. I have it both to jog my memory and because I have read a lot of stuff I have loved, and want other people to find it.
 
