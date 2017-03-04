@@ -92,8 +92,8 @@ shareenabled = false
 githubName = "nicolaiarocci"
 twitterName = "nicolaiarocci"
 #facebookName = "nicolaiarocci"
-linkedinName = "nicolaiarocci"
-stackoverflowName = "323269"
+#linkedinName = "nicolaiarocci"
+#stackoverflowName = "323269"
 
 googleAnalyticsUserID = "UA-19006041-1"
 hideHUGOSupport = true
