@@ -13,8 +13,7 @@ CoderDojo][6], a coding club for kids.
 
 I am a former competitive runner and climber now keeping myself busy with
 swimming and bodyweight training. I love reading [good books][8], hiking in the
-wilderness and riding my Triumph Bonneville. I have three awesome kids and
-a beautiful wife.
+wilderness and riding my Triumph Bonneville. 
 
 My all time favourite quote:
 
