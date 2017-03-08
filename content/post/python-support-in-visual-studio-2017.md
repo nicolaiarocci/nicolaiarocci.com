@@ -47,7 +47,7 @@ for all my other coding (don't get me started on C# in Vim. That is material
 for another post maybe.) I am also totally sympathetic with the dev team.
 I have been in this business for longer than I care to admit and I do know
 these things happen. But still, there is no dobut that this unfortunate
-incident marks a serious setback for the process.
+incident marks a serious setback.
 
 In less than one month I will be givin a talk at PyCon Italy. It is titled
 [Python on Windows Like a Boss][6] and the heart of it was of course going be
@@ -55,8 +55,7 @@ the Python Workload for Visual Studio 2017. With this turn of events I will
 probably end up going on stage with the previous version of the tool, and
 Visual Studio 2015.
 
-Or I will end up biting the bullet and install 35 gigs of mostly duplicated
-software.
+Or I will bite the bullet and install 35 gigs of mostly duplicated software.
 
 *Join the [newsletter][nl] to get an email alert when a new post surfaces on
 this site. If you want to get in touch, I am @[nicolaiarocci][tw] on twitter.*
