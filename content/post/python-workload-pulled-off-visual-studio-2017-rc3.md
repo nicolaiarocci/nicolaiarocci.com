@@ -1,7 +1,7 @@
 +++
 date = "2017-02-18T10:48:29+01:00"
 title = "Python Workload pulled off Visual Studio 2017 RC3"
-tags = [".net", "python"]
+tags = ["visual studio", "python"]
 +++
 
 So how do you install the awesome [Python Development Tools][1] on the latest
