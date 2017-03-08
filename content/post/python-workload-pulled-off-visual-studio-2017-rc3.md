@@ -54,6 +54,9 @@ Python Engineering blog, by Steve Dower. Looks like using Python with Visual
 Studio 2017 will initially require a separate "preview" build of VS itself.
 Only months later Python support will be merged to the official bundle. 
 
+UPDATE (Mar 8, 2017). I posted a [follow-up article][6], as VS2017 has finally
+been released.
+
 *Join the [newsletter][nl] to get an email alert when a new post surfaces on
 this site. If you want to get in touch, I am @[nicolaiarocci][tw] on twitter.*
 
@@ -62,6 +65,7 @@ this site. If you want to get in touch, I am @[nicolaiarocci][tw] on twitter.*
 [3]: https://www.visualstudio.com/en-us/news/releasenotes/vs2017-relnotes
 [4]: https://github.com/Microsoft/PTVS/issues/2099
 [5]: https://blogs.msdn.microsoft.com/pythonengineering/2017/02/22/python-in-vs2017/
+[6]: https://nicolaiarocci.com/python-support-in-visual-studio-2017-or-the-lack-thereof/
 
 
 [tw]: http://twitter.com/nicolaiarocci
