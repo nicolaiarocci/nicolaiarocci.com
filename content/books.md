@@ -10,6 +10,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2017
 
+* [Il pastore d'Islanda](https://www.goodreads.com/review/show/1952222017),
+    Gunnar Gunnarsson
 * [La casa dei Krull](https://www.goodreads.com/review/show/1934313376), Georges Simenon
 * [La vita segreta degli alberi](https://www.goodreads.com/review/show/1929593045), Peter Wohlleben
 * [L'arte di essere fragili](https://www.goodreads.com/review/show/1915042009),
