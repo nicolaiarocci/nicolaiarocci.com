@@ -4,7 +4,7 @@ author: Nicola Iarocci
 layout: page
 date: 2013-04-27
 share: false
-image: images/nicola@piterpy.jpg
+image: images/nicola@codemotion2017.jpeg
 ---
 I speak at conferences and local meetups. Here&#8217;s a list of my most recent engagements. Want me to talk at your event? [Get in touch][1]!
 
