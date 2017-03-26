@@ -8,6 +8,7 @@ image: images/nicola@codemotion2017.jpeg
 ---
 I speak at conferences and local meetups. Here&#8217;s a list of my most recent engagements. Want me to talk at your event? [Get in touch][1]!
 
+- Codemotion Rome 2017: [Restful Web Services for human beings][4]
 - Future Decoded 2016: [Python Tools for Visual Studio][2]
 - PyConUK 2016: [Cerberus, Data Validation for Humans][3]
 - PyterPy 2016: [Eve, REST APIs for Humans][4]
