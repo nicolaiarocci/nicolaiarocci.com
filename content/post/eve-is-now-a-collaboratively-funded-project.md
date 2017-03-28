@@ -2,6 +2,7 @@
 title = "Eve and Cerberus are now collaboratively funded projects"
 date = "2017-03-05T10:10:29+01:00"
 tags = ["python", "open source"]
+draft = true
 +++
 I finally took the plunge and made [Eve][1] and [Cerberus][3] collaboratively
 funded projects. Even if only mildly successful, this initiative will have
