@@ -8,6 +8,7 @@ image: images/nicola@codemotion2017.jpeg
 ---
 I speak at conferences and local meetups. Here&#8217;s a list of my most recent engagements. Want me to talk at your event? [Get in touch][1]!
 
+- DevRomagna Meetup: [Git Branching Models and Semantic Versioning][23]
 - PyCon Italy 2017: [Python on Windows Like a Boss][22]
 - PyCon Italy 2017: Microsoft Azure integration with Open Technologies (Panel)
 - Codemotion Rome 2017: [Restful Web Services for human beings][4]
@@ -62,3 +63,4 @@ I speak at conferences and local meetups. Here&#8217;s a list of my most recent 
  [20]: https://speakerdeck.com/nicola/fuga-dalla-comfort-zone
  [21]: https://speakerdeck.com/nicola/quattro-passi-tra-le-nuvole
  [22]: https://speakerdeck.com/nicola/python-on-windows-like-a-boss
+ [23]: https://www.meetup.com/it-IT/DevRomagna/events/239110404/
