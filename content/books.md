@@ -10,6 +10,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2017
 
+* [La conquista del
+    Paradiso](https://www.goodreads.com/review/show/1978683005), Paul M. Cobb
 * [Il pastore d'Islanda](https://www.goodreads.com/review/show/1952222017),
     Gunnar Gunnarsson
 * [La casa dei Krull](https://www.goodreads.com/review/show/1934313376), Georges Simenon
