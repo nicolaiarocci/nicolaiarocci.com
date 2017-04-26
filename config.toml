@@ -8,74 +8,73 @@ pluralizelisttitles = false
 PygmentsCodeFences = true
 
 [[menu.main]]
-identifier = "blog"
 name = "Blog"
 url = "/"
-weight = -120
+weight = 11
 
 [[menu.main]]
 name = "About"
 url = "/about"
-weight = 100
+weight = 10
 
 [[menu.main]]
 name = "Open Source"
 url = "/opensource"
-weight = 101
+weight = 9
 
 
 [[menu.main]]
 name = "Speaking"
 url = "/talks"
-weight = 102
+weight = 8
 
 [[menu.main]]
 name = "Reading"
 url = "/books-i-have-read"
-weight = 103
+weight = 7
 
 
 [[menu.main]]
 name = "MongoDB"
 url = "/il-piccolo-libro-di-mongodb-edizione-italiana"
-weight = 104
+weight = 6
 
 [[menu.main]]
 pre = "<h3>Subscribe</h3>"
 name = "New posts via mail"
 url = "http://eepurl.com/b-_Pzz"
-weight = 105
+weight = -200
 
 [[menu.main]]
 name = "RSS feed"
 url = "https://nicolaiarocci.com/index.xml"
-weight = 106
+weight = -210
 
 [[menu.main]]
 pre = "<h3>Follow me</h3>"
 name = "Twitter"
 url = "https://twitter.com/nicolaiarocci"
-weight = 110
+weight = -300
 
 [[menu.main]]
 name = "Github"
 url = "https://github.com/nicolaiarocci"
-weight = 111
+weight = -310
 
 [[menu.main]]
 name = "Stack Overflow"
 url = "https://stackoverflow.com/users/323269/nicola-iarocci?tab=profile"
-weight = 112
+weight = -320
 
 [[menu.main]]
 name = "Speaker Deck"
 url = "http://speakerdeck.com/u/nicola"
-weight = 113
+weight = -330
 
 [[menu.main]]
 name = "LinkedIn"
 url = "http://www.linkedin.com/in/nicolaiarocci"
-weight = 114
+weight = -340
 
 [params]
 author = "Nicola Iarocci"
@@ -86,7 +85,7 @@ metadescription = "Nicola Iarocci, Software Craftsman."
 #bio = "Software Craftsman"
 cover = "images/hacking.jpg"
 logo = "images/avatar.png"
-custom_css = ["css/custom.css"]
+customCSS = ["css/custom.css"]
 shareenabled = false
 
 githubName = "nicolaiarocci"
