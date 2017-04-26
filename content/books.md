@@ -1,7 +1,6 @@
 ---
 title: Books I Have Read
 author: Nicola Iarocci
-layout: page
 date: 2015-06-09
 share: false
 slug: books-i-have-read

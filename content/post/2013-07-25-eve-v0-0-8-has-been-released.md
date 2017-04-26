@@ -1,7 +1,6 @@
 ---
 title: Eve v0.0.8 has been released
 author: Nicola Iarocci
-layout: post
 date: 2013-07-25
 url: /eve-v0-0-8-has-been-released/
 gr_overridden:

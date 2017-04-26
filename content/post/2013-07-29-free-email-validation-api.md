@@ -1,7 +1,6 @@
 ---
 title: Free Robust Email Validation API
 author: Nicola Iarocci
-layout: post
 date: 2013-07-29
 url: /free-email-validation-api/
 dsq_thread_id:

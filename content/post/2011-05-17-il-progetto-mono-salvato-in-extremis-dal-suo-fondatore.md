@@ -1,7 +1,6 @@
 ---
 title: Il Progetto Mono salvato in extremis dal suo fondatore
 author: Nicola Iarocci
-layout: post
 date: 2011-05-17
 url: /il-progetto-mono-salvato-in-extremis-dal-suo-fondatore/
 dsq_thread_id:

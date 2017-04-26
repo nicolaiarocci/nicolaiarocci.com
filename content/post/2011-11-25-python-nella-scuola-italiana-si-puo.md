@@ -1,7 +1,6 @@
 ---
 title: Python nella scuola italiana. Si può.
 author: Nicola Iarocci
-layout: post
 date: 2011-11-25
 url: /python-nella-scuola-italiana-si-puo/
 dsq_thread_id:

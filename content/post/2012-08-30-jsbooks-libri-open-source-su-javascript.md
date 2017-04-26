@@ -1,7 +1,6 @@
 ---
 title: JSBooks – Libri Open Source su JavaScript
 author: Nicola Iarocci
-layout: post
 date: 2012-08-30
 url: /jsbooks-libri-open-source-su-javascript/
 dsq_thread_id:

@@ -1,7 +1,6 @@
 ---
 title: Interfaces out of Laziness
 author: Nicola Iarocci
-layout: post
 date: 2015-01-10
 url: /interfaces-laziness/
 sharing_disabled:

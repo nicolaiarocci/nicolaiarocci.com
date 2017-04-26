@@ -1,7 +1,6 @@
 ---
 title: Aggiornato il Piccolo Libro di MongoDB
 author: Nicola Iarocci
-layout: post
 date: 2012-11-24
 url: /aggiornato-il-piccolo-libro-di-mongodb/
 dsq_thread_id:

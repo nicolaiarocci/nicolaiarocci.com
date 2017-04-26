@@ -1,7 +1,6 @@
 ---
 title: 'Backbone.JS vs Angular.JS: dissacrare il mito'
 author: Nicola Iarocci
-layout: post
 date: 2013-02-25
 url: /backbone-js-vs-angular-js-dissacrare-il-mito/
 dsq_thread_id:

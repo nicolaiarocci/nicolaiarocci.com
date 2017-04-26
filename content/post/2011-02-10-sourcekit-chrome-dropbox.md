@@ -1,7 +1,6 @@
 ---
 title: SourceKit – Scrivere codice in Google Chrome e salvarlo su DropBox
 author: Nicola Iarocci
-layout: post
 date: 2011-02-10
 url: /sourcekit-chrome-dropbox/
 dsq_thread_id:

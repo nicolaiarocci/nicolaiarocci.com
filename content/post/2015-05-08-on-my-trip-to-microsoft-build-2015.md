@@ -1,7 +1,6 @@
 ---
 title: On my trip to Microsoft Build 2015
 author: Nicola Iarocci
-layout: post
 date: 2015-05-08
 url: /on-my-trip-to-microsoft-build-2015/
 categories:

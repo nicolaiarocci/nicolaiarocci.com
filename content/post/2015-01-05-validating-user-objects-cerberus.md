@@ -1,7 +1,6 @@
 ---
 title: Validating user objects with Cerberus
 author: Nicola Iarocci
-layout: post
 date: 2015-01-05
 url: /validating-user-objects-cerberus/
 dsq_thread_id:

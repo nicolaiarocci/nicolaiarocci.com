@@ -1,7 +1,6 @@
 ---
 title: Windows 8 e i dubbi sul destino di Silverlight
 author: Nicola Iarocci
-layout: post
 date: 2011-06-08
 url: /windows-8-e-i-dubbi-sul-destino-di-silverlight/
 dsq_thread_id:

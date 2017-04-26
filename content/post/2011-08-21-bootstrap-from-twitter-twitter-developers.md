@@ -1,7 +1,6 @@
 ---
 title: Bootstrap è il CSS Framework di Twitter
 author: Nicola Iarocci
-layout: post
 date: 2011-08-21
 url: /bootstrap-from-twitter-twitter-developers/
 dsq_thread_id:

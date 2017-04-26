@@ -1,7 +1,6 @@
 ---
 title: Cerberus 0.5 is out (and it breaks stuff)
 author: Nicola Iarocci
-layout: post
 date: 2013-12-10
 url: /cerberus-0-5-is-out-and-it-breaks-stuff/
 dsq_thread_id:

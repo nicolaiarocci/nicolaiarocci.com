@@ -1,7 +1,6 @@
 ---
 title: Sulla Usabilità delle Password
 author: Nicola Iarocci
-layout: post
 date: 2011-05-11
 url: /sulla-usabilita-delle-password/
 dsq_thread_id:

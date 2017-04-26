@@ -1,7 +1,6 @@
 ---
 title: Microsoft’s New Systems Language
 author: Nicola Iarocci
-layout: post
 date: 2013-12-30
 url: /microsofts-new-systems-language/
 dsq_thread_id:

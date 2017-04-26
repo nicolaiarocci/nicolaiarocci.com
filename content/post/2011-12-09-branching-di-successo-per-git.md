@@ -1,7 +1,6 @@
 ---
 title: Branching di successo per Git
 author: Nicola Iarocci
-layout: post
 date: 2011-12-09
 url: /branching-di-successo-per-git/
 dsq_thread_id:

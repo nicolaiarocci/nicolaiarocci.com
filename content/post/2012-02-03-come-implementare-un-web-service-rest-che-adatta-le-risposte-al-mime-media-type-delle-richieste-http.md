@@ -1,7 +1,6 @@
 ---
 title: Una REST API che adatta le sue risposte al MIME Media-Type delle richieste HTTP
 author: Nicola Iarocci
-layout: post
 date: 2012-02-03
 url: /come-implementare-un-web-service-rest-che-adatta-le-risposte-al-mime-media-type-delle-richieste-http/
 gr_overridden:

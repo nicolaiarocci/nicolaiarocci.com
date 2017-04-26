@@ -1,7 +1,6 @@
 ---
 title: Microsoft, mi tocca boicottare pure IE6countdown.com
 author: Nicola Iarocci
-layout: post
 date: 2011-03-05
 url: /microsoft-mi-tocca-boicottare-pure-ie6countdown-com/
 dsq_thread_id:

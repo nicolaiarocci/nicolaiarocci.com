@@ -1,7 +1,6 @@
 ---
 title: REST API con MongoDB
 author: Nicola Iarocci
-layout: post
 date: 2012-10-26
 url: /rest-api-con-mongodb/
 dsq_thread_id:

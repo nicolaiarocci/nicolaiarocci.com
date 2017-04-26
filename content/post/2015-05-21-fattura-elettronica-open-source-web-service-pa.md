@@ -1,7 +1,6 @@
 ---
 title: 'Fattura Elettronica Open Source: Web Service PA'
 author: Nicola Iarocci
-layout: post
 date: 2015-05-21
 url: /fattura-elettronica-open-source-web-service-pa/
 categories:

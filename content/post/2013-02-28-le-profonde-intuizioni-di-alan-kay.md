@@ -1,7 +1,6 @@
 ---
 title: Le profonde intuizioni di Alan Kay
 author: Nicola Iarocci
-layout: post
 date: 2013-02-28
 url: /le-profonde-intuizioni-di-alan-kay/
 dsq_thread_id:

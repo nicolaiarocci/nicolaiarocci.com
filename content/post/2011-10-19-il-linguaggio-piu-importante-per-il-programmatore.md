@@ -1,7 +1,6 @@
 ---
 title: Il Linguaggio più importante per il Programmatore
 author: Nicola Iarocci
-layout: post
 date: 2011-10-19
 url: /il-linguaggio-piu-importante-per-il-programmatore/
 dsq_thread_id:

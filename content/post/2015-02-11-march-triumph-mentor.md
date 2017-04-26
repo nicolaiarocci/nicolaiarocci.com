@@ -1,7 +1,6 @@
 ---
 title: March To Triumph As A Mentor
 author: Nicola Iarocci
-layout: post
 date: 2015-02-11
 url: /march-triumph-mentor/
 sharing_disabled:

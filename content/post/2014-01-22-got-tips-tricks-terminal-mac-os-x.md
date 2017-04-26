@@ -1,7 +1,6 @@
 ---
 title: Got any tips or tricks for Terminal in Mac OS X?
 author: Nicola Iarocci
-layout: post
 date: 2014-01-22
 url: /got-tips-tricks-terminal-mac-os-x/
 dsq_thread_id:

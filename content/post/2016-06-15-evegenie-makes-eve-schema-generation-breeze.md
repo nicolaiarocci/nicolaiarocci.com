@@ -1,7 +1,6 @@
 ---
 title: EveGenie makes Eve schema generation a breeze
 author: Nicola Iarocci
-layout: post
 date: 2016-06-15
 url: /evegenie-makes-eve-schema-generation-breeze/
 categories:

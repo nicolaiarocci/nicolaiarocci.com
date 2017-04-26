@@ -1,7 +1,6 @@
 ---
 title: Announcing Eve-SQLAlchemy the official SQL extension for the Eve REST Framework
 author: Nicola Iarocci
-layout: post
 date: 2015-01-13
 url: /announcing-eve-sqlalchemy-the-official-sql-extension-for-the-eve-rest-framework/
 categories:

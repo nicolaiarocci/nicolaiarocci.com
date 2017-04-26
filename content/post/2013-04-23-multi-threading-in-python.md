@@ -1,7 +1,6 @@
 ---
 title: Multi-threading in Python
 author: Nicola Iarocci
-layout: post
 date: 2013-04-23
 url: /multi-threading-in-python/
 dsq_thread_id:

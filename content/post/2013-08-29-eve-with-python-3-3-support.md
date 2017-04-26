@@ -1,7 +1,6 @@
 ---
 title: Eve with Python 3.3 Support
 author: Nicola Iarocci
-layout: post
 date: 2013-08-29
 url: /eve-with-python-3-3-support/
 dsq_thread_id:

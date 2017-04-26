@@ -1,7 +1,6 @@
 ---
 title: On Why I Still Prefer Traditional Books to eBooks
 author: Nicola Iarocci
-layout: post
 date: 2013-12-02
 url: /on-why-i-still-prefer-traditional-books-to-ebooks/
 dsq_thread_id:

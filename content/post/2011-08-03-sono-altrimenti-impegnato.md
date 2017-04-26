@@ -1,7 +1,6 @@
 ---
 title: Sono altrimenti impegnato
 author: Nicola Iarocci
-layout: post
 date: 2011-08-03
 url: /sono-altrimenti-impegnato/
 dsq_thread_id:

@@ -1,7 +1,6 @@
 ---
 title: Il Cloud Computing è davvero affidabile?
 author: Nicola Iarocci
-layout: post
 date: 2011-06-03
 url: /il-cloud-computing-e-davvero-affidabile/
 dsq_thread_id:

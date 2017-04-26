@@ -1,7 +1,6 @@
 ---
 title: Fattura Elettronica per la PA v0.2.1
 author: Nicola Iarocci
-layout: post
 date: 2016-05-23
 url: /fattura-elettronica-per-la-pa-v0-2-1/
 categories:

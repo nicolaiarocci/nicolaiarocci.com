@@ -1,7 +1,6 @@
 ---
 title: Come aumentare del 250% la conversion rate del tuo sito
 author: Nicola Iarocci
-layout: post
 date: 2011-01-16
 url: /come-aumentare-del-250-la-conversion-rate-del-tuo-sito/
 dsq_thread_id:

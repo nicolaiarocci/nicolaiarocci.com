@@ -1,7 +1,6 @@
 ---
 title: Hacking Italia
 author: Nicola Iarocci
-layout: post
 date: 2013-05-07
 url: /hacking-italia/
 dsq_thread_id:

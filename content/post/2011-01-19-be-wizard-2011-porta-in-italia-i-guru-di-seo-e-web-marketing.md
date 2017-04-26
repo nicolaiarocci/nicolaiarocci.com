@@ -1,7 +1,6 @@
 ---
 title: BE-Wizard 2011 porta in Italia i guru di SEO e Web Marketing
 author: Nicola Iarocci
-layout: post
 date: 2011-01-19
 url: /be-wizard-2011-porta-in-italia-i-guru-di-seo-e-web-marketing/
 dsq_thread_id:

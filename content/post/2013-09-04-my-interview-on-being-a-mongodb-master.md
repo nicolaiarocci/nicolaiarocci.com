@@ -1,7 +1,6 @@
 ---
 title: My interview on being a MongoDB Master
 author: Nicola Iarocci
-layout: post
 date: 2013-09-04
 url: /my-interview-on-being-a-mongodb-master/
 dsq_thread_id:

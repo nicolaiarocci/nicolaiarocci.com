@@ -1,7 +1,6 @@
 ---
 title: Eve 0.4 and Cerberus 0.7 Released
 author: Nicola Iarocci
-layout: post
 date: 2014-07-10
 url: /eve-0-4-cerberus-0-7-released/
 dsq_thread_id:

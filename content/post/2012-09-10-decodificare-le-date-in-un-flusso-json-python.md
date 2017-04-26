@@ -1,7 +1,6 @@
 ---
 title: Decodificare le date in un flusso JSON (Python)
 author: Nicola Iarocci
-layout: post
 date: 2012-09-10
 url: /decodificare-le-date-in-un-flusso-json-python/
 gr_overridden:

@@ -1,7 +1,6 @@
 ---
 title: Conosco solo PHP. Come scrivo una applicazione web in Python?
 author: Nicola Iarocci
-layout: post
 date: 2012-05-07
 url: /conosco-solo-php-come-scrivo-una-applicazione-web-in-python/
 dsq_thread_id:

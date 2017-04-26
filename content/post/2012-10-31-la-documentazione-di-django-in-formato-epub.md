@@ -1,7 +1,6 @@
 ---
 title: La documentazione di Django in formato ePub
 author: Nicola Iarocci
-layout: post
 date: 2012-10-31
 url: /la-documentazione-di-django-in-formato-epub/
 dsq_thread_id:

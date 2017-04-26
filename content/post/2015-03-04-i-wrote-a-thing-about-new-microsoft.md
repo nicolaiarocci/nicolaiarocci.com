@@ -1,7 +1,6 @@
 ---
 title: I wrote a thing about New Microsoft
 author: Nicola Iarocci
-layout: post
 date: 2015-03-04
 url: /i-wrote-a-thing-about-new-microsoft/
 categories:

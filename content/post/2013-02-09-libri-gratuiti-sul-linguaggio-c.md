@@ -1,7 +1,6 @@
 ---
 title: Libri gratuiti sul linguaggio C
 author: Nicola Iarocci
-layout: post
 date: 2013-02-09
 url: /libri-gratuiti-sul-linguaggio-c/
 dsq_thread_id:

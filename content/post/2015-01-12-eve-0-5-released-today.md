@@ -1,7 +1,6 @@
 ---
 title: Eve 0.5 released today
 author: Nicola Iarocci
-layout: post
 date: 2015-01-12
 url: /eve-0-5-released-today/
 dsq_thread_id:

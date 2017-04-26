@@ -1,7 +1,6 @@
 ---
 title: REST APIs for Humans at FOSDEM
 author: Nicola Iarocci
-layout: post
 date: 2014-02-03
 url: /rest-apis-humans-fosdem/
 dsq_thread_id:

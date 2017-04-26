@@ -2,7 +2,6 @@
 title: Cerberus 1.0 has been released
 author: Nicola Iarocci
 share: true
-layout: post
 date: 2016-09-01
 url: /cerberus-1-0-released/
 categories:

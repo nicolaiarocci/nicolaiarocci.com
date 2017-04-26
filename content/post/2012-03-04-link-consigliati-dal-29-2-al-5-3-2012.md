@@ -1,7 +1,6 @@
 ---
 title: Link Consigliati dal 29.2 al 5.3.2012
 author: Nicola Iarocci
-layout: post
 date: 2012-03-04
 url: /link-consigliati-dal-29-2-al-5-3-2012/
 dsq_thread_id:

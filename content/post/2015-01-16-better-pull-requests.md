@@ -1,7 +1,6 @@
 ---
 title: Better Pull Requests
 author: Nicola Iarocci
-layout: post
 date: 2015-01-16
 url: /better-pull-requests/
 sharing_disabled:

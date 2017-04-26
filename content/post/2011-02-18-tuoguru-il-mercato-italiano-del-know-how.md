@@ -1,7 +1,6 @@
 ---
 title: TuoGuru – Il mercato italiano del Know How
 author: Nicola Iarocci
-layout: post
 date: 2011-02-18
 url: /tuoguru-il-mercato-italiano-del-know-how/
 dsq_thread_id:

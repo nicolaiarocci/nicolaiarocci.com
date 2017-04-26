@@ -1,7 +1,6 @@
 ---
 title: Why Good Programming Projects Go Bad
 author: Nicola Iarocci
-layout: post
 date: 2013-12-29
 url: /why-good-programming-projects-go-bad/
 dsq_thread_id:

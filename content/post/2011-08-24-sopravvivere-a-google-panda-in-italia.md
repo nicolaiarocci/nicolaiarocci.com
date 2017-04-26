@@ -1,7 +1,6 @@
 ---
 title: Sopravvivere a Google Panda in Italia
 author: Nicola Iarocci
-layout: post
 date: 2011-08-24
 url: /sopravvivere-a-google-panda-in-italia/
 dsq_thread_id:

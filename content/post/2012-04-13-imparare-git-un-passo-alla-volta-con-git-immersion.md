@@ -1,7 +1,6 @@
 ---
 title: Imparare Git un passo alla volta con Git Immersion
 author: Nicola Iarocci
-layout: post
 date: 2012-04-13
 url: /imparare-git-un-passo-alla-volta-con-git-immersion/
 dsq_thread_id:

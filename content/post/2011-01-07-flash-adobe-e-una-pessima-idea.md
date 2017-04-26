@@ -1,7 +1,6 @@
 ---
 title: Adobe Flash è una Pessima Idea
 author: Nicola Iarocci
-layout: post
 date: 2011-01-06
 url: /flash-adobe-e-una-pessima-idea/
 dsq_thread_id:

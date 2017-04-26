@@ -1,7 +1,6 @@
 ---
 title: Why Are All These Idiots More Successful Than You?
 author: Nicola Iarocci
-layout: post
 date: 2014-01-02
 url: /why-are-all-these-idiots-more-successful-than-you/
 dsq_thread_id:

@@ -1,7 +1,6 @@
 ---
 title: Come accorciare links e URL usando le API di Bit.ly via ASP.NET
 author: Nicola Iarocci
-layout: post
 date: 2010-11-29
 url: /accorciare-url-usando-bit-ly-via-asp-net/
 short-url:

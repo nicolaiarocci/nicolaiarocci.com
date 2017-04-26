@@ -1,7 +1,6 @@
 ---
 title: Impara Python in 10 minuti
 author: Nicola Iarocci
-layout: post
 date: 2011-03-10
 url: /impara-python-in-10-minuti/
 share: false

@@ -1,7 +1,6 @@
 ---
 title: Imparare Python con Codecademy
 author: Nicola Iarocci
-layout: post
 date: 2012-07-31
 url: /imparare-python-con-codecademy/
 dsq_thread_id:

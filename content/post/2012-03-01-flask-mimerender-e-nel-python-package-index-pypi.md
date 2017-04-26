@@ -1,7 +1,6 @@
 ---
 title: Flask MimeRender nel Python Package Index (PyPI)
 author: Nicola Iarocci
-layout: post
 date: 2012-03-01
 url: /flask-mimerender-e-nel-python-package-index-pypi/
 gr_overridden:

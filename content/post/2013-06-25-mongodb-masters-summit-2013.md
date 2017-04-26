@@ -1,7 +1,6 @@
 ---
 title: MongoDB Masters Summit 2013
 author: Nicola Iarocci
-layout: post
 date: 2013-06-25
 url: /mongodb-masters-summit-2013/
 dsq_thread_id:

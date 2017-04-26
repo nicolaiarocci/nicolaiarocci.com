@@ -1,7 +1,6 @@
 ---
 title: Eve 0.5.2 ‘Giulia’ is Out
 author: Nicola Iarocci
-layout: post
 date: 2015-02-23
 url: /eve-0-5-2-giulia-is-out/
 categories:

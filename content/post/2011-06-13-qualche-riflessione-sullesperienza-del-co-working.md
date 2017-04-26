@@ -1,7 +1,6 @@
 ---
 title: Qualche riflessione sull’esperienza del Co-Working
 author: Nicola Iarocci
-layout: post
 date: 2011-06-13
 url: /qualche-riflessione-sullesperienza-del-co-working/
 dsq_thread_id:

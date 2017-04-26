@@ -1,7 +1,6 @@
 ---
 title: Il reddit dei programmatori italiani
 author: Nicola Iarocci
-layout: post
 date: 2011-04-13
 url: /il-reddit-dei-programmatori-italiani/
 dsq_thread_id:

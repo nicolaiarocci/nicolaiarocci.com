@@ -1,7 +1,6 @@
 ---
 title: Disponibile il programma completo di BE-Wizard 2011
 author: Nicola Iarocci
-layout: post
 date: 2011-02-17
 url: /disponibile-il-programma-di-be-wizard-2011/
 dsq_thread_id:

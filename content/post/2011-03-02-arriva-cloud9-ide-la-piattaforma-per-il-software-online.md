@@ -1,7 +1,6 @@
 ---
 title: Ecco Cloud9 IDE la Piattaforma per Programmare nel Cloud
 author: Nicola Iarocci
-layout: post
 date: 2011-03-01
 url: /arriva-cloud9-ide-la-piattaforma-per-il-software-online/
 dsq_thread_id:

@@ -1,7 +1,6 @@
 ---
 title: Vuoi lavorare in una Startup italiana?
 author: Nicola Iarocci
-layout: post
 date: 2011-04-16
 url: /vuoi-lavorare-in-una-startup-italiana/
 dsq_thread_id:

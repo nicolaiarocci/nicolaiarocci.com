@@ -1,7 +1,6 @@
 ---
 title: Sui Vantaggi del Programmatore Poliglotta
 author: Nicola Iarocci
-layout: post
 date: 2011-09-21
 url: /sui-vantaggi-del-programmatore-poliglotta/
 dsq_thread_id:

@@ -1,7 +1,6 @@
 ---
 title: How To Be A Great Developer
 author: Nicola Iarocci
-layout: post
 date: 2014-01-12
 url: /how-to-be-a-great-developer/
 dsq_thread_id:

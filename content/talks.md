@@ -1,7 +1,6 @@
 ---
 title: Speaking
 author: Nicola Iarocci
-layout: page
 date: 2013-04-27
 share: false
 image: images/nicola@codemotion2017.jpeg

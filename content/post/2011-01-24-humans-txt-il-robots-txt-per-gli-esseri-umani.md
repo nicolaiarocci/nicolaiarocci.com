@@ -1,7 +1,6 @@
 ---
 title: Humans TXT – Il robots.txt per gli esseri umani
 author: Nicola Iarocci
-layout: post
 date: 2011-01-23
 url: /humans-txt-il-robots-txt-per-gli-esseri-umani/
 dsq_thread_id:

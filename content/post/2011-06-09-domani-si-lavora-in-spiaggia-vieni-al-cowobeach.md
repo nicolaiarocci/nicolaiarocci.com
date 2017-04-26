@@ -1,7 +1,6 @@
 ---
 title: 'Domani si lavora in spiaggia! Vieni al #cowobeach'
 author: Nicola Iarocci
-layout: post
 date: 2011-06-09
 url: /domani-si-lavora-in-spiaggia-vieni-al-cowobeach/
 dsq_thread_id:

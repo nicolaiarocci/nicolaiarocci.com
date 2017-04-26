@@ -1,7 +1,6 @@
 ---
 title: Primo importante aggiornamento del Piccolo Libro di MongoDB
 author: Nicola Iarocci
-layout: post
 date: 2012-03-08
 url: /primo-importante-aggiornamento-del-piccolo-libro-di-mongodb/
 dsq_thread_id:

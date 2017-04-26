@@ -1,7 +1,6 @@
 ---
 title: Why Microservices Matter
 author: Nicola Iarocci
-layout: post
 date: 2015-01-21
 url: /microservices-matter/
 sharing_disabled:

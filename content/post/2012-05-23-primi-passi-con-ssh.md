@@ -1,7 +1,6 @@
 ---
 title: Primi passi con SSH
 author: Nicola Iarocci
-layout: post
 date: 2012-05-23
 url: /primi-passi-con-ssh/
 dsq_thread_id:

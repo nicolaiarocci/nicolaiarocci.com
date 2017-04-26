@@ -1,7 +1,6 @@
 ---
 title: Convertire una data JSON in un oggetto datetime Python
 author: Nicola Iarocci
-layout: post
 date: 2012-06-07
 url: /convertire-una-data-json-in-un-oggetto-datetime-python/
 dsq_thread_id:

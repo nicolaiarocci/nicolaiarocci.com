@@ -1,7 +1,6 @@
 ---
 title: E finalmente esce Sublime Text 2
 author: Nicola Iarocci
-layout: post
 date: 2012-06-27
 url: /e-finalmente-esce-sublime-text-2/
 dsq_thread_id:

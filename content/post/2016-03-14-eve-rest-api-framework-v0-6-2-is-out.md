@@ -1,7 +1,6 @@
 ---
 title: Eve REST API Framework v0.6.2 is out
 author: Nicola Iarocci
-layout: post
 date: 2016-03-14
 url: /eve-rest-api-framework-v0-6-2-is-out/
 categories:

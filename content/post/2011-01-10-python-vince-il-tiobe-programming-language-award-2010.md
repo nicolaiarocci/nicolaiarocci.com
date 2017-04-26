@@ -1,7 +1,6 @@
 ---
 title: Python vince il TIOBE Programming Language Award 2010
 author: Nicola Iarocci
-layout: post
 date: 2011-01-10
 url: /python-vince-il-tiobe-programming-language-award-2010/
 dsq_thread_id:

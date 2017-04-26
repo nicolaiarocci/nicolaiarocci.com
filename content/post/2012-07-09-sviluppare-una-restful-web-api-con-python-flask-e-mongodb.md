@@ -1,7 +1,6 @@
 ---
 title: Sviluppare una RESTful Web API con Python, Flask e MongoDB
 author: Nicola Iarocci
-layout: post
 date: 2012-07-09
 url: /sviluppare-una-restful-web-api-con-python-flask-e-mongodb/
 dsq_thread_id:

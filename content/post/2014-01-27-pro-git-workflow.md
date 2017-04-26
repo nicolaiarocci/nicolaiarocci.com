@@ -1,7 +1,6 @@
 ---
 title: Pro Git Workflow
 author: Nicola Iarocci
-layout: post
 date: 2014-01-27
 url: /pro-git-workflow/
 dsq_thread_id:

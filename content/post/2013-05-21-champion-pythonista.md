@@ -1,7 +1,6 @@
 ---
 title: Champion Pythonista
 author: Nicola Iarocci
-layout: post
 date: 2013-05-21
 url: /champion-pythonista/
 dsq_thread_id:

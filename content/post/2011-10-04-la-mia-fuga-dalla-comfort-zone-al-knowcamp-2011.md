@@ -1,7 +1,6 @@
 ---
 title: La mia fuga dalla Comfort Zone al KnowCamp 2011
 author: Nicola Iarocci
-layout: post
 date: 2011-10-04
 url: /la-mia-fuga-dalla-comfort-zone-al-knowcamp-2011/
 dsq_thread_id:

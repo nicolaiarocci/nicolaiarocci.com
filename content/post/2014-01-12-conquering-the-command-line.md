@@ -1,7 +1,6 @@
 ---
 title: Conquering the Command Line
 author: Nicola Iarocci
-layout: post
 date: 2014-01-12
 url: /conquering-the-command-line/
 dsq_thread_id:

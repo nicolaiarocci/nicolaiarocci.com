@@ -1,7 +1,6 @@
 ---
 title: Sull’arte di arrangiarsi dei clienti
 author: Nicola Iarocci
-layout: post
 date: 2011-10-11
 url: /sullarte-di-arrangiarsi-dei-clienti/
 categories:

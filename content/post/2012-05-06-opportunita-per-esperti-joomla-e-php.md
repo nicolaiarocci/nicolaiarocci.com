@@ -1,7 +1,6 @@
 ---
 title: Opportunità per esperti Joomla e PHP
 author: Nicola Iarocci
-layout: post
 date: 2012-05-06
 url: /opportunita-per-esperti-joomla-e-php/
 dsq_thread_id:

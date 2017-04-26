@@ -1,7 +1,6 @@
 ---
 title: 'Talk Python To Me Podcast Episode #1: EVE RESTful APIs for Humans'
 author: Nicola Iarocci
-layout: post
 date: 2015-04-01
 url: /talk-python-to-me-podcast-episode-1-eve-restful-apis-for-humans/
 dsq_thread_id:

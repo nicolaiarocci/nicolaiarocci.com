@@ -1,7 +1,6 @@
 ---
 title: Convalidare un dizionario Python con Cerberus
 author: Nicola Iarocci
-layout: post
 date: 2012-10-16
 url: /convalidare-un-dizionario-python-con-cerberus/
 dsq_thread_id:

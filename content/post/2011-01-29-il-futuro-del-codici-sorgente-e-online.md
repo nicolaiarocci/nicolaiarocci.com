@@ -1,7 +1,6 @@
 ---
 title: Il futuro del codice sorgente è online?
 author: Nicola Iarocci
-layout: post
 date: 2011-01-29
 url: /il-futuro-del-codici-sorgente-e-online/
 dsq_thread_id:

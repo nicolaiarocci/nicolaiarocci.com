@@ -1,7 +1,6 @@
 ---
 title: CoderDojo Launch
 author: Nicola Iarocci
-layout: post
 date: 2014-01-17
 url: /coderdojo-launch/
 dsq_thread_id:

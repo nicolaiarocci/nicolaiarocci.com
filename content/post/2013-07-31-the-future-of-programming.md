@@ -1,7 +1,6 @@
 ---
 title: The Future of Programming
 author: Nicola Iarocci
-layout: post
 date: 2013-07-31
 url: /the-future-of-programming/
 dsq_thread_id:

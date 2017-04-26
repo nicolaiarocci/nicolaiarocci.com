@@ -1,7 +1,6 @@
 ---
 title: What Happens When One of Your Coworkers Dies
 author: Nicola Iarocci
-layout: post
 date: 2013-12-30
 url: /happens-one-coworkers-dies/
 dsq_thread_id:

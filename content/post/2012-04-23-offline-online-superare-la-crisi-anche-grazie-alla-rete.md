@@ -1,7 +1,6 @@
 ---
 title: 'Offline / Online: superare la crisi anche grazie alla rete'
 author: Nicola Iarocci
-layout: post
 date: 2012-04-23
 url: /offline-online-superare-la-crisi-anche-grazie-alla-rete/
 dsq_thread_id:

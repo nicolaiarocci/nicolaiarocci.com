@@ -1,7 +1,6 @@
 ---
 title: Monolith vs Microservices
 author: Nicola Iarocci
-layout: post
 date: 2015-06-04
 url: /monolith-vs-microservices/
 categories:

@@ -1,7 +1,6 @@
 ---
 title: Microsoft Silverlight e Adobe Flash verso la resa. Comincia l’era di Re HTML5
 author: Nicola Iarocci
-layout: post
 date: 2011-11-11
 url: /microsoft-silverlight-e-adobe-flash-verso-la-resa-comincia-lera-di-re-html5/
 dsq_thread_id:

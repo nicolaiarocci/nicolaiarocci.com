@@ -1,7 +1,6 @@
 ---
 title: Perché non acquisterò la biografia ufficiale di Steve Jobs
 author: Nicola Iarocci
-layout: post
 date: 2011-10-21
 url: /perche-non-acquistero-la-biografia-ufficiale-di-steve-jobs/
 dsq_thread_id:

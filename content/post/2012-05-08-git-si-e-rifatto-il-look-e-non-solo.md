@@ -1,7 +1,6 @@
 ---
 title: Git si è rifatto il look (e non solo)
 author: Nicola Iarocci
-layout: post
 date: 2012-05-08
 url: /git-si-e-rifatto-il-look-e-non-solo/
 dsq_thread_id:

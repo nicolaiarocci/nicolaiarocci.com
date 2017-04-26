@@ -1,7 +1,6 @@
 ---
 title: Why I Left the .NET Framework
 author: Nicola Iarocci
-layout: post
 date: 2014-02-03
 url: /left-net-framework/
 dsq_thread_id:

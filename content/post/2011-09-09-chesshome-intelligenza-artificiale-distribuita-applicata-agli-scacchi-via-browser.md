@@ -1,7 +1,6 @@
 ---
 title: Chess@home è una Intelligenza Artificiale Distribuita per gli Scacchi
 author: Nicola Iarocci
-layout: post
 date: 2011-09-09
 url: /chesshome-intelligenza-artificiale-distribuita-applicata-agli-scacchi-via-browser/
 dsq_thread_id:

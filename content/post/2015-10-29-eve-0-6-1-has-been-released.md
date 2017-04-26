@@ -1,7 +1,6 @@
 ---
 title: Eve 0.6.1 has been released
 author: Nicola Iarocci
-layout: post
 date: 2015-10-29
 url: /eve-0-6-1-has-been-released/
 categories:

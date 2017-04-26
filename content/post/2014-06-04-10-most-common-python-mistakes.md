@@ -1,7 +1,6 @@
 ---
 title: 10 Most Common Python Mistakes
 author: Nicola Iarocci
-layout: post
 date: 2014-06-04
 url: /10-most-common-python-mistakes/
 dsq_thread_id:

@@ -1,7 +1,6 @@
 ---
 title: Una API ufficiale per Google Page Speed
 author: Nicola Iarocci
-layout: post
 date: 2011-05-12
 url: /una-api-ufficiale-per-google-page-speed/
 dsq_thread_id:

@@ -1,7 +1,6 @@
 ---
 title: Google Web Fonts 2 i font gratuiti e ottimizzati per il Web
 author: Nicola Iarocci
-layout: post
 date: 2011-07-05
 url: /google-web-fonts-v2-i-font-gratuiti-e-ottimizzati-per-il-web/
 dsq_thread_id:

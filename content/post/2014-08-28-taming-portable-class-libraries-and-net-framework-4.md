@@ -1,7 +1,6 @@
 ---
 title: Taming Portable Class Libraries and .NET Framework 4
 author: Nicola Iarocci
-layout: post
 date: 2014-08-28
 url: /taming-portable-class-libraries-and-net-framework-4/
 dsq_thread_id:

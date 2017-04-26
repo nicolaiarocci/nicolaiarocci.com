@@ -1,7 +1,6 @@
 ---
 title: Meet Eve-Swagger the swagger.io extension for your Eve powered REST API
 author: Nicola Iarocci
-layout: post
 date: 2016-06-06
 share: false
 url: /announcing-eve-swagger/

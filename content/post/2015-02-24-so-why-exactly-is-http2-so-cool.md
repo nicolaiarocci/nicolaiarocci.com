@@ -1,7 +1,6 @@
 ---
 title: So Why Exactly Is HTTP/2 So Cool?
 author: Nicola Iarocci
-layout: post
 date: 2015-02-24
 url: /so-why-exactly-is-http2-so-cool/
 sharing_disabled:

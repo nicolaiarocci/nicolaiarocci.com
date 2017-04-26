@@ -1,7 +1,6 @@
 ---
 title: Google Page Speed ora gira anche su Chrome
 author: Nicola Iarocci
-layout: post
 date: 2011-03-23
 url: /google-page-speed-ora-gira-anche-su-chrome/
 dsq_thread_id:

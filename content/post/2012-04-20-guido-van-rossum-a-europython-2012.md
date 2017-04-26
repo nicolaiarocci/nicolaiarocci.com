@@ -1,7 +1,6 @@
 ---
 title: Guido van Rossum a EuroPython 2012
 author: Nicola Iarocci
-layout: post
 date: 2012-04-20
 url: /guido-van-rossum-a-europython-2012/
 dsq_thread_id:

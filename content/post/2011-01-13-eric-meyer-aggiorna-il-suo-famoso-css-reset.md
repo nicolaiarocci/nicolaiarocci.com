@@ -1,7 +1,6 @@
 ---
 title: Eric Meyer aggiorna il suo famoso CSS Reset
 author: Nicola Iarocci
-layout: post
 date: 2011-01-13
 url: /eric-meyer-aggiorna-il-suo-famoso-css-reset/
 dsq_thread_id:

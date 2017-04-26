@@ -1,7 +1,6 @@
 ---
 title: Una mattinata con MongoDB
 author: Nicola Iarocci
-layout: post
 date: 2012-10-10
 url: /una-mattinata-con-mongodb/
 dsq_thread_id:

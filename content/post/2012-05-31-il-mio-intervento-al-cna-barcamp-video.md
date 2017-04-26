@@ -1,7 +1,6 @@
 ---
 title: Il filmato del mio intervento al Ravenna CNA BarCamp
 author: Nicola Iarocci
-layout: post
 date: 2012-05-31
 url: /il-mio-intervento-al-cna-barcamp-video/
 dsq_thread_id:

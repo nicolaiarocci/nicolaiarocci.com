@@ -1,7 +1,6 @@
 ---
 title: On Sustainable Open Source Management
 author: Nicola Iarocci
-layout: post
 date: 2015-02-06
 url: /sustainable-open-source-management/
 dsq_thread_id:

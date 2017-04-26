@@ -1,7 +1,6 @@
 ---
 title: Excuses for Lazy Coders
 author: Nicola Iarocci
-layout: post
 date: 2013-07-30
 url: /excuses-for-lazy-coders/
 dsq_thread_id:

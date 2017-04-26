@@ -1,7 +1,6 @@
 ---
 title: Where the best designers go to find photos and graphics
 author: Nicola Iarocci
-layout: post
 date: 2014-01-12
 url: /where-the-best-designers-go-to-find-photos-and-graphics-blog/
 dsq_thread_id:

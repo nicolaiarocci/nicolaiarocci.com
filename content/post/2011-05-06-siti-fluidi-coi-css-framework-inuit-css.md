@@ -1,7 +1,6 @@
 ---
 title: 'Siti fluidi coi CSS Framework: Inuit.css'
 author: Nicola Iarocci
-layout: post
 date: 2011-05-06
 url: /siti-fluidi-coi-css-framework-inuit-css/
 dsq_thread_id:

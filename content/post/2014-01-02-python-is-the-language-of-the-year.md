@@ -1,7 +1,6 @@
 ---
 title: Python is the Language of the Year
 author: Nicola Iarocci
-layout: post
 date: 2014-01-02
 url: /python-is-the-language-of-the-year/
 dsq_thread_id:

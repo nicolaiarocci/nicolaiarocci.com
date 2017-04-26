@@ -1,7 +1,6 @@
 ---
 title: 'Programmazione, SEO, Startups – Il Meglio della Settimana #1'
 author: Nicola Iarocci
-layout: post
 date: 2011-02-21
 url: /programmazione-seo-startups-il-meglio-della-settimana-1/
 dsq_thread_id:

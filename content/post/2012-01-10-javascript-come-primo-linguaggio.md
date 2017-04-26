@@ -1,7 +1,6 @@
 ---
 title: JavaScript come Primo Linguaggio
 author: Nicola Iarocci
-layout: post
 date: 2012-01-10
 url: /javascript-come-primo-linguaggio/
 dsq_thread_id:

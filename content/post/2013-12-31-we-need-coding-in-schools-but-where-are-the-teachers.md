@@ -1,7 +1,6 @@
 ---
 title: We Need Coding in Schools, but Where are the Teachers?
 author: Nicola Iarocci
-layout: post
 date: 2013-12-31
 url: /we-need-coding-in-schools-but-where-are-the-teachers/
 dsq_thread_id:

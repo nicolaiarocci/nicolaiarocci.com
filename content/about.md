@@ -1,7 +1,6 @@
 ---
 title: About
 author: Nicola Iarocci
-layout: page
 date: 2010-11-22
 share: false
 ---

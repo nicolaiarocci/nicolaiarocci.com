@@ -1,7 +1,6 @@
 ---
 title: 'How to: Add custom JeSuisCharlie header to API responses'
 author: Nicola Iarocci
-layout: post
 date: 2015-01-12
 url: /how-to-add-a-je-suis-charlie-header-to-api-responses/
 categories:

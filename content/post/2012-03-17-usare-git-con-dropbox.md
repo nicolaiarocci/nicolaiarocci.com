@@ -1,7 +1,6 @@
 ---
 title: Usare Git con Dropbox
 author: Nicola Iarocci
-layout: post
 date: 2012-03-17
 url: /usare-git-con-dropbox/
 dsq_thread_id:

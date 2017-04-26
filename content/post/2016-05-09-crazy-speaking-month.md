@@ -1,7 +1,6 @@
 ---
 title: My Crazy Speaking Month
 author: Nicola Iarocci
-layout: post
 date: 2016-05-09
 url: /crazy-speaking-month/
 categories:

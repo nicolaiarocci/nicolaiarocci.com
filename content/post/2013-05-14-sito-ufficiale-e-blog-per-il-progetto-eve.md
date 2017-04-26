@@ -1,7 +1,6 @@
 ---
 title: Sito ufficiale e blog per il progetto Eve
 author: Nicola Iarocci
-layout: post
 date: 2013-05-14
 url: /sito-ufficiale-e-blog-per-il-progetto-eve/
 dsq_thread_id:

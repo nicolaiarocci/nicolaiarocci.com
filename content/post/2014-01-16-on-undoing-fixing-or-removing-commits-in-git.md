@@ -1,7 +1,6 @@
 ---
 title: On undoing, fixing, or removing commits in git
 author: Nicola Iarocci
-layout: post
 date: 2014-01-16
 url: /on-undoing-fixing-or-removing-commits-in-git/
 dsq_thread_id:

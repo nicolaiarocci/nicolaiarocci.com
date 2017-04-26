@@ -1,7 +1,6 @@
 ---
 title: Open Source
 author: Nicola Iarocci
-layout: page
 date: 2013-04-28
 share: false
 ---

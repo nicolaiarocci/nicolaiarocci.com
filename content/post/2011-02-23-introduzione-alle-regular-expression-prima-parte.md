@@ -1,7 +1,6 @@
 ---
 title: Introduzione alle Regular Expression – Prima Parte
 author: Nicola Iarocci
-layout: post
 date: 2011-02-23
 url: /introduzione-alle-regular-expression-prima-parte/
 dsq_thread_id:

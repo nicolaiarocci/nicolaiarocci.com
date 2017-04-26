@@ -1,7 +1,6 @@
 ---
 title: We Are All Remote Workers
 author: Nicola Iarocci
-layout: post
 date: 2013-09-07
 url: /we-are-all-remote-workers/
 dsq_thread_id:

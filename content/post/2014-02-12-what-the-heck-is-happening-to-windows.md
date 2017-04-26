@@ -1,7 +1,6 @@
 ---
 title: What the Heck is Happening to Windows?
 author: Nicola Iarocci
-layout: post
 date: 2014-02-12
 url: /what-the-heck-is-happening-to-windows/
 dsq_thread_id:

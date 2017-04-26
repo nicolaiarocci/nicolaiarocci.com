@@ -1,7 +1,6 @@
 ---
 title: Guida introduttiva agli HTTP Cache Header
 author: Nicola Iarocci
-layout: post
 date: 2013-05-03
 url: /guida-introduttiva-agli-http-cache-header/
 dsq_thread_id:
