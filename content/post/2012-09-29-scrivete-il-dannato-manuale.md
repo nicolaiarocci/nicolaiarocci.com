@@ -1,7 +1,6 @@
 ---
 title: Scrivete il dannato manuale
 author: Nicola Iarocci
-layout: post
 date: 2012-09-29
 url: /scrivete-il-dannato-manuale/
 dsq_thread_id:

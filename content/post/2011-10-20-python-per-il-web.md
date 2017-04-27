@@ -1,7 +1,6 @@
 ---
 title: Python per il Web
 author: Nicola Iarocci
-layout: post
 date: 2011-10-20
 url: /python-per-il-web/
 dsq_thread_id:

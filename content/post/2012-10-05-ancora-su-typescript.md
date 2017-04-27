@@ -1,7 +1,6 @@
 ---
 title: Ancora su TypeScript
 author: Nicola Iarocci
-layout: post
 date: 2012-10-05
 url: /ancora-su-typescript/
 dsq_thread_id:

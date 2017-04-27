@@ -1,7 +1,6 @@
 ---
 title: MongoDB and REST API go for a picnic (video and slides)
 author: Nicola Iarocci
-layout: post
 date: 2013-11-19
 url: /mongodb-rest-api-go-picnic-video-slides/
 categories:

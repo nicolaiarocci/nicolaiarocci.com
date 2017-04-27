@@ -1,7 +1,6 @@
 ---
 title: E’ Python il linguaggio del 2011
 author: Nicola Iarocci
-layout: post
 date: 2011-01-03
 url: /python-e-il-linguaggio-del-2011/
 socialize_text:

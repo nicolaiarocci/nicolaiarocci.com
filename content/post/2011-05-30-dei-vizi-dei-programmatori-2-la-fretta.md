@@ -1,7 +1,6 @@
 ---
 title: 'Dei vizi del programmatore #2: La Fretta'
 author: Nicola Iarocci
-layout: post
 date: 2011-05-30
 url: /dei-vizi-dei-programmatori-2-la-fretta/
 dsq_thread_id:

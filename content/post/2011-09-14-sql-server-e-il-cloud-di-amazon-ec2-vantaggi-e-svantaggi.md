@@ -1,7 +1,6 @@
 ---
 title: 'SQL Server e il Cloud di Amazon EC2: vantaggi e svantaggi'
 author: Nicola Iarocci
-layout: post
 date: 2011-09-14
 url: /sql-server-e-il-cloud-di-amazon-ec2-vantaggi-e-svantaggi/
 dsq_thread_id:

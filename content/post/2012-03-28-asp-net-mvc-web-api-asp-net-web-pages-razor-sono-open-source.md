@@ -1,7 +1,6 @@
 ---
 title: ASP.NET MVC, Web API, ASP.NET Web Pages (Razor) sono Open Source
 author: Nicola Iarocci
-layout: post
 date: 2012-03-28
 url: /asp-net-mvc-web-api-asp-net-web-pages-razor-sono-open-source/
 dsq_thread_id:

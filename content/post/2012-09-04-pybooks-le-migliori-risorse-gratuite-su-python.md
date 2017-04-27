@@ -1,7 +1,6 @@
 ---
 title: Pybooks – Le migliori risorse gratuite su Python
 author: Nicola Iarocci
-layout: post
 date: 2012-09-04
 url: /pybooks-le-migliori-risorse-gratuite-su-python/
 dsq_thread_id:

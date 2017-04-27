@@ -1,7 +1,6 @@
 ---
 title: Ordered Dictionaries with Python 2.4-2.6
 author: Nicola Iarocci
-layout: post
 date: 2014-09-16
 url: /ordered-dictionaries-with-python-2-4-2-6/
 dsq_thread_id:

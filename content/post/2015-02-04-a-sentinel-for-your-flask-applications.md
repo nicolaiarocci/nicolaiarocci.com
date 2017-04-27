@@ -1,7 +1,6 @@
 ---
 title: How about a Sentinel for your Flask Application?
 author: Nicola Iarocci
-layout: post
 date: 2015-02-04
 url: /a-sentinel-for-your-flask-applications/
 categories:

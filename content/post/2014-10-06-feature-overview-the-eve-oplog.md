@@ -1,7 +1,6 @@
 ---
 title: 'Feature Overview: The Eve OpLog'
 author: Nicola Iarocci
-layout: post
 date: 2014-10-06
 url: /feature-overview-the-eve-oplog/
 dsq_thread_id:

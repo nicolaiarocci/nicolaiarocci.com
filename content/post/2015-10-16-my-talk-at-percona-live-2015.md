@@ -1,7 +1,6 @@
 ---
 title: My talk at Percona Live 2015
 author: Nicola Iarocci
-layout: post
 date: 2015-10-16
 url: /my-talk-at-percona-live-2015/
 categories:

@@ -1,7 +1,6 @@
 ---
 title: Flask-MimeRender v0.1.2
 author: Nicola Iarocci
-layout: post
 date: 2012-07-19
 url: /flask-mimerender-v0-1-2/
 gr_overridden:

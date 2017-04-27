@@ -1,7 +1,6 @@
 ---
 title: 'Programmazione Asincrona per C# e VB'
 author: Nicola Iarocci
-layout: post
 date: 2010-10-29
 url: /programmazione-asincrona/
 robotsmeta:

@@ -1,7 +1,6 @@
 ---
 title: How to handle big repositories with git
 author: Nicola Iarocci
-layout: post
 date: 2014-06-11
 url: /how-to-handle-big-repositories-with-git/
 dsq_thread_id:

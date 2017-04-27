@@ -1,7 +1,6 @@
 ---
 title: Google Testa Il Feedback Utente Come Segnale di Ranking
 author: Nicola Iarocci
-layout: post
 date: 2011-02-15
 url: /google-testa-il-feedback-utente-come-segnale-di-ranking/
 dsq_thread_id:

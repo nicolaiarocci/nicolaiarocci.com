@@ -1,7 +1,6 @@
 ---
 title: 'Il mio intervento al KnowCamp 2011: Fuga dalla Comfort Zone'
 author: Nicola Iarocci
-layout: post
 date: 2011-10-25
 url: /il-mio-intervento-al-knowcamp-2011-fuga-dalla-comfort-zone/
 dsq_thread_id:

@@ -1,7 +1,6 @@
 ---
 title: Python and Flask Are Ridiculously Powerful
 author: Nicola Iarocci
-layout: post
 date: 2014-01-22
 url: /python-and-flask-are-ridiculously-powerful/
 dsq_thread_id:

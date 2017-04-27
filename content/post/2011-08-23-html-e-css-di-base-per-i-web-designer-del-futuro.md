@@ -1,7 +1,6 @@
 ---
 title: HTML e CSS di base per i Web Designer del futuro
 author: Nicola Iarocci
-layout: post
 date: 2011-08-23
 url: /html-e-css-di-base-per-i-web-designer-del-futuro/
 dsq_thread_id:

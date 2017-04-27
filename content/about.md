@@ -1,9 +1,9 @@
 ---
 title: About
 author: Nicola Iarocci
-layout: page
 date: 2010-11-22
 share: false
+weight: 10
 ---
 This is the website of Nicola Iarocci. I&#8217;m a coder at heart author of
 several [open source projects][1], a [Microsoft MVP][2], [MongoDB

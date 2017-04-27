@@ -1,7 +1,6 @@
 ---
 title: The Little MongoDB Book 2nd Italian Edition
 author: Nicola Iarocci
-layout: post
 date: 2015-05-04
 url: /the-little-mongodb-book-2nd-italian-edition/
 dsq_thread_id:

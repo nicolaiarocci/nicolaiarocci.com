@@ -1,7 +1,6 @@
 ---
 title: Dennis Ritchie se n’è andato
 author: Nicola Iarocci
-layout: post
 date: 2011-10-13
 url: /dennis-ritchie-se-ne-andato/
 dsq_thread_id:

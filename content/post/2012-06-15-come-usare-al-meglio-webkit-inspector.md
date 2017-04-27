@@ -1,7 +1,6 @@
 ---
 title: Come usare al meglio WebKit Inspector
 author: Nicola Iarocci
-layout: post
 date: 2012-06-15
 url: /come-usare-al-meglio-webkit-inspector/
 dsq_thread_id:

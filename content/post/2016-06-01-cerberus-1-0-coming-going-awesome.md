@@ -1,7 +1,6 @@
 ---
 title: Cerberus 1.0 is coming and it is going to be awesome
 author: Nicola Iarocci
-layout: post
 date: 2016-06-01
 url: /cerberus-1-0-coming-going-awesome/
 categories:

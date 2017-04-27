@@ -1,7 +1,6 @@
 ---
 title: Attention is a Resource
 author: Nicola Iarocci
-layout: post
 date: 2015-03-15
 url: /attention-is-a-resource/
 sharing_disabled:

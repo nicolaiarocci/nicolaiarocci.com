@@ -1,7 +1,6 @@
 ---
 title: The Obligation of The Programmer
 author: Nicola Iarocci
-layout: post
 date: 2014-11-18
 url: /obligation-programmer/
 dsq_thread_id:

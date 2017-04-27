@@ -1,7 +1,6 @@
 ---
 title: Eve 0.3 Released
 author: Nicola Iarocci
-layout: post
 date: 2014-02-14
 url: /eve-0-3-released/
 dsq_thread_id:

@@ -1,7 +1,6 @@
 ---
 title: Alex Gaynor — About Python 3
 author: Nicola Iarocci
-layout: post
 date: 2013-12-30
 url: /alex-gaynor-about-python-3/
 dsq_thread_id:

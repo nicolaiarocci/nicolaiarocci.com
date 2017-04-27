@@ -1,7 +1,6 @@
 ---
 title: Python Tools per Visual Studio ecco la Beta 2
 author: Nicola Iarocci
-layout: post
 date: 2011-05-10
 url: /python-tools-per-visual-studio-ecco-la-beta-2/
 dsq_thread_id:

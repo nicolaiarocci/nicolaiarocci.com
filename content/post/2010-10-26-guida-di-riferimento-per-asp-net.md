@@ -1,7 +1,6 @@
 ---
 title: Una ottima guida di riferimento per lo sviluppatore ASP.NET
 author: Nicola Iarocci
-layout: post
 date: 2010-10-26
 url: /guida-di-riferimento-per-asp-net/
 short-url:

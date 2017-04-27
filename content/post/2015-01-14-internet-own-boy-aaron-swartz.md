@@ -1,7 +1,6 @@
 ---
 title: The Internet’s Own Boy
 author: Nicola Iarocci
-layout: post
 date: 2015-01-14
 url: /internet-own-boy-aaron-swartz/
 sharing_disabled:

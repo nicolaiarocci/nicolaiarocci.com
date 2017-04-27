@@ -1,7 +1,6 @@
 ---
 title: A Farewell to Steve Jobs
 author: Nicola Iarocci
-layout: post
 date: 2011-10-06
 url: /a-farewell-to-steve-jobs/
 dsq_thread_id:

@@ -1,7 +1,6 @@
 ---
 title: MongoDB User Group a Cesena
 author: Nicola Iarocci
-layout: post
 date: 2013-06-03
 url: /mongodb-user-group/
 dsq_thread_id:

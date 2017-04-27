@@ -1,7 +1,6 @@
 ---
 title: On Reusable Software
 author: Nicola Iarocci
-layout: post
 date: 2015-01-08
 url: /on-reusable-software/
 sharing_disabled:

@@ -1,7 +1,6 @@
 ---
 title: Sublime Text 2 un anno dopo
 author: Nicola Iarocci
-layout: post
 date: 2012-03-10
 url: /sublime-text-2-un-anno-dopo/
 dsq_thread_id:

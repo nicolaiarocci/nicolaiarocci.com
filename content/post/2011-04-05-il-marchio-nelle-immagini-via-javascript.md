@@ -1,7 +1,6 @@
 ---
 title: Inserire un marchio nelle immagini via JavaScript
 author: Nicola Iarocci
-layout: post
 date: 2011-04-05
 url: /il-marchio-nelle-immagini-via-javascript/
 dsq_thread_id:

@@ -1,7 +1,6 @@
 ---
 title: Why doesn’t GitHub talk about their product roadmap?
 author: Nicola Iarocci
-layout: post
 date: 2014-05-26
 url: /doesnt-github-talk-product-roadmap
 dsq_thread_id:

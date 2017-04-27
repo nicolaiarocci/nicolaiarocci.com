@@ -1,7 +1,6 @@
 ---
 title: SublimeText 2 – Un sofisticato text editor per codice, HTML e prosa
 author: Nicola Iarocci
-layout: post
 date: 2011-03-19
 url: /sublimetext-2-un-sofisticato-text-editor-per-codice-html-e-prosa/
 dsq_thread_id:

@@ -1,7 +1,6 @@
 ---
 title: Eve REST API Framework v0.6.4 now available
 author: Nicola Iarocci
-layout: post
 date: 2016-06-08
 url: /eve-0-6-4-just-released/
 categories:

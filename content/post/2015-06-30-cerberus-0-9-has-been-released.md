@@ -1,7 +1,6 @@
 ---
 title: Cerberus 0.9 has been released
 author: Nicola Iarocci
-layout: post
 date: 2015-06-30
 url: /cerberus-0-9-has-been-released/
 categories:

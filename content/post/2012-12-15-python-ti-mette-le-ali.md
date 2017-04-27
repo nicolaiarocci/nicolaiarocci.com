@@ -1,7 +1,6 @@
 ---
 title: Python ti mette le ali
 author: Nicola Iarocci
-layout: post
 date: 2012-12-15
 url: /python-ti-mette-le-ali/
 dsq_thread_id:

@@ -1,7 +1,6 @@
 ---
 title: Web Standards Killed the HTML Star
 author: Nicola Iarocci
-layout: post
 date: 2014-01-04
 url: /web-standards-killed-the-html-star/
 dsq_thread_id:

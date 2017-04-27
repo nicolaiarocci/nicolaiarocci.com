@@ -1,7 +1,6 @@
 ---
 title: Python Tools per Visual Studio 1.0
 author: Nicola Iarocci
-layout: post
 date: 2011-08-30
 url: /python-tools-per-visual-studio-1-0/
 dsq_thread_id:

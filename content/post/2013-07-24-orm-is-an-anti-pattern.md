@@ -1,7 +1,6 @@
 ---
 title: ORM is an anti-pattern
 author: Nicola Iarocci
-layout: post
 date: 2013-07-24
 url: /orm-is-an-anti-pattern/
 dsq_thread_id:

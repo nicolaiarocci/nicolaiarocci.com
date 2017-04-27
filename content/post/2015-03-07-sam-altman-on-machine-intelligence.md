@@ -1,7 +1,6 @@
 ---
 title: Sam Altman on Machine Intelligence
 author: Nicola Iarocci
-layout: post
 date: 2015-03-07
 url: /sam-altman-on-machine-intelligence/
 sharing_disabled:

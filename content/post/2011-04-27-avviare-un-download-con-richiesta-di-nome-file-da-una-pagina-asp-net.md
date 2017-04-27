@@ -1,7 +1,6 @@
 ---
 title: Avviare un Download con richiesta di nome file da una pagina ASP.NET
 author: Nicola Iarocci
-layout: post
 date: 2011-04-27
 url: /avviare-un-download-con-richiesta-di-nome-file-da-una-pagina-asp-net/
 dsq_thread_id:

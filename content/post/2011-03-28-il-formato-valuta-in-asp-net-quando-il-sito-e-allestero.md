@@ -1,7 +1,6 @@
 ---
 title: Il Formato Valuta in ASP.NET quando il sito è all’estero
 author: Nicola Iarocci
-layout: post
 date: 2011-03-28
 url: /il-formato-valuta-in-asp-net-quando-il-sito-e-allestero/
 dsq_thread_id:

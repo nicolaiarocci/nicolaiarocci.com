@@ -1,7 +1,6 @@
 ---
 title: Mono 2.10.3 gira su OS X Lion (ed è vivo e vegeto)
 author: Nicola Iarocci
-layout: post
 date: 2011-08-05
 url: /mono-2-10-3-gira-su-os-x-lion-ed-e-vivo-e-vegeto/
 dsq_thread_id:

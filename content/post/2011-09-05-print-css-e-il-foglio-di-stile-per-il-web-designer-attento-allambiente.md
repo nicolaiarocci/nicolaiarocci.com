@@ -1,7 +1,6 @@
 ---
 title: Print.css è il foglio di stile per il web designer attento all’ambiente
 author: Nicola Iarocci
-layout: post
 date: 2011-09-05
 url: /print-css-e-il-foglio-di-stile-per-il-web-designer-attento-allambiente/
 dsq_thread_id:

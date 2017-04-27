@@ -1,7 +1,6 @@
 ---
 title: Quali sono i font migliori per scrivere codice?
 author: Nicola Iarocci
-layout: post
 date: 2013-04-30
 url: /quali-sono-i-font-migliori-per-scrivere-codice/
 dsq_thread_id:

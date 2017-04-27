@@ -1,7 +1,6 @@
 ---
 title: Why AngularJS Will Be Huge
 author: Nicola Iarocci
-layout: post
 date: 2014-02-07
 url: /why-angularjs-will-be-huge/
 dsq_thread_id:

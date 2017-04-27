@@ -1,7 +1,6 @@
 ---
 title: JavaScript trucchi e suggerimenti avanzati
 author: Nicola Iarocci
-layout: post
 date: 2011-07-18
 url: /javascript-trucchi-e-suggerimenti-avanzati/
 dsq_thread_id:

@@ -1,7 +1,6 @@
 ---
 title: Why Don’t More People Work As Programmers?
 author: Nicola Iarocci
-layout: post
 date: 2014-11-06
 url: /dont-people-work-programmers/
 dsq_thread_id:

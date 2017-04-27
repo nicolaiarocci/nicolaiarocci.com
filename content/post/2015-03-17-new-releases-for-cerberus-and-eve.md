@@ -1,7 +1,6 @@
 ---
 title: New Releases for Cerberus and Eve
 author: Nicola Iarocci
-layout: post
 date: 2015-03-17
 url: /new-releases-for-cerberus-and-eve/
 categories:

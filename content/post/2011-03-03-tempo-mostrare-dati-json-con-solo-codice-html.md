@@ -1,7 +1,6 @@
 ---
 title: 'TEMPO: mostrare dati JSON con solo codice HTML'
 author: Nicola Iarocci
-layout: post
 date: 2011-03-03
 url: /tempo-mostrare-dati-json-con-solo-codice-html/
 dsq_thread_id:

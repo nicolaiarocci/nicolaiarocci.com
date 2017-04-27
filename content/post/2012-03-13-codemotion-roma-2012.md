@@ -1,7 +1,6 @@
 ---
 title: Codemotion Roma 2012
 author: Nicola Iarocci
-layout: post
 date: 2012-03-13
 url: /codemotion-roma-2012/
 dsq_thread_id:

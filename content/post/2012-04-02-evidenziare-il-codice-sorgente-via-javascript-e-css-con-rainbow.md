@@ -1,7 +1,6 @@
 ---
 title: Evidenziare il codice sorgente via JavaScript e CSS con Rainbow
 author: Nicola Iarocci
-layout: post
 date: 2012-04-02
 url: /evidenziare-il-codice-sorgente-via-javascript-e-css-con-rainbow/
 dsq_thread_id:

@@ -1,7 +1,6 @@
 ---
 title: Look mum, I’m a MVP
 author: Nicola Iarocci
-layout: post
 date: 2016-01-02
 url: /look-mum-im-an-mvp/
 categories:

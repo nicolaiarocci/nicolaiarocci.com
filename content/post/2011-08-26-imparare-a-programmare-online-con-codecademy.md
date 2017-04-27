@@ -1,7 +1,6 @@
 ---
 title: Imparare a programmare online con Codecademy
 author: Nicola Iarocci
-layout: post
 date: 2011-08-26
 url: /imparare-a-programmare-online-con-codecademy/
 dsq_thread_id:

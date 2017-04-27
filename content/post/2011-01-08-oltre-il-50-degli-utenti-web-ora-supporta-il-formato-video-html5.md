@@ -1,7 +1,6 @@
 ---
 title: Oltre il 50% degli utenti web ora supporta il formato video HTML5
 author: Nicola Iarocci
-layout: post
 date: 2011-01-08
 url: /oltre-il-50-degli-utenti-web-ora-supporta-il-formato-video-html5/
 dsq_thread_id:

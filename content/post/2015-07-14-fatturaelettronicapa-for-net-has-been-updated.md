@@ -1,7 +1,6 @@
 ---
 title: FatturaElettronicaPA for .NET has been updated
 author: Nicola Iarocci
-layout: post
 date: 2015-07-14
 url: /fatturaelettronicapa-for-net-has-been-updated/
 categories:

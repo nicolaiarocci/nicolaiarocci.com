@@ -1,7 +1,6 @@
 ---
 title: 'TypeScript: prime impressioni'
 author: Nicola Iarocci
-layout: post
 date: 2012-10-02
 url: /typescript-prime-impressioni/
 dsq_thread_id:

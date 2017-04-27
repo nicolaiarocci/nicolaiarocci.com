@@ -1,7 +1,6 @@
 ---
 title: Cancellare tutte le Tabelle da un Database SQL Server
 author: Nicola Iarocci
-layout: post
 date: 2011-03-09
 url: /cancellare-tutte-le-tabelle-da-un-database-sql-server/
 dsq_thread_id:

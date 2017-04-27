@@ -1,7 +1,6 @@
 ---
 title: Xamarin abbandona il progetto Silverlight per Linux
 author: Nicola Iarocci
-layout: post
 date: 2012-05-30
 url: /xamarin-abbandona-il-progetto-silverlight-per-linux/
 dsq_thread_id:

@@ -1,7 +1,6 @@
 ---
 title: Gestione degli Eventi in Python
 author: Nicola Iarocci
-layout: post
 date: 2013-03-14
 url: /gestione-degli-eventi-in-python/
 gr_overridden:

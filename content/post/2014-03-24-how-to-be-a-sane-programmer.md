@@ -1,7 +1,6 @@
 ---
 title: How to be a sane programmer
 author: Nicola Iarocci
-layout: post
 date: 2014-03-24
 url: /how-to-be-a-sane-programmer/
 dsq_thread_id:

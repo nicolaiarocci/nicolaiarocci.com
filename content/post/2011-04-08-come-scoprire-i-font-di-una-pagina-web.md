@@ -1,7 +1,6 @@
 ---
 title: Come scoprire i font di una pagina web?
 author: Nicola Iarocci
-layout: post
 date: 2011-04-08
 url: /come-scoprire-i-font-di-una-pagina-web/
 dsq_thread_id:

@@ -1,7 +1,6 @@
 ---
 title: Noi programmatori miglioriamo con l’età (forse)
 author: Nicola Iarocci
-layout: post
 date: 2011-06-14
 url: /noi-programmatori-miglioriamo-con-leta-forse/
 dsq_thread_id:

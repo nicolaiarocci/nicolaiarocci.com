@@ -1,7 +1,6 @@
 ---
 title: Learn C, Then Learn Computer Science
 author: Nicola Iarocci
-layout: post
 date: 2014-02-12
 url: /learn-c-then-learn-computer-science/
 dsq_thread_id:

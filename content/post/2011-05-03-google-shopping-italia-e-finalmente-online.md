@@ -1,7 +1,6 @@
 ---
 title: Google Shopping Italia è finalmente online
 author: Nicola Iarocci
-layout: post
 date: 2011-05-03
 url: /google-shopping-italia-e-finalmente-online/
 dsq_thread_id:

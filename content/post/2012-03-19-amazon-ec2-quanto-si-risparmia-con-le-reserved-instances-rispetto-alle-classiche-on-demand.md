@@ -1,7 +1,6 @@
 ---
 title: 'Amazon EC2: Quanto si risparmia con le Reserved Instances rispetto alle classiche On-Demand?'
 author: Nicola Iarocci
-layout: post
 date: 2012-03-19
 url: /amazon-ec2-quanto-si-risparmia-con-le-reserved-instances-rispetto-alle-classiche-on-demand/
 dsq_thread_id:

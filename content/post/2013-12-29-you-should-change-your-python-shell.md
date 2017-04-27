@@ -1,7 +1,6 @@
 ---
 title: You Should Change Your Python Shell
 author: Nicola Iarocci
-layout: post
 date: 2013-12-29
 url: /you-should-change-your-python-shell/
 dsq_thread_id:

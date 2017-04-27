@@ -1,7 +1,6 @@
 ---
 title: Il meglio di Stack Overflow in una collana di eBook gratuiti
 author: Nicola Iarocci
-layout: post
 date: 2011-02-02
 url: /il-meglio-di-stack-overflow-una-collana-di-ebook-gratuiti/
 dsq_thread_id:

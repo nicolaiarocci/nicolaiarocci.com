@@ -1,7 +1,6 @@
 ---
 title: Comprendere il MVVM – Guida per Sviluppatori JavaScript
 author: Nicola Iarocci
-layout: post
 date: 2012-04-11
 url: /comprendere-il-mvvm-guida-per-sviluppatori-javascript/
 dsq_thread_id:

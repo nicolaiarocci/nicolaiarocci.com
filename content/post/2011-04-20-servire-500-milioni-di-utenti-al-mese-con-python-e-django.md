@@ -1,7 +1,6 @@
 ---
 title: Servire 500 milioni di utenti con Python e Django
 author: Nicola Iarocci
-layout: post
 date: 2011-04-20
 url: /servire-500-milioni-di-utenti-al-mese-con-python-e-django/
 dsq_thread_id:

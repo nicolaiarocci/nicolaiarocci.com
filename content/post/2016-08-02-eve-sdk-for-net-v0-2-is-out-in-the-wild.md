@@ -1,7 +1,6 @@
 ---
 title: Eve SDK for .NET v0.2 is out in the wild
 author: Nicola Iarocci
-layout: post
 date: 2016-08-02
 url: /eve-sdk-for-net-v0-2-is-out-in-the-wild/
 categories:

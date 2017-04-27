@@ -1,7 +1,6 @@
 ---
 title: Real Life .NET Cross Platform
 author: Nicola Iarocci
-layout: post
 date: 2016-03-11
 url: /real-life-net-cross-platform/
 categories:

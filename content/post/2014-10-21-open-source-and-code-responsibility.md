@@ -1,7 +1,6 @@
 ---
 title: Open Source and Code Responsibility
 author: Nicola Iarocci
-layout: post
 date: 2014-10-21
 url: /open-source-and-code-responsibility/
 dsq_thread_id:

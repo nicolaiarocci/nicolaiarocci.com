@@ -1,7 +1,6 @@
 ---
 title: Web Designer e Programmatori Front End si incontrano a From The Front 2011
 author: Nicola Iarocci
-layout: post
 date: 2011-09-23
 url: /web-designer-e-programmatori-front-end-si-incontrano-a-from-the-front-2011/
 dsq_thread_id:

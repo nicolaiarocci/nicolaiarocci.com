@@ -1,7 +1,6 @@
 ---
 title: Ottimizzare le prestazioni di MongoDB
 author: Nicola Iarocci
-layout: post
 date: 2012-09-27
 url: /ottimizzare-le-prestazioni-di-mongodb/
 dsq_thread_id:

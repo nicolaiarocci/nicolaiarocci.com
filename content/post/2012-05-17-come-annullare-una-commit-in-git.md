@@ -1,7 +1,6 @@
 ---
 title: Come annullare una Commit in Git
 author: Nicola Iarocci
-layout: post
 date: 2012-05-17
 url: /come-annullare-una-commit-in-git/
 dsq_thread_id:

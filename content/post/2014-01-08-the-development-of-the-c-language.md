@@ -1,7 +1,6 @@
 ---
 title: The Development of the C Language
 author: Nicola Iarocci
-layout: post
 date: 2014-01-08
 url: /the-development-of-the-c-language/
 dsq_thread_id:

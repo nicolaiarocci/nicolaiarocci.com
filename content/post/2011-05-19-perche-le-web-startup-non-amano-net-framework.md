@@ -1,7 +1,6 @@
 ---
 title: Perché le Web Startup non amano .NET Framework?
 author: Nicola Iarocci
-layout: post
 date: 2011-05-19
 url: /perche-le-web-startup-non-amano-net-framework/
 dsq_thread_id:

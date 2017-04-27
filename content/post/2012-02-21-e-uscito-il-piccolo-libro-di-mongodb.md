@@ -1,7 +1,6 @@
 ---
 title: E’ uscito il Piccolo Libro di MongoDB
 author: Nicola Iarocci
-layout: post
 date: 2012-02-21
 url: /e-uscito-il-piccolo-libro-di-mongodb/
 dsq_thread_id:

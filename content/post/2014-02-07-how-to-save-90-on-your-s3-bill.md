@@ -1,7 +1,6 @@
 ---
 title: How to Save 90% on Your S3 Bill
 author: Nicola Iarocci
-layout: post
 date: 2014-02-07
 url: /how-to-save-90-on-your-s3-bill/
 dsq_thread_id:

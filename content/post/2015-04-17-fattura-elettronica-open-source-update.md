@@ -1,7 +1,6 @@
 ---
 title: Fattura Elettronica Open Source Update
 author: Nicola Iarocci
-layout: post
 date: 2015-04-17
 url: /fattura-elettronica-open-source-update/
 categories:

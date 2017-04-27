@@ -1,7 +1,6 @@
 ---
 title: Today my startup failed
 author: Nicola Iarocci
-layout: post
 date: 2014-01-22
 url: /today-my-startup-failed/
 dsq_thread_id:

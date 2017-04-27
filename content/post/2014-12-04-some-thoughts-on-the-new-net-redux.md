@@ -1,7 +1,6 @@
 ---
 title: Some Thoughts on the new .NET (Redux)
 author: Nicola Iarocci
-layout: post
 date: 2014-12-04
 url: /some-thoughts-on-the-new-net-redux/
 dsq_thread_id:

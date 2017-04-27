@@ -1,7 +1,6 @@
 ---
 title: A basic guide to when and how to deploy HTTPS
 author: Nicola Iarocci
-layout: post
 date: 2013-12-29
 url: /a-basic-guide-to-when-and-how-to-deploy-https/
 dsq_thread_id:

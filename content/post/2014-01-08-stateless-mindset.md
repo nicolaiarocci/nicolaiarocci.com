@@ -1,7 +1,6 @@
 ---
 title: Stateless Mindset
 author: Nicola Iarocci
-layout: post
 date: 2014-01-08
 url: /stateless-mindset/
 dsq_thread_id:

@@ -1,7 +1,6 @@
 ---
 title: La banda larga simmetrica porterà Internet fuori dal medioevo
 author: Nicola Iarocci
-layout: post
 date: 2011-01-26
 url: /la-banda-larga-simmetrica-portera-internet-fuori-dal-medioevo/
 dsq_thread_id:

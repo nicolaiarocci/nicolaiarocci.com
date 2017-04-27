@@ -1,7 +1,6 @@
 ---
 title: 'JavaScript: The Right Way'
 author: Nicola Iarocci
-layout: post
 date: 2014-01-22
 url: /javascript-the-right-way/
 dsq_thread_id:

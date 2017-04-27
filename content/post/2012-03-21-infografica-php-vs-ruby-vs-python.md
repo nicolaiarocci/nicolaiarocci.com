@@ -1,7 +1,6 @@
 ---
 title: 'Infografica: PHP vs Ruby vs Python'
 author: Nicola Iarocci
-layout: post
 date: 2012-03-21
 url: /infografica-php-vs-ruby-vs-python/
 dsq_thread_id:

@@ -1,7 +1,6 @@
 ---
 title: A programmer’s legacy
 author: Nicola Iarocci
-layout: post
 date: 2014-01-27
 url: /a-programmers-legacy/
 dsq_thread_id:

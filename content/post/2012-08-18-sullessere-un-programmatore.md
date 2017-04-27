@@ -1,7 +1,6 @@
 ---
 title: Sull’essere un Programmatore
 author: Nicola Iarocci
-layout: post
 date: 2012-08-18
 url: /sullessere-un-programmatore/
 dsq_thread_id:

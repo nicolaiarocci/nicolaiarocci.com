@@ -1,7 +1,6 @@
 ---
 title: Fattura Elettronica Open Source
 author: Nicola Iarocci
-layout: post
 date: 2015-02-10
 url: /fattura-elettronica-open-source/
 dsq_thread_id:

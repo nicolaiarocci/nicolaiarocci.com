@@ -1,7 +1,6 @@
 ---
 title: Introducing Eve.NET the HTTP/REST Client for Humans™
 author: Nicola Iarocci
-layout: post
 date: 2014-11-27
 url: /introducing-eve-net-httprest-client-humans/
 gr_overridden:

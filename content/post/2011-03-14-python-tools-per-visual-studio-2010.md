@@ -1,7 +1,6 @@
 ---
 title: Programmare in Python con Visual Studio 2010
 author: Nicola Iarocci
-layout: post
 date: 2011-03-14
 url: /python-tools-per-visual-studio-2010/
 dsq_thread_id:

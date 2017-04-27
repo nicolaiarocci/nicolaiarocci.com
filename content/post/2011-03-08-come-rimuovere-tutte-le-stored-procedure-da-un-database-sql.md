@@ -1,7 +1,6 @@
 ---
 title: Come rimuovere tutte le Stored Procedure da un database SQL Server?
 author: Nicola Iarocci
-layout: post
 date: 2011-03-08
 url: /come-rimuovere-tutte-le-stored-procedure-da-un-database-sql/
 dsq_thread_id:

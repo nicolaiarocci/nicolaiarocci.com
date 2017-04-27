@@ -1,9 +1,9 @@
 ---
 title: Open Source
 author: Nicola Iarocci
-layout: page
 date: 2013-04-28
 share: false
+weight: 9
 ---
 Here is a list of my open source projects. You can see check the source code for all of them on [GitHub][1].
 

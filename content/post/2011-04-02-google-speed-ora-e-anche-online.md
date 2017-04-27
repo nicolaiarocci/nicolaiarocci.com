@@ -1,7 +1,6 @@
 ---
 title: Google Speed ora è anche Online
 author: Nicola Iarocci
-layout: post
 date: 2011-04-02
 url: /google-speed-ora-e-anche-online/
 dsq_thread_id:

@@ -1,7 +1,6 @@
 ---
 title: 'Flux: il monitor diventa crepuscolare'
 author: Nicola Iarocci
-layout: post
 date: 2011-03-31
 url: /flux-il-monitor-diventa-crepuscolare/
 dsq_thread_id:

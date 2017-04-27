@@ -1,7 +1,6 @@
 ---
 title: 'Cerberus 0.0.2: tipi di dato personalizzati'
 author: Nicola Iarocci
-layout: post
 date: 2012-11-22
 url: /cerberus-0-0-2-tipi-di-dato-personalizzati/
 dsq_thread_id:

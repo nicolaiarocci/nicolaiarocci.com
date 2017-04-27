@@ -1,7 +1,6 @@
 ---
 title: 'Dei vizi del programmatore #3: Orgoglio'
 author: Nicola Iarocci
-layout: post
 date: 2011-06-29
 url: /dei-vizi-del-programmatore-3-lorgoglio/
 dsq_thread_id:

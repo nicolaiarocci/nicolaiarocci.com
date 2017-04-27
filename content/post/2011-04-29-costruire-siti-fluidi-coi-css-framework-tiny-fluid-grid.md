@@ -1,7 +1,6 @@
 ---
 title: 'Costruire siti fluidi coi CSS Framework: Tiny Fluid Grid'
 author: Nicola Iarocci
-layout: post
 date: 2011-04-29
 url: /costruire-siti-fluidi-coi-css-framework-tiny-fluid-grid/
 dsq_thread_id:

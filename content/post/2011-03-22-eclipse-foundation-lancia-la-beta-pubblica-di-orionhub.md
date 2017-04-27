@@ -1,7 +1,6 @@
 ---
 title: Eclipse Foundation lancia la beta pubblica di OrionHub
 author: Nicola Iarocci
-layout: post
 date: 2011-03-22
 url: /eclipse-foundation-lancia-la-beta-pubblica-di-orionhub/
 dsq_thread_id:

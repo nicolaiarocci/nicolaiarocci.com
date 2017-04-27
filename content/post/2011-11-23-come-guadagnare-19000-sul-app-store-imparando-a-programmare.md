@@ -1,7 +1,6 @@
 ---
 title: Come guadagnare $19.000 sul App Store imparando a programmare
 author: Nicola Iarocci
-layout: post
 date: 2011-11-23
 url: /come-guadagnare-19000-sul-app-store-imparando-a-programmare/
 dsq_thread_id:

@@ -1,7 +1,6 @@
 ---
 title: WhyMCA Mobile Developer Conference 2012
 author: Nicola Iarocci
-layout: post
 date: 2012-05-09
 url: /whymca-mobile-developer-conference-2012/
 dsq_thread_id:

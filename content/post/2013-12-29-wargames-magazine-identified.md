@@ -1,7 +1,6 @@
 ---
 title: WarGames Magazine Identified
 author: Nicola Iarocci
-layout: post
 date: 2013-12-29
 url: /wargames-magazine-identified/
 dsq_thread_id:

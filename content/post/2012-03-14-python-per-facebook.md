@@ -1,7 +1,6 @@
 ---
 title: Python per Facebook
 author: Nicola Iarocci
-layout: post
 date: 2012-03-14
 url: /python-per-facebook/
 dsq_thread_id:

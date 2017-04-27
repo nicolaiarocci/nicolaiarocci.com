@@ -1,7 +1,6 @@
 ---
 title: Python Tools per Visual Studio 2010 arriva la RC1
 author: Nicola Iarocci
-layout: post
 date: 2011-07-12
 url: /python-tools-per-visual-studio-2010-arriva-la-rc1/
 dsq_thread_id:

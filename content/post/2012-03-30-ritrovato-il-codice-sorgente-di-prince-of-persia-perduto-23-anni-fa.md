@@ -1,7 +1,6 @@
 ---
 title: Ritrovato il codice sorgente di Prince of Persia perduto 23 anni fa
 author: Nicola Iarocci
-layout: post
 date: 2012-03-30
 url: /ritrovato-il-codice-sorgente-di-prince-of-persia-perduto-23-anni-fa/
 dsq_thread_id:

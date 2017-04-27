@@ -1,7 +1,6 @@
 ---
 title: Python Tools per Visual Studio per accedere a Kinect SDK ed Excel via Python
 author: Nicola Iarocci
-layout: post
 date: 2011-11-04
 url: /python-tools-per-visual-studio-per-accedere-a-kinect-sdk-ed-excel-via-python/
 dsq_thread_id:

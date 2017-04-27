@@ -1,7 +1,6 @@
 ---
 title: Google Shopping, è imminente il lancio italiano
 author: Nicola Iarocci
-layout: post
 date: 2011-02-07
 url: /google-shopping-e-imminente-il-lancio-italiano/
 dsq_thread_id:

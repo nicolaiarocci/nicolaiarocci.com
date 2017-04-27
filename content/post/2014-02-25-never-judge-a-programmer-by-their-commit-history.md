@@ -1,7 +1,6 @@
 ---
 title: Never judge a programmer by their commit history
 author: Nicola Iarocci
-layout: post
 date: 2014-02-25
 url: /never-judge-a-programmer-by-their-commit-history/
 dsq_thread_id:

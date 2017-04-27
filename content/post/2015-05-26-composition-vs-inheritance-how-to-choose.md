@@ -1,7 +1,6 @@
 ---
 title: 'Composition vs. Inheritance: How to Choose?'
 author: Nicola Iarocci
-layout: post
 date: 2015-05-26
 url: /composition-vs-inheritance-how-to-choose/
 categories:

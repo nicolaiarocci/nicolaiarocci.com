@@ -1,7 +1,6 @@
 ---
 title: Frammenti di Cloud Computing al Romagna Camp 2011
 author: Nicola Iarocci
-layout: post
 date: 2011-09-12
 url: /frammenti-di-cloud-computing-al-romagna-camp-2011/
 dsq_thread_id:

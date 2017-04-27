@@ -1,7 +1,6 @@
 ---
 title: Vi presento Eve il framework per le REST API Web
 author: Nicola Iarocci
-layout: post
 date: 2013-01-08
 url: /vi-presento-eve-il-framework-per-lanciare-la-vostra-rest-api-web/
 gr_overridden:

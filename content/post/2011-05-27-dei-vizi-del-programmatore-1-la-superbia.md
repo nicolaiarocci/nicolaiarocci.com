@@ -1,7 +1,6 @@
 ---
 title: 'Dei vizi del programmatore #1: La Superbia'
 author: Nicola Iarocci
-layout: post
 date: 2011-05-27
 url: /dei-vizi-del-programmatore-1-la-superbia/
 dsq_thread_id:

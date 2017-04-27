@@ -1,7 +1,6 @@
 ---
 title: Giving back to my community
 author: Nicola Iarocci
-layout: post
 date: 2014-01-11
 url: /giving-back-to-my-community-with-coderdojo-ravenna/
 dsq_thread_id:

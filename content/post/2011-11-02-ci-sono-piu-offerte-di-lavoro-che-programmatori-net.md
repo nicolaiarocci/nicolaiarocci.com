@@ -1,7 +1,6 @@
 ---
 title: Ci sono più offerte di lavoro che Programmatori .NET
 author: Nicola Iarocci
-layout: post
 date: 2011-11-02
 url: /ci-sono-piu-offerte-di-lavoro-che-programmatori-net/
 dsq_thread_id:

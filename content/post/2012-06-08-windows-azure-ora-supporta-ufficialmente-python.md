@@ -1,7 +1,6 @@
 ---
 title: Windows Azure ora supporta ufficialmente Python
 author: Nicola Iarocci
-layout: post
 date: 2012-06-08
 url: /windows-azure-ora-supporta-ufficialmente-python/
 dsq_thread_id:

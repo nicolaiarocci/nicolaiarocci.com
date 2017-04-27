@@ -1,7 +1,6 @@
 ---
 title: The Descent to C
 author: Nicola Iarocci
-layout: post
 date: 2014-02-01
 url: /the-descent-to-c/
 dsq_thread_id:

@@ -1,7 +1,6 @@
 ---
 title: 7 Risorse Per Sviluppatori JavaScript
 author: Nicola Iarocci
-layout: post
 date: 2012-03-15
 url: /7-risorse-per-sviluppatori-javascript/
 dsq_thread_id:

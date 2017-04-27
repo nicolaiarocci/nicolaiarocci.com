@@ -1,7 +1,6 @@
 ---
 title: Come evitare i trabocchetti di MongoDB
 author: Nicola Iarocci
-layout: post
 date: 2012-11-17
 url: /come-evitare-i-trabocchetti-di-mongodb/
 dsq_thread_id:

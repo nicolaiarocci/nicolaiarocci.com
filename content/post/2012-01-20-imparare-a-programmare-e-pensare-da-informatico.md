@@ -1,7 +1,6 @@
 ---
 title: Imparare a Programmare… Pensando da Informatico
 author: Nicola Iarocci
-layout: post
 date: 2012-01-20
 url: /imparare-a-programmare-e-pensare-da-informatico/
 dsq_thread_id:

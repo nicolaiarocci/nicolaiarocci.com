@@ -1,9 +1,9 @@
 ---
 title: Piccolo Libro di MongoDB
 author: Nicola Iarocci
-layout: page
 date: 2012-02-21
 share: false
+weight: 6
 image: images/mongodb.png
 slug: il-piccolo-libro-di-mongodb-edizione-italiana
 ---

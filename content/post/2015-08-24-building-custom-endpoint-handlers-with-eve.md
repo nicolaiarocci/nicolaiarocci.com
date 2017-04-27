@@ -1,7 +1,6 @@
 ---
 title: Custom endpoint handlers with Eve
 author: Nicola Iarocci
-layout: post
 date: 2015-08-24
 url: /building-custom-endpoint-handlers-with-eve/
 dsq_thread_id:

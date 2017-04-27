@@ -1,7 +1,6 @@
 ---
 title: Microsoft’s New Running Shoes
 author: Nicola Iarocci
-layout: post
 date: 2014-06-17
 url: /microsofts-new-running-shoes/
 dsq_thread_id:

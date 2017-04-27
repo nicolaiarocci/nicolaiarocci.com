@@ -1,7 +1,6 @@
 ---
 title: Imparare HTML e CSS Online con Codecademy
 author: Nicola Iarocci
-layout: post
 date: 2012-04-03
 url: /imparare-html-e-css-online-con-codecademy/
 dsq_thread_id:

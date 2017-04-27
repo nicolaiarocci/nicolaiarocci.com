@@ -1,7 +1,6 @@
 ---
 title: Il Processo Creativo nell’Era Moderna
 author: Nicola Iarocci
-layout: post
 date: 2011-02-19
 url: /il-processo-creativo-nellera-moderna/
 dsq_thread_id:

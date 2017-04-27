@@ -1,7 +1,6 @@
 ---
 title: Identità Digitale e Personal Branding per studenti del liceo
 author: Nicola Iarocci
-layout: post
 date: 2011-12-27
 url: /internet-non-solo-per-gioco/
 dsq_thread_id:

@@ -1,7 +1,6 @@
 ---
 title: Analisi delle performance in Python
 author: Nicola Iarocci
-layout: post
 date: 2012-07-25
 url: /analisi-delle-performance-python/
 dsq_thread_id:

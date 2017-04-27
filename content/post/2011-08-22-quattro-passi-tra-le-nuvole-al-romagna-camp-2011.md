@@ -1,7 +1,6 @@
 ---
 title: Quattro passi tra le nuvole al Romagna Camp 2011
 author: Nicola Iarocci
-layout: post
 date: 2011-08-22
 url: /quattro-passi-tra-le-nuvole-al-romagna-camp-2011/
 dsq_thread_id:

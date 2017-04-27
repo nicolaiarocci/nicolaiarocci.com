@@ -1,7 +1,6 @@
 ---
 title: CoderDojo interview at Channel 9
 author: Nicola Iarocci
-layout: post
 date: 2016-03-04
 url: /my-coderdojo-interview-at-chennel-9-techeroes/
 categories:
