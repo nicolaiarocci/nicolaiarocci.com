@@ -10,6 +10,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2017
 
+* [La ricetta del dottor
+    Wasser](https://www.goodreads.com/review/show/1996996202), Lars Gustafsson
 * [La conquista del
     Paradiso](https://www.goodreads.com/review/show/1978683005), Paul M. Cobb
 * [Il pastore d'Islanda](https://www.goodreads.com/review/show/1952222017),
