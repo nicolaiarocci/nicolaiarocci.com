@@ -10,6 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2017
 
+* [Follia](https://www.goodreads.com/review/show/2003380785), Patrick McGrath
 * [La ricetta del dottor
     Wasser](https://www.goodreads.com/review/show/1996996202), Lars Gustafsson
 * [La conquista del
