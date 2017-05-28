@@ -38,7 +38,7 @@ C&#8217;è voluto un bel po&#8217; di lavoro, ma sono contento di averlo portato
  [3]: http://en.wikipedia.org/wiki/NoSQL
  [4]: http://mongly.openmymind.net/tutorial/index
  [5]: https://github.com/nicolaiarocci/the-little-mongodb-book
- [6]: http://nicolaiarocci.com/mongodb/il-piccolo-libro-di-mongodb.pdf
- [7]: http://nicolaiarocci.com/mongodb/il-piccolo-libro-di-mongodb.epub
- [8]: href="http://nicolaiarocci.com/mongodb/il-piccolo-libro-di-mongodb.mobi
+ [6]: https://nicolaiarocci.com/mongodb/il-piccolo-libro-di-mongodb.pdf
+ [7]: https://nicolaiarocci.com/mongodb/il-piccolo-libro-di-mongodb.epub
+ [8]: https://nicolaiarocci.com/mongodb/il-piccolo-libro-di-mongodb.mobi
  [9]: http://www.goodreads.com/book/show/13595796-il-piccolo-libro-di-mongodb
