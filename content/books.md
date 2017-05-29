@@ -10,6 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2017
 
+* [Le nostre anime di notte](https://www.goodreads.com/review/show/2013278734), Kent Haruf
 * [Exit West](https://www.goodreads.com/review/show/2009035353), Mohsin Hamid
 * [Follia](https://www.goodreads.com/review/show/2003380785), Patrick McGrath
 * [La ricetta del dottor
