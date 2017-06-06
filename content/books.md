@@ -10,6 +10,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2017
 
+* [Il giro del miele](https://www.goodreads.com/review/show/2020799146), Sandro
+    Campani
 * [Le nostre anime di notte](https://www.goodreads.com/review/show/2013278734), Kent Haruf
 * [Exit West](https://www.goodreads.com/review/show/2009035353), Mohsin Hamid
 * [Follia](https://www.goodreads.com/review/show/2003380785), Patrick McGrath
