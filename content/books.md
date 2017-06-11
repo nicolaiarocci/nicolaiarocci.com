@@ -10,6 +10,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2017
 
+* [Il fondamentalista
+    riluttante](https://www.goodreads.com/review/show/2025964300), Moshin Hamid
 * [Il giro del miele](https://www.goodreads.com/review/show/2020799146), Sandro
     Campani
 * [Le nostre anime di notte](https://www.goodreads.com/review/show/2013278734), Kent Haruf
