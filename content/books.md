@@ -10,6 +10,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2017
 
+* [L'ordine del tempo](https://www.goodreads.com/review/show/2031737284), Carlo
+    Rovelli
 * [Il fondamentalista
     riluttante](https://www.goodreads.com/review/show/2025964300), Moshin Hamid
 * [Il giro del miele](https://www.goodreads.com/review/show/2020799146), Sandro
