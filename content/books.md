@@ -10,6 +10,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2017
 
+* [Norvegian wood](https://www.goodreads.com/review/show/2037874839), Lars
+    Mytting
 * [L'ordine del tempo](https://www.goodreads.com/review/show/2031737284), Carlo
     Rovelli
 * [Il fondamentalista
