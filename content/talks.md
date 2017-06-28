@@ -6,8 +6,10 @@ share: false
 weight: 8
 image: images/nicola@codemotion2017.jpeg
 ---
-I speak at conferences and local meetups. Here&#8217;s a list of my most recent engagements. Want me to talk at your event? [Get in touch][1]!
+I speak at conferences and local meetups. Here's a list of my most recent
+engagements. Want me to talk at your event? [Get in touch][1]!
 
+- This is Python 2017: [Python on Windows Like a Boss][22]
 - Socrates Italy 2017: Git in the trenches
 - Socrates Italy 2017: Bringing an Open Source project to the next level
 - DevRomagna: [Contributing to Open Source projects][24]
