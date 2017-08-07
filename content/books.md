@@ -10,6 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2017
 
+* [Eredità](https://www.goodreads.com/review/show/2085089462), Corrado Stajano
 * [Una cosa divertente che non farò mai più](https://www.goodreads.com/review/show/2070389309), David Foster Wallace
 * [L'ultimo arrivato](https://www.goodreads.com/review/show/2052009574), Marco
     Balzano
