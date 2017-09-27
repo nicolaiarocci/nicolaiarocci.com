@@ -10,6 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2017
 
+* [Cosmo](https://www.goodreads.com/review/show/2136461529), Witold Gombrowicz
 * [Controvento](https://www.goodreads.com/review/show/2124879053), Federico
     Pace
 * [La via dello zen](https://www.goodreads.com/review/show/2106187275), Alan W.
