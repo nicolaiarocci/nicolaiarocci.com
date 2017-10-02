@@ -10,6 +10,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2017
 
+* [Bull Mountain](https://www.goodreads.com/review/show/2141178221), Brian
+    Panowich
 * [Cosmo](https://www.goodreads.com/review/show/2136461529), Witold Gombrowicz
 * [Controvento](https://www.goodreads.com/review/show/2124879053), Federico
     Pace
