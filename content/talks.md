@@ -9,6 +9,7 @@ image: images/nicola@codemotion2017.jpeg
 I speak at conferences and local meetups. Here's a list of my most recent
 engagements. Want me to talk at your event? [Get in touch][1]!
 
+- DevRomagna: [Git on the trenches][25]
 - EuroPython 2017: [Python on Windows Like a Boss][22]
 - This is Python 2017: [Python on Windows Like a Boss][22]
 - Socrates Italy 2017: Git in the trenches
@@ -71,3 +72,4 @@ engagements. Want me to talk at your event? [Get in touch][1]!
  [22]: https://speakerdeck.com/nicola/python-on-windows-like-a-boss
  [23]: https://www.meetup.com/it-IT/DevRomagna/events/239110404/
  [24]: https://www.meetup.com/it-IT/DevRomagna/events/239382597/
+ [25]: https://www.meetup.com/it-IT/preview/DevRomagna/events/240838433
