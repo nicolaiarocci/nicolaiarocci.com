@@ -23,13 +23,13 @@ Here is a list of my open source projects. You can see check the source code for
 
 - [Eve.NET][10]. Simple HTTP and REST client for Web Services powered by the Eve Framework. It leverages both System.Net.HttpClient and Json.NET to provide the best possible Eve experience on the .NET platform. 
 
-- [FatturaElettronicaPA][11]. Lettura, scrittura e convalida del formato standard delle fatture elettroniche per Pubblica Amministrazione. 
+- [Spesometro.NET][18]. Lettura, scrittura, convalida dello Spesometro (Comunicazione delle Fatture Emesse e Ricevute).
 
-- [FatturaElettronicaPA.WebServices][12]. Raccolta di client per i diversi Web Service della Pubblica Amministrazione dedicati alla fatturazione elettronica. 
+- [FatturaElettronica.NET][11]. Lettura, scrittura e convalida del formato standard delle fatture elettroniche per Pubblica Amministrazione. 
 
-- [FatturaElettronicaPA.Forms][13]. Libreria WinForms che provvede una UI per l’editing e la segnalazione degli errori di convalida delle fatture elettroniche. 
+- [FatturaElettronica.WebServices][12]. Raccolta di client per i diversi Web Service della Pubblica Amministrazione dedicati alla fatturazione elettronica. 
 
-- [BusinessObjects][14]. A minimalist and portable business layer for you applications. 
+- [FatturaElettronica.Forms][13]. Libreria WinForms che provvede una UI per l’editing e la segnalazione degli errori di convalida delle fatture elettroniche. 
 
 - [Il Piccolo Libro di MongoDB][15]. Authorized Italian translation of The Little MongoDB Book di Karl Seguin. 
 
@@ -54,3 +54,4 @@ You can follow my [open source activity][16].
  [15]: http://nicolaiarocci.com/il-piccolo-libro-di-mongodb-edizione-italiana/ "Il Piccolo Libro di MongoDB"
  [16]: https://github.com/nicolaiarocci?tab=activity "Nicola Iarocci Public Activity on GitHub"
  [17]: https://github.com/CIR2000
+ [18]: https://github.com/FatturaElettronica/Spesometro.NET
