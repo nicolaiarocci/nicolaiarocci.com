@@ -19,6 +19,8 @@ Here is a list of my open source projects. You can see check the source code for
 
 - [Flask-MimeRender][8]. Python module for RESTful resource representation using MIME Media-Types and the Flask Microframework. 
 
+- [JSON-Datetime][19]. Allows for proper decoding of datetime values contained in JSON streams.
+
 - [SimpleObjectCache][9]. Asynchronous, permanent, cross-platform key-value object cache for .NET. powered by SQLite3. 
 
 - [Eve.NET][10]. Simple HTTP and REST client for Web Services powered by the Eve Framework. It leverages both System.Net.HttpClient and Json.NET to provide the best possible Eve experience on the .NET platform. 
@@ -55,3 +57,4 @@ You can follow my [open source activity][16].
  [16]: https://github.com/nicolaiarocci?tab=activity "Nicola Iarocci Public Activity on GitHub"
  [17]: https://github.com/CIR2000
  [18]: https://github.com/FatturaElettronica/Spesometro.NET
+ [19]: https://github.com/nicolaiarocci/json-datetime
