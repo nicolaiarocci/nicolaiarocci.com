@@ -10,6 +10,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2017
 
+* [Vita di un uomo: Francesco
+    d'Assisi](https://www.goodreads.com/review/show/2175630752), Chiara Frugoni
 * [L'Arminuta](https://www.goodreads.com/review/show/2165919831), Donatella di
     Pietrantonio
 * [Bull Mountain](https://www.goodreads.com/review/show/2141178221), Brian
