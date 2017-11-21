@@ -9,6 +9,7 @@ image: images/nicola@codemotion2017.jpeg
 I speak at conferences and local meetups. Here's a list of my most recent
 engagements. Want me to talk at your event? [Get in touch][1]!
 
+- GitHub Constellation: [My story with Open Source][28]
 - Codemotion Milan 2017: [Git on the frontline][27]
 - PiterPy 2017: [Cerberus, Data Validation for Humans][26]
 - DevRomagna: [Git on the trenches][25]
@@ -77,3 +78,4 @@ engagements. Want me to talk at your event? [Get in touch][1]!
  [25]: https://www.meetup.com/it-IT/preview/DevRomagna/events/240838433
  [26]: https://it-events.com/events/8527/materials/2327
  [27]: https://milan2017.codemotionworld.com/speaker/460/
+ [28]: http://githubconstellation.com/milan/#nicola-iarocci
