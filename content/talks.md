@@ -6,8 +6,10 @@ share: false
 weight: 8
 image: images/nicola@codemotion2017.jpeg
 ---
-I speak at conferences and local meetups. Here's a list of my most recent
+I speak at conferences and meetups. Here is a list of my most recent
 engagements. Want me to talk at your event? [Get in touch][1]!
+
+{{< tweet 931238736364531712 >}}
 
 - GitHub Constellation: [My story with Open Source][28]
 - Codemotion Milan 2017: [Git on the frontline][27]
