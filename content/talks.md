@@ -11,6 +11,7 @@ engagements. Want me to talk at your event? [Get in touch][1]!
 
 {{< tweet 931238736364531712 >}}
 
+- WPC 2017: [Git on the frontline][29]
 - GitHub Constellation: [My story with Open Source][28]
 - Codemotion Milan 2017: [Git on the frontline][27]
 - PiterPy 2017: [Cerberus, Data Validation for Humans][26]
@@ -81,3 +82,4 @@ engagements. Want me to talk at your event? [Get in touch][1]!
  [26]: https://it-events.com/events/8527/materials/2327
  [27]: https://milan2017.codemotionworld.com/speaker/460/
  [28]: http://githubconstellation.com/milan/#nicola-iarocci
+ [29]: http://wpc2017.it/cms/it-IT/SpeakerPage?parameters%5B0%5D=73
