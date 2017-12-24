@@ -10,6 +10,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2017
 
+* [Il soccombente](https://www.goodreads.com/review/show/2223989199), Thomas
+    Bernhard
 * [L'invenzione della
     solitudine](https://www.goodreads.com/review/show/2213760620), Paul Auster
 * [Sapiens. Da animali
