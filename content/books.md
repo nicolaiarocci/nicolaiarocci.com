@@ -8,6 +8,10 @@ slug: books-i-have-read
 ---
 This is a partial list of the books I have read. I have it both to jog my memory and because I have read a lot of stuff I have loved, and want other people to find it.
 
+## 2018
+
+* [Il silenzio](https://www.goodreads.com/review/show/2246560263), Erling Kagge
+
 ## 2017
 
 * [Arboreto salvatico](https://www.goodreads.com/review/show/2237937699), Mario
