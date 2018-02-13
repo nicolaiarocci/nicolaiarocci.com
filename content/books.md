@@ -10,6 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2018
 
+* [Musicofilia](https://www.goodreads.com/review/show/2294767969), Oliver Sacks
 * [Pensieri spettinati](https://www.facebook.com/groups/262526193838902/), Stanisław Jerzy Lec
 * [How we'll live on Mars](https://www.goodreads.com/review/show/2266594153), Stephen L. Petranek
 * [Sinfonia Leningrado](https://www.goodreads.com/review/show/2263868348), Sarah Quigley
