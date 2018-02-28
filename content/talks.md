@@ -11,6 +11,7 @@ engagements. Want me to talk at your event? [Get in touch][1]!
 
 {{< tweet 931238736364531712 >}}
 
+- PyCon Belarus 2018: [Eve, REST APIs for Humans][4]
 - WPC 2017: [Git on the frontline][29]
 - GitHub Constellation: [My story with Open Source][28]
 - Codemotion Milan 2017: [Git on the frontline][27]
