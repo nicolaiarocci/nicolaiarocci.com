@@ -10,6 +10,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2018
 
+* [Tutto quello che è un
+    uomo](https://www.goodreads.com/review/show/2330127230), David Szalay
 * [Parla, ricordo](https://www.goodreads.com/review/show/2294771238), Vladimir
     Nabokov
 * [Musicofilia](https://www.goodreads.com/review/show/2294767969), Oliver Sacks
