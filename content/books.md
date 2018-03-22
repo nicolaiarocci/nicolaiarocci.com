@@ -10,6 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2018
 
+* [La danzatrice di Izu](https://www.goodreads.com/review/show/2335780405), Yasunari Kawabata
 * [Tutto quello che è un
     uomo](https://www.goodreads.com/review/show/2330127230), David Szalay
 * [Parla, ricordo](https://www.goodreads.com/review/show/2294771238), Vladimir
