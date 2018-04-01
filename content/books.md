@@ -10,6 +10,9 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2018
 
+* [Cos'è la scienza. La rivoluzione di
+    Anassimandro](https://www.goodreads.com/review/show/2346859817), Carlo
+    Rovelli
 * [La danzatrice di Izu](https://www.goodreads.com/review/show/2335780405), Yasunari Kawabata
 * [Tutto quello che è un
     uomo](https://www.goodreads.com/review/show/2330127230), David Szalay
