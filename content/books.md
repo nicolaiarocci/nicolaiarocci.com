@@ -10,6 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2018
 
+* [Il più grande uomo scimmia del Pleistocene](https://www.goodreads.com/review/show/2367261907), Roy Lewis
 * [Autunno tedesco](https://www.goodreads.com/review/show/2354763819), Stig
     Dagerman
 * [Cos'è la scienza. La rivoluzione di
