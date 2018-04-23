@@ -11,6 +11,7 @@ engagements. Want me to talk at your event? [Get in touch][1]!
 
 {{< tweet 931238736364531712 >}}
 
+- PyCon Italy 2018: [My Story with Python and Open Source][29]
 - PyCon Belarus 2018: [Eve, REST APIs for Humans][4]
 - WPC 2017: [Git on the frontline][29]
 - GitHub Constellation: [My story with Open Source][28]
@@ -84,3 +85,4 @@ engagements. Want me to talk at your event? [Get in touch][1]!
  [27]: https://milan2017.codemotionworld.com/speaker/460/
  [28]: http://githubconstellation.com/milan/#nicola-iarocci
  [29]: http://wpc2017.it/cms/it-IT/SpeakerPage?parameters%5B0%5D=73
+ [29]: https://www.pycon.it/conference/talks/my-story-with-python-and-open-source
