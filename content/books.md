@@ -10,6 +10,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2018
 
+* [Gormenghast](https://www.goodreads.com/review/show/2408724357), Mervyn
+    Peake
 * [Isola](https://www.goodreads.com/review/show/2382359505), Siri Ranva Hjelm
     Jacobsen
 * [Una vita da libraio](https://www.goodreads.com/review/show/2375529000),
