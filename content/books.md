@@ -10,6 +10,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2018
 
+* [Il campo di nessuno](https://www.goodreads.com/review/show/2475628124),
+    Daniel Picouly
 * [Il professore e il pazzo](https://www.goodreads.com/review/show/2447541095)
     Il professore e il pazzo, Simon Winchester
 * [The Passenger: Islanda](https://www.goodreads.com/review/show/2444007353), AA. VV.
