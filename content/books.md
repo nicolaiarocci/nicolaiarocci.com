@@ -10,6 +10,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2018
 
+* [Atlantico](https://www.goodreads.com/review/show/2506556277), Simon
+    Winchester
 * [Amore e ginnastica](https://www.goodreads.com/review/show/2483980410),
     Edmondo De Amicis
 * [Il campo di nessuno](https://www.goodreads.com/review/show/2475628124),
