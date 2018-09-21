@@ -10,6 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2018
 
+* [Memorie di un cacciatore](https://www.goodreads.com/review/show/2537266054), Ivan Turgenev
 * [Atlantico](https://www.goodreads.com/review/show/2506556277), Simon
     Winchester
 * [Amore e ginnastica](https://www.goodreads.com/review/show/2483980410),
