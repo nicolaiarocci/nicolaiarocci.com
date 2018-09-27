@@ -25,13 +25,15 @@ Here is a list of my open source projects. You can see check the source code for
 
 - [Eve.NET][10]. Simple HTTP and REST client for Web Services powered by the Eve Framework. It leverages both System.Net.HttpClient and Json.NET to provide the best possible Eve experience on the .NET platform. 
 
-- [Spesometro.NET][18]. Lettura, scrittura, convalida dello Spesometro (Comunicazione delle Fatture Emesse e Ricevute).
-
 - [FatturaElettronica.NET][11]. Lettura, scrittura e convalida del formato standard delle fatture elettroniche per Pubblica Amministrazione. 
+
+- [FatturaElettronica.Extensions][20]. Estensioni per FatturaElettronica.NET
 
 - [FatturaElettronica.WebServices][12]. Raccolta di client per i diversi Web Service della Pubblica Amministrazione dedicati alla fatturazione elettronica. 
 
 - [FatturaElettronica.Forms][13]. Libreria WinForms che provvede una UI per l’editing e la segnalazione degli errori di convalida delle fatture elettroniche. 
+
+- [Spesometro.NET][18]. Lettura, scrittura, convalida dello Spesometro (Comunicazione delle Fatture Emesse e Ricevute).
 
 - [Il Piccolo Libro di MongoDB][15]. Authorized Italian translation of The Little MongoDB Book di Karl Seguin. 
 
@@ -58,3 +60,4 @@ You can follow my [open source activity][16].
  [17]: https://github.com/CIR2000
  [18]: https://github.com/FatturaElettronica/Spesometro.NET
  [19]: https://github.com/nicolaiarocci/json-datetime
+ [20]: https://github.com/FatturaElettronica/FatturaElettronica.Extensions
