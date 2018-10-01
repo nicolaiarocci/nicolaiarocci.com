@@ -10,6 +10,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2018
 
+* [Shakespeare and Company, Paris: A History of the Rag & Bone Shop of the
+    Heart](https://www.goodreads.com/review/show/2548301973), Krista Halverson
 * [Memorie di un cacciatore](https://www.goodreads.com/review/show/2537266054), Ivan Turgenev
 * [Atlantico](https://www.goodreads.com/review/show/2506556277), Simon
     Winchester
