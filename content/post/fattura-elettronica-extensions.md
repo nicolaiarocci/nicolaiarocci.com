@@ -7,7 +7,7 @@ title = "Lettura di fatture elettroniche con firma digitale in .NET (.p7m)"
 
 Ho appena rilasciato [FatturaElettronica.Extensions][fex]. Si tratta di un package che
 estende [FatturaElettronica.NET][fe] aggiungendo (per ora) un solo extension method:
-`ReadXmlSigned`. 
+`ReadXmlSigned`
 
 Il metodo si affianca all'esistente `ReadXml` ed accetta un file in formato
 standard fattura elettronica già firmato digitalmente (estensione .p7m), lo
@@ -46,7 +46,7 @@ legge, verifica che le firme siano valide, quindi lo carica in un oggetto
 
 Come già per il fratello maggiore, Extensions è rilasciato con [licenza open
 source BSD][bsd]. Il package è già [disponibile su nuget][nuget] ed
-è NetStandard 2.0, quindi compatibile con un gran numero di piattaforme. 
+è NetStandard 2.0, quindi compatibile con un gran numero di piattaforme.
 
 Per informazioni dettagliate vi rimando al repository su [GitHub][fex].
 
