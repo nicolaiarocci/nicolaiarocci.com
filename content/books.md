@@ -10,6 +10,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2018
 
+* [The Passenger: Olanda](https://www.goodreads.com/review/show/2582432054),
+    AA.VV.
 * [Fuga in Europa](https://www.goodreads.com/review/show/2568894736), Stephen
     Smith
 * [Shakespeare and Company, Paris: A History of the Rag & Bone Shop of the
@@ -23,7 +25,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
     Daniel Picouly
 * [Il professore e il pazzo](https://www.goodreads.com/review/show/2447541095)
     Il professore e il pazzo, Simon Winchester
-* [The Passenger: Islanda](https://www.goodreads.com/review/show/2444007353), AA. VV.
+* [The Passenger: Islanda](https://www.goodreads.com/review/show/2444007353), AA.VV.
 * [Brutti incontri al chiaro di
     luna](https://www.goodreads.com/review/show/2428719612), W. Stanley Moss
 * [Aua](https://www.goodreads.com/review/show/2420790276), Knud Rasmussen
