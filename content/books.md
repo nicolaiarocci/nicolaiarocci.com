@@ -10,6 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2018
 
+* [Paranoia](https://www.goodreads.com/review/show/2592032021), Shirley Jackson
 * [The Passenger: Olanda](https://www.goodreads.com/review/show/2582432054),
     AA.VV.
 * [Fuga in Europa](https://www.goodreads.com/review/show/2568894736), Stephen
