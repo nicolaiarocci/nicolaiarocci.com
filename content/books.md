@@ -10,6 +10,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2018
 
+* [La caduta di Gongolin](https://www.goodreads.com/review/show/2597897385),
+    JRR Tolkien
 * [Paranoia](https://www.goodreads.com/review/show/2592032021), Shirley Jackson
 * [The Passenger: Olanda](https://www.goodreads.com/review/show/2582432054),
     AA.VV.
