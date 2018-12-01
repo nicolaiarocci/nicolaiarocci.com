@@ -11,6 +11,7 @@ engagements. Want me to talk at your event? [Get in touch][1]!
 
 {{< tweet 931238736364531712 >}}
 
+- WPC 2018, Milan: [The Mythical Open Source Contributor][32]
 - PyConWeb 2018, Munich: [My Story with Python and Open Source][30] (keynote)
 - PyConWeb 2018, Munich: [Eve, REST APIs for Humans][31] 
 - PyCon Italy 2018: [My Story with Python and Open Source][29]
@@ -90,3 +91,4 @@ engagements. Want me to talk at your event? [Get in touch][1]!
  [29]: https://www.pycon.it/conference/talks/my-story-with-python-and-open-source
  [30]: https://pyconweb.com/talks/30-06-2018/my-story-with-python-and-open-source
  [31]: https://pyconweb.com/talks/30-06-2018/eve-rest-api-for-humans
+ [32]: http://wpc2018.it
