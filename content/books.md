@@ -10,6 +10,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2018
 
+* [Lezioni di letteratura](https://www.goodreads.com/review/show/2625507016),
+    Vladimir Nabokov
 * [La caduta di Gongolin](https://www.goodreads.com/review/show/2597897385),
     JRR Tolkien
 * [Paranoia](https://www.goodreads.com/review/show/2592032021), Shirley Jackson
