@@ -10,6 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2018
 
+* [Fiabe faroesi](https://www.goodreads.com/review/show/2629690001), AA.VV.
 * [Lezioni di letteratura](https://www.goodreads.com/review/show/2625507016),
     Vladimir Nabokov
 * [La caduta di Gongolin](https://www.goodreads.com/review/show/2597897385),
