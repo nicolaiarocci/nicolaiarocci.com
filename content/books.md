@@ -8,6 +8,10 @@ slug: books-i-have-read
 ---
 This is a partial list of the books I have read. I have it both to jog my memory and because I have read a lot of stuff I have loved, and want other people to find it.
 
+## 2019
+
+* [Marco Polo: Viaggio ai confini del Medioevo](https://www.goodreads.com/review/show/2655112513), Giulio Busy
+
 ## 2018
 
 * [Fiabe faroesi](https://www.goodreads.com/review/show/2629690001), AA.VV.
