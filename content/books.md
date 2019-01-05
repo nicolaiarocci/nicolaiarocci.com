@@ -10,6 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2019
 
+* [Peaks of Europe](https://www.goodreads.com/review/show/2659525895), Johan Lolos
 * [Marco Polo: Viaggio ai confini del Medioevo](https://www.goodreads.com/review/show/2655112513), Giulio Busy
 
 ## 2018
