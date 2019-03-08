@@ -10,8 +10,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2019
 
-* [Il grande gioco](https://www.goodreads.com/review/show/2716093129), Peter
-    Hopkirk
+* [Diario di una apprendista astronauta](https://www.goodreads.com/review/show/2742732913), Samantha Cristoforetti
+* [Il grande gioco](https://www.goodreads.com/review/show/2716093129), Peter Hopkirk
 * [The Passenger: Giappone](https://www.goodreads.com/review/show/2689925487), AA.VV.
 * [La vita segreta: tre storie vere dell'era digitale](https://www.goodreads.com/review/show/2671774539), Andrew O'Hagan
 * [Peaks of Europe](https://www.goodreads.com/review/show/2659525895), Johan Lolos
