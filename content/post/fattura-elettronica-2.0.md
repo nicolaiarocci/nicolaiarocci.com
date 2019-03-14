@@ -35,8 +35,7 @@ that the changes needed are marginal:
 Satellite projects [Core][fc], [Extensions][fx], and [Forms][fx] are also
 available on NuGet with a matching version number. By the way, in case you
 did not know, the Extensions package just recently saw the addition of a
-`WriteHtml` extension method, an addition prompted by [Alessandro
-Scardova][as].
+`WriteHtml` extension method, prompted by [Alessandro Scardova][as].
 
 I want to take a moment to mention the vibrant community that is growing
 around this project. As of today, we count [ten contributors][c] to the main
