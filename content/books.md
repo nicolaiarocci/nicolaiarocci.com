@@ -10,6 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2019
 
+* [Metamorfosi](https://www.goodreads.com/review/show/2795991613), Ovidio
 * [Grüne Linie](https://www.giancarlobarzagli.com/grune-linie), Giancarlo Barzagli
 * [Get programming with F#](https://www.goodreads.com/review/show/2760952924), Isaac Abraham
 * [Diario di una apprendista astronauta](https://www.goodreads.com/review/show/2742732913), Samantha Cristoforetti
