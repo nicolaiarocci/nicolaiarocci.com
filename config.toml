@@ -1,6 +1,6 @@
 baseurl = "https://nicolaiarocci.com/"
 title = "Nicola Iarocci"
-copyright = "All rights reserved - 2017"
+copyright = "All rights reserved"
 theme = "casper"
 languagecode = "en-US"
 paginate = 5
@@ -79,12 +79,12 @@ weight = -340
 [params]
 author = "Nicola Iarocci"
 authorlocation = "Ravenna, Italy"
-authorwebsite = "https://nicolaiarocci.com/about/"
+authorwebsite = "https://nicolaiarocci.com"
 description = "Software Craftsman"
 metadescription = "This is the personal website of Nicola Iarocci, Software Craftsman."
 bio = "Software Craftsman"
 #cover = "images/hacking.jpg"
-logo = "images/avatar.png"
+#logo = "images/avatar.png"
 customCSS = ["css/custom.css"]
 shareenabled = false
 
