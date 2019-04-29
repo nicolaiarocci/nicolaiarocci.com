@@ -83,15 +83,14 @@ authorwebsite = "https://nicolaiarocci.com/about/"
 description = "Software Craftsman"
 metadescription = "This is the personal website of Nicola Iarocci, Software Craftsman."
 bio = "Software Craftsman"
-cover = "images/hacking.jpg"
+#cover = "images/hacking.jpg"
 logo = "images/avatar.png"
 customCSS = ["css/custom.css"]
 shareenabled = false
 
-githubName = "nicolaiarocci"
-twitterName = "nicolaiarocci"
-linkedinName = "nicolaiarocci"
-#stackoverflowName = "323269"
+#githubName = "nicolaiarocci"
+#twitterName = "nicolaiarocci"
+#linkedinName = "nicolaiarocci"
 
 googleAnalyticsUserID = "UA-19006041-1"
 hideHUGOSupport = true
