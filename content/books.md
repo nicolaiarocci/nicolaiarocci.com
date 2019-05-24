@@ -10,6 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2019
 
+* [Nondimanco](https://www.goodreads.com/review/show/2832238469), Carlo Ginzburg
 * [Sulla motocicletta](https://www.goodreads.com/review/show/2816165678), John Berger
 * [Proletkult](https://www.goodreads.com/review/show/2811128201), Wu Ming
 * [Metamorfosi](https://www.goodreads.com/review/show/2795991613), Ovidio
