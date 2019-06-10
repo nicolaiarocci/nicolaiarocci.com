@@ -11,6 +11,7 @@ engagements. Want me to talk at your event? [Get in touch][1]!
 
 {{< tweet 931238736364531712 >}}
 
+- KLab 2019 #3: [Git on the frontline][33]
 - WPC 2018, Milan: [The Mythical Open Source Contributor][32]
 - PyConWeb 2018, Munich: [My Story with Python and Open Source][30] (keynote)
 - PyConWeb 2018, Munich: [Eve, REST APIs for Humans][31] 
@@ -92,3 +93,4 @@ engagements. Want me to talk at your event? [Get in touch][1]!
  [30]: https://pyconweb.com/talks/30-06-2018/my-story-with-python-and-open-source
  [31]: https://pyconweb.com/talks/30-06-2018/eve-rest-api-for-humans
  [32]: http://wpc2018.it
+ [33]: https://www.eventbrite.com/e/klab-2019-3-typescript-come-forse-non-lo-avete-mai-visto-git-on-the-front-line-tickets-61043068461#
