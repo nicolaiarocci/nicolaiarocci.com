@@ -11,7 +11,7 @@ engagements. Want me to talk at your event? [Get in touch][1]!
 
 {{< tweet 931238736364531712 >}}
 
-- Working Software Conf: [My Story with Open Source](https://www.agilemovement.it/workingsoftware/schedule.html#schedule)
+- Working Software Conf 2019: [My Story with Open Source](https://www.agilemovement.it/workingsoftware/schedule.html#schedule)
 - Community Days 2019: [Introduction to F# and functional programming](http://www.communitydays.it/events/2019/dev11/)
 - KLab 2019 #3: [Git on the frontline][33]
 - WPC 2018, Milan: [The Mythical Open Source Contributor][32]
