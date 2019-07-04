@@ -9,8 +9,6 @@ image: images/nicola@codemotion2017.jpeg
 I speak at conferences and meetups. Here is a list of my most recent
 engagements. Want me to talk at your event? [Get in touch][1]!
 
-{{< tweet 931238736364531712 >}}
-
 - Working Software Conf 2019: [My Story with Open Source](https://www.agilemovement.it/workingsoftware/schedule.html#schedule)
 - Community Days 2019: [Introduction to F# and functional programming](http://www.communitydays.it/events/2019/dev11/)
 - KLab 2019 #3: [Git on the frontline][33]
@@ -62,6 +60,9 @@ engagements. Want me to talk at your event? [Get in touch][1]!
 - Liceo Artistico Severini (Ravenna): [Personal Branding per Studenti e non solo][19]
 - KnowCamp 2011: [Fuga dalla Comfort Zone][20]
 - RomagnaCamp 2011: [Quattro passi tra le nuvole][21]
+
+{{< tweet 931238736364531712 >}}
+
  [1]: mailto:speaking@nicolaiarocci.com
  [2]: https://speakerdeck.com/nicola/python-tools-for-visual-studio
  [3]: https://speakerdeck.com/nicola/cerberus
