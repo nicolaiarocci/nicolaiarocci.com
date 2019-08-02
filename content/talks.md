@@ -9,6 +9,7 @@ image: images/nicola@codemotion2017.jpeg
 I speak at conferences and meetups. Here is a list of my most recent
 engagements. Want me to talk at your event? [Get in touch][1]!
 
+- DevMarche: [Introduction to F# and functional programming](https://www.eventbrite.it/e/biglietti-introduzione-a-f-e-ai-linguaggi-funzionali-per-il-programmatore-c-oop-64430134266?fbclid=IwAR0eBGHMGN1QX4ZoJ0NBzz52713LuX32tcu25jcGH_f4a318HUtFSH6GdaI)
 - Working Software Conf 2019: [My Story with Open Source](https://www.agilemovement.it/workingsoftware/schedule.html#schedule)
 - Community Days 2019: [Introduction to F# and functional programming](http://www.communitydays.it/events/2019/dev11/)
 - KLab 2019 #3: [Git on the frontline][33]
