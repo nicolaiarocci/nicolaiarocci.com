@@ -10,6 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2019
 
+* [Guida galattica per gli autostoppisti](https://www.goodreads.com/review/show/2928885876), Douglas Adams
 * [Come sfasciare un paese in sette mosse](https://www.goodreads.com/review/show/2921224253), Ece Temelkuran
 * [Io Khaled vendo uomini e sono innocente](https://www.goodreads.com/review/show/2864905113), Francesca Mannocchi
 * [Nondimanco](https://www.goodreads.com/review/show/2832238469), Carlo Ginzburg
