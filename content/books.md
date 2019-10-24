@@ -10,6 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2019
 
+* [Macchine come me](https://www.goodreads.com/review/show/3023972023), Ian McEwan
 * [La guerra segreta](https://www.goodreads.com/review/show/3005140576), Max Hastings
 * [Viaggio di una parigina a Lhasa](https://www.goodreads.com/review/show/2967987949), Alexandra David-Néel
 * [Il futuro è storia](https://www.goodreads.com/review/show/2946315396), Masha Gessen
