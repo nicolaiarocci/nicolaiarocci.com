@@ -10,6 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2019
 
+* [La compagnia dell'anello](https://www.goodreads.com/review/show/3047638021), JRR Tolkien (new translation by O. Fatica)
 * [La nascita della filosofia](https://www.goodreads.com/review/show/3033947716), Giorgio Colli
 * [Macchine come me](https://www.goodreads.com/review/show/3023972023), Ian McEwan
 * [La guerra segreta](https://www.goodreads.com/review/show/3005140576), Max Hastings
