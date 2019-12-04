@@ -10,6 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2019
 
+* [La lottera](https://www.goodreads.com/review/show/3072203707), Shirley Jackson
 * [Il vichingo nero](https://www.goodreads.com/review/show/3072203366), Bergsveinn Birgisson
 * [La compagnia dell'anello](https://www.goodreads.com/review/show/3047638021), JRR Tolkien (new translation by O. Fatica)
 * [La nascita della filosofia](https://www.goodreads.com/review/show/3033947716), Giorgio Colli
