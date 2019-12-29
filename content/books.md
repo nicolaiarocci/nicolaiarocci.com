@@ -10,7 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2019
 
-* [Fiabe norgegesi](https://www.goodreads.com/review/show/3106211910), AA.VV.
+* [Fiabe norvegesi](https://www.goodreads.com/review/show/3106211910), AA.VV.
 * [Genesi](https://www.goodreads.com/review/show/3088448885), Guido Tonelli
 * [La lottera](https://www.goodreads.com/review/show/3072203707), Shirley Jackson
 * [Il vichingo nero](https://www.goodreads.com/review/show/3072203366), Bergsveinn Birgisson
