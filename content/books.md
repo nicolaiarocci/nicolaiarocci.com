@@ -8,6 +8,10 @@ slug: books-i-have-read
 ---
 This is a partial list of the books I have read. I have it both to jog my memory and because I have read a lot of stuff I have loved, and want other people to find it.
 
+## 2020
+
+* [Mani](https://www.goodreads.com/review/show/3135712909), Patrick Leigh Fermor
+
 ## 2019
 
 * [Fiabe norvegesi](https://www.goodreads.com/review/show/3106211910), AA.VV.
@@ -192,7 +196,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 * [Un angelo migliore][34], Chris Adrian
 * [Il caso Meursault][35], Kamel Daoud
 * [Il caso][36], Joseph Conrad
-* [La strada interrotta][37], Patrick Leigh Femor
+* [La strada interrotta][37], Patrick Leigh Fermor
 * [La biblioteca: una storia mondiale][38], James W.P. Campbell
 * [Land grabbing][39], Stefano Liberti
 * [La tregua][40], Primo Levi
