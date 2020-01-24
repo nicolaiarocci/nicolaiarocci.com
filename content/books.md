@@ -10,6 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2020
 
+* [Tyll](https://www.goodreads.com/review/show/3158213688), Daniel Kehlmann
 * [Mani](https://www.goodreads.com/review/show/3135712909), Patrick Leigh Fermor
 
 ## 2019
