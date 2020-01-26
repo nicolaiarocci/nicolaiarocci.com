@@ -9,6 +9,10 @@ image: images/nicola@codemotion2017.jpeg
 I speak at conferences and meetups. Here is a list of my most recent
 engagements. Want me to talk at your event? [Get in touch][1]!
 
+## 2020
+
+- Modena Tech Summit 2020: [Introduction to F# and functional programming](https://modenatechsummit.it/)
+
 ## 2019
 
 - PiterPy 2019, St. Petersburg: [Python on Windows, the State of the Art](https://piterpy.com/materials/2631)
