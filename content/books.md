@@ -10,6 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2020
 
+* [Possiamo salvare il mondo, prima di cena](https://www.goodreads.com/review/show/3208811016), Jonathan Safran Foer
 * [Masters of Doom](https://www.goodreads.com/review/show/3185833586), David Kushner
 * [Tyll](https://www.goodreads.com/review/show/3158213688), Daniel Kehlmann
 * [Mani](https://www.goodreads.com/review/show/3135712909), Patrick Leigh Fermor
