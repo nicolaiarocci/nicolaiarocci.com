@@ -10,6 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2020
 
+* [La brevità della vita](https://www.goodreads.com/review/show/3282219880), Lucio Anneo Seneca
 * [Saggio sulla lucidità](https://www.goodreads.com/review/show/3278447829), José Saramago
 * [Pietro e Paolo](https://www.goodreads.com/review/show/3240059875), Marcello Fois
 * [Possiamo salvare il mondo, prima di cena](https://www.goodreads.com/review/show/3208811016), Jonathan Safran Foer
