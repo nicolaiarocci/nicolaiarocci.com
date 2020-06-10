@@ -10,6 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2020
 
+* [Pachidermi e pappagalli](https://www.goodreads.com/review/show/3384237216), Carlo Cottarelli
 * [La strada di Swann](https://www.goodreads.com/review/show/3353438092), Marcel Proust
 * [La vita felice](https://www.goodreads.com/review/show/3295740948), Lucio Anneo Seneca
 * [La brevità della vita](https://www.goodreads.com/review/show/3282219880), Lucio Anneo Seneca
