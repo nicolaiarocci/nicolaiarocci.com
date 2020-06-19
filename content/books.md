@@ -10,6 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2020
 
+* [Sentieri nel ghiaccio](https://www.goodreads.com/review/show/3399919815), Werner Herzog
 * [Pachidermi e pappagalli](https://www.goodreads.com/review/show/3384237216), Carlo Cottarelli
 * [La strada di Swann](https://www.goodreads.com/review/show/3353438092), Marcel Proust
 * [La vita felice](https://www.goodreads.com/review/show/3295740948), Lucio Anneo Seneca
