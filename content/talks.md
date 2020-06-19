@@ -28,6 +28,7 @@ engagements. Want me to talk at your event? [Get in touch][1]!
 ## Past
 
 - WPC 2018, Milan: [The Mythical Open Source Contributor][32]
+- EuroPython 2018, Edinburgh: [My Story with Python and Open Source][34]
 - PyConWeb 2018, Munich: [My Story with Python and Open Source][30] (keynote)
 - PyConWeb 2018, Munich: [Eve, REST APIs for Humans][31] 
 - PyCon Italy 2018: [My Story with Python and Open Source][29]
@@ -112,3 +113,4 @@ engagements. Want me to talk at your event? [Get in touch][1]!
  [31]: https://pyconweb.com/talks/30-06-2018/eve-rest-api-for-humans
  [32]: http://wpc2018.it
  [33]: https://www.eventbrite.com/e/klab-2019-3-typescript-come-forse-non-lo-avete-mai-visto-git-on-the-front-line-tickets-61043068461#
+ [34]: https://ep2018.europython.eu/conference/p/nicola-iarocci
