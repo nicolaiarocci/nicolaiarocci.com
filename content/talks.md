@@ -11,6 +11,7 @@ engagements. Want me to talk at your event? [Get in touch][1]!
 
 ## 2020
 
+- The Python Show #7: [My Story with Open Source](https://www.youtube.com/watch?v=-B0QXTQN3yM)
 - Python Conf++ 2020, Moscow: [Cerberus or Data Validation for Humans](https://conf.python.ru/en/2020/)
 - Modena Tech Summit 2020: [Introduction to F# and functional programming](https://modenatechsummit.it/)
 
