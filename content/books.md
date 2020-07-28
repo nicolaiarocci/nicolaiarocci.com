@@ -10,6 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2020
 
+* [Il Maestro e Margherita](https://www.goodreads.com/review/show/3466408008), Michail Bulgakov
 * [1984](https://www.goodreads.com/review/show/3433621116), George Orwell
 * [Lo Hobbit, un viaggio verso la maturità](https://www.goodreads.com/review/show/3428298282), William H. Green
 * [Sentieri nel ghiaccio](https://www.goodreads.com/review/show/3399919815), Werner Herzog
