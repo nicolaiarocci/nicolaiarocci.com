@@ -10,6 +10,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2020
 
+* [Come le mosche d'autunno](https://www.goodreads.com/review/show/3498399665), Irène Némirovsky
+* [Per chi suona la campana](https://www.goodreads.com/review/show/3498399212), Ernest Hemingway
 * [Uomini e topi](https://www.goodreads.com/review/show/3468088266), John Steinbeck
 * [Il Maestro e Margherita](https://www.goodreads.com/review/show/3466408008), Michail Bulgakov
 * [1984](https://www.goodreads.com/review/show/3433621116), George Orwell
