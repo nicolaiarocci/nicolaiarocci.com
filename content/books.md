@@ -10,6 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2020
 
+* [HHhH](https://www.goodreads.com/review/show/3517418599), Laurent Binet
 * [Il cuore di un'ape](https://www.goodreads.com/review/show/3506196461), Helen Jukes
 * [Come le mosche d'autunno](https://www.goodreads.com/review/show/3498399665), Irène Némirovsky
 * [Per chi suona la campana](https://www.goodreads.com/review/show/3498399212), Ernest Hemingway
