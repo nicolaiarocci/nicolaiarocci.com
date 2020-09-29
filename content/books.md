@@ -10,6 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2020
 
+* [Helgoland](https://www.goodreads.com/review/show/3571723366), Carlo Rovelli
 * [Sognando Jupiter](https://www.goodreads.com/review/show/3559110478), Ted Simmons
 * [HHhH](https://www.goodreads.com/review/show/3517418599), Laurent Binet
 * [Il cuore di un'ape](https://www.goodreads.com/review/show/3506196461), Helen Jukes
