@@ -10,6 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2020
 
+* [Il piccolo libro dell'investimento](https://www.goodreads.com/review/show/3585955954), John C. Bogle
 * [Helgoland](https://www.goodreads.com/review/show/3571723366), Carlo Rovelli
 * [Sognando Jupiter](https://www.goodreads.com/review/show/3559110478), Ted Simmons
 * [HHhH](https://www.goodreads.com/review/show/3517418599), Laurent Binet
