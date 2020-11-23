@@ -10,6 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2020
 
+* [L'ordine nascosto](https://www.goodreads.com/review/show/3659644587), Merlin Sheldrake
 * [Dante](https://www.goodreads.com/review/show/3634129461), Alessandro Barbero
 * [Il ritorno del Re](https://www.goodreads.com/review/show/3615266809), JRR Tolkien (new translation by O. Fatica)
 * [Il piccolo libro dell'investimento](https://www.goodreads.com/review/show/3585955954), John C. Bogle
