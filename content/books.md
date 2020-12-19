@@ -10,6 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2020
 
+* [Leggende groenlandesi](https://www.goodreads.com/review/show/3703387965), Knud Rasmussen
 * [Nero d'inferno](https://www.goodreads.com/review/show/3688975918), Matteo Cavezzali
 * [Il tempo della rivolta](https://www.goodreads.com/review/show/3676176000), Donatella Di Cesare
 * [L'ordine nascosto](https://www.goodreads.com/review/show/3659644587), Merlin Sheldrake
