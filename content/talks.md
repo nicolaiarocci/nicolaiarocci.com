@@ -110,8 +110,8 @@ engagements. Want me to talk at your event? [Get in touch][1]!
  [28]: http://githubconstellation.com/milan/#nicola-iarocci
  [32]: http://wpc2017.it/cms/it-IT/SpeakerPage?parameters%5B0%5D=73
  [29]: https://www.pycon.it/conference/talks/my-story-with-python-and-open-source
- [30]: https://pyconweb.com/talks/30-06-2018/my-story-with-python-and-open-source
- [31]: https://pyconweb.com/talks/30-06-2018/eve-rest-api-for-humans
+ [30]: https://2018.pyconweb.com/talks/30-06-2018/my-story-with-python-and-open-source
+ [31]: https://2018.pyconweb.com/talks/30-06-2018/eve-rest-api-for-humans
  [32]: http://wpc2018.it
  [33]: https://www.eventbrite.com/e/klab-2019-3-typescript-come-forse-non-lo-avete-mai-visto-git-on-the-front-line-tickets-61043068461#
  [34]: https://ep2018.europython.eu/conference/p/nicola-iarocci
