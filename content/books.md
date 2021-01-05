@@ -10,6 +10,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2020
 
+*[Five good books I read in 2020](https://nicolaiarocci.com/five-good-books-i-read-in-2020/)*
+
 * [Terra incognita](https://www.goodreads.com/review/show/3727653753), Sebastiano Barisoni
 * [Leggende groenlandesi](https://www.goodreads.com/review/show/3703387965), Knud Rasmussen
 * [Nero d'inferno](https://www.goodreads.com/review/show/3688975918), Matteo Cavezzali
