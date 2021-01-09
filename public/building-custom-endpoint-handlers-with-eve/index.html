@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+    
+        <meta name="twitter:card" content="summary"/>
+    
+
+
+
+<meta name="twitter:title" content="Custom endpoint handlers with Eve"/>
+<meta name="twitter:description" content=""/>
+<meta name="twitter:site" content="@"/>
+
+
+
+  	<meta property="og:title" content="Custom endpoint handlers with Eve &middot; Nicola Iarocci" />
+  	<meta property="og:site_name" content="Nicola Iarocci" />
+  	<meta property="og:url" content="https://nicolaiarocci.com/building-custom-endpoint-handlers-with-eve/" />
+
+    
+        
+    
+
+    
+    <meta property="og:description" content="" />
+  	<meta property="og:type" content="article" />
+    <meta property="article:published_time" content="2015-08-24T00:00:00Z" />
+
+    
+    <meta property="article:tag" content="eve" />
+    
+    <meta property="article:tag" content="python" />
+    
+    
+
+    <title>Custom endpoint handlers with Eve &middot; Nicola Iarocci</title>
+
+    
+    <meta name="description" content="On Stack Overflow and the Eve mailing list, but also in my mailbox and even on Twitter, I get a lot of enquiries on how to build custom endpoints within a Eve-p" />
+    
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="/images/favicon.ico">
+	  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+
+    <link rel="stylesheet" type="text/css" href="/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="/css/nav.css" />
+
+    
+    <link rel="stylesheet" href="/css/custom.css">
+    
+
+    
+
+    
+      
+          <link href="/index.xml" rel="alternate" type="application/rss+xml" title="Nicola Iarocci" />
+      
+      
+    
+    <meta name="generator" content="Hugo 0.55.4" />
+
+    <link rel="canonical" href="https://nicolaiarocci.com/building-custom-endpoint-handlers-with-eve/" />
+
+    
+      
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name":  null 
+    },
+    "author": {
+        "@type": "Person",
+        "name":  null ,
+        
+        "url": "https://nicolaiarocci.com",
+        "sameAs": [
+            
+            
+             
+             
+             
+             
+             
+            
+        ]
+    },
+    "headline": "Custom endpoint handlers with Eve",
+    "name": "Custom endpoint handlers with Eve",
+    "wordCount":  416 ,
+    "timeRequired": "PT2M",
+    "inLanguage": {
+      "@type": "Language",
+      "alternateName": "en"
+    },
+    "url": "https://nicolaiarocci.com/building-custom-endpoint-handlers-with-eve/",
+    "datePublished": "2015-08-24T00:00Z",
+    "dateModified": "2015-08-24T00:00Z",
+    
+    "keywords": "eve, python",
+    "description": "",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://nicolaiarocci.com/building-custom-endpoint-handlers-with-eve/"
+    }
+}
+    </script>
+    
+
+
+    
+
+    
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-19006041-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+    
+</head>
+<body class="nav-closed">
+
+  <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        
+        
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/">Blog</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/about">About</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/opensource">Open Source</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/talks">Speaking</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/books-i-have-read">Reading</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/il-piccolo-libro-di-mongodb-edizione-italiana">MongoDB</a>
+            </li>
+        
+            <h3>Subscribe</h3>
+            <li class="nav-opened" role="presentation">
+            	<a href="http://eepurl.com/b-_Pzz">New posts via mail</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://nicolaiarocci.com/index.xml">RSS feed</a>
+            </li>
+        
+            <h3>Follow me</h3>
+            <li class="nav-opened" role="presentation">
+            	<a href="https://twitter.com/nicolaiarocci">Twitter</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://github.com/nicolaiarocci">Github</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://stackoverflow.com/users/323269/nicola-iarocci?tab=profile">Stack Overflow</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="http://speakerdeck.com/u/nicola">Speaker Deck</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="http://www.linkedin.com/in/nicolaiarocci">LinkedIn</a>
+            </li>
+        
+        
+    </ul>
+
+    
+    <a class="subscribe-button icon-feed" href="/index.xml">Subscribe</a>
+    
+</div>
+<span class="nav-cover"></span>
+
+
+ <div class="site-wrapper">
+
+
+
+<header class="main-header post-head no-cover">
+  <nav class="main-nav clearfix">
+
+
+  
+  
+      <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
+  
+  </nav>
+</header>
+
+
+
+<main class="content" role="main">
+
+
+
+
+  <article class="post post">
+
+    <header class="post-header">
+        <h1 class="post-title">Custom endpoint handlers with Eve</h1>
+        <small></small>
+
+        <section class="post-meta">
+        
+          <time class="post-date" datetime="2015-08-24T00:00:00Z">
+            Aug 24, 2015
+          </time>
+        
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/eve/">#eve</a></span>
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/python/">#python</a></span>
+         
+        </section>
+    </header>
+
+    <section class="post-content">
+      
+
+<p>On <a href="https://stackoverflow.com/questions/24134383/servicing-html-requests-with-eve/">Stack Overflow</a> and the Eve <a href="https://groups.google.com/forum/?hl=en#!topic/python-eve/LM9kZkgq3vA">mailing list</a>, but also in my mailbox and even on Twitter, I get a lot of enquiries on how to build custom endpoints within a Eve-powered RESTful application. Now, since within Eve all endpoints are fully customizable, what they really mean is:</p>
+
+<blockquote>
+<p>How do I setup endpoints without any binding to a data entity, just connected to a custom method?</p>
+</blockquote>
+
+<p>They would like to call something like <code>/mycustomendpoint</code> and get the response from a method they have defined somewhere in the Python sources. The standard endpoint-entity mapping provided by Eve covers 90% of their needs, but sometimes they just need endpoints that have nothing to do with data entities.</p>
+
+<p>This is very easy to achieve. I&#8217;m writing it down so I can point people to this post in the future.</p>
+
+<h2 id="eve-is-flask">Eve <em>is</em> Flask</h2>
+
+<p><a href="http://python-eve.org">Eve</a> is a Flask application and I really mean it since it is, in fact, a Flask subclass. Eve adds out-of-the-box <a href="http://python-eve.org/features">RESTful capabilities</a> to the Flask micro-framework. Most of the time you will be happy with just Eve&#8217;s own features but remember, the full <a href="http://flask.pocoo.org">Flask</a> (and <a href="http://werkzeug.pocoo.org">Werkzeug</a> at a lower level) features set is also part of your arsenal.</p>
+
+<blockquote>
+<p>Whatever you can do with Flask, you can do with Eve</p>
+</blockquote>
+
+<p>So yes, of course you can easily set some functions to be invoked when a custom endpoint is hit with a request. The following snippet is a slightly modified version of Flask&#8217;s very own <a href="http://flask.pocoo.org/docs/0.10/quickstart/#a-minimal-application">Quickstart</a> tutorial:</p>
+
+<script type="application/javascript" src="//gist.github.com/nicolaiarocci/01ea2cd1068afc99f9e38f0bb9afcabf.js"></script>
+
+<p>By decorating the <code>hello_world</code> method with the <code>route</code> decorator we added a new endpoint to the application. Each time a request to <code>/hello</code> comes in, it will be routed to our custom method. Of course the regular API endpoints (either defined in <code>settings.py</code>, passed as a dict at launch, or registered live by calling the <code>register_resource</code> method) will also be available.</p>
+
+<p>If you have an <a href="http://python-eve.org/authentication.html">Eve authentication class</a> securing regular API endpoints, you can apply it to your custom endpoint too. Just add a <code>requires_auth</code> decorator:</p>
+
+<script type="application/javascript" src="//gist.github.com/nicolaiarocci/3fc0379e083266f20faf12b209108aa9.js"></script>
+
+<p>Say that you saved the above snippet as <em>run.py</em> and also have your RESTful endpoints properly <a href="http://python-eve.org/config">configured</a>. Launch the script:</p>
+
+<script type="application/javascript" src="//gist.github.com/nicolaiarocci/697f85ee10b7e0c0b601fdd21b171a15.js"></script>
+
+<p>You can now point your browser to <code>http://localhost:5000/hello/</code> and enjoy the application greeting. Or you can consume any other configured API endpoint.</p>
+
+<p>As all of Flask features are at your fingertips you might as well opt for registering a <a href="http://flask.pocoo.org/docs/0.10/blueprints/">blueprint</a>, which is what the awesome <a href="https://github.com/charlesflynn/eve-docs">Eve-Docs</a> extension is doing in order to provide a static HTML <code>/docs</code> endpoint on top of any Eve powered API.</p>
+
+    </section>
+
+
+  <footer class="post-footer">
+
+
+    
+
+
+
+
+
+
+
+
+
+<section class="author">
+  <h4><a href="https://nicolaiarocci.com/">Nicola Iarocci</a></h4>
+  
+  <p>Read <a href="https://nicolaiarocci.com/">more posts</a> by this author.</p>
+  
+  <div class="author-meta">
+    <span class="author-location icon-location">Ravenna, Italy</span>
+    <span class="author-link icon-link"><a href="https://nicolaiarocci.com">https://nicolaiarocci.com</a></span>
+  </div>
+</section>
+
+
+
+
+    
+<section class="share">
+  <h4>Share this post</h4>
+  <a class="icon-twitter" style="font-size: 1.4em" href="https://twitter.com/share?text=Custom%20endpoint%20handlers%20with%20Eve&nbsp;-&nbsp;Nicola%20Iarocci&amp;url=https%3a%2f%2fnicolaiarocci.com%2fbuilding-custom-endpoint-handlers-with-eve%2f"
+      onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+      <span class="hidden">Twitter</span>
+  </a>
+  <a class="icon-facebook" style="font-size: 1.4em" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fnicolaiarocci.com%2fbuilding-custom-endpoint-handlers-with-eve%2f"
+      onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+      <span class="hidden">Facebook</span>
+  </a>
+  <a class="icon-pinterest" style="font-size: 1.4em" href="http://pinterest.com/pin/create/button/?url=https%3a%2f%2fnicolaiarocci.com%2fbuilding-custom-endpoint-handlers-with-eve%2f&amp;description=Custom%20endpoint%20handlers%20with%20Eve"
+      onclick="window.open(this.href, 'pinterest-share','width=580,height=296');return false;">
+      <span class="hidden">Pinterest</span>
+  </a>
+  <a class="icon-google-plus" style="font-size: 1.4em" href="https://plus.google.com/share?url=https%3a%2f%2fnicolaiarocci.com%2fbuilding-custom-endpoint-handlers-with-eve%2f"
+     onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+      <span class="hidden">Google+</span>
+  </a>
+</section>
+
+
+
+    
+
+
+
+
+
+
+
+  </footer>
+</article>
+
+</main>
+
+
+  <aside class="read-next">
+  
+      <a class="read-next-story" style="no-cover" href="/my-talk-at-percona-live-2015/">
+          <section class="post">
+              <h2>My talk at Percona Live 2015</h2>
+              
+          </section>
+      </a>
+  
+  
+      <a class="read-next-story prev" style="no-cover" href="/fatturaelettronicapa-for-net-has-been-updated/">
+          <section class="post">
+              <h2>FatturaElettronicaPA for .NET has been updated</h2>
+          </section>
+      </a>
+  
+</aside>
+
+
+
+    <footer class="site-footer clearfix">
+        <section class="copyright"><a href="">Nicola Iarocci</a> All rights reserved</section>
+        
+    </footer>
+    </div>
+    <script type="text/javascript" src="/js/jquery.js"></script>
+    <script type="text/javascript" src="/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="/js/index.js"></script>
+    
+</body>
+</html>
+

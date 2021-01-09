@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+    
+        <meta name="twitter:card" content="summary"/>
+    
+
+
+
+<meta name="twitter:title" content="Announcing Eve-SQLAlchemy the official SQL extension for the Eve REST Framework"/>
+<meta name="twitter:description" content=""/>
+<meta name="twitter:site" content="@"/>
+
+
+
+  	<meta property="og:title" content="Announcing Eve-SQLAlchemy the official SQL extension for the Eve REST Framework &middot; Nicola Iarocci" />
+  	<meta property="og:site_name" content="Nicola Iarocci" />
+  	<meta property="og:url" content="https://nicolaiarocci.com/announcing-eve-sqlalchemy-the-official-sql-extension-for-the-eve-rest-framework/" />
+
+    
+        
+    
+
+    
+    <meta property="og:description" content="" />
+  	<meta property="og:type" content="article" />
+    <meta property="article:published_time" content="2015-01-13T00:00:00Z" />
+
+    
+    <meta property="article:tag" content="eve" />
+    
+    <meta property="article:tag" content="python" />
+    
+    <meta property="article:tag" content="sql" />
+    
+    
+
+    <title>Announcing Eve-SQLAlchemy the official SQL extension for the Eve REST Framework &middot; Nicola Iarocci</title>
+
+    
+    <meta name="description" content="Powered by SQLAlchemy and good intentions, Eve-SQLAlchemy is an official Eve extension which allows to effortlessly build and deploy highly customizable, fully " />
+    
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="/images/favicon.ico">
+	  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+
+    <link rel="stylesheet" type="text/css" href="/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="/css/nav.css" />
+
+    
+    <link rel="stylesheet" href="/css/custom.css">
+    
+
+    
+
+    
+      
+          <link href="/index.xml" rel="alternate" type="application/rss+xml" title="Nicola Iarocci" />
+      
+      
+    
+    <meta name="generator" content="Hugo 0.55.4" />
+
+    <link rel="canonical" href="https://nicolaiarocci.com/announcing-eve-sqlalchemy-the-official-sql-extension-for-the-eve-rest-framework/" />
+
+    
+      
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name":  null 
+    },
+    "author": {
+        "@type": "Person",
+        "name":  null ,
+        
+        "url": "https://nicolaiarocci.com",
+        "sameAs": [
+            
+            
+             
+             
+             
+             
+             
+            
+        ]
+    },
+    "headline": "Announcing Eve-SQLAlchemy the official SQL extension for the Eve REST Framework",
+    "name": "Announcing Eve-SQLAlchemy the official SQL extension for the Eve REST Framework",
+    "wordCount":  435 ,
+    "timeRequired": "PT3M",
+    "inLanguage": {
+      "@type": "Language",
+      "alternateName": "en"
+    },
+    "url": "https://nicolaiarocci.com/announcing-eve-sqlalchemy-the-official-sql-extension-for-the-eve-rest-framework/",
+    "datePublished": "2015-01-13T00:00Z",
+    "dateModified": "2015-01-13T00:00Z",
+    
+    "keywords": "eve, python, sql",
+    "description": "",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://nicolaiarocci.com/announcing-eve-sqlalchemy-the-official-sql-extension-for-the-eve-rest-framework/"
+    }
+}
+    </script>
+    
+
+
+    
+
+    
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-19006041-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+    
+</head>
+<body class="nav-closed">
+
+  <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        
+        
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/">Blog</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/about">About</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/opensource">Open Source</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/talks">Speaking</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/books-i-have-read">Reading</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/il-piccolo-libro-di-mongodb-edizione-italiana">MongoDB</a>
+            </li>
+        
+            <h3>Subscribe</h3>
+            <li class="nav-opened" role="presentation">
+            	<a href="http://eepurl.com/b-_Pzz">New posts via mail</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://nicolaiarocci.com/index.xml">RSS feed</a>
+            </li>
+        
+            <h3>Follow me</h3>
+            <li class="nav-opened" role="presentation">
+            	<a href="https://twitter.com/nicolaiarocci">Twitter</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://github.com/nicolaiarocci">Github</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://stackoverflow.com/users/323269/nicola-iarocci?tab=profile">Stack Overflow</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="http://speakerdeck.com/u/nicola">Speaker Deck</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="http://www.linkedin.com/in/nicolaiarocci">LinkedIn</a>
+            </li>
+        
+        
+    </ul>
+
+    
+    <a class="subscribe-button icon-feed" href="/index.xml">Subscribe</a>
+    
+</div>
+<span class="nav-cover"></span>
+
+
+ <div class="site-wrapper">
+
+
+
+<header class="main-header post-head no-cover">
+  <nav class="main-nav clearfix">
+
+
+  
+  
+      <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
+  
+  </nav>
+</header>
+
+
+
+<main class="content" role="main">
+
+
+
+
+  <article class="post post">
+
+    <header class="post-header">
+        <h1 class="post-title">Announcing Eve-SQLAlchemy the official SQL extension for the Eve REST Framework</h1>
+        <small></small>
+
+        <section class="post-meta">
+        
+          <time class="post-date" datetime="2015-01-13T00:00:00Z">
+            Jan 13, 2015
+          </time>
+        
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/eve/">#eve</a></span>
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/python/">#python</a></span>
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/sql/">#sql</a></span>
+         
+        </section>
+    </header>
+
+    <section class="post-content">
+      <p>Powered by SQLAlchemy and good intentions, <a href="https://github.com/RedTurtle/eve-sqlalchemy">Eve-SQLAlchemy</a> is an official <a href="http://python-eve.org">Eve</a> extension which allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services with SQL backends.</p>
+
+<p>As with all Eve extensions, once installed with</p>
+
+<pre><code>$ pip install eve-sqlalchemy
+</code></pre>
+
+<p>using Eve-SQLAlchemy is very simple:</p>
+
+<pre><code>from eve import Eve
+from eve_sqlalchemy import SQL
+
+app = Eve(data=SQL)
+app.run()
+</code></pre>
+
+<p>On a fresh virtualenv (of course you are using virtualenvs, right?) the install will also setup Eve and all its dependencies for you. For a complete tutorial you can visit the Eve-SQLAlchemy <a href="http://eve-sqlalchemy.readthedocs.org/">Support Website</a>.</p>
+
+<p>If you have been following the Eve development you probably know that the original plan was to release SQL support within the Eve core, alongside with the native MongoDB layer. In fact, in a <a href="http://nicolaiarocci.com/open-source-and-code-responsibility/">long rant</a> on open source and code responsibility I took the chance to outline the path forward.</p>
+
+<p>However, if you check the discussion which spread in the comments below that post you can see how both my friend and fellow MongoDB Master <a href="http://www.flaper87.com/">Flavio</a> and the main contributor to the sqlalchemy branch <a href="https://github.com/amleczko">Andrew</a> were suggesting that a plugin system for data layers might be more appropriate. Not coincidentally that was easy to accomplish since the Eve data layer system was designed precisely with that goal in mind, right from the start.</p>
+
+<p>So, to make a long story short, in agreement with Andrew who volountereed for the task, we changed plans. He refactored the sqlalchemy branch into a separate repository&#8230; and then the official Eve SQL extension was born. This approach also allows the extension and Eve to develop asynchronously which is ideal for a faster release cycle.</p>
+
+<p>I like this setup so much that, if in time it shows to be as good as I think it will be, I will probably want to experiment with taking the MongoDB layer out of Eve core too. So with Eve 0.6 MongoDB support would still be preinstalled along with core (so nothing changes as first time user experience) but, being a separate package, users could easily switch to a different driver as they need, still keeping their Eve setup as light as possible.</p>
+
+<p>So if you are willing to help with the development of a mature SQL driver please feel free to join Andrew and other contributors. Your help is more than welcome. Allow me thank them all individually, for the work they&#8217;ve been doing on the SQL code is absolutely amazing: Andrew Mleczko, Tomasz Jezierski (Tefnet), Bruce Frederiksen, Jacopo Sabbatini and Peter Zinng.</p>
+
+<p>Get <a href="https://pypi.python.org/pypi/Eve-SQLAlchemy/0.1">Eve-SQLAlchemy v0.1</a> while it&#8217;s hot!</p>
+
+<p>If you want to get in touch, I am <a href="http://twitter.com/nicolaiarocci">@nicolaiarocci</a> on Twitter.</p>
+
+    </section>
+
+
+  <footer class="post-footer">
+
+
+    
+
+
+
+
+
+
+
+
+
+<section class="author">
+  <h4><a href="https://nicolaiarocci.com/">Nicola Iarocci</a></h4>
+  
+  <p>Read <a href="https://nicolaiarocci.com/">more posts</a> by this author.</p>
+  
+  <div class="author-meta">
+    <span class="author-location icon-location">Ravenna, Italy</span>
+    <span class="author-link icon-link"><a href="https://nicolaiarocci.com">https://nicolaiarocci.com</a></span>
+  </div>
+</section>
+
+
+
+
+    
+<section class="share">
+  <h4>Share this post</h4>
+  <a class="icon-twitter" style="font-size: 1.4em" href="https://twitter.com/share?text=Announcing%20Eve-SQLAlchemy%20the%20official%20SQL%20extension%20for%20the%20Eve%20REST%20Framework&nbsp;-&nbsp;Nicola%20Iarocci&amp;url=https%3a%2f%2fnicolaiarocci.com%2fannouncing-eve-sqlalchemy-the-official-sql-extension-for-the-eve-rest-framework%2f"
+      onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+      <span class="hidden">Twitter</span>
+  </a>
+  <a class="icon-facebook" style="font-size: 1.4em" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fnicolaiarocci.com%2fannouncing-eve-sqlalchemy-the-official-sql-extension-for-the-eve-rest-framework%2f"
+      onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+      <span class="hidden">Facebook</span>
+  </a>
+  <a class="icon-pinterest" style="font-size: 1.4em" href="http://pinterest.com/pin/create/button/?url=https%3a%2f%2fnicolaiarocci.com%2fannouncing-eve-sqlalchemy-the-official-sql-extension-for-the-eve-rest-framework%2f&amp;description=Announcing%20Eve-SQLAlchemy%20the%20official%20SQL%20extension%20for%20the%20Eve%20REST%20Framework"
+      onclick="window.open(this.href, 'pinterest-share','width=580,height=296');return false;">
+      <span class="hidden">Pinterest</span>
+  </a>
+  <a class="icon-google-plus" style="font-size: 1.4em" href="https://plus.google.com/share?url=https%3a%2f%2fnicolaiarocci.com%2fannouncing-eve-sqlalchemy-the-official-sql-extension-for-the-eve-rest-framework%2f"
+     onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+      <span class="hidden">Google+</span>
+  </a>
+</section>
+
+
+
+    
+
+
+
+
+
+
+
+  </footer>
+</article>
+
+</main>
+
+
+  <aside class="read-next">
+  
+      <a class="read-next-story" style="no-cover" href="/internet-own-boy-aaron-swartz/">
+          <section class="post">
+              <h2>The Internet’s Own Boy</h2>
+              
+          </section>
+      </a>
+  
+  
+      <a class="read-next-story prev" style="no-cover" href="/eve-0-5-released-today/">
+          <section class="post">
+              <h2>Eve 0.5 released today</h2>
+          </section>
+      </a>
+  
+</aside>
+
+
+
+    <footer class="site-footer clearfix">
+        <section class="copyright"><a href="">Nicola Iarocci</a> All rights reserved</section>
+        
+    </footer>
+    </div>
+    <script type="text/javascript" src="/js/jquery.js"></script>
+    <script type="text/javascript" src="/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="/js/index.js"></script>
+    
+</body>
+</html>
+

@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+    
+        <meta name="twitter:card" content="summary"/>
+    
+
+
+
+<meta name="twitter:title" content="Flask MimeRender nel Python Package Index (PyPI)"/>
+<meta name="twitter:description" content=""/>
+<meta name="twitter:site" content="@"/>
+
+
+
+  	<meta property="og:title" content="Flask MimeRender nel Python Package Index (PyPI) &middot; Nicola Iarocci" />
+  	<meta property="og:site_name" content="Nicola Iarocci" />
+  	<meta property="og:url" content="https://nicolaiarocci.com/flask-mimerender-e-nel-python-package-index-pypi/" />
+
+    
+        
+    
+
+    
+    <meta property="og:description" content="" />
+  	<meta property="og:type" content="article" />
+    <meta property="article:published_time" content="2012-03-01T00:00:00Z" />
+
+    
+    <meta property="article:tag" content="api" />
+    
+    <meta property="article:tag" content="flask" />
+    
+    <meta property="article:tag" content="mimerender" />
+    
+    <meta property="article:tag" content="pypi" />
+    
+    <meta property="article:tag" content="python" />
+    
+    <meta property="article:tag" content="rest" />
+    
+    
+
+    <title>Flask MimeRender nel Python Package Index (PyPI) &middot; Nicola Iarocci</title>
+
+    
+    <meta name="description" content="Un appunto veloce per segnalare che Flask MimeRender, il mio strumento RESTful per il rendering basato sul MIME Media-Type delle richieste HTTP (JSON, XML, HTML" />
+    
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="/images/favicon.ico">
+	  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+
+    <link rel="stylesheet" type="text/css" href="/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="/css/nav.css" />
+
+    
+    <link rel="stylesheet" href="/css/custom.css">
+    
+
+    
+
+    
+      
+          <link href="/index.xml" rel="alternate" type="application/rss+xml" title="Nicola Iarocci" />
+      
+      
+    
+    <meta name="generator" content="Hugo 0.55.4" />
+
+    <link rel="canonical" href="https://nicolaiarocci.com/flask-mimerender-e-nel-python-package-index-pypi/" />
+
+    
+      
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name":  null 
+    },
+    "author": {
+        "@type": "Person",
+        "name":  null ,
+        
+        "url": "https://nicolaiarocci.com",
+        "sameAs": [
+            
+            
+             
+             
+             
+             
+             
+            
+        ]
+    },
+    "headline": "Flask MimeRender nel Python Package Index (PyPI)",
+    "name": "Flask MimeRender nel Python Package Index (PyPI)",
+    "wordCount":  101 ,
+    "timeRequired": "PT1M",
+    "inLanguage": {
+      "@type": "Language",
+      "alternateName": "en"
+    },
+    "url": "https://nicolaiarocci.com/flask-mimerender-e-nel-python-package-index-pypi/",
+    "datePublished": "2012-03-01T00:00Z",
+    "dateModified": "2012-03-01T00:00Z",
+    
+    "keywords": "api, flask, mimerender, pypi, python, rest",
+    "description": "",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://nicolaiarocci.com/flask-mimerender-e-nel-python-package-index-pypi/"
+    }
+}
+    </script>
+    
+
+
+    
+
+    
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-19006041-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+    
+</head>
+<body class="nav-closed">
+
+  <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        
+        
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/">Blog</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/about">About</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/opensource">Open Source</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/talks">Speaking</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/books-i-have-read">Reading</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/il-piccolo-libro-di-mongodb-edizione-italiana">MongoDB</a>
+            </li>
+        
+            <h3>Subscribe</h3>
+            <li class="nav-opened" role="presentation">
+            	<a href="http://eepurl.com/b-_Pzz">New posts via mail</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://nicolaiarocci.com/index.xml">RSS feed</a>
+            </li>
+        
+            <h3>Follow me</h3>
+            <li class="nav-opened" role="presentation">
+            	<a href="https://twitter.com/nicolaiarocci">Twitter</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://github.com/nicolaiarocci">Github</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://stackoverflow.com/users/323269/nicola-iarocci?tab=profile">Stack Overflow</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="http://speakerdeck.com/u/nicola">Speaker Deck</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="http://www.linkedin.com/in/nicolaiarocci">LinkedIn</a>
+            </li>
+        
+        
+    </ul>
+
+    
+    <a class="subscribe-button icon-feed" href="/index.xml">Subscribe</a>
+    
+</div>
+<span class="nav-cover"></span>
+
+
+ <div class="site-wrapper">
+
+
+
+<header class="main-header post-head no-cover">
+  <nav class="main-nav clearfix">
+
+
+  
+  
+      <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
+  
+  </nav>
+</header>
+
+
+
+<main class="content" role="main">
+
+
+
+
+  <article class="post post">
+
+    <header class="post-header">
+        <h1 class="post-title">Flask MimeRender nel Python Package Index (PyPI)</h1>
+        <small></small>
+
+        <section class="post-meta">
+        
+          <time class="post-date" datetime="2012-03-01T00:00:00Z">
+            Mar 1, 2012
+          </time>
+        
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/api/">#api</a></span>
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/flask/">#flask</a></span>
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/mimerender/">#mimerender</a></span>
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/pypi/">#pypi</a></span>
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/python/">#python</a></span>
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/rest/">#rest</a></span>
+         
+        </section>
+    </header>
+
+    <section class="post-content">
+      <p>Un appunto veloce per segnalare che <a title="Flask MimeRender sy PyPI" href="http://pypi.python.org/pypi/Flask-MimeRender/0.1.1" target="_blank">Flask MimeRender</a>, il mio strumento RESTful per il rendering basato sul MIME Media-Type delle richieste HTTP (JSON, XML, HTML, ecc.), è ora presente su <a title="PyPI - the Python Package Index" href="http://pypi.python.org/pypi" target="_blank">PyPI</a>, il Python Package Index ufficiale.</p>
+
+<div id="attachment_4492" style="width: 590px" class="wp-caption alignright">
+  <a href="http://pypi.python.org/pypi/Flask-MimeRender/0.1.1"><img class="size-full wp-image-4492" title="Flask MimeRender" src="http://i2.wp.com/nicolaiarocci.com/wp-content/uploads/Flask-MimeRender.png?fit=525%2C355" alt="Flask MimeRender nel Python Package Index (PyPI)" srcset="http://i2.wp.com/nicolaiarocci.com/wp-content/uploads/Flask-MimeRender.png?w=580 580w, http://i2.wp.com/nicolaiarocci.com/wp-content/uploads/Flask-MimeRender.png?resize=150%2C101 150w, http://i2.wp.com/nicolaiarocci.com/wp-content/uploads/Flask-MimeRender.png?resize=300%2C202 300w, http://i2.wp.com/nicolaiarocci.com/wp-content/uploads/Flask-MimeRender.png?resize=443%2C300 443w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1" /></a>
+  
+  <p class="wp-caption-text">
+    La pagina ufficiale di Flask MimeRender su PyPI
+  </p>
+</div>
+
+<p>Tutto ciò significa che l&#8217;installazione di Flask MimeRender su Windows, OSX e Linux è diventato più semplice:</p>
+
+<pre class="brush:shell">pip install flask-mimerender</pre>
+
+<p>Codice sorgente e istruzioni sono a vostra disposizione su <a title="Flask-MimeRender su GitHub" href="https://github.com/nicolaiarocci/flask-mimerender" target="_blank">GitHub</a>, mentre per spiegazione approfondita ed esempio d&#8217;uso vi rimando al mio articolo precedente: <a href="http://nicolaiarocci.com/come-implementare-un-web-service-rest-che-adatta-le-risposte-al-mime-media-type-delle-richieste-http/" title="Una REST API che adatta le sue risposte al MIME Media-Type delle richieste HTTP">Una REST API che adatta le sue risposte al MIME Media-Type delle richieste HTTP</a>.</p>
+
+    </section>
+
+
+  <footer class="post-footer">
+
+
+    
+
+
+
+
+
+
+
+
+
+<section class="author">
+  <h4><a href="https://nicolaiarocci.com/">Nicola Iarocci</a></h4>
+  
+  <p>Read <a href="https://nicolaiarocci.com/">more posts</a> by this author.</p>
+  
+  <div class="author-meta">
+    <span class="author-location icon-location">Ravenna, Italy</span>
+    <span class="author-link icon-link"><a href="https://nicolaiarocci.com">https://nicolaiarocci.com</a></span>
+  </div>
+</section>
+
+
+
+
+    
+<section class="share">
+  <h4>Share this post</h4>
+  <a class="icon-twitter" style="font-size: 1.4em" href="https://twitter.com/share?text=Flask%20MimeRender%20nel%20Python%20Package%20Index%20%28PyPI%29&nbsp;-&nbsp;Nicola%20Iarocci&amp;url=https%3a%2f%2fnicolaiarocci.com%2fflask-mimerender-e-nel-python-package-index-pypi%2f"
+      onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+      <span class="hidden">Twitter</span>
+  </a>
+  <a class="icon-facebook" style="font-size: 1.4em" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fnicolaiarocci.com%2fflask-mimerender-e-nel-python-package-index-pypi%2f"
+      onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+      <span class="hidden">Facebook</span>
+  </a>
+  <a class="icon-pinterest" style="font-size: 1.4em" href="http://pinterest.com/pin/create/button/?url=https%3a%2f%2fnicolaiarocci.com%2fflask-mimerender-e-nel-python-package-index-pypi%2f&amp;description=Flask%20MimeRender%20nel%20Python%20Package%20Index%20%28PyPI%29"
+      onclick="window.open(this.href, 'pinterest-share','width=580,height=296');return false;">
+      <span class="hidden">Pinterest</span>
+  </a>
+  <a class="icon-google-plus" style="font-size: 1.4em" href="https://plus.google.com/share?url=https%3a%2f%2fnicolaiarocci.com%2fflask-mimerender-e-nel-python-package-index-pypi%2f"
+     onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+      <span class="hidden">Google+</span>
+  </a>
+</section>
+
+
+
+    
+
+
+
+
+
+
+
+  </footer>
+</article>
+
+</main>
+
+
+  <aside class="read-next">
+  
+      <a class="read-next-story" style="no-cover" href="/link-consigliati-dal-29-2-al-5-3-2012/">
+          <section class="post">
+              <h2>Link Consigliati dal 29.2 al 5.3.2012</h2>
+              
+          </section>
+      </a>
+  
+  
+      <a class="read-next-story prev" style="no-cover" href="/e-uscito-il-piccolo-libro-di-mongodb/">
+          <section class="post">
+              <h2>E’ uscito il Piccolo Libro di MongoDB</h2>
+          </section>
+      </a>
+  
+</aside>
+
+
+
+    <footer class="site-footer clearfix">
+        <section class="copyright"><a href="">Nicola Iarocci</a> All rights reserved</section>
+        
+    </footer>
+    </div>
+    <script type="text/javascript" src="/js/jquery.js"></script>
+    <script type="text/javascript" src="/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="/js/index.js"></script>
+    
+</body>
+</html>
+

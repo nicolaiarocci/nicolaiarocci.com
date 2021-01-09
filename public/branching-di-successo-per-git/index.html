@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+    
+        <meta name="twitter:card" content="summary"/>
+    
+
+
+
+<meta name="twitter:title" content="Branching di successo per Git"/>
+<meta name="twitter:description" content=""/>
+<meta name="twitter:site" content="@"/>
+
+
+
+  	<meta property="og:title" content="Branching di successo per Git &middot; Nicola Iarocci" />
+  	<meta property="og:site_name" content="Nicola Iarocci" />
+  	<meta property="og:url" content="https://nicolaiarocci.com/branching-di-successo-per-git/" />
+
+    
+        
+    
+
+    
+    <meta property="og:description" content="" />
+  	<meta property="og:type" content="article" />
+    <meta property="article:published_time" content="2011-12-09T00:00:00Z" />
+
+    
+    <meta property="article:tag" content="controllo di versione" />
+    
+    <meta property="article:tag" content="git" />
+    
+    
+
+    <title>Branching di successo per Git &middot; Nicola Iarocci</title>
+
+    
+    <meta name="description" content="&lt;p&gt;&lt;a title=&#34;Git&#34; href=&#34;http://git-scm.com/&#34; target=&#34;_blank&#34;&gt;Git&lt;/a&gt; è di gran lunga la tecnologia più significativa che il mio team ha introdotto negli ultimi " />
+    
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="/images/favicon.ico">
+	  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+
+    <link rel="stylesheet" type="text/css" href="/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="/css/nav.css" />
+
+    
+    <link rel="stylesheet" href="/css/custom.css">
+    
+
+    
+
+    
+      
+          <link href="/index.xml" rel="alternate" type="application/rss+xml" title="Nicola Iarocci" />
+      
+      
+    
+    <meta name="generator" content="Hugo 0.55.4" />
+
+    <link rel="canonical" href="https://nicolaiarocci.com/branching-di-successo-per-git/" />
+
+    
+      
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name":  null 
+    },
+    "author": {
+        "@type": "Person",
+        "name":  null ,
+        
+        "url": "https://nicolaiarocci.com",
+        "sameAs": [
+            
+            
+             
+             
+             
+             
+             
+            
+        ]
+    },
+    "headline": "Branching di successo per Git",
+    "name": "Branching di successo per Git",
+    "wordCount":  630 ,
+    "timeRequired": "PT3M",
+    "inLanguage": {
+      "@type": "Language",
+      "alternateName": "en"
+    },
+    "url": "https://nicolaiarocci.com/branching-di-successo-per-git/",
+    "datePublished": "2011-12-09T00:00Z",
+    "dateModified": "2011-12-09T00:00Z",
+    
+    "keywords": "controllo di versione, git",
+    "description": "",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://nicolaiarocci.com/branching-di-successo-per-git/"
+    }
+}
+    </script>
+    
+
+
+    
+
+    
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-19006041-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+    
+</head>
+<body class="nav-closed">
+
+  <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        
+        
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/">Blog</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/about">About</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/opensource">Open Source</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/talks">Speaking</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/books-i-have-read">Reading</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/il-piccolo-libro-di-mongodb-edizione-italiana">MongoDB</a>
+            </li>
+        
+            <h3>Subscribe</h3>
+            <li class="nav-opened" role="presentation">
+            	<a href="http://eepurl.com/b-_Pzz">New posts via mail</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://nicolaiarocci.com/index.xml">RSS feed</a>
+            </li>
+        
+            <h3>Follow me</h3>
+            <li class="nav-opened" role="presentation">
+            	<a href="https://twitter.com/nicolaiarocci">Twitter</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://github.com/nicolaiarocci">Github</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://stackoverflow.com/users/323269/nicola-iarocci?tab=profile">Stack Overflow</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="http://speakerdeck.com/u/nicola">Speaker Deck</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="http://www.linkedin.com/in/nicolaiarocci">LinkedIn</a>
+            </li>
+        
+        
+    </ul>
+
+    
+    <a class="subscribe-button icon-feed" href="/index.xml">Subscribe</a>
+    
+</div>
+<span class="nav-cover"></span>
+
+
+ <div class="site-wrapper">
+
+
+
+<header class="main-header post-head no-cover">
+  <nav class="main-nav clearfix">
+
+
+  
+  
+      <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
+  
+  </nav>
+</header>
+
+
+
+<main class="content" role="main">
+
+
+
+
+  <article class="post post">
+
+    <header class="post-header">
+        <h1 class="post-title">Branching di successo per Git</h1>
+        <small></small>
+
+        <section class="post-meta">
+        
+          <time class="post-date" datetime="2011-12-09T00:00:00Z">
+            Dec 9, 2011
+          </time>
+        
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/controllo-di-versione/">#controllo di versione</a></span>
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/git/">#git</a></span>
+         
+        </section>
+    </header>
+
+    <section class="post-content">
+      <p><a title="Git" href="http://git-scm.com/" target="_blank">Git</a> è di gran lunga la tecnologia più significativa che il mio team ha introdotto negli ultimi tempi. Grazie a Git la nostra produttività è migliorata a tal punto che davvero non passa giorno senza che mi chieda come abbiamo potuto farne a meno così a lungo.</p>
+
+<p>Git è un <a title="Controllo versione" href="http://it.wikipedia.org/wiki/Controllo_versione" target="_blank">sistema di controllo versione</a> ideato da Linus Torvald (quello di Linux). E&#8217; gratuito, multi-piattaforma, distribuito e soprattutto talmente veloce che sembra aggiungere un pizzico di magia al processo produttivo. Git è una macchina del tempo con cui spostarsi avanti e indietro tra le versioni del codice. E&#8217; l&#8217;ideale sia per progetti individuali che per gruppi di lavoro numerosi e distribuiti. L&#8217;integrità del codice e la preservazione delle versioni sono garantite da un efficiente &#8211; e veloce! &#8211; sistema di <em>branching</em> e <em>merging</em>.</p>
+
+<p>Se non avete mai usato prima un sistema di controllo versione (e magari ricorrete ancora a copie manuali del codice tra una release e l&#8217;altra) gioite, perché Git vi cambierà la vita. Se venite da altri sistemi (Subversion, Team Foundation Server) sappiate che Git adotta un approccio fondamentalmente diverso: niente copie differenziali. In Git ogni repository è un mirror integrale della codebase; è quest&#8217;accorgimento ciò che rende Git così veloce.</p>
+
+<h2 id="come-e-dove-imparare-git">Come e dove imparare Git</h2>
+
+<p>Git non è difficile, ma richiede un pò d&#8217;impegno iniziale. In rete sono disponibili numerose e ottime fonti. Vi consiglio <a title="Git Pro Book" href="http://progit.org/book/" target="_blank">Git Pro</a>, libro gratuito nella versione online. Stampatelo e tenetelo sempre a portata di mano. Ottimi anche <a title="Git Reference" href="http://gitref.org/" target="_blank">Git Reference</a> e <a title="Everyday GIT" href="http://schacon.github.com/git/everyday.html" target="_blank">Everyday GIT</a> (consigliati dal sito ufficiale), <a title="Git Magic" href="http://www-cs-students.stanford.edu/~blynn/gitmagic/" target="_blank">Git Magic</a> per quando avrete già un pò di dimestichezza con Git, e infine la valida raccolta che trovate su <a title="Stack Overflow" href="http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide?t=1320241886" target="_blank">Stack Overflow</a>.</p>
+
+<h2 id="la-potenza-è-nulla-senza-controllo">La potenza è nulla senza controllo</h2>
+
+<p>Uno dei risultati più interessanti che abbiamo ottenuto grazie all&#8217;adozione di Git è la pubblicazione contemporanea di più versioni del nostro <a title="Gestionale Amica" href="http://gestionaleamica.com" target="_blank">software gestionale</a>. C&#8217;è quella ufficiale (stabile) e c&#8217;é quella <em>sperimentale</em> con una anteprima delle novità a cui stiamo ancora lavorando. E&#8217; un pò la nostra _<a title="Neutral Build" href="http://en.wikipedia.org/wiki/Neutral_build" target="_blank">night build</a> e _contiene le cose non ancora mature per affrontare il grande pubblico ma già interessanti per gli utenti più smaliziati. Nel frattempo lavoriamo anche a nuove funzionalità importanti. Queste ultime vedranno la luce solo in occasione dei rilasci più significativi (tipicamente non sono più di due o tre all&#8217;anno) e non sono incluse nelle night build. In tutto questo <em>bailamme</em> di versioni, hotfix e rilasci pubblici e interni non perdiamo una linea di codice e manteniamo i nostri repository allineati, muovendoci avanti e indietro quando necessario.</p>
+
+<p>Per ottenere un risultato così non basta il sistema di controllo versione; è necessaria anche una ottima strategia o, per meglio dire, un modello di branching ben progettato. Dopo diversi tentativi andati più o meno a vuoto la soluzione è arrivata grazie alla scoperta dello spettacolare articolo di <a title="A successful Git branching model" href="http://nvie.com/posts/a-successful-git-branching-model/" target="_blank">Vincent Driessen</a>:</p>
+
+<div id="attachment_4064" style="width: 570px" class="wp-caption aligncenter">
+  <a href="http://nvie.com/posts/a-successful-git-branching-model/"><img class="size-full wp-image-4064 " title="Un modello di branching per Git" src="http://i2.wp.com/nicolaiarocci.com/wp-content/uploads/A-successful-Git-branching-model-»-nvie.com_.png?fit=525%2C562" alt="Un modello di branching per Git" srcset="http://i2.wp.com/nicolaiarocci.com/wp-content/uploads/A-successful-Git-branching-model-»-nvie.com_.png?w=560 560w, http://i2.wp.com/nicolaiarocci.com/wp-content/uploads/A-successful-Git-branching-model-»-nvie.com_.png?resize=140%2C150 140w, http://i2.wp.com/nicolaiarocci.com/wp-content/uploads/A-successful-Git-branching-model-»-nvie.com_.png?resize=280%2C300 280w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1" /></a>
+  
+  <p class="wp-caption-text">
+    Vincent Driessen - Un modello di successo per il branching in Git
+  </p>
+</div>
+
+<p>Il modello si basa su due branch principali (master e develop) e su tre di supporto (hotfix, feature e release). Lo considero talmente valido che mi sono proposto a Vincent come curatore della traduzione italiana, solo per scoprire che qualcuno prima di me <a title="Modello di branching di Git" href="http://www.diegor.it/it/2010/07/03/howto-il-modello-di-branching-di-git/" target="_blank">ci aveva già pensato</a>: meglio così. Da quando l&#8217;ho scoperto lo applichiamo con zelo e vi consiglio di fare altrettanto, soprattutto se lavorate su progetti complessi.</p>
+
+<h2 id="non-solo-codice">Non solo codice</h2>
+
+<p>Git è utile anche per i piccoli progetti personali. Anzi, se state cominciando vi consiglio di partire proprio da uno di questi. Non è necessario che sia un programma, potrebbe benissimo trattarsi di un file di testo qualunque. Git funziona con qualunque tipo di file e in effetti viene usato con successo per progetti di scrittura, documentazione, web design e quant&#8217;altro.</p>
+
+<p>Una volta presa dimestichezza con Git non potrete più rinunciarvi, qualunque sia la portata del progetto a cui state lavorando.</p>
+    </section>
+
+
+  <footer class="post-footer">
+
+
+    
+
+
+
+
+
+
+
+
+
+<section class="author">
+  <h4><a href="https://nicolaiarocci.com/">Nicola Iarocci</a></h4>
+  
+  <p>Read <a href="https://nicolaiarocci.com/">more posts</a> by this author.</p>
+  
+  <div class="author-meta">
+    <span class="author-location icon-location">Ravenna, Italy</span>
+    <span class="author-link icon-link"><a href="https://nicolaiarocci.com">https://nicolaiarocci.com</a></span>
+  </div>
+</section>
+
+
+
+
+    
+<section class="share">
+  <h4>Share this post</h4>
+  <a class="icon-twitter" style="font-size: 1.4em" href="https://twitter.com/share?text=Branching%20di%20successo%20per%20Git&nbsp;-&nbsp;Nicola%20Iarocci&amp;url=https%3a%2f%2fnicolaiarocci.com%2fbranching-di-successo-per-git%2f"
+      onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+      <span class="hidden">Twitter</span>
+  </a>
+  <a class="icon-facebook" style="font-size: 1.4em" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fnicolaiarocci.com%2fbranching-di-successo-per-git%2f"
+      onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+      <span class="hidden">Facebook</span>
+  </a>
+  <a class="icon-pinterest" style="font-size: 1.4em" href="http://pinterest.com/pin/create/button/?url=https%3a%2f%2fnicolaiarocci.com%2fbranching-di-successo-per-git%2f&amp;description=Branching%20di%20successo%20per%20Git"
+      onclick="window.open(this.href, 'pinterest-share','width=580,height=296');return false;">
+      <span class="hidden">Pinterest</span>
+  </a>
+  <a class="icon-google-plus" style="font-size: 1.4em" href="https://plus.google.com/share?url=https%3a%2f%2fnicolaiarocci.com%2fbranching-di-successo-per-git%2f"
+     onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+      <span class="hidden">Google+</span>
+  </a>
+</section>
+
+
+
+    
+
+
+
+
+
+
+
+  </footer>
+</article>
+
+</main>
+
+
+  <aside class="read-next">
+  
+      <a class="read-next-story" style="no-cover" href="/internet-non-solo-per-gioco/">
+          <section class="post">
+              <h2>Identità Digitale e Personal Branding per studenti del liceo</h2>
+              
+          </section>
+      </a>
+  
+  
+      <a class="read-next-story prev" style="no-cover" href="/python-nella-scuola-italiana-si-puo/">
+          <section class="post">
+              <h2>Python nella scuola italiana. Si può.</h2>
+          </section>
+      </a>
+  
+</aside>
+
+
+
+    <footer class="site-footer clearfix">
+        <section class="copyright"><a href="">Nicola Iarocci</a> All rights reserved</section>
+        
+    </footer>
+    </div>
+    <script type="text/javascript" src="/js/jquery.js"></script>
+    <script type="text/javascript" src="/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="/js/index.js"></script>
+    
+</body>
+</html>
+

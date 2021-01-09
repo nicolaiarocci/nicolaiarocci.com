@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>git on Nicola Iarocci</title>
+    <link>https://nicolaiarocci.com/tags/git/</link>
+    <description>Recent content in git on Nicola Iarocci</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Wed, 11 Jun 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nicolaiarocci.com/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to handle big repositories with git</title>
+      <link>https://nicolaiarocci.com/how-to-handle-big-repositories-with-git/</link>
+      <pubDate>Wed, 11 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicolaiarocci.com/how-to-handle-big-repositories-with-git/</guid>
+      <description>git is a fantastic choice for tracking the evolution of your code base and to collaborate efficiently with your peers. But what happens when the repository you want to track is really huge?
+ via How to handle big repositories with git &amp;#8211; Atlassian Blogs.</description>
+    </item>
+    
+    <item>
+      <title>Pro Git Workflow</title>
+      <link>https://nicolaiarocci.com/pro-git-workflow/</link>
+      <pubDate>Mon, 27 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicolaiarocci.com/pro-git-workflow/</guid>
+      <description>Pro Git Workflow is an interesting collection of Git shortcuts, aliases and workflows. Nothing really new but give it a shot if you want to improve your git-fu beyond basics.</description>
+    </item>
+    
+    <item>
+      <title>On undoing, fixing, or removing commits in git</title>
+      <link>https://nicolaiarocci.com/on-undoing-fixing-or-removing-commits-in-git/</link>
+      <pubDate>Thu, 16 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicolaiarocci.com/on-undoing-fixing-or-removing-commits-in-git/</guid>
+      <description>This document is an attempt to be a fairly comprehensive guide to recovering from what you did not mean to do when using git.
+ via On undoing, fixing, or removing commits in git.</description>
+    </item>
+    
+    <item>
+      <title>Come annullare una Commit in Git</title>
+      <link>https://nicolaiarocci.com/come-annullare-una-commit-in-git/</link>
+      <pubDate>Thu, 17 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicolaiarocci.com/come-annullare-una-commit-in-git/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;alignright size-thumbnail wp-image-4967&#34; style=&#34;border-style: initial; border-color: initial; border-image: initial; border-width: 0px;&#34; title=&#34;Git Logo&#34; src=&#34;http://i0.wp.com/nicolaiarocci.com/wp-content/uploads/gitlogo-150x62.png?fit=150%2C62&#34; alt=&#34;Git Logo&#34; srcset=&#34;images/gitlogo.png?resize=150%2C62 150w, http://i1.wp.com/nicolaiarocci.com/wp-content/uploads/gitlogo.png?resize=300%2C125 300w, http://i1.wp.com/nicolaiarocci.com/wp-content/uploads/gitlogo.png?resize=500%2C208 500w, http://i1.wp.com/nicolaiarocci.com/wp-content/uploads/gitlogo.png?w=910 910w&#34; sizes=&#34;(max-width: 150px) 100vw, 150px&#34; data-recalc-dims=&#34;1&#34; /&gt;Usando &lt;a title=&#34;Git&#34; href=&#34;http://git-scm.com/&#34; target=&#34;_blank&#34;&gt;Git&lt;/a&gt; capita ogni tanto, vuoi per stanchezza o per distrazione, di lanciare commit sbagliate. Stamattina m&amp;#8217;è capitato di sistemare del codice, testarlo e fare la commit&amp;#8230; solo per scoprire di aver lavorato sulla branch sbagliata! Non è la prima volta che mi succede e non sarà nemmeno l&amp;#8217;ultima. Poiché ho scarsa memoria ogni volta mi tocca usare google e ripescare quei due o tre comandi utili in questi casi. Ho pensato di appuntarli qui, un po&amp;#8217; per metterli a disposizione di tutti, un po&amp;#8217; per poterli ritrovare facilmente.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Git si è rifatto il look (e non solo)</title>
+      <link>https://nicolaiarocci.com/git-si-e-rifatto-il-look-e-non-solo/</link>
+      <pubDate>Tue, 08 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicolaiarocci.com/git-si-e-rifatto-il-look-e-non-solo/</guid>
+      <description>Il sito del progetto Git è stato finalmente aggiornato. Nuova grafica, nuovo logo, ottimizzazione dei contenuti e soprattutto integrazione di importanti risorse prima ospitate altrove: la Git Reference, il libro ProGit, Why Git is Better Than X e il nuovo progetto Git Video Series, che include quattro bei filmati già pronti.</description>
+    </item>
+    
+    <item>
+      <title>Imparare Git un passo alla volta con Git Immersion</title>
+      <link>https://nicolaiarocci.com/imparare-git-un-passo-alla-volta-con-git-immersion/</link>
+      <pubDate>Fri, 13 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicolaiarocci.com/imparare-git-un-passo-alla-volta-con-git-immersion/</guid>
+      <description>Già sapete che Git è uno degli strumenti senza i quali non potrei più vivere, ne ho scritto anche recentemente in Branching di successo per Git e Usare Git con Dropbox. Oggi vi propongo Git Immersion, fantastico sito-laboratorio per &amp;#8220;immergersi&amp;#8221; in Git imparandolo passo dopo passo.
+  Git Immersion è un tour guidato che ti accompagna in una passeggiata tra i fondamenti di Git, ispirato dalla premessa che conoscere una cosa significa usarla.</description>
+    </item>
+    
+    <item>
+      <title>Usare Git con Dropbox</title>
+      <link>https://nicolaiarocci.com/usare-git-con-dropbox/</link>
+      <pubDate>Sat, 17 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicolaiarocci.com/usare-git-con-dropbox/</guid>
+      <description>&lt;p style=&#34;text-align: left;&#34;&gt;
+  Lavorando con &lt;a title=&#34;Branching di successo per Git&#34; href=&#34;http://nicolaiarocci.com/branching-di-successo-per-git/&#34;&gt;Git&lt;/a&gt; si può sentire l&amp;#8217;esigenza di un repository privato e condiviso tra diversi computer. Se non volete spendere soldi &lt;a title=&#34;GitHub&#34; href=&#34;https://github.com/&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; non è un&amp;#8217;opzione dato che i suoi repo privati sono a pagamento. L&amp;#8217;alternativa naturale è &lt;a title=&#34;BitBucket&#34; href=&#34;https://bitbucket.org/&#34; target=&#34;_blank&#34;&gt;BitBucket&lt;/a&gt;, che da qualche tempo supporta Git e consente la creazione gratuita di repository privati.
+&lt;/p&gt;
+
+&lt;h2 id=&#34;usare-dropbox-come-repository-git-remoto&#34;&gt;Usare Dropbox come repository Git remoto&lt;/h2&gt;
+
+&lt;p&gt;Recentemente, più che altro per curiosità, ho giocato con una terza opzione: &lt;a title=&#34;Dropbox&#34; href=&#34;http://db.tt/V8L8FFo&#34; target=&#34;_blank&#34;&gt;Dropbox&lt;/a&gt;. Per me Dropbox è uno strumento indispensabile sia per il lavoro che per le mie cose personali. Su qualunque computer io sia, ovunque mi trovi, grazie a Dropbox ho accesso al mio materiale. Dunque, mi son detto, perché non usarlo anche per il codice,  pur senza rinunciare al controllo versione offerto da Git?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://db.tt/V8L8FFo&#34;&gt;&lt;img style=&#34;border-style: initial; border-color: initial; border-image: initial; border-width: 0px;&#34; title=&#34;Dropbox&#34; src=&#34;https://nicolaiarocci.com/images/dropbox.png?resize=525%2C131&#34; alt=&#34;Dropbox&#34; data-recalc-dims=&#34;1&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ebbene ho scoperto che non solo è possibile, è anche molto semplice. In realtà non c&amp;#8217;è nulla di nuovo in quel che vi mostro, la &amp;#8216;magia&amp;#8217; la fa tutta Dropbox.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Branching di successo per Git</title>
+      <link>https://nicolaiarocci.com/branching-di-successo-per-git/</link>
+      <pubDate>Fri, 09 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicolaiarocci.com/branching-di-successo-per-git/</guid>
+      <description>&lt;p&gt;&lt;a title=&#34;Git&#34; href=&#34;http://git-scm.com/&#34; target=&#34;_blank&#34;&gt;Git&lt;/a&gt; è di gran lunga la tecnologia più significativa che il mio team ha introdotto negli ultimi tempi. Grazie a Git la nostra produttività è migliorata a tal punto che davvero non passa giorno senza che mi chieda come abbiamo potuto farne a meno così a lungo.&lt;/p&gt;
+
+&lt;p&gt;Git è un &lt;a title=&#34;Controllo versione&#34; href=&#34;http://it.wikipedia.org/wiki/Controllo_versione&#34; target=&#34;_blank&#34;&gt;sistema di controllo versione&lt;/a&gt; ideato da Linus Torvald (quello di Linux). E&amp;#8217; gratuito, multi-piattaforma, distribuito e soprattutto talmente veloce che sembra aggiungere un pizzico di magia al processo produttivo. Git è una macchina del tempo con cui spostarsi avanti e indietro tra le versioni del codice. E&amp;#8217; l&amp;#8217;ideale sia per progetti individuali che per gruppi di lavoro numerosi e distribuiti. L&amp;#8217;integrità del codice e la preservazione delle versioni sono garantite da un efficiente &amp;#8211; e veloce! &amp;#8211; sistema di &lt;em&gt;branching&lt;/em&gt; e &lt;em&gt;merging&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Se non avete mai usato prima un sistema di controllo versione (e magari ricorrete ancora a copie manuali del codice tra una release e l&amp;#8217;altra) gioite, perché Git vi cambierà la vita. Se venite da altri sistemi (Subversion, Team Foundation Server) sappiate che Git adotta un approccio fondamentalmente diverso: niente copie differenziali. In Git ogni repository è un mirror integrale della codebase; è quest&amp;#8217;accorgimento ciò che rende Git così veloce.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

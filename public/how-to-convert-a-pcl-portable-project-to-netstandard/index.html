@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+    
+        <meta name="twitter:card" content="summary"/>
+    
+
+
+
+<meta name="twitter:title" content="How to convert a PCL (Portable) project to NetStandard"/>
+<meta name="twitter:description" content=""/>
+<meta name="twitter:site" content="@"/>
+
+
+
+  	<meta property="og:title" content="How to convert a PCL (Portable) project to NetStandard &middot; Nicola Iarocci" />
+  	<meta property="og:site_name" content="Nicola Iarocci" />
+  	<meta property="og:url" content="https://nicolaiarocci.com/how-to-convert-a-pcl-portable-project-to-netstandard/" />
+
+    
+        
+    
+
+    
+    <meta property="og:description" content="" />
+  	<meta property="og:type" content="article" />
+    <meta property="article:published_time" content="2017-05-10T09:47:05&#43;02:00" />
+
+    
+    <meta property="article:tag" content=".net" />
+    
+    <meta property="article:tag" content="netstandard" />
+    
+    <meta property="article:tag" content="visual studio" />
+    
+    
+
+    <title>How to convert a PCL (Portable) project to NetStandard &middot; Nicola Iarocci</title>
+
+    
+    <meta name="description" content="I have been upgrading a few projects from their original PCL profiles (now deemed obsolete) to the Net Standard platform specification. It turned out to be a re" />
+    
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="/images/favicon.ico">
+	  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+
+    <link rel="stylesheet" type="text/css" href="/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="/css/nav.css" />
+
+    
+    <link rel="stylesheet" href="/css/custom.css">
+    
+
+    
+
+    
+      
+          <link href="/index.xml" rel="alternate" type="application/rss+xml" title="Nicola Iarocci" />
+      
+      
+    
+    <meta name="generator" content="Hugo 0.55.4" />
+
+    <link rel="canonical" href="https://nicolaiarocci.com/how-to-convert-a-pcl-portable-project-to-netstandard/" />
+
+    
+      
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name":  null 
+    },
+    "author": {
+        "@type": "Person",
+        "name":  null ,
+        
+        "url": "https://nicolaiarocci.com",
+        "sameAs": [
+            
+            
+             
+             
+             
+             
+             
+            
+        ]
+    },
+    "headline": "How to convert a PCL (Portable) project to NetStandard",
+    "name": "How to convert a PCL (Portable) project to NetStandard",
+    "wordCount":  659 ,
+    "timeRequired": "PT4M",
+    "inLanguage": {
+      "@type": "Language",
+      "alternateName": "en"
+    },
+    "url": "https://nicolaiarocci.com/how-to-convert-a-pcl-portable-project-to-netstandard/",
+    "datePublished": "2017-05-10T09:47Z",
+    "dateModified": "2017-05-10T09:47Z",
+    
+    "keywords": ".net, netstandard, visual studio",
+    "description": "",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://nicolaiarocci.com/how-to-convert-a-pcl-portable-project-to-netstandard/"
+    }
+}
+    </script>
+    
+
+
+    
+
+    
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-19006041-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+    
+</head>
+<body class="nav-closed">
+
+  <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        
+        
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/">Blog</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/about">About</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/opensource">Open Source</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/talks">Speaking</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/books-i-have-read">Reading</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/il-piccolo-libro-di-mongodb-edizione-italiana">MongoDB</a>
+            </li>
+        
+            <h3>Subscribe</h3>
+            <li class="nav-opened" role="presentation">
+            	<a href="http://eepurl.com/b-_Pzz">New posts via mail</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://nicolaiarocci.com/index.xml">RSS feed</a>
+            </li>
+        
+            <h3>Follow me</h3>
+            <li class="nav-opened" role="presentation">
+            	<a href="https://twitter.com/nicolaiarocci">Twitter</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://github.com/nicolaiarocci">Github</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://stackoverflow.com/users/323269/nicola-iarocci?tab=profile">Stack Overflow</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="http://speakerdeck.com/u/nicola">Speaker Deck</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="http://www.linkedin.com/in/nicolaiarocci">LinkedIn</a>
+            </li>
+        
+        
+    </ul>
+
+    
+    <a class="subscribe-button icon-feed" href="/index.xml">Subscribe</a>
+    
+</div>
+<span class="nav-cover"></span>
+
+
+ <div class="site-wrapper">
+
+
+
+<header class="main-header post-head no-cover">
+  <nav class="main-nav clearfix">
+
+
+  
+  
+      <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
+  
+  </nav>
+</header>
+
+
+
+<main class="content" role="main">
+
+
+
+
+  <article class="post post">
+
+    <header class="post-header">
+        <h1 class="post-title">How to convert a PCL (Portable) project to NetStandard</h1>
+        <small></small>
+
+        <section class="post-meta">
+        
+          <time class="post-date" datetime="2017-05-10T09:47:05&#43;02:00">
+            May 10, 2017
+          </time>
+        
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/.net/">#.net</a></span>
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/netstandard/">#netstandard</a></span>
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/visual-studio/">#visual studio</a></span>
+         
+        </section>
+    </header>
+
+    <section class="post-content">
+      <p>I have been upgrading a few projects from their original PCL profiles (now
+deemed obsolete) to the <a href="https://docs.microsoft.com/it-it/dotnet/articles/standard/library">Net Standard</a> platform specification. It turned out
+to be a relatively straightforward process, but it does have its small hurdles,
+especially so if in the meantime you also want to transition to the new,
+streamlined, <code>.csproj</code> format as the migration will leave you with a now
+obsolete <code>project.json</code> project. In this article, I will cover upgrading
+a project from Portable Class Library to NetStandard. In a follow-up post,
+I plan to write about the switch from <code>project.json</code> to the new <code>.csproj</code>
+format.</p>
+
+<p>So let us take the <a href="https://github.com/pyeve/Eve.NET/">Eve.NET</a> project as an example. It makes a good
+candidate because it is an open source project, so you can go and have a look
+at the source code <a href="https://github.com/pyeve/Eve.NET/tree/v0.2">before</a> and <a href="https://github.com/pyeve/Eve.NET/tree/netstandard">after</a> the switch from PCL to
+NetStandard.</p>
+
+<p>The first step was, of course, opening the project in Visual Studio 2017. If
+you are on an older VS version, you should upgrade. For many valid reasons
+indeed, among them the fact that Visual Studio 2017 comes with a built-in
+option to switch a project to NetStandard.</p>
+
+<p><img src="/images/netstandard1.png" alt="" /></p>
+
+<p>As you can see, before the upgrade Eve.NET was a Profile259 PCL project. As
+metioned, Visual Studio offers the option to switch to the .NET Platform
+Standard. By clicking the link, you get a fair warning that <em>you might not be
+able to use the same APIs when targeting NetStandard</em>. That makes sense
+because, as you probably know already, NetStandard is an API specification
+while a PCL essentially is the intersection (or lowest common denominator) of
+the APIs available on target platforms. PCL compatibility has never been the
+design goal of NetStandard.</p>
+
+<p>Generally speaking, NetStandard offers a wider range of APIs compared to most
+PCL profiles and, most importantly, is planned to go through a cycle of
+incremental upgrades of the API specification, each one denoted by a version
+number. We already went from 1.0 to 1.6, with 2.0 currently being developed.
+<a href="https://github.com/dotnet/standard/blob/master/docs/netstandard-20/README.md">NetStandard 2</a> will be a significant milestone, just give a look at the
+<a href="https://raw.githubusercontent.com/dotnet/standard/master/docs/versions/netstandard2.0_diff.md">impressive diff</a> between 1.6 and 2.0. A <em>lot</em> of open source projects are
+eagerly waiting on NetStandard 2 release (Q3 2017).</p>
+
+<p>Upon confirming the switch, you might get the following show-stopper (I did):</p>
+
+<p><img src="/images/netstandard2.png" alt="" /></p>
+
+<p>This dialog will pop up if your project never has opted-in for NuGet 3.0. If
+this is the case, you have to go back, uninstall all NuGet packages, then
+attempt the switch again. When the migration is complete, you will have to
+re-install the packages, provided that they are compatible with NetStandard. In
+Eve.NET case the only dependency is Json.NET, which supports NetStandard 1.3,
+which also means that Eve cannot support previous NetStandard versions.</p>
+
+<p>Now, if you give a look at the installed packages, you will find that you have
+a couple of new entries: <code>NETStandard.Library</code>, which is pretty
+self-explanatory, and <code>Microsoft.NETCore.Portable.Compatibility</code>. This one will
+only appear when you convert from a PCL: a brand new NetStandard project will
+not take a dependency on it. If you are not using any legacy code, like NET
+4.0-only, or Silverlight, you should be able to drop this dependency safely (I
+did with no consequences).</p>
+
+<p>The project is now NetStandard and ready to be used on all the platforms
+supporting your chosen version: NETCore, Windows, Xamarin, UWP, you name it.</p>
+
+<p>However, you will soon notice that the project has gained a <code>project.json</code>
+file. It is ok, it works just fine, but it is obsolete: with Visual Studio 2017
+project.json was abandoned for a new, streamlined and pretty darn powerful,
+<code>.csproj</code> project file. In the next article, I will show you how to move your
+project forward by dropping <code>project.json</code> and embracing the new project type
+(and other niceties, like dropping the <code>.nuspec</code> file in the process).</p>
+
+<p><em>Join the <a href="http://eepurl.com/b-_Pzz">newsletter</a> to get an email alert when a new post surfaces on
+this site. If you want to get in touch, I am @<a href="http://twitter.com/nicolaiarocci">nicolaiarocci</a> on twitter.</em></p>
+
+    </section>
+
+
+  <footer class="post-footer">
+
+
+    
+
+
+
+
+
+
+
+
+
+<section class="author">
+  <h4><a href="https://nicolaiarocci.com/">Nicola Iarocci</a></h4>
+  
+  <p>Read <a href="https://nicolaiarocci.com/">more posts</a> by this author.</p>
+  
+  <div class="author-meta">
+    <span class="author-location icon-location">Ravenna, Italy</span>
+    <span class="author-link icon-link"><a href="https://nicolaiarocci.com">https://nicolaiarocci.com</a></span>
+  </div>
+</section>
+
+
+
+
+    
+
+
+    
+
+
+
+
+
+
+
+  </footer>
+</article>
+
+</main>
+
+
+  <aside class="read-next">
+  
+      <a class="read-next-story" style="no-cover" href="/python-workload-now-officially-supported-in-visual-studio-2017/">
+          <section class="post">
+              <h2>Python Workload now officially supported in Visual Studio 2017</h2>
+              
+          </section>
+      </a>
+  
+  
+      <a class="read-next-story prev" style="no-cover" href="/eve-and-cerberus-funding-campaign/">
+          <section class="post">
+              <h2>Eve and Cerberus funding campaign</h2>
+          </section>
+      </a>
+  
+</aside>
+
+
+
+    <footer class="site-footer clearfix">
+        <section class="copyright"><a href="">Nicola Iarocci</a> All rights reserved</section>
+        
+    </footer>
+    </div>
+    <script type="text/javascript" src="/js/jquery.js"></script>
+    <script type="text/javascript" src="/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="/js/index.js"></script>
+    
+</body>
+</html>
+

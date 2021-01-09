@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>programming on Nicola Iarocci</title>
+    <link>https://nicolaiarocci.com/tags/programming/</link>
+    <description>Recent content in programming on Nicola Iarocci</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Tue, 18 Nov 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nicolaiarocci.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Obligation of The Programmer</title>
+      <link>https://nicolaiarocci.com/obligation-programmer/</link>
+      <pubDate>Tue, 18 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicolaiarocci.com/obligation-programmer/</guid>
+      <description>Robert C.Martin, of Clean Code fame, has something to say on the role of we programmers in today&amp;#8217;s society.
+ We rule the world.
+We don&amp;#8217;t quite understand this yet. More importantly, the world doesn&amp;#8217;t quite understand it yet. Our civilization doesn&amp;#8217;t quite realize how dependent it has become on software &amp;#8212; on us.
+ He goes as far as suggesting a programmer&amp;#8217;s code of conduct of sorts. Food for thought I guess, although I suspect we&amp;#8217;re too much of a wild and scattered bunch for something like that to really stick.</description>
+    </item>
+    
+    <item>
+      <title>Why Don’t More People Work As Programmers?</title>
+      <link>https://nicolaiarocci.com/dont-people-work-programmers/</link>
+      <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicolaiarocci.com/dont-people-work-programmers/</guid>
+      <description>This originally appeared on Quora and is well worth reading.
+ Becoming a good programmer is incredibly difficult and it doesn’t happen quickly. We can’t expect to plant some trees and have 2000-year-old redwoods grow overnight, regardless of the demand for them.
+ via Why Don&amp;rsquo;t More People Work As Programmers? &amp;#8211; Forbes.</description>
+    </item>
+    
+    <item>
+      <title>How to be a sane programmer</title>
+      <link>https://nicolaiarocci.com/how-to-be-a-sane-programmer/</link>
+      <pubDate>Mon, 24 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicolaiarocci.com/how-to-be-a-sane-programmer/</guid>
+      <description>But here’s the rub. Programming, like writing, painting, and music, is chiefly a creative endeavor not a technical one. Practice with any technology or language is useful as a means of learning tools and techniques, but it will not make you a substantially better programmer.
+ via How to be a sane programmer</description>
+    </item>
+    
+    <item>
+      <title>Why Good Programming Projects Go Bad</title>
+      <link>https://nicolaiarocci.com/why-good-programming-projects-go-bad/</link>
+      <pubDate>Sun, 29 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicolaiarocci.com/why-good-programming-projects-go-bad/</guid>
+      <description>Fred Brooks wrote the software development classic The Mythical Man-Month almost 40 years ago. In this interview, Brooks explains why managers still make the same mistakes.
+ via Why Good Programming Projects Go Bad.</description>
+    </item>
+    
+    <item>
+      <title>The Future of Programming</title>
+      <link>https://nicolaiarocci.com/the-future-of-programming/</link>
+      <pubDate>Wed, 31 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicolaiarocci.com/the-future-of-programming/</guid>
+      <description>Bret Victor on Vimeo.</description>
+    </item>
+    
+  </channel>
+</rss>

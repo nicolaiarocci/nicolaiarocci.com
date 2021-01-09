@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+    
+        <meta name="twitter:card" content="summary"/>
+    
+
+
+
+<meta name="twitter:title" content="Inserire un marchio nelle immagini via JavaScript"/>
+<meta name="twitter:description" content=""/>
+<meta name="twitter:site" content="@"/>
+
+
+
+  	<meta property="og:title" content="Inserire un marchio nelle immagini via JavaScript &middot; Nicola Iarocci" />
+  	<meta property="og:site_name" content="Nicola Iarocci" />
+  	<meta property="og:url" content="https://nicolaiarocci.com/il-marchio-nelle-immagini-via-javascript/" />
+
+    
+        
+    
+
+    
+    <meta property="og:description" content="" />
+  	<meta property="og:type" content="article" />
+    <meta property="article:published_time" content="2011-04-05T00:00:00Z" />
+
+    
+    <meta property="article:tag" content="html" />
+    
+    <meta property="article:tag" content="immagini" />
+    
+    <meta property="article:tag" content="javascript" />
+    
+    <meta property="article:tag" content="watermark" />
+    
+    <meta property="article:tag" content="watermark.js" />
+    
+    
+
+    <title>Inserire un marchio nelle immagini via JavaScript &middot; Nicola Iarocci</title>
+
+    
+    <meta name="description" content="&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://www.patrick-wied.at/static/watermarkjs/&#34;&gt;Watermark.js&lt;/a&gt;&lt;/strong&gt; è una libreria JavaScript che aggiunge un &lt;a href=&#34;http://it.wikip" />
+    
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="/images/favicon.ico">
+	  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+
+    <link rel="stylesheet" type="text/css" href="/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="/css/nav.css" />
+
+    
+    <link rel="stylesheet" href="/css/custom.css">
+    
+
+    
+
+    
+      
+          <link href="/index.xml" rel="alternate" type="application/rss+xml" title="Nicola Iarocci" />
+      
+      
+    
+    <meta name="generator" content="Hugo 0.55.4" />
+
+    <link rel="canonical" href="https://nicolaiarocci.com/il-marchio-nelle-immagini-via-javascript/" />
+
+    
+      
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name":  null 
+    },
+    "author": {
+        "@type": "Person",
+        "name":  null ,
+        
+        "url": "https://nicolaiarocci.com",
+        "sameAs": [
+            
+            
+             
+             
+             
+             
+             
+            
+        ]
+    },
+    "headline": "Inserire un marchio nelle immagini via JavaScript",
+    "name": "Inserire un marchio nelle immagini via JavaScript",
+    "wordCount":  371 ,
+    "timeRequired": "PT2M",
+    "inLanguage": {
+      "@type": "Language",
+      "alternateName": "en"
+    },
+    "url": "https://nicolaiarocci.com/il-marchio-nelle-immagini-via-javascript/",
+    "datePublished": "2011-04-05T00:00Z",
+    "dateModified": "2011-04-05T00:00Z",
+    
+    "keywords": "html, immagini, javascript, watermark, watermark.js",
+    "description": "",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://nicolaiarocci.com/il-marchio-nelle-immagini-via-javascript/"
+    }
+}
+    </script>
+    
+
+
+    
+
+    
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-19006041-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+    
+</head>
+<body class="nav-closed">
+
+  <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        
+        
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/">Blog</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/about">About</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/opensource">Open Source</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/talks">Speaking</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/books-i-have-read">Reading</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/il-piccolo-libro-di-mongodb-edizione-italiana">MongoDB</a>
+            </li>
+        
+            <h3>Subscribe</h3>
+            <li class="nav-opened" role="presentation">
+            	<a href="http://eepurl.com/b-_Pzz">New posts via mail</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://nicolaiarocci.com/index.xml">RSS feed</a>
+            </li>
+        
+            <h3>Follow me</h3>
+            <li class="nav-opened" role="presentation">
+            	<a href="https://twitter.com/nicolaiarocci">Twitter</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://github.com/nicolaiarocci">Github</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://stackoverflow.com/users/323269/nicola-iarocci?tab=profile">Stack Overflow</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="http://speakerdeck.com/u/nicola">Speaker Deck</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="http://www.linkedin.com/in/nicolaiarocci">LinkedIn</a>
+            </li>
+        
+        
+    </ul>
+
+    
+    <a class="subscribe-button icon-feed" href="/index.xml">Subscribe</a>
+    
+</div>
+<span class="nav-cover"></span>
+
+
+ <div class="site-wrapper">
+
+
+
+<header class="main-header post-head no-cover">
+  <nav class="main-nav clearfix">
+
+
+  
+  
+      <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
+  
+  </nav>
+</header>
+
+
+
+<main class="content" role="main">
+
+
+
+
+  <article class="post post">
+
+    <header class="post-header">
+        <h1 class="post-title">Inserire un marchio nelle immagini via JavaScript</h1>
+        <small></small>
+
+        <section class="post-meta">
+        
+          <time class="post-date" datetime="2011-04-05T00:00:00Z">
+            Apr 5, 2011
+          </time>
+        
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/html/">#html</a></span>
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/immagini/">#immagini</a></span>
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/javascript/">#javascript</a></span>
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/watermark/">#watermark</a></span>
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/watermark.js/">#watermark.js</a></span>
+         
+        </section>
+    </header>
+
+    <section class="post-content">
+      <p><strong><a href="http://www.patrick-wied.at/static/watermarkjs/">Watermark.js</a></strong> è una libreria JavaScript che aggiunge un <a href="http://it.wikipedia.org/wiki/Watermark_(informatica)" target="_blank">watermark</a> (letteralmente <em>filigrana</em>, ovvero un logo o un marchio) alle immagini presenti sulle pagine web. Contrassegnare le immagini in modo permanente è utile a proteggerle dalla copia oppure, al contrario, ad approfittare della loro riproduzione per diffondere un marchio (<a href="http://en.wikipedia.org/wiki/Brand_awareness">brand awareness</a>). Usare watermark.js è semplice, vediamo quanto.</p>
+
+<div id="attachment_2000" style="width: 490px" class="wp-caption aligncenter">
+  <img class="size-full wp-image-2000" title="Watermark" src="http://i2.wp.com/nicolaiarocci.com/wp-content/uploads/watermarked.png?fit=480%2C315" alt="Watermark" srcset="http://i2.wp.com/nicolaiarocci.com/wp-content/uploads/watermarked.png?w=480 480w, http://i2.wp.com/nicolaiarocci.com/wp-content/uploads/watermarked.png?resize=150%2C98 150w, http://i2.wp.com/nicolaiarocci.com/wp-content/uploads/watermarked.png?resize=300%2C196 300w, http://i2.wp.com/nicolaiarocci.com/wp-content/uploads/watermarked.png?resize=457%2C300 457w" sizes="(max-width: 480px) 100vw, 480px" data-recalc-dims="1" />
+  
+  <p class="wp-caption-text">
+    Inseriamo dinamicamente il nostro brand nelle immagini del sito
+  </p>
+</div>
+
+<h2 id="come-usare-watermark-js">Come usare watermark.js</h2>
+
+<p>La libreria innesta il marchio nelle immagini marcate con la classe CSS &#8220;watermark&#8221;. Se il nome della classe non piace è possibile cambiarlo. Se il nostro watermark è in formato JPG la libreria aggiunge per noi un livello di trasparenza, altrimenti possiamo fornirle i più idonei formati PNG e GIF.</p>
+
+<p>Prima di tutto inseriamo il riferimento allo script. E&#8217; consigliabile inserirlo in fondo alla pagina, subito prima della chiusura del tag</p>
+
+<p><code>body</code></p>
+
+<pre class="brush:js">&lt;script src="../watermark.js"&gt;&lt;/script&gt;</pre>
+
+<p>Al caricamento della pagina chiamamo il metodo <code>wmark.init</code></p>
+
+<pre class="brush:js">&lt;script&gt;
+    var load = false;
+    window.onload = function() {
+        if (!load) {
+            wmark.init({
+                /* configurazione */
+                "position": "top-right", // default "bottom-right"
+                "opacity": 50, // default 50
+                "className": "watermark", // default "watermark"
+                "path": "http://www.patrick-wied.at/static/watermarkjs/demos/img/watermark.png"
+                });
+            load = true;
+        }
+    }
+&lt;/script&gt;</pre>
+
+<p>La variabile <code>load</code> agisce come un flag e serve a evitare che il codice venga eseguito ad ogni postback. Infine aggiorniamo i tag HTML delle immagini a cui vogliamo aggiungere il nostro watermark</p>
+
+<pre class="brush:xml">&lt;img src="img/test1.jpg" class="watermark" /&gt;</pre>
+
+<p>E questo è tutto.</p>
+
+<p>Sul <a href="http://www.patrick-wied.at/static/watermarkjs/" target="_blank">sito ufficiale</a> sono disponibili un paio di demo funzionanti. La <a href="http://www.patrick-wied.at/static/watermarkjs/demos/demo2.html" target="_blank">seconda</a> mostra un uso senz&#8217;altro originale della libreria: l&#8217;inserimento di <a href="http://www.patrick-wied.at/static/watermarkjs/demos/demo2.html" target="_blank">Codici QR</a> nelle immagini. Trattandosi di un progetto open source è possibile scaricare anche il <a href="https://github.com/pa7/watermark.js" target="_blank">codice sorgente</a> di watermark.js.</p>
+
+<h2 id="non-tutto-è-oro-quel-che-luccica">Non tutto è oro quel che luccica</h2>
+
+<p>Essendo implementata lato client, la protezione delle immagini non è certo garantita al cento per cento. Dobbiamo decidere cosa è più importante, l&#8217;inviolabilità delle nostre immagini o la comodità di non doverle ritoccare prima di inviarle al server. Altro fattore da non trascurare è il calo di prestazioni. Il codice JavaScript deve caricare il watermark e inserirlo nell&#8217;immagine originale. Il tempo di caricamento potrebbe risentirne, soprattutto nel caso di pagine ricche di immagini.</p>
+
+<p>Watermark.js è un progetto interessante e ingegnoso che va usato tenendo ben presente i suoi pregi e tutte le possibili controindicazioni.</p>
+    </section>
+
+
+  <footer class="post-footer">
+
+
+    
+
+
+
+
+
+
+
+
+
+<section class="author">
+  <h4><a href="https://nicolaiarocci.com/">Nicola Iarocci</a></h4>
+  
+  <p>Read <a href="https://nicolaiarocci.com/">more posts</a> by this author.</p>
+  
+  <div class="author-meta">
+    <span class="author-location icon-location">Ravenna, Italy</span>
+    <span class="author-link icon-link"><a href="https://nicolaiarocci.com">https://nicolaiarocci.com</a></span>
+  </div>
+</section>
+
+
+
+
+    
+<section class="share">
+  <h4>Share this post</h4>
+  <a class="icon-twitter" style="font-size: 1.4em" href="https://twitter.com/share?text=Inserire%20un%20marchio%20nelle%20immagini%20via%20JavaScript&nbsp;-&nbsp;Nicola%20Iarocci&amp;url=https%3a%2f%2fnicolaiarocci.com%2fil-marchio-nelle-immagini-via-javascript%2f"
+      onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+      <span class="hidden">Twitter</span>
+  </a>
+  <a class="icon-facebook" style="font-size: 1.4em" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fnicolaiarocci.com%2fil-marchio-nelle-immagini-via-javascript%2f"
+      onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+      <span class="hidden">Facebook</span>
+  </a>
+  <a class="icon-pinterest" style="font-size: 1.4em" href="http://pinterest.com/pin/create/button/?url=https%3a%2f%2fnicolaiarocci.com%2fil-marchio-nelle-immagini-via-javascript%2f&amp;description=Inserire%20un%20marchio%20nelle%20immagini%20via%20JavaScript"
+      onclick="window.open(this.href, 'pinterest-share','width=580,height=296');return false;">
+      <span class="hidden">Pinterest</span>
+  </a>
+  <a class="icon-google-plus" style="font-size: 1.4em" href="https://plus.google.com/share?url=https%3a%2f%2fnicolaiarocci.com%2fil-marchio-nelle-immagini-via-javascript%2f"
+     onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+      <span class="hidden">Google+</span>
+  </a>
+</section>
+
+
+
+    
+
+
+
+
+
+
+
+  </footer>
+</article>
+
+</main>
+
+
+  <aside class="read-next">
+  
+      <a class="read-next-story" style="no-cover" href="/come-scoprire-i-font-di-una-pagina-web/">
+          <section class="post">
+              <h2>Come scoprire i font di una pagina web?</h2>
+              
+          </section>
+      </a>
+  
+  
+      <a class="read-next-story prev" style="no-cover" href="/google-speed-ora-e-anche-online/">
+          <section class="post">
+              <h2>Google Speed ora è anche Online</h2>
+          </section>
+      </a>
+  
+</aside>
+
+
+
+    <footer class="site-footer clearfix">
+        <section class="copyright"><a href="">Nicola Iarocci</a> All rights reserved</section>
+        
+    </footer>
+    </div>
+    <script type="text/javascript" src="/js/jquery.js"></script>
+    <script type="text/javascript" src="/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="/js/index.js"></script>
+    
+</body>
+</html>
+

@@ -1,0 +1,562 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+    
+        <meta name="twitter:card" content="summary"/>
+    
+
+
+
+<meta name="twitter:title" content="Introduzione alle Regular Expression – Terza Parte"/>
+<meta name="twitter:description" content=""/>
+<meta name="twitter:site" content="@"/>
+
+
+
+  	<meta property="og:title" content="Introduzione alle Regular Expression – Terza Parte &middot; Nicola Iarocci" />
+  	<meta property="og:site_name" content="Nicola Iarocci" />
+  	<meta property="og:url" content="https://nicolaiarocci.com/introduzione-alle-regular-expression-terza-parte/" />
+
+    
+        
+    
+
+    
+    <meta property="og:description" content="" />
+  	<meta property="og:type" content="article" />
+    <meta property="article:published_time" content="2011-03-03T00:00:00Z" />
+
+    
+    <meta property="article:tag" content="programmazione" />
+    
+    <meta property="article:tag" content="regex" />
+    
+    <meta property="article:tag" content="regular expression" />
+    
+    <meta property="article:tag" content="tutorial" />
+    
+    
+
+    <title>Introduzione alle Regular Expression – Terza Parte &middot; Nicola Iarocci</title>
+
+    
+    <meta name="description" content="Benvenuto alla terza e ultima parte della nostra Introduzione alle Regular Expression. Concluso il capitolo sarai in grado di affrontare la maggior parte dei pr" />
+    
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="/images/favicon.ico">
+	  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+
+    <link rel="stylesheet" type="text/css" href="/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="/css/nav.css" />
+
+    
+    <link rel="stylesheet" href="/css/custom.css">
+    
+
+    
+
+    
+      
+          <link href="/index.xml" rel="alternate" type="application/rss+xml" title="Nicola Iarocci" />
+      
+      
+    
+    <meta name="generator" content="Hugo 0.55.4" />
+
+    <link rel="canonical" href="https://nicolaiarocci.com/introduzione-alle-regular-expression-terza-parte/" />
+
+    
+      
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name":  null 
+    },
+    "author": {
+        "@type": "Person",
+        "name":  null ,
+        
+        "url": "https://nicolaiarocci.com",
+        "sameAs": [
+            
+            
+             
+             
+             
+             
+             
+            
+        ]
+    },
+    "headline": "Introduzione alle Regular Expression – Terza Parte",
+    "name": "Introduzione alle Regular Expression – Terza Parte",
+    "wordCount":  829 ,
+    "timeRequired": "PT4M",
+    "inLanguage": {
+      "@type": "Language",
+      "alternateName": "en"
+    },
+    "url": "https://nicolaiarocci.com/introduzione-alle-regular-expression-terza-parte/",
+    "datePublished": "2011-03-03T00:00Z",
+    "dateModified": "2011-03-03T00:00Z",
+    
+    "keywords": "programmazione, regex, regular expression, tutorial",
+    "description": "",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://nicolaiarocci.com/introduzione-alle-regular-expression-terza-parte/"
+    }
+}
+    </script>
+    
+
+
+    
+
+    
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-19006041-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+    
+</head>
+<body class="nav-closed">
+
+  <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        
+        
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/">Blog</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/about">About</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/opensource">Open Source</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/talks">Speaking</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/books-i-have-read">Reading</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/il-piccolo-libro-di-mongodb-edizione-italiana">MongoDB</a>
+            </li>
+        
+            <h3>Subscribe</h3>
+            <li class="nav-opened" role="presentation">
+            	<a href="http://eepurl.com/b-_Pzz">New posts via mail</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://nicolaiarocci.com/index.xml">RSS feed</a>
+            </li>
+        
+            <h3>Follow me</h3>
+            <li class="nav-opened" role="presentation">
+            	<a href="https://twitter.com/nicolaiarocci">Twitter</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://github.com/nicolaiarocci">Github</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://stackoverflow.com/users/323269/nicola-iarocci?tab=profile">Stack Overflow</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="http://speakerdeck.com/u/nicola">Speaker Deck</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="http://www.linkedin.com/in/nicolaiarocci">LinkedIn</a>
+            </li>
+        
+        
+    </ul>
+
+    
+    <a class="subscribe-button icon-feed" href="/index.xml">Subscribe</a>
+    
+</div>
+<span class="nav-cover"></span>
+
+
+ <div class="site-wrapper">
+
+
+
+<header class="main-header post-head no-cover">
+  <nav class="main-nav clearfix">
+
+
+  
+  
+      <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
+  
+  </nav>
+</header>
+
+
+
+<main class="content" role="main">
+
+
+
+
+  <article class="post post">
+
+    <header class="post-header">
+        <h1 class="post-title">Introduzione alle Regular Expression – Terza Parte</h1>
+        <small></small>
+
+        <section class="post-meta">
+        
+          <time class="post-date" datetime="2011-03-03T00:00:00Z">
+            Mar 3, 2011
+          </time>
+        
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/programmazione/">#programmazione</a></span>
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/regex/">#regex</a></span>
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/regular-expression/">#regular expression</a></span>
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/tutorial/">#tutorial</a></span>
+         
+        </section>
+    </header>
+
+    <section class="post-content">
+      
+
+<p>Benvenuto alla terza e ultima parte della nostra <em>Introduzione alle Regular
+Expression</em>. Concluso il capitolo sarai  in grado di affrontare la maggior
+parte dei problemi di ricerca nel testo. Se ancora non l&rsquo;hai fatto ti
+consiglio di leggere la <a href="http://nicolaiarocci.com/introduzione-alle-regular-expression-prima-parte/">Prima Parte</a> e la <a href="http://nicolaiarocci.com/introduzione-alle-regular-expression-seconda-parte/">Seconda Parte</a>. Ricorda che
+puoi usare la <a href="http://regexpal.com/" target="_blank">pagina di
+prova</a> per testare le query della guida.</p>
+
+<h2 id="avidità">Avidità</h2>
+
+<p>Il problema della avidità degli operatori regex diventa evidente quando si
+comincia a lavorare su ricerche avanzate. Un caso tipico è il parsing di file
+XML o HTML.</p>
+
+<pre><code>&lt;p&gt;questo è un &lt;b&gt;paragrafo&lt;/b&gt;&lt;/p&gt;
+</code></pre>
+
+<p>Supponiamo di voler trovare tutti i tag usati.</p>
+
+<pre><code>&lt;.*&gt; # cerca tutti i tag
+</code></pre>
+
+<p>Il risultato della query non è quello che ci si potrebbe aspettare.
+L&rsquo;operatore <code>*</code> è <em>avido</em>, ovvero cerca di catturare più caratteri
+possibili. Una volta trovato il primo <code>&lt;</code> prosegue avidamente selezionando tutto
+fino all&rsquo;ultimo <code>&gt;</code>. In questo caso vogliamo che si fermi al primo <code>&gt;</code>, non
+all&rsquo;ultimo. E&rsquo; questa una distinzione importante, da comprendere
+a fondo. Possiamo disattivare il comportamento avido aggiungendo il carattere?</p>
+
+<pre><code>&lt;.*?&gt; # ora otteniamo quel che vogliamo (niente avidità)
+</code></pre>
+
+<p>Se desideriamo usare l&rsquo;operatore <code>+</code> (1 o più) al posto del <code>*</code> (zero o più),
+la nostra query diventa <code>&lt;.+?&gt;</code>.</p>
+
+<h2 id="confini">Confini</h2>
+
+<p>Nella <a href="http://nicolaiarocci.com/introduzione-alle-regular-expression-seconda-parte/">seconda parte</a> del nostro tutorial abbiamo convalidato un numero
+telefonico nel formato 555-12345678</p>
+
+<pre><code>555-\d{8}   # 555- seguito da 8 cifre
+</code></pre>
+
+<p>Anche se tecnicamente corretta questa query non è perfetta. Se la testiamo con
+queste stringhe:</p>
+
+<pre><code>testoDavanti 555-12345678
+555-12345678 il mio telefono
+</code></pre>
+
+<p>scopriamo che vengono accettate perché la regola <code>555-\d{8}</code> è ancora valida.
+In realtà noi desideriamo accettare il solo il numero telefonico, niente
+altro. La soluzione richiede l&rsquo;uso degli operatori di confine:</p>
+
+<pre><code>^555-\d{8}$
+</code></pre>
+
+<p>I confini sono caratteri speciali perché non occupano spazio. Sono dei
+segnaposto che servono a delimitare il testo da cercare. Dopo l&rsquo;inizio
+<code>(^)</code> deve esserci il nostro numero di telefono; prima della fine <code>($)</code> deve
+esserci il nostro numero di telefono.</p>
+
+<table style="padding: 10px; width: 100%; background-color: #f8f8f8; text-align: left; margin-bottom: 10px;">
+  <tr>
+    <th>
+      confine
+    </th>
+    
+    <th>
+      significato
+    </th>
+  </tr>
+  
+  <tr>
+    <td style="vertical-align: top;">
+      ^
+    </td>
+    
+    <td style="vertical-align: top;">
+      Inizio del testo. Sfortunatamente gli inventori di regex hanno scelto lo stesso carattere usato per la negazione. E&#8217; importante riconoscerne il significato in base al contesto. Quando non è compreso tra [ e ] il carattere ^ è un confine e indica l&#8217;inizio del testo.
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      $
+    </td>
+    
+    <td>
+      fine del testo
+    </td>
+  </tr>
+</table>
+
+<p>Quindi</p>
+
+<pre><code>a   #  trova qualunque a
+^a  #  trova solo il testo che comincia per a
+a$  #  trova solo il testo che finisce per a
+</code></pre>
+
+<p>C&rsquo;è un altro confine, quello di parola <code>(\b)</code>. Vediamo un esempio. Vogliamo
+cercare le parole &ldquo;for&rdquo; e &ldquo;she&rdquo; nella nostra <a href="http://regexpal.com/"
+target="_blank">pagina di test</a>.</p>
+
+<pre><code>(for|she)  # trova for e she
+</code></pre>
+
+<p>Non va male. Trova tutte le occorrenze di &ldquo;she&rdquo; e &ldquo;for&rdquo;, tuttavia viene
+selezionata anche la parola &ldquo;before&rdquo;. Non è il comportamento desiderato.
+Potremmo tentare cercando solo le occorrenze precedute e succedute da uno
+spazio.</p>
+
+<pre><code>[ ](for|she)[ ]  # cerca for o she
+</code></pre>
+
+<p>Va meglio. Non seleziona più before. Abbiamo però un nuovo problema. Nel testo
+c&rsquo;è la frase &ldquo;for she had plenty of time&rdquo;. La nostra regex non ha individuato
+la parola &ldquo;she&rdquo; contenuta nella frase. Per quale motivo?</p>
+
+<pre><code>for she had plenty of time
+</code></pre>
+
+<p>Con il &ldquo;for&rdquo; iniziale abbiamo già rintracciato lo spazio che precede &ldquo;she&rdquo;, che
+quindi viene escluso. Sono queste le situazioni un cui un confine di parola può
+risolvere il problema.</p>
+
+<pre><code>\b(for|she)\b  # trova she oppure for
+</code></pre>
+
+<p>Il confine <code>\b</code> definisce dove la parola comincia e finisce, proprio come
+succede con i confini visti prima. Abbiamo detto prima che i &ldquo;confini non
+occupano spazio&rdquo;. Nell&rsquo;esempio qui sopra cerchiamo esattamente
+&ldquo;for&rdquo; o &ldquo;she&rdquo;. Non cerchiamo la stringa <code>\b</code> e questa non occupa alcuno spazio
+durante la ricerca, a differenza di quel che è successo quando abbiamo tentato
+di usare la <code>[cornice]</code>. E&rsquo; un dettaglio importate perché con tutti gli
+altri operatori regex ciò che è nella query &ldquo;occupa spazio&rdquo; e non
+può essere trovato <em>di nuovo</em>.</p>
+
+<h2 id="il-finale-ricerca-e-sostituzione">Il Finale: Ricerca e Sostituzione</h2>
+
+<p>Ce l&rsquo;hai fatta! Sei arrivato in fondo. Congratulazioni. Il meglio arriva ora.
+Ricerca e sostituzione è senz&rsquo;altro il mio argomento preferito. Qui la pagina
+di test non ci può aiutare, occorre qualche tipo di editor oppure una IDE
+(Eclipse/Notepad++/Wordpad).</p>
+
+<p>Supponiamo di avere un file composto da 100 righe come queste</p>
+
+<pre><code>31-01-10_backup32
+24-01-10_backup1
+24-02-10_backup_mona
+11-03-09_backup_lisa
+</code></pre>
+
+<p>Vogliamo correggere le date portandole dal formato europeo a quello americano
+(da <code>gg-mm-aa</code> a <code>mm-gg-aaaa</code>).</p>
+
+<pre><code>\d{2}-\d{2}-\d{2}_backup.*  // trova le nostre righe
+</code></pre>
+
+<p>Per ogni riga desideriamo sostituire aree specifiche quindi ricorriamo
+all&rsquo;operatore di raggruppamento già visto nella <a href="http://nicolaiarocci.com/introduzione-alle-regular-expression-seconda-parte/">seconda parte</a> di
+questa guida.</p>
+
+<pre><code>(\d{2})-(\d{2})-(\d{2})_backup(.*)  // ci siamo
+</code></pre>
+
+<p>A questo punto tutto quel che dobbiamo fare è sostituire le righe trovate con</p>
+
+<p><span style="color: #ff0000;">{Gruppo2}</span>&#8211;<span style="color: #ff0000;">{Gruppo1}</span>-20<span style="color: #ff0000;">{Gruppo3}</span>_backup<span style="color: #ff0000;">{Gruppo4}</span></p>
+
+<p>Il che si traduce nella seguente espressione di sostituzione</p>
+
+<pre><code>\2-\1-20\3_backup\4
+</code></pre>
+
+<p>Facile no? Niente più lavori ripetitivi. La mia regola è: se un testo richiede
+la modifica di più di cinque righe è giunta l&rsquo;ora di ricorrere alle
+regex. Potrebbe sembrare una esagerazione. Eppure un programmatore dovrebbe
+rifiutarsi per principio di ripetere manualmente un lavoro che può essere
+automatizzato.</p>
+
+<p>Buona fortuna.</p>
+
+<p>Questo articolo è una traduzione autorizzata di <a href="http://www.agillo.net/regex-primer-part-3/">Regex Primer: Part 3</a>.
+Ringrazio l&rsquo;autore per il permesso accordatomi.</p>
+
+    </section>
+
+
+  <footer class="post-footer">
+
+
+    
+
+
+
+
+
+
+
+
+
+<section class="author">
+  <h4><a href="https://nicolaiarocci.com/">Nicola Iarocci</a></h4>
+  
+  <p>Read <a href="https://nicolaiarocci.com/">more posts</a> by this author.</p>
+  
+  <div class="author-meta">
+    <span class="author-location icon-location">Ravenna, Italy</span>
+    <span class="author-link icon-link"><a href="https://nicolaiarocci.com">https://nicolaiarocci.com</a></span>
+  </div>
+</section>
+
+
+
+
+    
+<section class="share">
+  <h4>Share this post</h4>
+  <a class="icon-twitter" style="font-size: 1.4em" href="https://twitter.com/share?text=Introduzione%20alle%20Regular%20Expression%20%e2%80%93%20Terza%20Parte&nbsp;-&nbsp;Nicola%20Iarocci&amp;url=https%3a%2f%2fnicolaiarocci.com%2fintroduzione-alle-regular-expression-terza-parte%2f"
+      onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+      <span class="hidden">Twitter</span>
+  </a>
+  <a class="icon-facebook" style="font-size: 1.4em" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fnicolaiarocci.com%2fintroduzione-alle-regular-expression-terza-parte%2f"
+      onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+      <span class="hidden">Facebook</span>
+  </a>
+  <a class="icon-pinterest" style="font-size: 1.4em" href="http://pinterest.com/pin/create/button/?url=https%3a%2f%2fnicolaiarocci.com%2fintroduzione-alle-regular-expression-terza-parte%2f&amp;description=Introduzione%20alle%20Regular%20Expression%20%e2%80%93%20Terza%20Parte"
+      onclick="window.open(this.href, 'pinterest-share','width=580,height=296');return false;">
+      <span class="hidden">Pinterest</span>
+  </a>
+  <a class="icon-google-plus" style="font-size: 1.4em" href="https://plus.google.com/share?url=https%3a%2f%2fnicolaiarocci.com%2fintroduzione-alle-regular-expression-terza-parte%2f"
+     onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+      <span class="hidden">Google+</span>
+  </a>
+</section>
+
+
+
+    
+
+
+
+
+
+
+
+  </footer>
+</article>
+
+</main>
+
+
+  <aside class="read-next">
+  
+      <a class="read-next-story" style="no-cover" href="/microsoft-mi-tocca-boicottare-pure-ie6countdown-com/">
+          <section class="post">
+              <h2>Microsoft, mi tocca boicottare pure IE6countdown.com</h2>
+              
+          </section>
+      </a>
+  
+  
+      <a class="read-next-story prev" style="no-cover" href="/tempo-mostrare-dati-json-con-solo-codice-html/">
+          <section class="post">
+              <h2>TEMPO: mostrare dati JSON con solo codice HTML</h2>
+          </section>
+      </a>
+  
+</aside>
+
+
+
+    <footer class="site-footer clearfix">
+        <section class="copyright"><a href="">Nicola Iarocci</a> All rights reserved</section>
+        
+    </footer>
+    </div>
+    <script type="text/javascript" src="/js/jquery.js"></script>
+    <script type="text/javascript" src="/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="/js/index.js"></script>
+    
+</body>
+</html>
+

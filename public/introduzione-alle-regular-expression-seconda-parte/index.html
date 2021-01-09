@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+    
+        <meta name="twitter:card" content="summary"/>
+    
+
+
+
+<meta name="twitter:title" content="Introduzione alle Regular Expression – Seconda Parte"/>
+<meta name="twitter:description" content=""/>
+<meta name="twitter:site" content="@"/>
+
+
+
+  	<meta property="og:title" content="Introduzione alle Regular Expression – Seconda Parte &middot; Nicola Iarocci" />
+  	<meta property="og:site_name" content="Nicola Iarocci" />
+  	<meta property="og:url" content="https://nicolaiarocci.com/introduzione-alle-regular-expression-seconda-parte/" />
+
+    
+        
+    
+
+    
+    <meta property="og:description" content="" />
+  	<meta property="og:type" content="article" />
+    <meta property="article:published_time" content="2011-02-26T00:00:00Z" />
+
+    
+    <meta property="article:tag" content="programmazione" />
+    
+    <meta property="article:tag" content="regex" />
+    
+    <meta property="article:tag" content="regular expression" />
+    
+    <meta property="article:tag" content="tutorial" />
+    
+    
+
+    <title>Introduzione alle Regular Expression – Seconda Parte &middot; Nicola Iarocci</title>
+
+    
+    <meta name="description" content="Questa è la seconda parte della serie Introduzione alle Regular Expression. Se non hai ancora letto la prima parte ti consiglio di farlo. Puoi usare la pagina d" />
+    
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="/images/favicon.ico">
+	  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+
+    <link rel="stylesheet" type="text/css" href="/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="/css/nav.css" />
+
+    
+    <link rel="stylesheet" href="/css/custom.css">
+    
+
+    
+
+    
+      
+          <link href="/index.xml" rel="alternate" type="application/rss+xml" title="Nicola Iarocci" />
+      
+      
+    
+    <meta name="generator" content="Hugo 0.55.4" />
+
+    <link rel="canonical" href="https://nicolaiarocci.com/introduzione-alle-regular-expression-seconda-parte/" />
+
+    
+      
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name":  null 
+    },
+    "author": {
+        "@type": "Person",
+        "name":  null ,
+        
+        "url": "https://nicolaiarocci.com",
+        "sameAs": [
+            
+            
+             
+             
+             
+             
+             
+            
+        ]
+    },
+    "headline": "Introduzione alle Regular Expression – Seconda Parte",
+    "name": "Introduzione alle Regular Expression – Seconda Parte",
+    "wordCount":  777 ,
+    "timeRequired": "PT4M",
+    "inLanguage": {
+      "@type": "Language",
+      "alternateName": "en"
+    },
+    "url": "https://nicolaiarocci.com/introduzione-alle-regular-expression-seconda-parte/",
+    "datePublished": "2011-02-26T00:00Z",
+    "dateModified": "2011-02-26T00:00Z",
+    
+    "keywords": "programmazione, regex, regular expression, tutorial",
+    "description": "",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://nicolaiarocci.com/introduzione-alle-regular-expression-seconda-parte/"
+    }
+}
+    </script>
+    
+
+
+    
+
+    
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-19006041-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+    
+</head>
+<body class="nav-closed">
+
+  <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        
+        
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/">Blog</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/about">About</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/opensource">Open Source</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/talks">Speaking</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/books-i-have-read">Reading</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/il-piccolo-libro-di-mongodb-edizione-italiana">MongoDB</a>
+            </li>
+        
+            <h3>Subscribe</h3>
+            <li class="nav-opened" role="presentation">
+            	<a href="http://eepurl.com/b-_Pzz">New posts via mail</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://nicolaiarocci.com/index.xml">RSS feed</a>
+            </li>
+        
+            <h3>Follow me</h3>
+            <li class="nav-opened" role="presentation">
+            	<a href="https://twitter.com/nicolaiarocci">Twitter</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://github.com/nicolaiarocci">Github</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://stackoverflow.com/users/323269/nicola-iarocci?tab=profile">Stack Overflow</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="http://speakerdeck.com/u/nicola">Speaker Deck</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="http://www.linkedin.com/in/nicolaiarocci">LinkedIn</a>
+            </li>
+        
+        
+    </ul>
+
+    
+    <a class="subscribe-button icon-feed" href="/index.xml">Subscribe</a>
+    
+</div>
+<span class="nav-cover"></span>
+
+
+ <div class="site-wrapper">
+
+
+
+<header class="main-header post-head no-cover">
+  <nav class="main-nav clearfix">
+
+
+  
+  
+      <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
+  
+  </nav>
+</header>
+
+
+
+<main class="content" role="main">
+
+
+
+
+  <article class="post post">
+
+    <header class="post-header">
+        <h1 class="post-title">Introduzione alle Regular Expression – Seconda Parte</h1>
+        <small></small>
+
+        <section class="post-meta">
+        
+          <time class="post-date" datetime="2011-02-26T00:00:00Z">
+            Feb 26, 2011
+          </time>
+        
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/programmazione/">#programmazione</a></span>
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/regex/">#regex</a></span>
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/regular-expression/">#regular expression</a></span>
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/tutorial/">#tutorial</a></span>
+         
+        </section>
+    </header>
+
+    <section class="post-content">
+      
+
+<p>Questa è la seconda parte della serie <em>Introduzione alle Regular Expression</em>.
+Se non hai ancora letto la <a href="http://nicolaiarocci.com/introduzione-alle-regular-expression-prima-parte/">prima parte</a> ti consiglio di farlo. Puoi usare
+la <a href="http://regexpal.com/" target="_blank">pagina demo</a> per provare
+le query della guida.</p>
+
+<h2 id="negazione">Negazione [^]</h2>
+
+<p>Abbiamo già conosciuto la <code>[cornice]</code>. Una caratteristica importante di cui non
+abbiamo ancora parlato è la negazione. Supponiamo di voler cercare qualunque
+carattere <em>eccetto la lettera a</em>.</p>
+
+<pre><code>[^a] # trova b,c,d,e,f,\n .... qualunque carattere eccetto 'a'
+</code></pre>
+
+<p>La negazione si applica a tutti i caratteri della cornice in cui compare
+l&rsquo;operatore <code>ˆ</code>. Non è possibile limitarla a solo alcuni.</p>
+
+<pre><code>[^0123456789] # trova qualunque carattere non numerico
+</code></pre>
+
+<h2 id="gli-alias">Gli Alias</h2>
+
+<p>Ora siamo pronti per affrontare qualche esempio realistico di regular
+expression. Uno degli usi più frequenti delle regex è la convalida di Stringhe.
+Proviamo a verificare la correttezza di un ipotetico numero telefonico da
+esprimere nel formato 555-12345678. Di norma divideremmo l&rsquo;input in due
+parti e proveremmo a convertirle in numeri. Ora tuttavia conosciamo le regex
+e possiamo sbrigarcela meglio.</p>
+
+<pre><code>555-[0-9]{7}
+</code></pre>
+
+<p>Fatto. Stiamo convalidando 555 seguito da un trattino seguito da 7 caratteri
+numerici. Possiamo essere addirittura più sintetici, vediamo come.</p>
+
+<p>I range <code>[0-9]</code> e <code>[a-z]</code>  sono talmente frequenti da saltar fuori continuamente,
+tanto che sono state create scorciatoie (alias) dedicate ai range più usati.
+Nel nostro caso ci torna utile <code>\d</code>, che sta per digit (carattere numerico)
+ed è semanticamente identico a <code>[0-9]</code>.</p>
+
+<pre><code>555-\d{7} # identico a 555-[0-9]{7}
+</code></pre>
+
+<p>Gli alias non sono certo indispensabili, puoi ottenere gli stessi risultati
+usando la cornice in modo esteso. Tuttavia sono molto comodi.</p>
+
+<table style="padding: 10px; width: 100%; background-color: #f8f8f8; text-align: left; margin-bottom: 10px;">
+  <tr>
+    <th>
+      alias
+    </th>
+    
+    <th>
+      significato
+    </th>
+    
+    <th>
+      coorrisponde a
+    </th>
+  </tr>
+  
+  <tr>
+    <td>
+      \d
+    </td>
+    
+    <td>
+      digit (numero)
+    </td>
+    
+    <td>
+      [0-9]
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      \w
+    </td>
+    
+    <td>
+      word (parola)
+    </td>
+    
+    <td>
+      [a-zA-Z0-9_]  Include il carattere underscore
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      \s
+    </td>
+    
+    <td>
+      spazio, tab o newline
+    </td>
+    
+    <td>
+      [ \t\r\n]
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      \D
+    </td>
+    
+    <td>
+      qualsiasi non numerico
+    </td>
+    
+    <td>
+      ^\d
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      \W
+    </td>
+    
+    <td>
+      quasiasi non alfanumerico
+    </td>
+    
+    <td>
+      ^\w
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      \S
+    </td>
+    
+    <td>
+      quasiasi ma non lo spazio
+    </td>
+    
+    <td>
+      ^\s
+    </td>
+  </tr>
+</table>
+
+<p><strong>Suggerimento:</strong> nota come ad ogni alias ne corrisponde uno dal significato
+opposto, tutto in maiuscolo. Impara i primi tre per conoscerli tutti e sei.</p>
+
+<h2 id="il-punto">Il Punto</h2>
+
+<p>Il punto è un alias un pò speciale. Ne parlo soprattutto perchè può capitare di
+notarlo nel codice scritto da altri. Il punto cerca tutto eccetto il new line
+(<code>\n</code>). Il problema è che il carattere new line non è lo stesso su tutte le
+piattaforme.</p>
+
+<pre><code>.   # trova tutti i caratteri
+.*  # equivalente a [^\n], trova tutti i paragrafi
+</code></pre>
+
+<p>Il punto spesso crea confusione. Consiglio di ricorrere a combinazioni di alias
+e cornici per ottenere gli stessi risultati senza rischiare errori.</p>
+
+<h2 id="escaping">Escaping</h2>
+
+<p>Capita a volte di dover cercare proprio il punto, oppure i caratteri [ o ].
+Poiché fanno parte della sintassi regex in questi casi è necessario riccorrere
+all&rsquo;escaping, ovvero precederli col carattere <code>\</code> che rappresenta
+l&rsquo;escape. Per esempio</p>
+
+<pre><code>\.    # cerca il punto invece che tutto quanto
+\*    # trova tutti gli asterischi
+\\    # trova tutti gli escape
+</code></pre>
+
+<h2 id="raggruppamenti-e-or">Raggruppamenti e OR</h2>
+
+<p>Torniamo alla convalida. Questa volta vogliamo verificare la validità di un
+indirizzo email. Prima di tutto stabiliamo le regole (semplificate) a cui una
+stringa deve attenersi per venire convalidata come indirizzo email: 1) il nome
+utente può contenere lettere, numeri, underscore e trattini ma deve cominciare
+con una lettera; 2) il dominio può contenere solo lettere seguite da un punto
+seguito da altre lettere. Quindi domain.fakecom è valido per noi</p>
+
+<pre><code>[a-z][\w-]*@[a-z]+\.[a-z]+
+</code></pre>
+
+<p>Presta attenzione all&rsquo;escaping del punto! Un&rsquo;altro dettaglio
+importante è il quantificatore <code>+</code> che abbiamo visto nel <a href="http://nicolaiarocci.com/introduzione-alle-regular-expression-prima-parte/">primo articolo</a> di
+questa serie. Nel dominio infatti vogliamo <em>almeno</em> una lettera, non zero
+o più.</p>
+
+<p>Supponiamo ora di voler aggiornare le regole in modo da convalidare solo
+i domini più importanti. Il nostro indirizzo email deve finire con com oppure
+net. Non possiamo risolvere questo problema con quel che abbiamo imparato
+finora. La nostra query regex dovrà ricorrere a due nuovi concetti,
+l&rsquo;operatore OR e i gruppi.</p>
+
+<pre><code>[a-z][\w-]*@[a-z]+\.(com|net)
+</code></pre>
+
+<p>Vediamo l&rsquo;OR all&rsquo;opera</p>
+
+<pre><code>com|net  #  trova com oppure net
+a|b|c    # lo stesso di [abc].
+</code></pre>
+
+<p>L&rsquo;aggiunta delle parentesi () si rende necessaria per chiarire che non
+vogliamo trovare <em>tutte</em> le occorrenze della parte di regex alla loro sinistra.
+Se volessimo &ldquo;Brad Pitt&rdquo; oppure &ldquo;Angelina Pitt&rdquo;</p>
+
+<pre><code>Brad|Angelina Pitt  # trova sia 'Brad' che 'Angelina Pitt'
+(Brad|Angelina) Pitt  # ora ci siamo!
+</code></pre>
+
+<p>Per un programmatore il concetto del raggruppamento (grouping) con le parentesi
+dovrebbe essere facilmente comprensibile. Di fatto possiamo combinarlo con
+altri operatori che già conosciamo</p>
+
+<pre><code>(dog)+   #  trova dog,dogdog,dogdogdog ...
+java(bean)?    #  trova java o javabean
+</code></pre>
+
+<h2 id="conclusione">Conclusione</h2>
+
+<p>Questo conclude la seconda parte della guida. La prossima e ultima parte verrà
+pubblicata tra qualche giorno. Nel frattempo raccomando di giocare con la <a
+href="http://regexpal.com/" target="_blank">pagina demo</a> per fare un
+pò di pratica.</p>
+
+<p>E&rsquo; ora disponibile anche la <a href="http://nicolaiarocci.com/introduzione-alle-regular-expression-terza-parte/">terza parte</a> di questo tutorial.</p>
+
+<p>Questo articolo è una traduzione autorizzata di <a href="http://www.agillo.net/regex-primer-part-2/">Regex Primer: Part 2</a>. Ringrazio l&rsquo;autore per il permesso accordatomi.</p>
+
+    </section>
+
+
+  <footer class="post-footer">
+
+
+    
+
+
+
+
+
+
+
+
+
+<section class="author">
+  <h4><a href="https://nicolaiarocci.com/">Nicola Iarocci</a></h4>
+  
+  <p>Read <a href="https://nicolaiarocci.com/">more posts</a> by this author.</p>
+  
+  <div class="author-meta">
+    <span class="author-location icon-location">Ravenna, Italy</span>
+    <span class="author-link icon-link"><a href="https://nicolaiarocci.com">https://nicolaiarocci.com</a></span>
+  </div>
+</section>
+
+
+
+
+    
+<section class="share">
+  <h4>Share this post</h4>
+  <a class="icon-twitter" style="font-size: 1.4em" href="https://twitter.com/share?text=Introduzione%20alle%20Regular%20Expression%20%e2%80%93%20Seconda%20Parte&nbsp;-&nbsp;Nicola%20Iarocci&amp;url=https%3a%2f%2fnicolaiarocci.com%2fintroduzione-alle-regular-expression-seconda-parte%2f"
+      onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+      <span class="hidden">Twitter</span>
+  </a>
+  <a class="icon-facebook" style="font-size: 1.4em" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fnicolaiarocci.com%2fintroduzione-alle-regular-expression-seconda-parte%2f"
+      onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+      <span class="hidden">Facebook</span>
+  </a>
+  <a class="icon-pinterest" style="font-size: 1.4em" href="http://pinterest.com/pin/create/button/?url=https%3a%2f%2fnicolaiarocci.com%2fintroduzione-alle-regular-expression-seconda-parte%2f&amp;description=Introduzione%20alle%20Regular%20Expression%20%e2%80%93%20Seconda%20Parte"
+      onclick="window.open(this.href, 'pinterest-share','width=580,height=296');return false;">
+      <span class="hidden">Pinterest</span>
+  </a>
+  <a class="icon-google-plus" style="font-size: 1.4em" href="https://plus.google.com/share?url=https%3a%2f%2fnicolaiarocci.com%2fintroduzione-alle-regular-expression-seconda-parte%2f"
+     onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+      <span class="hidden">Google+</span>
+  </a>
+</section>
+
+
+
+    
+
+
+
+
+
+
+
+  </footer>
+</article>
+
+</main>
+
+
+  <aside class="read-next">
+  
+      <a class="read-next-story" style="no-cover" href="/programmazione-seo-startups-il-meglio-della-settimana-2/">
+          <section class="post">
+              <h2>Programmazione, SEO, Startups – Il Meglio della Settimana #2</h2>
+              
+          </section>
+      </a>
+  
+  
+      <a class="read-next-story prev" style="no-cover" href="/introduzione-alle-regular-expression-prima-parte/">
+          <section class="post">
+              <h2>Introduzione alle Regular Expression – Prima Parte</h2>
+          </section>
+      </a>
+  
+</aside>
+
+
+
+    <footer class="site-footer clearfix">
+        <section class="copyright"><a href="">Nicola Iarocci</a> All rights reserved</section>
+        
+    </footer>
+    </div>
+    <script type="text/javascript" src="/js/jquery.js"></script>
+    <script type="text/javascript" src="/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="/js/index.js"></script>
+    
+</body>
+</html>
+

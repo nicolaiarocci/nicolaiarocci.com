@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+    
+        <meta name="twitter:card" content="summary"/>
+    
+
+
+
+<meta name="twitter:title" content="Introducing SimpleObjectCache a simple cross-platform object cache for .NET systems"/>
+<meta name="twitter:description" content=""/>
+<meta name="twitter:site" content="@"/>
+
+
+
+  	<meta property="og:title" content="Introducing SimpleObjectCache a simple cross-platform object cache for .NET systems &middot; Nicola Iarocci" />
+  	<meta property="og:site_name" content="Nicola Iarocci" />
+  	<meta property="og:url" content="https://nicolaiarocci.com/introducing-simpleobjectcache-a-simple-cross-platform-object-cache-for-net-systems/" />
+
+    
+        
+    
+
+    
+    <meta property="og:description" content="" />
+  	<meta property="og:type" content="article" />
+    <meta property="article:published_time" content="2016-07-20T00:00:00Z" />
+
+    
+    <meta property="article:tag" content=".net" />
+    
+    <meta property="article:tag" content="open source" />
+    
+    
+
+    <title>Introducing SimpleObjectCache a simple cross-platform object cache for .NET systems &middot; Nicola Iarocci</title>
+
+    
+    <meta name="description" content="SimpleObjectCache is a very simple permanent, cross-platform, asynchronous key-value object cache for .NET. It comes with built-in SQLite 3 support. Alternative" />
+    
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="/images/favicon.ico">
+	  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+
+    <link rel="stylesheet" type="text/css" href="/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="/css/nav.css" />
+
+    
+    <link rel="stylesheet" href="/css/custom.css">
+    
+
+    
+
+    
+      
+          <link href="/index.xml" rel="alternate" type="application/rss+xml" title="Nicola Iarocci" />
+      
+      
+    
+    <meta name="generator" content="Hugo 0.55.4" />
+
+    <link rel="canonical" href="https://nicolaiarocci.com/introducing-simpleobjectcache-a-simple-cross-platform-object-cache-for-net-systems/" />
+
+    
+      
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name":  null 
+    },
+    "author": {
+        "@type": "Person",
+        "name":  null ,
+        
+        "url": "https://nicolaiarocci.com",
+        "sameAs": [
+            
+            
+             
+             
+             
+             
+             
+            
+        ]
+    },
+    "headline": "Introducing SimpleObjectCache a simple cross-platform object cache for .NET systems",
+    "name": "Introducing SimpleObjectCache a simple cross-platform object cache for .NET systems",
+    "wordCount":  385 ,
+    "timeRequired": "PT2M",
+    "inLanguage": {
+      "@type": "Language",
+      "alternateName": "en"
+    },
+    "url": "https://nicolaiarocci.com/introducing-simpleobjectcache-a-simple-cross-platform-object-cache-for-net-systems/",
+    "datePublished": "2016-07-20T00:00Z",
+    "dateModified": "2016-07-20T00:00Z",
+    
+    "keywords": ".net, open source",
+    "description": "",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://nicolaiarocci.com/introducing-simpleobjectcache-a-simple-cross-platform-object-cache-for-net-systems/"
+    }
+}
+    </script>
+    
+
+
+    
+
+    
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-19006041-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+    
+</head>
+<body class="nav-closed">
+
+  <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        
+        
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/">Blog</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/about">About</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/opensource">Open Source</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/talks">Speaking</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/books-i-have-read">Reading</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/il-piccolo-libro-di-mongodb-edizione-italiana">MongoDB</a>
+            </li>
+        
+            <h3>Subscribe</h3>
+            <li class="nav-opened" role="presentation">
+            	<a href="http://eepurl.com/b-_Pzz">New posts via mail</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://nicolaiarocci.com/index.xml">RSS feed</a>
+            </li>
+        
+            <h3>Follow me</h3>
+            <li class="nav-opened" role="presentation">
+            	<a href="https://twitter.com/nicolaiarocci">Twitter</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://github.com/nicolaiarocci">Github</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://stackoverflow.com/users/323269/nicola-iarocci?tab=profile">Stack Overflow</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="http://speakerdeck.com/u/nicola">Speaker Deck</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="http://www.linkedin.com/in/nicolaiarocci">LinkedIn</a>
+            </li>
+        
+        
+    </ul>
+
+    
+    <a class="subscribe-button icon-feed" href="/index.xml">Subscribe</a>
+    
+</div>
+<span class="nav-cover"></span>
+
+
+ <div class="site-wrapper">
+
+
+
+<header class="main-header post-head no-cover">
+  <nav class="main-nav clearfix">
+
+
+  
+  
+      <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
+  
+  </nav>
+</header>
+
+
+
+<main class="content" role="main">
+
+
+
+
+  <article class="post post">
+
+    <header class="post-header">
+        <h1 class="post-title">Introducing SimpleObjectCache a simple cross-platform object cache for .NET systems</h1>
+        <small></small>
+
+        <section class="post-meta">
+        
+          <time class="post-date" datetime="2016-07-20T00:00:00Z">
+            Jul 20, 2016
+          </time>
+        
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/.net/">#.net</a></span>
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/open-source/">#open source</a></span>
+         
+        </section>
+    </header>
+
+    <section class="post-content">
+      
+
+<p><a href="https://github.com/nicolaiarocci/SimpleObjectCache">SimpleObjectCache</a> is a very simple permanent, cross-platform, asynchronous key-value object cache for .NET. It comes with built-in <a href="https://www.sqlite.org">SQLite 3</a> support. Alternative backends can be added by implementing the <code>IObjectCache</code> or <code>IBulkObjectCache</code> interfaces.</p>
+
+<h2 id="how-it-works">How it works</h2>
+
+<p>First, you need to set the <code>ApplicatioName</code>. This is also going to be the folder where your cache will reside. Depending on the host OS the location of this folder might be different. On Windows it would be something like <code>C:\ProgramData\&lt;ApplicationName&gt;\SimpleObjectCache</code>.</p>
+
+<p>Let&#8217;s instantiate SimpleObjectCache so we can use it:</p>
+
+<script type="application/javascript" src="//gist.github.com/nicolaiarocci/8ad25dc8a892adb6a7428a3e5177edcd.js"></script>
+
+<p>Now we create a <code>Person</code>, then store it into our cache.</p>
+
+<script type="application/javascript" src="//gist.github.com/nicolaiarocci/a45090fde90ce0fb210a1c000c9bd9ae.js"></script>
+
+<p>As we insert an object into the cache we can also set its expiration date:</p>
+
+<script type="application/javascript" src="//gist.github.com/nicolaiarocci/61e55e36e4e602a4ef025bf08df6617b.js"></script>
+
+<p>Inserting an object with an already existing key, which we just did, will overwrite the previous object with the same key. Retrieving the object is a matter of providing its key:</p>
+
+<script type="application/javascript" src="//gist.github.com/nicolaiarocci/30a890e120b10f0d4258d0e5f34e40f8.js"></script>
+
+<p>To remove the object from the cache we use the <code>Invalidate</code> method:</p>
+
+<script type="application/javascript" src="//gist.github.com/nicolaiarocci/303a88046f0ad546f22eed84f45d6099.js"></script>
+
+<p>Bulk inserts are also possible:</p>
+
+<script type="application/javascript" src="//gist.github.com/nicolaiarocci/2654b88bc3f7fe818dfa8ac862599728.js"></script>
+
+<p>Note that we just set the Tom and Mike expiration date to yesterday. Now let&#8217;s add John again. For him however, we set an expiration date which is bigger than Tom&#8217;s and Mike&#8217;s:</p>
+
+<script type="application/javascript" src="//gist.github.com/nicolaiarocci/abf9444dc7d87b175d6249506d5ef568.js"></script>
+
+<p>The <code>Vacuum</code> method removes expired objects from the cache. So Tom and Mike, whose dates are passed, are going to be purged by the following command:</p>
+
+<script type="application/javascript" src="//gist.github.com/nicolaiarocci/729bf7604e06caacffbf761054829c74.js"></script>
+
+<p>Now let&#8217;s get all the available <code>Person</code> objects from the cache.</p>
+
+<script type="application/javascript" src="//gist.github.com/nicolaiarocci/a69e45d088d6d104ebe20a480405d6ba.js"></script>
+
+<p>Since Tom and Mike are gone, we only got one object back, and that&#8217;s our very own little John.</p>
+
+<h2 id="installation">Installation</h2>
+
+<p>SimpleObjectCache is on <a href="https://www.nuget.org/packages/SimpleObjectCache/">NuGet</a>. Run the following command on the Package Manager Console:</p>
+
+<script type="application/javascript" src="//gist.github.com/nicolaiarocci/758165b8800d9dba483b8a50373d964c.js"></script>
+
+<p>Or install via the NuGet Package Manager in Visual Studio.</p>
+
+<h2 id="wrapping-it-up">Wrapping it up</h2>
+
+<p>We needed a simple cache that we could use as a component of our cross-platform storage system (more on that in a future post). We wanted the cache to also run seamlessly on the old .NET 4.0 framework. Unfortunately <a href="https://github.com/akavache/Akavache">Akavache</a>, to which this project is blatantly inspired, does not run on .NET4, so I decided to roll out my own simplified alternative. This project also offered a great occasion get my feet wet with bait-and-switch portable classes and a few other interesting challenges.</p>
+
+<p>Currently supported platforms are iOS and Android (Xamarin) and .NET Framework versions 4.0 and .NET 4.5+.</p>
+
+<p>If you want to get in touch, I am @<a href="http://twitter.com/nicolaiarocci">nicolaiarocci</a> on Twitter.</p>
+
+    </section>
+
+
+  <footer class="post-footer">
+
+
+    
+
+
+
+
+
+
+
+
+
+<section class="author">
+  <h4><a href="https://nicolaiarocci.com/">Nicola Iarocci</a></h4>
+  
+  <p>Read <a href="https://nicolaiarocci.com/">more posts</a> by this author.</p>
+  
+  <div class="author-meta">
+    <span class="author-location icon-location">Ravenna, Italy</span>
+    <span class="author-link icon-link"><a href="https://nicolaiarocci.com">https://nicolaiarocci.com</a></span>
+  </div>
+</section>
+
+
+
+
+    
+<section class="share">
+  <h4>Share this post</h4>
+  <a class="icon-twitter" style="font-size: 1.4em" href="https://twitter.com/share?text=Introducing%20SimpleObjectCache%20a%20simple%20cross-platform%20object%20cache%20for%20.NET%20systems&nbsp;-&nbsp;Nicola%20Iarocci&amp;url=https%3a%2f%2fnicolaiarocci.com%2fintroducing-simpleobjectcache-a-simple-cross-platform-object-cache-for-net-systems%2f"
+      onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+      <span class="hidden">Twitter</span>
+  </a>
+  <a class="icon-facebook" style="font-size: 1.4em" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fnicolaiarocci.com%2fintroducing-simpleobjectcache-a-simple-cross-platform-object-cache-for-net-systems%2f"
+      onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+      <span class="hidden">Facebook</span>
+  </a>
+  <a class="icon-pinterest" style="font-size: 1.4em" href="http://pinterest.com/pin/create/button/?url=https%3a%2f%2fnicolaiarocci.com%2fintroducing-simpleobjectcache-a-simple-cross-platform-object-cache-for-net-systems%2f&amp;description=Introducing%20SimpleObjectCache%20a%20simple%20cross-platform%20object%20cache%20for%20.NET%20systems"
+      onclick="window.open(this.href, 'pinterest-share','width=580,height=296');return false;">
+      <span class="hidden">Pinterest</span>
+  </a>
+  <a class="icon-google-plus" style="font-size: 1.4em" href="https://plus.google.com/share?url=https%3a%2f%2fnicolaiarocci.com%2fintroducing-simpleobjectcache-a-simple-cross-platform-object-cache-for-net-systems%2f"
+     onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+      <span class="hidden">Google+</span>
+  </a>
+</section>
+
+
+
+    
+
+
+
+
+
+
+
+  </footer>
+</article>
+
+</main>
+
+
+  <aside class="read-next">
+  
+      <a class="read-next-story" style="no-cover" href="/eve-sdk-for-net-v0-2-is-out-in-the-wild/">
+          <section class="post">
+              <h2>Eve SDK for .NET v0.2 is out in the wild</h2>
+              
+          </section>
+      </a>
+  
+  
+      <a class="read-next-story prev" style="no-cover" href="/evegenie-makes-eve-schema-generation-breeze/">
+          <section class="post">
+              <h2>EveGenie makes Eve schema generation a breeze</h2>
+          </section>
+      </a>
+  
+</aside>
+
+
+
+    <footer class="site-footer clearfix">
+        <section class="copyright"><a href="">Nicola Iarocci</a> All rights reserved</section>
+        
+    </footer>
+    </div>
+    <script type="text/javascript" src="/js/jquery.js"></script>
+    <script type="text/javascript" src="/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="/js/index.js"></script>
+    
+</body>
+</html>
+

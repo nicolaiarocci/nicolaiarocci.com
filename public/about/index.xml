@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Nicola Iarocci</title>
+    <link>https://nicolaiarocci.com/about/index.xml</link>
+    <description>Recent content in About on Nicola Iarocci</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>All rights reserved - 2017</copyright>
+    <lastBuildDate>Mon, 22 Nov 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://nicolaiarocci.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>https://nicolaiarocci.com/about/</link>
+      <pubDate>Mon, 22 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicolaiarocci.com/about/</guid>
+      <description>
+
+&lt;p&gt;This is the website of Nicola Iarocci. I&amp;#8217;m a coder at heart author of
+several &lt;a href=&#34;http://nicolaiarocci.com/opensource/&#34;&gt;open source projects&lt;/a&gt;, a &lt;a href=&#34;https://mvp.microsoft.com/en-us/PublicProfile/5001717&#34;&gt;Microsoft MVP&lt;/a&gt;, &lt;a href=&#34;https://www.mongodb.org/community/masters&#34;&gt;MongoDB
+Master&lt;/a&gt;, &lt;a href=&#34;http://nicolaiarocci.com/talks/&#34;&gt;Conference Speaker&lt;/a&gt; and teacher. I live in Ravenna, Italy,
+where I work on the &lt;a href=&#34;http://gestionaleamica.com/&#34;&gt;Amica 10&lt;/a&gt; project. In my hometown I also run the &lt;a href=&#34;http://coderdojoravenna.it/&#34;&gt;local
+CoderDojo&lt;/a&gt;, a coding club for kids.&lt;/p&gt;
+
+&lt;p&gt;I am a former competitive runner and climber now keeping myself busy with
+swimming and bodyweight training. I love reading &lt;a href=&#34;http://nicolaiarocci.com/books-i-have-read/&#34;&gt;good books&lt;/a&gt;, hiking in the
+wilderness and riding my Triumph Bonneville. I have three awesome kids and
+a beautiful wife.&lt;/p&gt;
+
+&lt;p&gt;My all time favourite quote:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Only those who will risk going too far can possibly find out how far one can
+go &amp;#8211; T.S. Eliot&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;find-me-on&#34;&gt;Find me on&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/nicolaiarocci&#34;&gt;Twitter&lt;/a&gt; (you should follow me)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nicolaiarocci&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/users/323269/nicola-iarocci&#34;&gt;Stack Overflow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.linkedin.com/in/nicolaiarocci&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://speakerdeck.com/u/nicola&#34;&gt;Speaker Deck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.slideshare.net/nicolaiarocci&#34;&gt;Slideshare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.goodreads.com/user/show/4665453-nicola&#34;&gt;GoodReads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:nicola@nicolaiarocci.com&#34;&gt;Mail&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-long-version-italian&#34;&gt;The long version (italian)&lt;/h2&gt;
+
+&lt;p&gt;Ho cominciato a scrivere codice a metà degli anni &amp;#8217;80, ai tempi del
+&lt;a href=&#34;http://it.wikipedia.org/wiki/Sinclair_ZX_Spectrum&#34;&gt;Sinclair ZX Spectrum&lt;/a&gt; e del &lt;a href=&#34;http://it.wikipedia.org/wiki/Commodore_64&#34;&gt;Commodore 64&lt;/a&gt;. Erano i gloriosi anni dei
+modem a 300 baud, delle &lt;a href=&#34;http://it.wikipedia.org/wiki/Bulletin_board_system&#34;&gt;BBS&lt;/a&gt;, di &lt;a href=&#34;http://it.wikipedia.org/wiki/FidoNet&#34;&gt;FidoNet&lt;/a&gt;, &lt;a href=&#34;http://it.wikipedia.org/wiki/CompuServe&#34;&gt;CompuServe&lt;/a&gt;,
+&lt;a href=&#34;http://www.2600.com/&#34;&gt;2600&lt;/a&gt;, &lt;a href=&#34;http://it.wikipedia.org/wiki/ITAPAC&#34;&gt;ITAPAC&lt;/a&gt; e del &lt;a href=&#34;http://it.wikipedia.org/wiki/Chaos_Computer_Club&#34;&gt;Chaos Computer Club&lt;/a&gt;. Eravamo ragazzini
+sfrontati, &lt;a href=&#34;http://it.wikipedia.org/wiki/SysOp&#34;&gt;Sysop&lt;/a&gt; e Hackers fin troppo sicuri delle nostre capacità
+e inebriati dalle continue rivoluzioni tecnologiche che cavalcavamo pestando
+furiosamente sulle nostre tastiere.&lt;/p&gt;
+
+&lt;p&gt;Nel 1991 con un amico ho fondato CIR 2000, prima incarnazione di quella che poi
+è diventata Bisanzio Software Srl, azienda specializzata in software gestionali
+per la piccola e micro impresa italiana. In  venti anni di attività
+professionale mi sono sempre occupato di progettazione e sviluppo di
+applicazioni software lavorando sui sistemi operativi che man mano si
+avvicendavano, dal MS-DOS ai più recenti sistemi Windows, OSX / Unix
+e piattaforme di Cloud Computing. Ancora oggi lavoro in CIR 2000 e sono lead
+programmer per il progetto &lt;a title=&#34;Gestionale Amica&#34;
+href=&#34;http://gestionaleamica.com/&#34; target=&#34;_blank&#34;&gt;Amica 10&lt;/a&gt;. Sono inoltre
+consulente, docente e &lt;a href=&#34;http://nicolaiarocci.com/talks/&#34;&gt;divulgatore&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Gli strumenti di lavoro quotidiani si chiamano C#, Python, JavaScript, Cloud
+Services (Amazon AWS, Heroku), MongoDB, SQL Server e Xamarin per lo sviluppo di
+applicazioni mobili. Sono entusiasta sostenitore del mondo &lt;a href=&#34;http://nicolaiarocci.com/opensource/&#34;&gt;Open Source&lt;/a&gt;,
+forse perché tanto mi ricordano la filosofia e l&amp;#8217;entusiasmo dei tempi
+andati. Oggi come allora sono alla ricerca di nuove opportunità e cose da
+imparare.&lt;/p&gt;
+
+&lt;p&gt;Quando non scrivo codice sono un corridore &lt;del
+datetime=&#34;2011-11-13T16:47:20+00:00&#34;&gt;agonista&lt;/del&gt;, un nuotatore, un amante
+della montagna e delle terre selvagge, un lettore accanito e soprattutto il
+padre orgoglioso di tre meravigliosi bambini.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

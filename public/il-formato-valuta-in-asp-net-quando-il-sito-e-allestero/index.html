@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+    
+        <meta name="twitter:card" content="summary"/>
+    
+
+
+
+<meta name="twitter:title" content="Il Formato Valuta in ASP.NET quando il sito è all’estero"/>
+<meta name="twitter:description" content=""/>
+<meta name="twitter:site" content="@"/>
+
+
+
+  	<meta property="og:title" content="Il Formato Valuta in ASP.NET quando il sito è all’estero &middot; Nicola Iarocci" />
+  	<meta property="og:site_name" content="Nicola Iarocci" />
+  	<meta property="og:url" content="https://nicolaiarocci.com/il-formato-valuta-in-asp-net-quando-il-sito-e-allestero/" />
+
+    
+        
+    
+
+    
+    <meta property="og:description" content="" />
+  	<meta property="og:type" content="article" />
+    <meta property="article:published_time" content="2011-03-28T00:00:00Z" />
+
+    
+    <meta property="article:tag" content=".net" />
+    
+    <meta property="article:tag" content="asp.net" />
+    
+    <meta property="article:tag" content="programmazione" />
+    
+    <meta property="article:tag" content="web" />
+    
+    
+
+    <title>Il Formato Valuta in ASP.NET quando il sito è all’estero &middot; Nicola Iarocci</title>
+
+    
+    <meta name="description" content="&lt;p&gt;Una settimana fa abbiamo lanciato il nuovo sito del &lt;a href=&#34;http://gestionaleamica.com&#34; title=&#34;Gestionale Amica&#34;&gt;Gestionale Amica&lt;/a&gt;, il nostro prodotto di" />
+    
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="/images/favicon.ico">
+	  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+
+    <link rel="stylesheet" type="text/css" href="/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="/css/nav.css" />
+
+    
+    <link rel="stylesheet" href="/css/custom.css">
+    
+
+    
+
+    
+      
+          <link href="/index.xml" rel="alternate" type="application/rss+xml" title="Nicola Iarocci" />
+      
+      
+    
+    <meta name="generator" content="Hugo 0.55.4" />
+
+    <link rel="canonical" href="https://nicolaiarocci.com/il-formato-valuta-in-asp-net-quando-il-sito-e-allestero/" />
+
+    
+      
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name":  null 
+    },
+    "author": {
+        "@type": "Person",
+        "name":  null ,
+        
+        "url": "https://nicolaiarocci.com",
+        "sameAs": [
+            
+            
+             
+             
+             
+             
+             
+            
+        ]
+    },
+    "headline": "Il Formato Valuta in ASP.NET quando il sito è all’estero",
+    "name": "Il Formato Valuta in ASP.NET quando il sito è all’estero",
+    "wordCount":  590 ,
+    "timeRequired": "PT3M",
+    "inLanguage": {
+      "@type": "Language",
+      "alternateName": "en"
+    },
+    "url": "https://nicolaiarocci.com/il-formato-valuta-in-asp-net-quando-il-sito-e-allestero/",
+    "datePublished": "2011-03-28T00:00Z",
+    "dateModified": "2011-03-28T00:00Z",
+    
+    "keywords": ".net, asp.net, programmazione, web",
+    "description": "",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://nicolaiarocci.com/il-formato-valuta-in-asp-net-quando-il-sito-e-allestero/"
+    }
+}
+    </script>
+    
+
+
+    
+
+    
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-19006041-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+    
+</head>
+<body class="nav-closed">
+
+  <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        
+        
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/">Blog</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/about">About</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/opensource">Open Source</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/talks">Speaking</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/books-i-have-read">Reading</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/il-piccolo-libro-di-mongodb-edizione-italiana">MongoDB</a>
+            </li>
+        
+            <h3>Subscribe</h3>
+            <li class="nav-opened" role="presentation">
+            	<a href="http://eepurl.com/b-_Pzz">New posts via mail</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://nicolaiarocci.com/index.xml">RSS feed</a>
+            </li>
+        
+            <h3>Follow me</h3>
+            <li class="nav-opened" role="presentation">
+            	<a href="https://twitter.com/nicolaiarocci">Twitter</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://github.com/nicolaiarocci">Github</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="https://stackoverflow.com/users/323269/nicola-iarocci?tab=profile">Stack Overflow</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="http://speakerdeck.com/u/nicola">Speaker Deck</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="http://www.linkedin.com/in/nicolaiarocci">LinkedIn</a>
+            </li>
+        
+        
+    </ul>
+
+    
+    <a class="subscribe-button icon-feed" href="/index.xml">Subscribe</a>
+    
+</div>
+<span class="nav-cover"></span>
+
+
+ <div class="site-wrapper">
+
+
+
+<header class="main-header post-head no-cover">
+  <nav class="main-nav clearfix">
+
+
+  
+  
+      <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
+  
+  </nav>
+</header>
+
+
+
+<main class="content" role="main">
+
+
+
+
+  <article class="post post">
+
+    <header class="post-header">
+        <h1 class="post-title">Il Formato Valuta in ASP.NET quando il sito è all’estero</h1>
+        <small></small>
+
+        <section class="post-meta">
+        
+          <time class="post-date" datetime="2011-03-28T00:00:00Z">
+            Mar 28, 2011
+          </time>
+        
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/.net/">#.net</a></span>
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/asp.net/">#asp.net</a></span>
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/programmazione/">#programmazione</a></span>
+         
+          <span class="post-tag small"><a href="https://nicolaiarocci.com//tags/web/">#web</a></span>
+         
+        </section>
+    </header>
+
+    <section class="post-content">
+      <p>Una settimana fa abbiamo lanciato il nuovo sito del <a href="http://gestionaleamica.com" title="Gestionale Amica">Gestionale Amica</a>, il nostro prodotto di punta. E&#8217; scritto in <strong>ASP.NET</strong> ed è dotato di un sistema di e-commerce sviluppato su misura. Carrello della spesa, checkout, pagamenti con carta di credito, tracciamento ordini, profilo utenti&#8230; un lavoro del quale sono piuttosto orgoglioso. Man mano che il giorno del debutto si avvicinava cresceva l&#8217;eccitazione; ero impaziente di vederlo funzionare questo gioiellino. Finalmente il 21 marzo è arrivato e con la primavera è sbocciato il nuovo sito. Come è andata? Bene! A parte un piccolo dettaglio. Il mio gioiellino vendeva in Dollari ($) anziché in Euro (€)</p>
+
+<p style="text-align: center;">
+  <img class="size-full wp-image-1766 aligncenter" title="Currency" src="http://i2.wp.com/nicolaiarocci.com/wp-content/uploads/currency.jpg?fit=459%2C261" alt="" srcset="http://i2.wp.com/nicolaiarocci.com/wp-content/uploads/currency.jpg?w=459 459w, http://i2.wp.com/nicolaiarocci.com/wp-content/uploads/currency.jpg?resize=150%2C85 150w, http://i2.wp.com/nicolaiarocci.com/wp-content/uploads/currency.jpg?resize=300%2C170 300w" sizes="(max-width: 459px) 100vw, 459px" data-recalc-dims="1" />
+</p>
+
+<h2 id="come-è-potuto-succedere">Come è potuto succedere?</h2>
+
+<p>In fatto di localizzazione una pagina ASP.NET non è diversa da una normale applicazione WinForms. In assenza di indicazioni diverse il .NET Framework <strong>rappresenta le valute in base alle impostazioni internazionali del computer che lo ospita</strong>. Durante sviluppo e collaudo non abbiamo avuto problemi perché lavoravamo su server aziendali locali. Tuttavia il server di produzione è americano, ed è così che pubblicando il sito ci siamo regalati un bel cambiamento di valuta, il tutto senza toccare una linea di codice.</p>
+
+<pre class="brush:csharp">protected void Page_Load(object sender, EventArgs e)
+{
+    decimal importo = 1567.50m;
+    string str = String.Format("{0:C}", importo);
+    Response.Write(str);
+}</pre>
+
+<p>Restituisce <strong>€1.567,50</strong> in Italia e <strong>$1,567.50</strong> negli Stati Uniti. Probabilmente a questo punto vi starete dicendo due cose:</p>
+
+<ol>
+<li>Ma perché hai pubblicato un sito in italiano, per un pubblico italiano, negli Stati Uniti?</li>
+<li>Te lo dovevi aspettare, cosa volevi che succedesse? Qualunque sviluppatore con un minimo di esperienza sa queste cose.</li>
+</ol>
+
+<p>A proposito del primo punto ci sarebbe da scrivere un articolo intero (e magari lo farò). Basti sapere per ora che, malgrado le apparenze, ci sono (anche) buone ragioni per pubblicare siti italiani all&#8217;estero. Sul secondo punto naturalmente avreste ragione. Il fatto è che, nel grande schema delle cose, sono proprio i piccoli dettagli quelli che possono sfuggire. Per fortuna porre rimedio è stato semplice e indolore. Vediamo.</p>
+
+<h2 id="e-8217-tutta-questione-di-culture">E&#8217; tutta questione di Culture</h2>
+
+<p>In ogni pagina ASP.NET è possibile impostare il valore delle proprietà <a href="http://msdn.microsoft.com/en-us/library/system.web.ui.page.culture(v=VS.85).aspx"><strong>Culture</strong></a> e <a href="http://msdn.microsoft.com/en-us/library/system.web.ui.page.uiculture(v=VS.85).aspx"><strong>UICulture</strong></a>. <code inline="True" theme="default">Culture</code> determina l&#8217;output delle funzioni influenzate dalla cultura: date, numeri, valute, orari. <code inline="True" theme="default">UICulture</code> istruisce la pagina su quali risorse culturali caricare.</p>
+
+<h3 id="impostare-culture-e-uiculture-per-tutto-il-sito">Impostare Culture e UICulture per tutto il sito</h3>
+
+<p>Intervenendo direttamente nel file Web.Config possiamo dire a ASP.NET quale è la cultura da usare in tutto il sito. In questo modo non dovremo preoccuparci di intervenire su ogni in pagina.</p>
+
+<pre class="brush:xml">&lt;configuration&gt;
+   &lt;system.web&gt;
+      &lt;globalization culture=”it-IT” uiCulture=”it-IT” /&gt;
+   &lt;/system.web&gt;
+&lt;/configuration&gt;</pre>
+
+<p>Attenzione alle maiuscole. <code inline="True" theme="default">uiCulture</code> va bene; <code inline="True" theme="default">uiculture</code> non va bene. Non sprecate mezz&#8217;ora per una sciocchezza del genere, l&#8217;ho già fatto io per voi.</p>
+
+<h3 id="impostare-culture-e-uiculture-per-una-pagina">Impostare Culture e UICulture per una pagina</h3>
+
+<p>Per modificare Culture e UICulture di una singola pagina è necessario impostare i corrispondenti attributi della direttiva <a href="http://msdn.microsoft.com/it-it/library/ydy4x04a(v=VS.85).aspx">@ Page</a></p>
+
+<pre class="brush:vb">&lt;%@ Page UICulture="it" Culture="it-IT" %&gt;</pre>
+
+<p>Questa tecnica può naturalmente venire usata in abbinamento alla precedente anche se devo dire che non mi viene in mente un motivo, uno scenario valido in cui ciò potrebbe essere utile.</p>
+
+<h3 id="adattare-l-8217-output-alla-lingua-del-browser">Adattare l&#8217;output alla lingua del browser</h3>
+
+<p>Per adattare la cultura al linguaggio del browser che visita la pagina basta impostare <strong>UICulture</strong> e <strong>Culture</strong> su <strong>auto</strong> (non l&#8217;ho testato personalmente). E&#8217; anche possibile cambiare la cultura dinamicamente via codice. Se volete sapere come fare consultate la <a href="http://msdn.microsoft.com/en-us/library/syy068tk.aspx">documentazione ufficiale</a>.</p>
+
+<h2 id="dimenticavo-8230">Dimenticavo&#8230;</h2>
+
+<p>C&#8217;è un&#8217;altra cosuccia che non ha funzionato perfettamente al momento del debutto. Immaginate la sorpresa del cliente che, ordinando un prodotto da €499 + IVA, si è visto proporre l&#8217;addebito su carta di credito per <strong>€1 (uno)</strong> IVA inclusa. Ma questa è un&#8217;altra storia&#8230;</p>
+    </section>
+
+
+  <footer class="post-footer">
+
+
+    
+
+
+
+
+
+
+
+
+
+<section class="author">
+  <h4><a href="https://nicolaiarocci.com/">Nicola Iarocci</a></h4>
+  
+  <p>Read <a href="https://nicolaiarocci.com/">more posts</a> by this author.</p>
+  
+  <div class="author-meta">
+    <span class="author-location icon-location">Ravenna, Italy</span>
+    <span class="author-link icon-link"><a href="https://nicolaiarocci.com">https://nicolaiarocci.com</a></span>
+  </div>
+</section>
+
+
+
+
+    
+<section class="share">
+  <h4>Share this post</h4>
+  <a class="icon-twitter" style="font-size: 1.4em" href="https://twitter.com/share?text=Il%20Formato%20Valuta%20in%20ASP.NET%20quando%20il%20sito%20%c3%a8%20all%e2%80%99estero&nbsp;-&nbsp;Nicola%20Iarocci&amp;url=https%3a%2f%2fnicolaiarocci.com%2fil-formato-valuta-in-asp-net-quando-il-sito-e-allestero%2f"
+      onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+      <span class="hidden">Twitter</span>
+  </a>
+  <a class="icon-facebook" style="font-size: 1.4em" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fnicolaiarocci.com%2fil-formato-valuta-in-asp-net-quando-il-sito-e-allestero%2f"
+      onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+      <span class="hidden">Facebook</span>
+  </a>
+  <a class="icon-pinterest" style="font-size: 1.4em" href="http://pinterest.com/pin/create/button/?url=https%3a%2f%2fnicolaiarocci.com%2fil-formato-valuta-in-asp-net-quando-il-sito-e-allestero%2f&amp;description=Il%20Formato%20Valuta%20in%20ASP.NET%20quando%20il%20sito%20%c3%a8%20all%e2%80%99estero"
+      onclick="window.open(this.href, 'pinterest-share','width=580,height=296');return false;">
+      <span class="hidden">Pinterest</span>
+  </a>
+  <a class="icon-google-plus" style="font-size: 1.4em" href="https://plus.google.com/share?url=https%3a%2f%2fnicolaiarocci.com%2fil-formato-valuta-in-asp-net-quando-il-sito-e-allestero%2f"
+     onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+      <span class="hidden">Google+</span>
+  </a>
+</section>
+
+
+
+    
+
+
+
+
+
+
+
+  </footer>
+</article>
+
+</main>
+
+
+  <aside class="read-next">
+  
+      <a class="read-next-story" style="no-cover" href="/flux-il-monitor-diventa-crepuscolare/">
+          <section class="post">
+              <h2>Flux: il monitor diventa crepuscolare</h2>
+              
+          </section>
+      </a>
+  
+  
+      <a class="read-next-story prev" style="no-cover" href="/google-page-speed-ora-gira-anche-su-chrome/">
+          <section class="post">
+              <h2>Google Page Speed ora gira anche su Chrome</h2>
+          </section>
+      </a>
+  
+</aside>
+
+
+
+    <footer class="site-footer clearfix">
+        <section class="copyright"><a href="">Nicola Iarocci</a> All rights reserved</section>
+        
+    </footer>
+    </div>
+    <script type="text/javascript" src="/js/jquery.js"></script>
+    <script type="text/javascript" src="/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="/js/index.js"></script>
+    
+</body>
+</html>
+
