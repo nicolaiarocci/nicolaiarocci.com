@@ -84,7 +84,7 @@ description = "Software Craftsman"
 metadescription = "This is the personal website of Nicola Iarocci, Software Craftsman."
 bio = "Software Craftsman"
 #cover = "images/hacking.jpg"
-#logo = "images/avatar.png"
+logo = "images/avatar.png"
 customCSS = ["css/custom.css"]
 shareenabled = false
 
