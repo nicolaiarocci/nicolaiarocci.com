@@ -8,6 +8,10 @@ slug: books-i-have-read
 ---
 This is a partial list of the books I have read. I have it both to jog my memory and because I have read a lot of stuff I have loved, and want other people to find it.
 
+## 2021
+
+* [Il mistero dell'Erebus](https://www.goodreads.com/book/show/52960206-il-mistero-dell-erebus), Michael Palin. 
+
 ## 2020
 
 *[Five good books I read in 2020](https://nicolaiarocci.com/five-good-books-i-read-in-2020/)*
