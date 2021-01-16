@@ -1,3 +1,20 @@
+.post-content img[src$='#left']
+{
+    max-width: 30%;
+	width: auto\9*0.3; /* ie8 */
+	height: auto;
+	float: left;
+	left: 12%
+}
+
+.post-content img[src$='#right']
+{
+    max-width: 30%;
+	height: auto;
+	float: right;
+	left: 18%
+}
+
 .gist-meta {
 	display: none;
 }

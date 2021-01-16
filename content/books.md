@@ -10,7 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2021
 
-* [Il mistero dell'Erebus](https://www.goodreads.com/book/show/52960206-il-mistero-dell-erebus), Michael Palin. 
+* [Erebus: The Story of a Ship](https://nicolaiarocci.com/erebus-the-story-of-a-ship/), Michael Palin. 
 
 ## 2020
 
