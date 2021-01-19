@@ -3,7 +3,7 @@ title = "Nicola Iarocci"
 copyright = "All rights reserved"
 theme = "casper"
 languagecode = "en-US"
-paginate = 5
+paginate = 10
 pluralizelisttitles = false
 PygmentsCodeFences = true
 
