@@ -1,6 +1,6 @@
 ---
 date: 2021-01-22T07:05:25+01:00
-title: "On the short tormented life of Phil Katz"
+title: "On the short, tormented life of Phil Katz"
 share: false
 ---
 Bless the Internet Archive and its Wayback Machine. With it, we can go back in
