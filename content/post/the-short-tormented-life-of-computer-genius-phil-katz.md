@@ -6,8 +6,14 @@ share: false
 Bless the Internet Archive and its Wayback Machine. With it, we can go back in
 time and read [The short, tormented life of computer genius Phil
 Katz][1], an unusually detailed and accurate article published in the April 14,
-2000 issue of the Milwaukee Journal Sentinel. That's 20 years ago, the day that
-Phil Katz passed away.
+2000 issue of the Milwaukee Journal Sentinel. 
+
+> When he was found dead April 14, Phil Katz was slumped against a nightstand
+> in a south side hotel, cradling an empty bottle of peppermint schnapps. The
+> genius who built a multimillion-dollar software company known worldwide for
+> its pioneering "zip" files had died of acute pancreatic bleeding caused by
+> chronic alcoholism. He was alone, estranged long ago from his family and
+> a virtual stranger to employees of his own company, PKWare Inc. He was 37.
 
 In the late 80s, when the culmination of Katz's work on compression algorithms,
 PKZIP, emerged as the clear winner of the so-called "compressors war," [I was
