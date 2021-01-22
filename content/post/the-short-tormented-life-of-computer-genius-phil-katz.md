@@ -4,18 +4,19 @@ title: "On the short, tormented life of Phil Katz"
 share: false
 ---
 Bless the Internet Archive and its Wayback Machine. With it, we can go back in
-time and read *The short, tormented life of computer genius Phil Katz*[^1], an
-unusually detailed story published in the April 14, 2000 issue of the Milwaukee
-Journal Sentinel. That's 20 years ago, the day that Phil Katz passed away.
+time and read [The short, tormented life of computer genius Phil
+Katz][1], an unusually detailed and accurate article published in the April 14,
+2000 issue of the Milwaukee Journal Sentinel. That's 20 years ago, the day that
+Phil Katz passed away.
 
 In the late 80s, when the culmination of Katz's work on compression algorithms,
-PKZIP, emerged as the clear winner of the so-called "compressors war," I was
-running my own little BBS, Lorien, which later evolved into Phoenix BBS,
-a fully-fledged FidoNet node[^2]. When Lorien went first online in
-1987, most if not all downloadables were in ARC format. Three years later, in
-1990, when Phoenix emerged from Lorien's ashes, ZIP archives ruled the world.
-Fast forward 30 years. A couple of days ago, I wrote C# code that receives data
-streams over a REST API and then stores them as ZIP files.
+PKZIP, emerged as the clear winner of the so-called "compressors war," [I was
+running my own little BBS][2], Lorien, which later evolved into Phoenix BBS,
+a fully-fledged FidoNet node. When Lorien went first online in 1987, most if
+not all downloadables were in ARC format. Three years later, in 1990, when
+Phoenix emerged from Lorien's ashes, ZIP archives ruled the world. Fast forward
+30 years. A couple of days ago, I wrote C# code that receives data streams over
+a REST API and then stores them as ZIP files.
 
 I would be hard-pressed to find another piece of shareware, single-handly
 developed software that has been as influential, pervasive, and widespread in
@@ -30,8 +31,8 @@ me with one clear takeaway. Success does not grant happiness.
 
 *Subscribe to the [newsletter][nl] or the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
 
- [^1]: [The short, tormented life of computer genius Phil Katz](https://web.archive.org/web/20000829071343/http://www2.jsonline.com/news/state/may00/katz21052000a.asp)
- [^2]: [A trip down memory lane: FidoNet and Usenet](http://localhost:1313/a-trip-down-memory-lane-fidonet-and-usenet/)
+ [1]: https://web.archive.org/web/20000829071343/http://www2.jsonline.com/news/state/may00/katz21052000a.asp
+ [2]: http://localhost:1313/a-trip-down-memory-lane-fidonet-and-usenet/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
  [nl]: http://eepurl.com/b-_Pzz
