@@ -19,13 +19,14 @@ streams over a REST API and then stores them as ZIP files.
 
 I would be hard-pressed to find another piece of shareware, single-handly
 developed software that has been as influential, pervasive, and widespread in
-the industry as PKZIP from PKWare. SQLite, of course, but that came more than
-a decade later.
+the industry as PKZIP from PKWare. Of course, Linux and SQLite, although both
+came later (the former in 1991, the latter in the spring of 2000.)
 
 Katz's story is indeed a cautionary tale of genius, torment, and horrible
 demise. I cannot help but wonder: would his life trajectory have been different
-if he had not been so successful? Probably not, given the details revealed in
-the article, but who knows.
+had he not been so successful? Probably not, given the details revealed in
+the article, but who knows. For sure, the tormented story of Phil Katz leaves
+me with one clear takeaway. Success does not grant happiness.
 
 *Subscribe to the [newsletter][nl] or the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
 
