@@ -10,7 +10,7 @@ Journal Sentinel. That's 20 years ago, the day that Phil Katz passed away.
 
 In the late 80s, when the culmination of Katz's work on compression algorithms,
 PKZIP, emerged as the clear winner of the so-called "compressors war," I was
-running my own little BBS, Lorien, which later evolved Phonenix BBS,
+running my own little BBS, Lorien, which later evolved into Phoenix BBS,
 a fully-fledged FidoNet node[^2]. When Lorien went first online in
 1987, most if not all downloadables were in ARC format. Three years later, in
 1990, when Phoenix emerged from Lorien's ashes, ZIP archives ruled the world.
@@ -22,10 +22,10 @@ developed software that has been as influential, pervasive, and widespread in
 the industry as PKZIP from PKWare. SQLite, of course, but that came more than
 a decade later.
 
-Katz's story is indeed a cautionary tale of genius, torment, and ultimate,
-horrible demise. I cannot help but wonder: would his trajectory have been
-different if he had not been so successful? Probably not, given the details
-revealed in the article, but who knows.
+Katz's story is indeed a cautionary tale of genius, torment, and horrible
+demise. I cannot help but wonder: would his life trajectory have been different
+if he had not been so successful? Probably not, given the details revealed in
+the article, but who knows.
 
 *Subscribe to the [newsletter][nl] or the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
 
