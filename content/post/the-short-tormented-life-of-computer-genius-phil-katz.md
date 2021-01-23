@@ -38,7 +38,7 @@ me with one clear takeaway. Success does not grant happiness.
 *Subscribe to the [newsletter][nl] or the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
 
  [1]: https://web.archive.org/web/20000829071343/http://www2.jsonline.com/news/state/may00/katz21052000a.asp
- [2]: http://localhost:1313/a-trip-down-memory-lane-fidonet-and-usenet/
+ [2]: http://nicolaiarocci.com/a-trip-down-memory-lane-fidonet-and-usenet/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
  [nl]: http://eepurl.com/b-_Pzz
