@@ -5,16 +5,18 @@ date: 2010-11-22
 share: false
 weight: 10
 ---
-This is the website of Nicola Iarocci. I&#8217;m a coder at heart author of
-several [open source projects][1], a [Microsoft MVP][2], [MongoDB
-Master][3], [Conference Speaker][4] and teacher. I live in Ravenna, Italy,
-where I work on the [Amica 10][5] project. In my hometown I run the [local
-CoderDojo][6], a coding club for kids. I am also the organizer of
-[DevRomagna][26], a developer community.
+Hello, my name is Nicola and this is my personal website. Here I keep memories
+and thoughts. Every once in a while I even post some technical stuff.
 
-I am a former competitive runner and climber now keeping myself busy with
-swimming and bodyweight training. I love reading [good books][8], hiking in the
-wilderness and riding my Triumph Bonneville. 
+I&#8217;m a coder at heart author of several [open source projects][1],
+a [Microsoft MVP][2], [Conference Speaker][4], teacher and consultant. I live
+in Ravenna, Italy, where I work on the [Amica 10][5] project. In my hometown
+I run the [local CoderDojo][6], a coding club for kids. I am also the creator
+and organizer of [DevRomagna][26], the local developer community.
+
+I am a former runner, climber, and swimmer now keeping myself busy with
+bodyweight training. I love reading [good books][8], hiking in the wilderness
+and riding my Triumph Bonneville. 
 
 My all time favourite quote:
 
@@ -28,7 +30,6 @@ My all time favourite quote:
   * [Stack Overflow][11]
   * [LinkedIn][12]
   * [Speaker Deck][13]
-  * [Slideshare][14]
   * [GoodReads][15]
   * [Mail][16]
 
