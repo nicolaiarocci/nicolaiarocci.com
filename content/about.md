@@ -14,16 +14,14 @@ in Ravenna, Italy, where I work on the [Amica 10][5] project. In my hometown
 I run the [local CoderDojo][6], a coding club for kids. I am also the creator
 and organizer of [DevRomagna][26], the local developer community.
 
-I am a former runner, climber, and swimmer now keeping myself busy with
+I am a former runner, climber and swimmer now keeping myself busy with
 bodyweight training. I love reading [good books][8], hiking in the wilderness
-and riding my Triumph Bonneville. 
-
-My all time favourite quote:
+and riding my Triumph Bonneville. My all time favourite quote:
 
 > Only those who will risk going too far can possibly find out how far one can
 > go &#8211; T.S. Eliot 
 
-## Find me on
+### Find me on
 
   * [Twitter][9] (you should follow me)
   * [GitHub][10]
@@ -32,39 +30,6 @@ My all time favourite quote:
   * [Speaker Deck][13]
   * [GoodReads][15]
   * [Mail][16]
-
-## The long version (italian)
-
-Ho cominciato a scrivere codice a metà degli anni &#8217;80, ai tempi del
-[Sinclair ZX Spectrum][17] e del [Commodore 64][18]. Erano i gloriosi anni dei
-modem a 300 baud, delle [BBS][19], di [FidoNet][20], [CompuServe][21],
-[2600][22], [ITAPAC][23] e del [Chaos Computer Club][24]. Eravamo ragazzini
-sfrontati, [Sysop][25] e Hackers fin troppo sicuri delle nostre capacità
-e inebriati dalle continue rivoluzioni tecnologiche che cavalcavamo pestando
-furiosamente sulle nostre tastiere.
-
-Nel 1991 con un amico ho fondato CIR 2000, prima incarnazione di quella che poi
-è diventata Bisanzio Software Srl, azienda specializzata in software gestionali
-per la piccola e micro impresa italiana. In  venti anni di attività
-professionale mi sono sempre occupato di progettazione e sviluppo di
-applicazioni software lavorando sui sistemi operativi che man mano si
-avvicendavano, dal MS-DOS ai più recenti sistemi Windows, OSX / Unix
-e piattaforme di Cloud Computing. Ancora oggi lavoro in CIR 2000 e sono lead
-programmer per il progetto <a title="Gestionale Amica"
-href="http://gestionaleamica.com/" target="_blank">Amica 10</a>. Sono inoltre
-consulente, docente e [divulgatore][4].
-
-Gli strumenti di lavoro quotidiani si chiamano C#, Python, JavaScript, Cloud
-Services (Amazon AWS, Heroku), MongoDB, SQL Server e Xamarin per lo sviluppo di
-applicazioni mobili. Sono entusiasta sostenitore del mondo [Open Source][1],
-forse perché tanto mi ricordano la filosofia e l&#8217;entusiasmo dei tempi
-andati. Oggi come allora sono alla ricerca di nuove opportunità e cose da
-imparare.
-
-Quando non scrivo codice sono un corridore <del
-datetime="2011-11-13T16:47:20+00:00">agonista</del>, un nuotatore, un amante
-della montagna e delle terre selvagge, un lettore accanito e soprattutto il
-padre orgoglioso di tre meravigliosi bambini.
 
  [1]: http://nicolaiarocci.com/opensource/
  [2]: https://mvp.microsoft.com/en-us/PublicProfile/5001717
