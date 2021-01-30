@@ -25,7 +25,7 @@ weight = 9
 
 [[menu.main]]
 name = "Speaking"
-url = "/talks"
+url = "/speaking"
 weight = 8
 
 [[menu.main]]

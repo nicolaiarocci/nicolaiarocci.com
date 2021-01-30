@@ -54,7 +54,7 @@ no matter where she/he lives on the planet. So, maybe you will fancy join us?
 
  [1]: https://codegen2021.azurewebsites.net/
  [2]: https://scottishsummit.com/
- [3]: /talks/
+ [3]: /speaking
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
  [nl]: http://eepurl.com/b-_Pzz

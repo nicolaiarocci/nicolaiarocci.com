@@ -34,7 +34,7 @@ and riding my Triumph Bonneville. My all time favourite quote:
  [1]: http://nicolaiarocci.com/opensource/
  [2]: https://mvp.microsoft.com/en-us/PublicProfile/5001717
  [3]: https://www.mongodb.org/community/masters
- [4]: http://nicolaiarocci.com/talks/
+ [4]: /speaking
  [5]: http://gestionaleamica.com/
  [6]: http://coderdojoravenna.it/
  [7]: https://coderdojo.com/
