@@ -9,6 +9,13 @@ image: images/nicola@codemotion2017.jpeg
 I speak at conferences and meetups. Here is a list of my most recent
 engagements. Want me to talk at your event? [Get in touch][1]!
 
+## 2021
+
+- CloudGen 2021 *([upcoming][upc])*
+- Scottish Summit 2021 *([upcoming][upc])*
+
+[upc]: https://nicolaiarocci.com/upcoming-speaking-engagements-with-ramblings/
+
 ## 2020
 
 - Sharif University of Technology, Tehran: [Open Source Workshop](https://ssc.ce.sharif.edu)
