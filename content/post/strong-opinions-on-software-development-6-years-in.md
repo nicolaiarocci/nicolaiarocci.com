@@ -24,7 +24,7 @@ Perfect. I am stealing this line.
 
 > Clever code isn't usually good code. Clarity trumps all other concerns.
 
-Good *and* clever code is very possibile, though. Agree on the second part.
+Good *and* clever code is very possible, though. Agree on the second part.
 
 > Bad code can be written in any paradigm
 
