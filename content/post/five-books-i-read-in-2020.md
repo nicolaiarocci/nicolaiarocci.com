@@ -109,5 +109,5 @@ it's more of a tie.)
  [m]: https://twitter.com/nicolaiarocci/status/1214857647314362368?s=20
  [gn]: https://www.gatesnotes.com/About-Bill-Gates/Holiday-Books-2020
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: http://eepurl.com/b-_Pzz
+ [nl]: https://nicolaiarocci.substack.com
 

@@ -21,6 +21,11 @@ and riding my Triumph Bonneville. My all time favourite quote:
 > Only those who will risk going too far can possibly find out how far one can
 > go &#8211; T.S. Eliot 
 
+### Newsletter
+The content I publish on my website, only via mail. Never miss an update.
+
+* [Nicola's Newsletter][nl]
+
 ### Find me on
 
   * [Twitter][9] (you should follow me)
@@ -57,3 +62,4 @@ and riding my Triumph Bonneville. My all time favourite quote:
  [24]: http://it.wikipedia.org/wiki/Chaos_Computer_Club
  [25]: http://it.wikipedia.org/wiki/SysOp
  [26]: http://devromagna.org
+ [nl]: https://nicolaiarocci.substack.com

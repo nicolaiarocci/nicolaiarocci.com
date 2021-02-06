@@ -41,8 +41,8 @@ weight = 6
 
 [[menu.main]]
 pre = "<h3>Subscribe</h3>"
-name = "New posts via mail"
-url = "http://eepurl.com/b-_Pzz"
+name = "Newsletter"
+url = "https://nicolaiarocci.substack.com"
 weight = -200
 
 [[menu.main]]

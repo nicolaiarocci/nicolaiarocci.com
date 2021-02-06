@@ -40,4 +40,4 @@ Find the presentation at [ben-evans.com][1]
  [1]: https://www.ben-evans.com/presentations
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: http://eepurl.com/b-_Pzz
+ [nl]: https://nicolaiarocci.substack.com

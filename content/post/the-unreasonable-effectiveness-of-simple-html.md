@@ -39,5 +39,5 @@ a cannon to kill a mosquito.
  [1]: https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: http://eepurl.com/b-_Pzz
+ [nl]: https://nicolaiarocci.substack.com
 

@@ -4,8 +4,8 @@ title: "title"
 share: false
 ---
 
-*Subscribe to the [newsletter][nl] or the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
 
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: http://eepurl.com/b-_Pzz
+ [nl]: https://nicolaiarocci.substack.com

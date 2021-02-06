@@ -46,9 +46,9 @@ me.
 I think this book does an excellent job at recounting slavery from the enslaved
 (or the Tasked, as the author calls them) viewpoint and their culture.
 
-*Subscribe to the [newsletter][nl] or the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
 
  [1]: https://www.penguinrandomhouse.com/books/550171/the-water-dancer-by-ta-nehisi-coates/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: http://eepurl.com/b-_Pzz
+ [nl]: https://nicolaiarocci.substack.com

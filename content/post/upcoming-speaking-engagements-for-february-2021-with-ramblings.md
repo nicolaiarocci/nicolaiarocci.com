@@ -57,5 +57,5 @@ no matter where she/he lives on the planet. So, maybe you will fancy join us?
  [3]: /speaking
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: http://eepurl.com/b-_Pzz
+ [nl]: https://nicolaiarocci.substack.com
 
