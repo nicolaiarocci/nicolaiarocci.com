@@ -11,8 +11,8 @@ engagements. Want me to talk at your event? [Get in touch][1]!
 
 ## 2021
 
-- CloudGen 2021 *([upcoming][upc])*
 - Scottish Summit 2021 *([upcoming][upc])*
+- CodeGen 2021: [Python REST APIs for Humans](https://codegen2021.azurewebsites.net/agenda)
 
 [upc]: https://nicolaiarocci.com/upcoming-speaking-engagements-with-ramblings/
 
