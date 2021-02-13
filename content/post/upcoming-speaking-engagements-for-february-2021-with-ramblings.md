@@ -2,6 +2,7 @@
 date: 2021-01-29T07:05:25+01:00
 title: "Upcoming speaking engagements, with ramblings"
 share: false
+tags: ["speaking", "conferences"]
 ---
 
 I am presenting at two different events in February next month. Given the

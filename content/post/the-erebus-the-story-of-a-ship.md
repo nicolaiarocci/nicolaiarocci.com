@@ -1,8 +1,8 @@
 ---
 date: 2021-01-13T07:05:25+01:00
-title: "Erebus: The Story of a Ship"
+title: "Book Review: Erebus, The Story of a Ship"
 share: false
-tags: ["book review"]
+tags: ["books", "reviews"]
 ---
 
 I finished reading *Erebus: The Story of a Ship* by Michael Palin, an excellent

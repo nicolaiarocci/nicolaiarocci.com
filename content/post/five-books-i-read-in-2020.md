@@ -2,6 +2,7 @@
 date: 2021-01-04T07:05:25+01:00
 title: "Five good books I read in 2020"
 share: false
+tags: ["reading", "books"]
 ---
 Here are five books I read in 2020 that I would recommend. I read several fine
 books last year, so please check out my [reading history][1] if you are unsatisfied

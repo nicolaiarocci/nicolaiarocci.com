@@ -2,6 +2,7 @@
 date: 2021-02-03T07:05:25+01:00
 title: "Strong opinions on software development"
 share: false
+tags: ["programming", "opinions"]
 ---
 
 After six years in the field, Chris has [shared][1] his strong opinions on

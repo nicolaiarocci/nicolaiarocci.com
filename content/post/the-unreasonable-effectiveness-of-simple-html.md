@@ -2,6 +2,7 @@
 date: 2021-01-28T07:05:25+01:00
 title: "The unreasonable effectiveness of simple HTML"
 share: false
+tags: ["programming", "html"]
 ---
 We've seen other articles pointing the finger at unnecessarily bloated
 websites. Terence Eden's *[On the unreasonable effectiveness of simple

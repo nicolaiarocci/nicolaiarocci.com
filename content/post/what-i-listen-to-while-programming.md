@@ -2,9 +2,9 @@
 date: 2021-02-12T07:05:25+01:00
 title: "What I listen to while programming"
 share: false
-tags: ["music"]
+tags: ["music", "programming"]
 ---
-What do you listen to while programming?[^6] For me, it's usually jazz,
+What music do you listen to while programming?[^6] For me, it's usually jazz,
 classical, electronic, lots of it, or nothing. There are some specialized
 websites and podcasts I sometimes recur to, like [Music for Programming][1].
 Several Spotify playlists I dig a lot, [Every Day I'm Nerdin'][2] being one of

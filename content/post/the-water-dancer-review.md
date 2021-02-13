@@ -2,7 +2,7 @@
 date: 2021-02-06T07:05:25+01:00
 title: "Book Review: The Water Dancer"
 share: false
-tags: ["book review"]
+tags: ["books", "reviews"]
 ---
 The Water Dancer is the debut novel for Ta-Nehisi Coates, an author and
 journalist best known for his nonfiction works. Set in a slave plantation
