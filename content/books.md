@@ -11,7 +11,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 ## 2021
 
 * [The Water Dancer](/book-review-the-water-dancer/), Ta-Nehisi Coates
-* [Erebus: The Story of a Ship](https://nicolaiarocci.com/erebus-the-story-of-a-ship/), Michael Palin 
+* [Erebus: The Story of a Ship](https://nicolaiarocci.com/book-review-erebus-the-story-of-a-ship/), Michael Palin 
 
 ## 2020
 
