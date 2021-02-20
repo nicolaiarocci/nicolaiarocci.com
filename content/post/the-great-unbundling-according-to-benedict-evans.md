@@ -2,7 +2,7 @@
 date: 2021-02-02T07:05:25+01:00
 title: "The Great Unbundling according to Benedict Evans"
 share: false
-tags: ["analysis", "technology", "economy"]
+tags: ["analysis", "technology", "economy", "links"]
 ---
 
 As a non-native English reader, I had to look up the true meaning of

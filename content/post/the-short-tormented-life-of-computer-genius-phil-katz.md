@@ -2,7 +2,7 @@
 date: 2021-01-22T07:05:25+01:00
 title: "On the short, tormented life of Phil Katz"
 share: false
-tags: ["programming", "people"]
+tags: ["programming", "people", "links"]
 ---
 Bless the Internet Archive and its Wayback Machine. With it, we can go back in
 time and read [The short, tormented life of computer genius Phil

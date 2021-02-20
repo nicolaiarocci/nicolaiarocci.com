@@ -2,7 +2,7 @@
 date: 2021-02-08T07:05:25+01:00
 title: "When Homebrew breaks your Python virtual environment"
 share: false
-tags: ["python", "programming"]
+tags: ["python", "programming", "links"]
 ---
 Ever had your old, trusty Python virtual environment fail on you? I sure did.
 Sometimes, when I activate or switch between virtual environments, I get the
