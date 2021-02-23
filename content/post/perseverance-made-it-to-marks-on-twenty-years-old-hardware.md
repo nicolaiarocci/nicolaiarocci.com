@@ -41,6 +41,13 @@ I know that they're making it on twenty-year-old technology. Second. We,
 ordinary people, might all be using way more power (and grid) than is really
 needed.
 
+*Updated on February 23th, 2021:*
+
+On Monday, NASA released [a video][7] of Perseverance's descent to the red
+planet. If it looks like aliens are descending on the surface, it's because,
+well, that is what happens. We are the aliens. NASA also released an absolutely
+mind-blowing [recording][8] of sounds from Mars's surface.
+
 *Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
 
  [^1]: As a non-native speaker, I was surprised (and delighted) to note that they refer to the drone as 'her'
@@ -49,6 +56,8 @@ needed.
  [^4]: [Comparison of embedded computer systems on board the Mars rovers](https://en.wikipedia.org/wiki/Comparison_of_embedded_computer_systems_on_board_the_Mars_rovers)
  [^5]: [VxVorks](https://en.wikipedia.org/wiki/VxWorks)
  [6]: https://www.cio.com/article/3569577/the-technology-aboard-the-mars-rover-perseverance-an-inside-look.html
+ [7]: https://youtu.be/4czjS9h4Fpg
+ [8]: https://soundcloud.com/nasa/first-sounds-from-mars-filters-out-rover-self-noise
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
  [nl]: https://nicolaiarocci.substack.com
