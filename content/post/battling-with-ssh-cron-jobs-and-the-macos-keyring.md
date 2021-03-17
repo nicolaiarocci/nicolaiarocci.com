@@ -15,7 +15,7 @@ I get a permission denied error. I then enabled ssh `-v` option to gather
 a little intel on what was actually going on. As it turns out, the exact
 error was: 
 
-    `read_passphrase: can't open /dev/tty: Device not configured`. 
+    `read_passphrase: can't open /dev/tty: Device not configured`
 
 Quite puzzling. Long story short, the error message was misleading. It took me
 an embarrassingly long time to figure out what the real problem was. The
