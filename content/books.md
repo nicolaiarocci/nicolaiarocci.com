@@ -10,8 +10,9 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2021
 
-* *In the Heart of the Sea, Nathaniel Philbrick*
-* Materada, Fulvio Tomizza
+* *The Silence: A Novel, Don DeLillo*
+* In the Heart of the Sea, Nathaniel Philbrick
+* [Materada](/book-review-materada/), Fulvio Tomizza
 * [The Library at Night](/book-review-the-library-at-night/), Alberto Manguel
 * [We Always Lived in the Castle](/book-review-we-have-always-lived-in-the-castle/), Shirley Jackson
 * [The Water Dancer](/book-review-the-water-dancer/), Ta-Nehisi Coates
