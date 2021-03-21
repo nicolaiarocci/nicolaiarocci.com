@@ -55,7 +55,7 @@ themselves with their mechanics but rather the history behind them. How the
 dev-team conceived and then developed their projects.
 
 After so many years, I am thankful to Maher for bringing these two games back
-to memory. Now, I am impatiently waiting for his Ultima Online instalment.
+to memory. Now, I am impatiently waiting for his Ultima Online installment.
 I know it *must* be on his list, right?
 
 *Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
