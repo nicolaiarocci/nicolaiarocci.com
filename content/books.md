@@ -13,7 +13,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 * One Man Caravan, Robert Edison Fulton *(reading)*
 * The Silence: A Novel, Don DeLillo
-* In the Heart of the Sea, Nathaniel Philbrick
+* [In the Heart of the Sea](/book-review-in-the-heart-of-the-sea-the-tragedy-of-the-waleship-essex/), Nathaniel Philbrick
 * [Materada](/book-review-materada/), Fulvio Tomizza
 * [The Library at Night](/book-review-the-library-at-night/), Alberto Manguel
 * [We Always Lived in the Castle](/book-review-we-have-always-lived-in-the-castle/), Shirley Jackson
