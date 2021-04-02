@@ -8,9 +8,11 @@ slug: books-i-have-read
 ---
 This is a partial list of the books I have read. I have it both to jog my memory and because I have read a lot of stuff I have loved, and want other people to find it.
 
+
 ## 2021
 
-* *The Silence: A Novel, Don DeLillo*
+* One Man Caravan, Robert Edison Fulton *(reading)*
+* The Silence: A Novel, Don DeLillo
 * In the Heart of the Sea, Nathaniel Philbrick
 * [Materada](/book-review-materada/), Fulvio Tomizza
 * [The Library at Night](/book-review-the-library-at-night/), Alberto Manguel
