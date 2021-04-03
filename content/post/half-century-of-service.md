@@ -106,7 +106,7 @@ conference speaker, consultant, and teacher. Somehow I am awarded the MongoDB
 Master and then Microsoft MVP awards. All of this is very rewarding personally
 and emotionally and is much needed after all the struggle. The smaller and
 agile company structure allows us to keep going. I drop running in favor of
-body-weight training (I think it is now called callisthenics). I finally get
+body-weight training (I think it is now called calisthenics). I finally get
 myself a motorcycle[^5]; I always dreamed of owning one. Kids have grown.
 Marco, our first son, is currently studying in France at the university, and
 the girls are in their teenage years, doing what teenagers do.
@@ -123,7 +123,7 @@ some extent, the vectors for new opportunities.
 We're about to launch the third installment of our main application. We've been
 working hard on it, and I can't wait to see it being used by our beloved
 clients. This decade and the next one will see me still hacking and working on
-computers. More or less of the same? Possibly. Thankfully, I still loved my
+computers. More or less of the same? Possibly. Thankfully, I still love my
 profession. I can't wait to see how our kids pursue their path in life. We will
 be accompanying them from a distance and when necessary. The world is their
 oyster.
