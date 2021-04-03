@@ -17,7 +17,7 @@ field. We spend about two years there. The memories from that period are
 scavenged from some clips recorded by my dad at the time. A female monkey used
 to live in our garden. Our home was part of a walled complex. Two soldiers were
 guarding the entrance, night and day. The wall, I remember, was built with
-wooden pales, very much like those wild-west forts from the old moves. When we
+wooden pales, very much like those wild-west forts from the old movies. When we
 move back, it is for the North-Eastern part of Italy, in the Ferrara province
 first, and then in Ravenna. I guess there's not a lot to say about this decade;
 the usual baby-son-of-a-middle-class-emigrant-family routine applies here.
