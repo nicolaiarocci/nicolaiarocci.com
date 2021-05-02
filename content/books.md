@@ -11,7 +11,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2021
 
-* One Man Caravan, Robert Edison Fulton
+* [One Man Caravan](/book-review-one-man-caravan), Robert Edison Fulton
 * [The Silence: A Novel](/book-review-the-silence-a-novel), Don DeLillo
 * [In the Heart of the Sea](/book-review-in-the-heart-of-the-sea-the-tragedy-of-the-waleship-essex/), Nathaniel Philbrick
 * [Materada](/book-review-materada/), Fulvio Tomizza
