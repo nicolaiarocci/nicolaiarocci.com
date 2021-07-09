@@ -11,6 +11,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2021
 
+* [Potere alle Parole](/book-review-power-to-the-words/), Vera Gheno
 * [Alpi ribelli](/book-review-alpi-ribelli-storie-di-montagna-resistenza-e-utopia/), Enrico Camanni
 * [The Voice of the Sirens. The Greeks and the art of persuasion](/book-review-the-voice-of-the-sirens.-the-greeks-and-the-art-of-persuasion/), Laura Pepe
 * [One Man Caravan](/book-review-one-man-caravan), Robert Edison Fulton
