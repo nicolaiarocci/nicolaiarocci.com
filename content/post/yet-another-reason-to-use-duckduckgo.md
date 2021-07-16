@@ -21,9 +21,10 @@ Need a quick QR code? [Of course][3].
 ![DuckDuckGo comes with an in-page QR code generation feature](/images/duckduckgo-qrcode.png)
 
 DuckDuckGo should be everyone's default browser for many [valid reasons][4], and
-in-page result for frequent searches sure isn't the most prominent, but it is
-handy to have around. It is also of some comfort to see that I'm obviously not
-the only one forgetting tmux commands.
+in-page results for frequent searches (or [Istant Answers][6] as they call them)
+sure isn't the most prominent one, but it is handy to have around. It is also of
+some comfort to see that I'm obviously not the only one forgetting tmux
+commands.
 
 *Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
  [1]: https://duckduckgo.com/?t=ffab&q=tmux+cheat+sheet&atb=v224-1&ia=cheatsheet
@@ -31,6 +32,7 @@ the only one forgetting tmux commands.
  [3]: https://duckduckgo.com/?q=qrcode+for+https%3A%2F%2Fnicolaiarocci.com&t=ffab&atb=v224-1&ia=answer
  [4]: https://duckduckgo.com/spread
  [5]: https://github.com/tmux/tmux
+ [6]: https://duck.co/ia/dev
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
  [nl]: https://nicolaiarocci.substack.com
