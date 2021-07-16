@@ -60,14 +60,13 @@ take notice. It will take an enormous, coordinated effort to bring the message
 across.
 
 With the platform now ready, effective communication, branding, and evangelism
-will eventually change the tide.  It will take an enormous, coordinated effort
-to bring the message across. Tutorials, getting-started guides, conference
+will eventually change the tide. Tutorials, getting-started guides, conference
 talks, YouTube videos, and workshops should all be explicitly conceived for new
 developers. The process started already. The observant can see the numerous
 efforts being made in this area. Will it be enough to attract new crowds? It is
 a hard bet, but I sure hope so because C# and F# are great languages, and NET
-6 is modern, robust,  feature-rich, and powerful enough to go at war, with no
-fear.
+6 is modern, robust,  feature-rich, and powerful enough to go at war, and with
+no fear.
 
 *Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
 
