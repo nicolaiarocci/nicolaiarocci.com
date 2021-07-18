@@ -11,6 +11,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2021
 
+* [Eight Days in May: The Final Collapse of the Third Reich](/book-review-eight-days-in-may-the-final-collapse-of-the-third-reich/), Volker Ullrich
 * [Potere alle Parole](/book-review-power-to-the-words/), Vera Gheno
 * [Alpi ribelli](/book-review-alpi-ribelli-storie-di-montagna-resistenza-e-utopia/), Enrico Camanni
 * [The Voice of the Sirens. The Greeks and the art of persuasion](/book-review-the-voice-of-the-sirens.-the-greeks-and-the-art-of-persuasion/), Laura Pepe
