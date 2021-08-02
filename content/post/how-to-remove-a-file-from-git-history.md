@@ -11,7 +11,7 @@ but if the file has sensitive contents that you want to disappear from version
 control entirely, then you also want it cleaned from the reflog. That's when
 [`git filter-branch`][1] comes to the rescue.
 
-To be on the safe side, I fist cloned the repository to a test directory:
+To be on the safe side, I first cloned the repository to a test directory:
 
     $ git clone <REPOSITORY> test
     $ cd test
