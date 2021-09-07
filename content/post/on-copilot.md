@@ -16,7 +16,7 @@ tools might fundamentally change the software developer experience, if not the
 software developer role as a whole, and for the worst.
 
 I wrote down some notes preparing for an in-depth Copilot article, but then
-I stumbled on Jeremy Howard's '[Is Copilot a blessing, or a curse?][1]'. In
+I stumbled on Jeremy Howard's '[Is Copilot a blessing, or a curse?][3]'. In
 that piece, Jeremy covers all of my points and then some more. Also, given his
 background, Jeremy's musings on deep learning carry way more weight than mine.
 My advice is to read his article. I especially appreciate his critique on
