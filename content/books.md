@@ -11,6 +11,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2021
 
+* Nausea, Jean-Paul Sartre
 * [Proud tobea Flyer](/book-review-proud-tobea-flyer/), Matteo Sola
 * [Nomadland](/book-review-nomadland/), Jessica Bruder
 * [Eight Days in May: The Final Collapse of the Third Reich](/book-review-eight-days-in-may-the-final-collapse-of-the-third-reich/), Volker Ullrich
