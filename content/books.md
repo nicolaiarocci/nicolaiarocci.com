@@ -11,6 +11,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2021
 
+* [Language of the Spirit: An Introduction to Classical Music](/book-review-language-of-the-spirit-an-introduction-to-classical-music/), Jan Swafford
 * [Nausea](/book-review-nausea/), Jean-Paul Sartre
 * [Proud tobea Flyer](/book-review-proud-tobea-flyer/), Matteo Sola
 * [Nomadland](/book-review-nomadland/), Jessica Bruder
