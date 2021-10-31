@@ -2,7 +2,7 @@
 date: 2021-09-22T07:05:25+01:00
 title: "Book Review: Nausea"
 share: false
-tags: ["books", "reviews"]
+tags: ["books", "reviews", "fiction"]
 ---
 Antoine Roquentin, the protagonist of the novel, is a former adventurer who has
 been living for three years in Bouville, a fictional French seaport town,
