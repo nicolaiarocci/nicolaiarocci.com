@@ -4,12 +4,11 @@ title: "My ASP.NET 5 migration to .NET 6"
 share: false
 tags: ["aspnet", "dotnet", "programming"]
 ---
-I spent the last few days converting our WebApi REST API services, MVC web
-applications and Blazor server apps from .NET 5 to the recently released .NET
-6. Overall the process was pretty straightforward. The few issues I went
-through were easy to solve and well documented. Things got more involved with
-the EF Core 6 transition, especially with the Npgsql Entity Framework Core
-Provider.
+I spent the last few days migrating our ASP.NET REST services, MVC web
+applications and Blazor server apps to .NET 6. Overall the process was pretty
+straightforward. The few issues I went through were easy to solve and well
+documented. Things got more involved with the EF Core 6 transition, especially
+with the Npgsql Entity Framework Core Provider.
 
 The official [ASP.NET Core 5.0 to 6.0 migration guide][1] was my first stop. It
 offers the perfect entry point, rich with in-depth links. At this stage, I am
@@ -17,7 +16,7 @@ not interested in switching to the new .NET 6 minimal hosting model (aka
 Minimal APIs). I think it's a significant improvement, and we will likely adopt
 it for new projects, but our production projects aren't going to be refactored
 right away. Should minimal APIs also prove to be remarkably performant, we'll
-reconsider them.
+reconsider them[^11].
 
 The first step was updating the target framework moniker to `net6.0`.
 
@@ -150,13 +149,13 @@ and examples). My solution was to mark at least one property of dependent
 models with the `RequiredAttribute` (which, in every single case, was the right
 thing to do anyway)
 
-### The `EFCore.NamingConvetions` package is missing a method
+### The `EFCore.NamingConventions` package is missing a method
 
 > Method 'GetServiceProviderHashCode' in type 'ExtensionInfo' from assembly
 > 'EFCore.NamingConventions"
 
 The message says it all: there's currently a missing method in the latest
-stable version of the `EFCore.NamingConvetions` package. At the time of this
+stable version of the `EFCore.NamingConventions` package. At the time of this
 writing, `v6.0` of the package has not been released, but there is a pre-release
 available that includes the missing implementation. Switch to `v6.0.0-rc.1` and
 you'll be fine (ticket is [here][6]). I'm sure the new stable release will be
@@ -198,7 +197,7 @@ Actual values are UTC as before. A custom converter is attached to the `Date`
 property at the application level to ensure that values are correctly handled.
 
 Our stack is now fully running on .NET 6. Upgrading a standard ASP.NET
-5 project to .NET 6 was revealed to be relatively straightforward. The EF Core
+5 project to .NET 6 revealed to be relatively straightforward. The EF Core
 6.0 migration can be more involved, while the Npgsql 6 migration requires some
 attention but, remember, you can always opt-out of the delicate timestamps
 change. Was the upgrade worth it? I think so for a few reasons. First, .NET
@@ -220,6 +219,7 @@ something we will be doing in the upcoming weeks.
  [8]: https://www.npgsql.org/efcore/release-notes/6.0.html#migrating-columns-from-timestamp-to-timestamptz
  [9]: https://devblogs.microsoft.com/dotnet/announcing-net-6
  [10]: https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-6.0/whatsnew#improved-performance-on-techempower-fortunes
+ [^11]: My initial ramblings on Minimal APIs are available [here](/will-.net-6-minimal-apis-turn-heads/).
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
  [nl]: https://nicolaiarocci.substack.com

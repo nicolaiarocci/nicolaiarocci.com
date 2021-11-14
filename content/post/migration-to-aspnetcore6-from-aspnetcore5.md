@@ -2,7 +2,7 @@
 date: 2021-09-23T07:05:25+01:00
 title: "ASP.NET 6 Migration Cheatsheet and FAQ"
 share: false
-tags: ["links", "dotnet", "programming"]
+tags: ["links", "aspnet", "dotnet", "programming"]
 ---
 David Fowler has a very informative gist up on GitHub. It's titled [Migration
 to ASP.NET Core. NET6][3] and it's filled with details, recipes and FAQs on
