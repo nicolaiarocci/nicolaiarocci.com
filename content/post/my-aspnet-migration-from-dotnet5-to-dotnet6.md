@@ -161,6 +161,8 @@ available that includes the missing implementation. Switch to `v6.0.0-rc.1` and
 you'll be fine (ticket is [here][6]). I'm sure the new stable release will be
 out by the time you read this.
 
+*Update: EFCore.NamingConventions v6 has now been released.*
+
 ### The Npgsql timestamps breaking change 
 
 While the above situations were quick to fix, the new, updated Npgsql provider
