@@ -11,6 +11,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2021
 
+* [La matematica è politica](/book-review-mathematics-is-politics), Chiara Valerio
 * [Kind and Emperor: A New Life of Charlemagne](/book-review-king-and-emperor-a-new-life-of-charlemagne/), Janet L. Nelson
 * [Language of the Spirit: An Introduction to Classical Music](/book-review-language-of-the-spirit-an-introduction-to-classical-music/), Jan Swafford
 * [Nausea](/book-review-nausea/), Jean-Paul Sartre
