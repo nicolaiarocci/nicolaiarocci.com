@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "dad34c3982f71897",
+    "type": "split",
+    "children": [
+      {
+        "id": "af2f6dcef5bf60dd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2011-01-13-eric-meyer-aggiorna-il-suo-famoso-css-reset.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f28b8274ade7e9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "74726a3d50f628f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ec7f1e8ebe6d3e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7bca542d34ece78a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4c1087dd1241d72e",
+    "type": "split",
+    "children": [
+      {
+        "id": "394e6892b646cd98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dda6dffe7269c2b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2011-01-13-eric-meyer-aggiorna-il-suo-famoso-css-reset.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "af2f6dcef5bf60dd",
+  "lastOpenFiles": [
+    "2011-01-13-eric-meyer-aggiorna-il-suo-famoso-css-reset.md",
+    "2010-10-26-guida-di-riferimento-per-asp-net.md"
+  ]
+}

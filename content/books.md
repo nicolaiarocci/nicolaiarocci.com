@@ -11,6 +11,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2021
 
+* [Un uomo inutile](/book-review-a-useles-man/), Sait Faik Abasiyanik
 * [Endurance, Shackleton's Incredible Voyage](/book-review-endurance-shackletons-incredible-voyage/), Alfred Lansing
 * [La matematica è politica](/book-review-mathematics-is-politics), Chiara Valerio
 * [Kind and Emperor: A New Life of Charlemagne](/book-review-king-and-emperor-a-new-life-of-charlemagne/), Janet L. Nelson
