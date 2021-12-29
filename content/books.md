@@ -11,6 +11,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2021
 
+* [Consider the Lobster](/book-review-consider-the-lobster/), David Foster Wallace
 * [A proposito del senso della vita](/book-review-about-the-meaning-of-life/), Vito Mancuso
 * [Un uomo inutile](/book-review-a-useles-man/), Sait Faik Abasiyanik
 * [Endurance, Shackleton's Incredible Voyage](/book-review-endurance-shackletons-incredible-voyage/), Alfred Lansing
