@@ -1,6 +1,6 @@
 ---
 date: 2021-01-04T07:05:25+01:00
-title: "Five good books I read in 2020"
+title: "Five Good Books I Read in 2020"
 share: false
 tags: ["reading", "books"]
 ---
