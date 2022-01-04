@@ -9,6 +9,10 @@ slug: books-i-have-read
 This is a partial list of the books I have read. I have it both to jog my memory and because I have read a lot of stuff I have loved, and want other people to find it.
 
 
+## 2022
+
+* [Fiabe finlandesi](/book-review-finnish-fairy-tales/), various authors
+
 ## 2021
 
 *[Three Good Books I Read in 2021](/three-good-books-i-read-in-2021/)*
