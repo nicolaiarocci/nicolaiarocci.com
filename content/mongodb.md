@@ -21,7 +21,8 @@ La traduzione Italiana è ora allineata alla seconda edizione inglese ed a Mongo
 
 ## Download
 
-Il Piccolo Libro di MongoDB è disponibile in tre formati: [PDF][6], [ePub][7], [mobi][8].
+Il Piccolo Libro di MongoDB è più disponibile per il download, ma potete
+recuperarne il testo [qui](https://github.com/nicolaiarocci/the-little-mongodb-book/blob/master/it/mongodb.markdown).
 
 ## Il Piccolo Libro su Goodreads
 
