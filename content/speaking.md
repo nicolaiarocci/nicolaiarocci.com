@@ -9,6 +9,10 @@ image: images/nicola@codemotion2017.jpeg
 I speak at conferences and meetups. Here is a list of my most recent
 engagements. Want me to talk at your event? [Get in touch][1]!
 
+## 2022
+
+- WebDay 2022: [Reliable end-to-end testing for modern web apps](https://www.ugidotnet.org/e/sessione/2883/Reliable-end-to-end-testing-for-modern-web-apps-with-Playwright-for-NET)
+
 ## 2021
 
 - DotNetPodcast: [My Open Source experience (Italian)](https://www.spreaker.com/user/dotnetpodcast/python-eve-open-source-e-fattura-elettro)
