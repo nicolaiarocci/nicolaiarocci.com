@@ -25,7 +25,7 @@ tags: ["dfw", "quotes"]
 > Worship your intellect, being seen as smart-you will end up feeling stupid,
 > a fraud, always on the verge of being found out. And so on.
 
-> --David Foster Wallace in "This is Water" (via [Tom MacWright](https://macwright.com/2022/03/29/recently.html))
+> --David Foster Wallace in "[This is Water](https://web.archive.org/web/20080213082423/http://www.marginalia.org/dfw_kenyon_commencement.html)" ([via](https://macwright.com/2022/03/29/recently.html))
 
 
 *Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
