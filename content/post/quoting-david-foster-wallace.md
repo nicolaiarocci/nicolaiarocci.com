@@ -1,6 +1,6 @@
 ---
 date: 2022-03-31T06:05:25+01:00
-title: "Whatever you worship will eat you alive"
+title: "Quoting David Foster Wallace"
 share: false
 tags: ["dfw", "quotes"]
 ---
