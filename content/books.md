@@ -11,6 +11,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2022
 
+* [Lone Rider](/book-review-lone-rider), Elspeth Beard
 * [Roumeli](/book-review-roumeli), Patrick Leigh Fermor
 * [Thinking fast and slow](/book-review-thinking-fast-and-slow/), Daniel Kahneman
 * [Eichmann in Jerusalem. A Report on the Banality of Evil](/book-review-eichmann-in-jerusalem.-a-report-on-the-banality-of-evil/), Hannah Arendt
