@@ -56,10 +56,12 @@ critics who acclaimed it.
 My long-held fears were unfounded after all. Although with some guilty delay,
 this book goes straight into my all-time top ten.
 
+See also: *[Becoming the Emperor][1]*
 
 *Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
 
  
+ [1]: /becoming-the-emperor/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
  [nl]: https://nicolaiarocci.substack.com
