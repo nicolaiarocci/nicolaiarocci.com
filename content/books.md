@@ -11,6 +11,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2022
 
+* [Just an Ordinary Day](/book-review-just-an-ordinary-day), Shirley Jackson
 * [Italica](/book-review-italica), Giacomo Papi
 * [The Rings of Saturn](/book-review-the-rings-of-saturn), W.G. Sebald
 * [Invisible Cities](/book-review-invisible-cities), Italo Calvino
