@@ -1,6 +1,6 @@
 ---
 date: 2022-08-24T07:05:25+01:00
-title: "The Indictment Against Sparta"
+title: "The indictment against Sparta"
 share: false
 tags: ["links", "sparta", "history"]
 ---
