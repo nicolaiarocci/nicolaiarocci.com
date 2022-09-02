@@ -21,8 +21,8 @@ music much more accessible. Quoting Open Culture:
 > serious fans, and newcomers alike through “universal values that still speak
 > to us now.”
 
-Indeed, it's stunning, beautiful and valuable. A visualization like this makes
-music much more accessible. I suddenly want all my music visualized like this.
+I suddenly want all my music visualized like this.
+
 My nerdiness alarm immediately went off, and I wanted to know more, so I dug
 a little. Open Culture presentation is remarkable, but what's mind-boggling is
 the author's [in-depth article][2] on the fractal structure of the solo. It's
