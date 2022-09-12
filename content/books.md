@@ -11,6 +11,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2022
 
+* [Smiling Bears](/book-review-smiling-bears), Else Poulsen
 * [A captive West or the tragedy of Central Europe](/book-review-a-captive-west-or-the-tragedy-of-central-europe), Milan Kundera
 * [Just an Ordinary Day](/book-review-just-an-ordinary-day), Shirley Jackson
 * [Italica](/book-review-italica), Giacomo Papi
