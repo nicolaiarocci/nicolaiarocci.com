@@ -1,4 +1,3 @@
-# test
 baseurl = "https://nicolaiarocci.com/"
 title = "Nicola Iarocci"
 copyright = "All rights reserved"
@@ -88,6 +87,7 @@ bio = "Software Craftsman"
 logo = "images/avatar.png"
 customCSS = ["css/custom.css"]
 shareenabled = false
+pdf_embed_clientid = "11bc2572c4574da483befa5b08fe015e"
 
 #githubName = "nicolaiarocci"
 #twitterName = "nicolaiarocci"
