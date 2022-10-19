@@ -11,7 +11,7 @@ engagements. Want me to talk at your event? [Get in touch][1]!
 
 ## 2022
 
-- WPC 2022, Milan: [Reliable end-to-end testing for  modern web apps with Microsoft Playwright](https://www.wpc2022.it/)
+- WPC 2022, Milan: [Reliable end-to-end testing for  modern web apps](/my-session-at-wpc-2022/)
 - DevRomagna: [Modern Web Testing with Microsoft Playwright](https://www.meetup.com/it-IT/DevRomagna/events/284626987/)
 - WebDay 2022: [Reliable end-to-end testing for modern web apps](https://www.ugidotnet.org/e/sessione/2883/Reliable-end-to-end-testing-for-modern-web-apps-with-Playwright-for-NET)
 
