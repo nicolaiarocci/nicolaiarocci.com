@@ -32,6 +32,8 @@ Anyways, I'm rambling. It was a great late autumn trip. The woods are
 spectacular this time of the year, which is why we hit that area with this
 trip.
 
+*Update. A video recorded during the event is available on [YouTube](https://www.youtube.com/watch?v=rDoGXW9K7IM)*.
+
 ![](/images/foreste-casentinesi-tomcc-3.jpg)
 ![](/images/foreste-casentinesi-tomcc-2.jpg)
 ![](/images/foreste-casentinesi-tomcc-1.jpg)
