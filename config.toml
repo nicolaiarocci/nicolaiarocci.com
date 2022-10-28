@@ -93,7 +93,7 @@ pdf_embed_clientid = "11bc2572c4574da483befa5b08fe015e"
 #twitterName = "nicolaiarocci"
 #linkedinName = "nicolaiarocci"
 
-#googleAnalyticsUserID = "UA-19006041-1"
+googleAnalyticsUserID = "UA-19006041-1"
 hideHUGOSupport = true
 
 [permalinks]
