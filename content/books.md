@@ -11,6 +11,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2022
 
+* [Ravenna](/book-review-ravenna), Judith Herrin
 * [The Count of Monte Cristo](/book-review-the-count-of-monte-cristo), Alexandre Dumas
 * [Smiling Bears](/book-review-smiling-bears), Else Poulsen
 * [A captive West or the tragedy of Central Europe](/book-review-a-captive-west-or-the-tragedy-of-central-europe), Milan Kundera
