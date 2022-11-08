@@ -20,7 +20,7 @@ someone from Cambridge, MA, would know about my tiny, little hometown's mosaics
 and let me know. 
 
 While Ravenna is relegated to a marginal role in the modern age, it played
-a very significant role in ancient times. Quoting from the from the
+a very significant one in ancient times. Quoting from the from the
 backcover of the book:
 
 > In 402 AD, after invading tribes broke through the Alpine frontiers of Italy
