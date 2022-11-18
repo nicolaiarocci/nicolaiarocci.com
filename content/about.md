@@ -10,9 +10,8 @@ and thoughts. Every once in a while I even post some technical stuff.
 
 I&#8217;m a coder at heart author of several [open source projects][1],
 a [Microsoft MVP][2], [Conference Speaker][4], teacher and consultant. I live
-in Ravenna, Italy, where I work on the [Amica 10][5] project. In my hometown
-I run the [local CoderDojo][6], a coding club for kids. I am also the creator
-and organizer of [DevRomagna][26], the local developer community.
+in Ravenna, Italy, where I work on the [Amica 10][5] project. I also the
+creator and organizer of [DevRomagna][26], the local developer community.
 
 I am a former runner, climber and swimmer now keeping myself busy with
 bodyweight training. I love reading [good books][8], hiking in the wilderness
@@ -32,7 +31,6 @@ The content I publish on my website, only via mail. Never miss an update.
   * [GitHub][10]
   * [Stack Overflow][11]
   * [LinkedIn][12]
-  * [Speaker Deck][13]
   * [GoodReads][15]
   * [Mail][16]
 
@@ -41,15 +39,12 @@ The content I publish on my website, only via mail. Never miss an update.
  [3]: https://www.mongodb.org/community/masters
  [4]: /speaking
  [5]: http://gestionaleamica.com/
- [6]: http://coderdojoravenna.it/
  [7]: https://coderdojo.com/
  [8]: http://nicolaiarocci.com/books-i-have-read/
  [9]: https://twitter.com/nicolaiarocci
  [10]: https://github.com/nicolaiarocci
  [11]: https://stackoverflow.com/users/323269/nicola-iarocci
  [12]: http://www.linkedin.com/in/nicolaiarocci
- [13]: http://speakerdeck.com/u/nicola
- [14]: http://www.slideshare.net/nicolaiarocci
  [15]: http://www.goodreads.com/user/show/4665453-nicola
  [16]: mailto:nicola@nicolaiarocci.com
  [17]: http://it.wikipedia.org/wiki/Sinclair_ZX_Spectrum
