@@ -11,6 +11,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2022
 
+* [Mašen'ka](/book-review-mašenka), Vladimir Nabokov
 * [The Crow Comes Last](/book-review-the-crow-comes-last), Italo Calvino
 * [Ravenna](/book-review-ravenna), Judith Herrin
 * [The Count of Monte Cristo](/book-review-the-count-of-monte-cristo), Alexandre Dumas
