@@ -5,8 +5,8 @@ share: false
 tags: []
 ---
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
 
  [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
+ [m]: https://fosstodon.org/@nicola
  [nl]: https://nicolaiarocci.substack.com

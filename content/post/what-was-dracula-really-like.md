@@ -4,7 +4,7 @@ title: "What was Dracula really like?"
 share: false
 tags: ["links", "dracula"]
 ---
-It's mind-blogging that today scientists can "extract genetic material from the
+It's mind-blowing that today scientists can "extract genetic material from the
 letters written [in 1475] by Vlad Dracula [...] and, from that, build up a
 picture of not only the physical makeup of the Wallachian warlord who became
 known as Vlad the Impaler but also the environmental conditions in which he
