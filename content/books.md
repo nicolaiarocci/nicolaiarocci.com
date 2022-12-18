@@ -11,6 +11,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2022
 
+* [Candide](/book-review-candide), Voltaire
 * [When We Cease to Understand the World](/book-review-when-we-cease-to-understand-the-world/), Benjamin Labatut
 * [Mašen'ka](/book-review-mašenka), Vladimir Nabokov
 * [The Crow Comes Last](/book-review-the-crow-comes-last), Italo Calvino
