@@ -11,6 +11,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2022
 
+*[My favorite books of 2022](/my-favorite-books-of-2022/)*
+
 * [Stoner](/book-review-stoner), John Williams
 * [Candide](/book-review-candide), Voltaire
 * [When We Cease to Understand the World](/book-review-when-we-cease-to-understand-the-world/), Benjamin Labatut
@@ -33,7 +35,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2021
 
-*[Three Good Books I Read in 2021](/three-good-books-i-read-in-2021/)*
+*[Three good books I read in 2021](/three-good-books-i-read-in-2021/)*
 
 * [Consider the Lobster](/book-review-consider-the-lobster/), David Foster Wallace
 * [A proposito del senso della vita](/book-review-about-the-meaning-of-life/), Vito Mancuso
@@ -60,7 +62,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2020
 
-*[Five Good Books I Read in 2020](/five-good-books-i-read-in-2020/)*
+*[Five good books I read in 2020](/five-good-books-i-read-in-2020/)*
 
 * [Terra incognita](https://www.goodreads.com/review/show/3727653753), Sebastiano Barisoni
 * [Leggende groenlandesi](https://www.goodreads.com/review/show/3703387965), Knud Rasmussen
