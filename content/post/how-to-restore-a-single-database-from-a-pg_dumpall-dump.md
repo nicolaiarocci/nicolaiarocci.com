@@ -40,8 +40,8 @@ Now we have the specific DB dump, and we can restore it like this:
 If the database still exists on the cluster, we first want to drop it, or we'll
 only get error messages:
 
-    psql (connection options) -d postgres -C "DROP DATABASE IF EXISTS mydb"
-    psql (connection options) -d postgres -C "CREATE DATABASE mydb"
+    psql (connection options) -d postgres -c "DROP DATABASE IF EXISTS mydb"
+    psql (connection options) -d postgres -c "CREATE DATABASE mydb"
 
 `DROP DATABASE` will fail if there are active connections. Either
 [force-drop][4] all active connections or tell your peers to leave the database
