@@ -12,7 +12,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 ## 2023
 
 * Essere lupo, Kerstin Ekman
-* No Sleep Till Shengal, Zerocalcare
+* [No Sleep Till Shengal](/book-review-no-sleep-till-shengal/), Zerocalcare
 * [Red Mars](/book-review-red-mars/), Kim Stanley Robinson
 * [Sanguina Ancora](/book-review-sanguina-ancora-still-bleeding/), Paolo Nori
 * [Uomini, boschi e api](/book-review-uomini-boschi-e-api/), Mario Rigoni Stern
