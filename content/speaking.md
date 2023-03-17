@@ -9,6 +9,11 @@ image: images/nicola@codemotion2017.jpeg
 I speak at conferences and meetups. Here is a list of my most recent
 engagements. Want me to talk at your event? [Get in touch][1]!
 
+## 2023
+
+- WebDay 2023, Milan: [End-to-end testing with Microsoft Playwright](https://www.webdayconf.it/e/3087/Web-Day-2023)
+- DevRomagna Meetup, [.NET 7 Spotlight](https://www.meetup.com/it-IT/devromagna/events/289709131/)
+
 ## 2022
 
 - WPC 2022, Milan: [Reliable end-to-end testing for  modern web apps](/my-session-at-wpc-2022/)
