@@ -2,7 +2,7 @@
 date: 2023-02-16T07:05:25+01:00
 title: "Quoting Solzhenitsyn"
 share: false
-tags: ["quotes"]
+tags: ["quotes", "solzhenitsyn"]
 ---
 > The simple step of a courageous individual is not to take part in the lie.<br/>
 > --Aleksandr Solzhenitsyn
