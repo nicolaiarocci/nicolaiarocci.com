@@ -2,7 +2,7 @@
 date: 2022-05-27T07:05:25+01:00
 title: "Book Review: Invisible Cities"
 share: false
-tags: ["books", "reviews"]
+tags: ["books", "reviews", "calvino"]
 ---
 > "Kublai Khan does not necessarily believe everything Marco Polo says when he
 > describes the cities visited on his expeditions, but the emperor of the
