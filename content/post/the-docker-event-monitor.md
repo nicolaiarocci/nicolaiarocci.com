@@ -4,7 +4,7 @@ title: "The Docker Event Monitor"
 description: "How to get alerted when a docker container goes down, or (many) other things happen to it"
 
 share: false
-tags: ["til", "open-source", "python"]
+tags: ["til", "open-source", "python", "docker"]
 ---
 I added a new tool to my amateurish DevOps toolbox. Developed in the open by
 Tom Williams, the [Docker Event Monitor is][1] a "tiny container that monitors
