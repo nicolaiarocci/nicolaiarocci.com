@@ -2,7 +2,7 @@
 date: 2022-09-09T07:05:25+01:00
 title: "FatturaElettronica v3.4 released"
 share: false
-tags: ["dotnet", "open-source"]
+tags: ["dotnet", "open-source", "fattura-elettronica"]
 ---
 Today I released v3.4 of [FatturaElettronica][1], a .NET open source project
 that allows validation and de/serialization of electronic invoices adhering to
