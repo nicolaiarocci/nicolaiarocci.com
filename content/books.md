@@ -13,7 +13,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 * Disastri, Daniil Charms
 * Land and Sea, Carl Schmitt
-* Medieval callings, Jacques Le Goff
+* [Medieval callings](/book-review-medieval-callings/), Jacques Le Goff
 * Essere lupo, Kerstin Ekman
 * [No Sleep Till Shengal](/book-review-no-sleep-till-shengal/), Zerocalcare
 * [Red Mars](/book-review-red-mars/), Kim Stanley Robinson
