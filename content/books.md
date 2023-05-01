@@ -12,9 +12,9 @@ This is a partial list of the books I have read. I have it both to jog my memory
 ## 2023
 
 * Disastri, Daniil Charms
-* Land and Sea, Carl Schmitt
+* [Land and Sea](/book-review-land-and-sea/), Carl Schmitt
 * [Medieval callings](/book-review-medieval-callings/), Jacques Le Goff
-* Essere lupo, Kerstin Ekman
+* [Essere lupo](/book-review-being-wolf/), Kerstin Ekman
 * [No Sleep Till Shengal](/book-review-no-sleep-till-shengal/), Zerocalcare
 * [Red Mars](/book-review-red-mars/), Kim Stanley Robinson
 * [Sanguina Ancora](/book-review-sanguina-ancora-still-bleeding/), Paolo Nori
