@@ -11,7 +11,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2023
 
-* Disastri, Daniil Charms
+* [Disastri](/book-review-disasters/), Daniil Charms
 * [Land and Sea](/book-review-land-and-sea/), Carl Schmitt
 * [Medieval callings](/book-review-medieval-callings/), Jacques Le Goff
 * [Essere lupo](/book-review-being-wolf/), Kerstin Ekman
