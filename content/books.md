@@ -11,6 +11,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2023
 
+* Born to run 2, Chris McDougall, Eric Norton
 * La mossa del matto, Alessandro Barbaglia
 * [Disastri](/book-review-disasters/), Daniil Charms
 * [Land and Sea](/book-review-land-and-sea/), Carl Schmitt
