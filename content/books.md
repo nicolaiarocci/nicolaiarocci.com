@@ -11,15 +11,15 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2023
 
-* Born to run 2, Chris McDougall, Eric Norton
-* La mossa del matto, Alessandro Barbaglia
-* [Disastri](/book-review-disasters/), Daniil Charms
+* Born to run 2, Chris McDougall and Eric Orton
+* La Mossa del Matto (The Fool's Move), Alessandro Barbaglia
+* [Disastri (Disasters)](/book-review-disastri/), Daniil Charms
 * [Land and Sea](/book-review-land-and-sea/), Carl Schmitt
 * [Medieval callings](/book-review-medieval-callings/), Jacques Le Goff
-* [Essere lupo](/book-review-being-wolf/), Kerstin Ekman
+* [Essere lupo (Being Wolf)](/book-review-being-wolf/), Kerstin Ekman
 * [No Sleep Till Shengal](/book-review-no-sleep-till-shengal/), Zerocalcare
 * [Red Mars](/book-review-red-mars/), Kim Stanley Robinson
-* [Sanguina Ancora](/book-review-sanguina-ancora-still-bleeding/), Paolo Nori
+* [Sanguina Ancora (Still Bleeding)](/book-review-sanguina-ancora-still-bleeding/), Paolo Nori
 * [Uomini, boschi e api](/book-review-uomini-boschi-e-api/), Mario Rigoni Stern
 
 ## 2022

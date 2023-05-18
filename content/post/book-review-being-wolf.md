@@ -1,6 +1,6 @@
 ---
 date: 2023-04-03T07:05:25+01:00
-title: "Book Review: Being Wolf"
+title: "Book Review: Essere Lupo (Being Wolf)"
 share: false
 tags: ["books", "reviews"]
 ---
