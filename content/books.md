@@ -12,7 +12,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 ## 2023
 
 * Born to run 2, Chris McDougall and Eric Orton
-* La Mossa del Matto (The Fool's Move), Alessandro Barbaglia
+* [La Mossa del Matto (The Fool's Move)](/book-review-la-mossa-del-matto-the-fools-move/), Alessandro Barbaglia
 * [Disastri (Disasters)](/book-review-disastri/), Daniil Charms
 * [Land and Sea](/book-review-land-and-sea/), Carl Schmitt
 * [Medieval callings](/book-review-medieval-callings/), Jacques Le Goff
