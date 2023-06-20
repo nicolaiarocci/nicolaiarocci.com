@@ -5,8 +5,8 @@ slug: homebrew-and-dotnet-8-preview-dont-like-each-other
 share: false
 tags: ["til", "dotnet", "programming", "homebrew", "csharp"]
 ---
-Today I learned that .NET 8 Preview could play better with Homebrew (or vice-versa). I'm working on a C# 12 presentation
-for our local developer meetup, and for that, I wanted .NET 8 Preview to run side by side with version 7 on my Mac. As
+Today I learned that .NET 8 Preview could play better with Homebrew (or vice-versa). I'm working on a [C# 12 presentation
+for our local developer meetup][1], and for that, I wanted .NET 8 Preview to run side by side with version 7 on my Mac. As
 version 7 was initially installed with Homebrew, I also wanted to install version 8 Preview with Homebrew, but that
 recipe was unavailable. Not perfectly happy with that, I fell back to the stand-alone installer, expecting
 problems.
@@ -24,6 +24,7 @@ I had to forego the Homebrew installation, which did not uninstall the SDK itsel
 
 *Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
 
+ [1]: https://www.meetup.com/it-IT/devromagna/events/293340671/
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
  [nl]: https://nicolaiarocci.substack.com
