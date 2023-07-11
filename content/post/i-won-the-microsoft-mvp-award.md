@@ -1,6 +1,6 @@
 ---
 date: 2023-07-06T07:05:25+01:00
-title: "I won Microsoft MVP Award"
+title: "I won the Microsoft MVP Award"
 share: false
 tags: ["mvpaward", "programming", "dotnet"]
 ---
