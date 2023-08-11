@@ -11,6 +11,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2023
 
+* Cime Tempestose (Wuthering Heights), Emily Bronte
+* Immersione rapida (Blind's Man Bluff), Sharry Sontag, Christopher Drew
 * La vita è un tirocinio (Life is an apprenticeship), Domenico Starnone
 * Born to run 2, Chris McDougall and Eric Orton
 * [La Mossa del Matto (The Fool's Move)](/book-review-la-mossa-del-matto-the-fools-move/), Alessandro Barbaglia
