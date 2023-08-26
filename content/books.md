@@ -11,10 +11,11 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2023
 
-* Cime Tempestose (Wuthering Heights), Emily Bronte
-* Immersione rapida (Blind's Man Bluff), Sharry Sontag, Christopher Drew
-* La vita è un tirocinio (Life is an apprenticeship), Domenico Starnone
-* Born to run 2, Chris McDougall and Eric Orton
+* [Born to run 2](/a-few-late-book-reviews/), Chris McDougall and Eric Orton
+* [Immersione rapida (Blind's Man Bluff)](/a-few-late-book-reviews/), Sharry Sontag, Christopher Drew
+* [Cime Tempestose (Wuthering Heights)](/a-few-late-book-reviews/), Emily Bronte
+* [La vita è un tirocinio (Life is an apprenticeship)](/a-few-late-book-reviews/), Domenico Starnone
+* [Il sussurro del mondo (The Overstory)](/a-few-late-book-reviews/), Richard Powers
 * [La Mossa del Matto (The Fool's Move)](/book-review-la-mossa-del-matto-the-fools-move/), Alessandro Barbaglia
 * [Disastri (Disasters)](/book-review-disastri/), Daniil Charms
 * [Land and Sea](/book-review-land-and-sea/), Carl Schmitt
