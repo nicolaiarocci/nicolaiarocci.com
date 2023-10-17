@@ -38,8 +38,8 @@ sudo usermod -s /bin/bash backup
 Now my rsync-with-a-different-user command works like a charm. I do have some mild security concerns, though. My user is
 a sudoer (can only sudo rsync, though[^3]), and 'backup' now has shell access. As password logins are turned off, and
 SSH keys-only access is allowed to the machine (and I'm the only person holding those keys), everything's still
+reasonably safe. Are there better ways? Please let me know. 
 
-reasonably safe. Are there better ways? Please let me know.
 *Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
 
 [1]: https://download.samba.org/pub/rsync/rsync.1#opt--rsync-path
