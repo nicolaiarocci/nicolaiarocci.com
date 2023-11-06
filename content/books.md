@@ -11,6 +11,10 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2023
 
+* Ferrovie del Messico, Gian Marco Griffi
+* ADHD negli adulti, Tara Wilson
+* La vita in alto. Una stagione sul'Himalaya (High), Erica Fatland
+* Il passeggero (The passenger), Cormac McCarthy
 * [Born to run 2](/a-few-late-book-reviews/), Chris McDougall and Eric Orton
 * [Immersione rapida (Blind's Man Bluff)](/a-few-late-book-reviews/), Sharry Sontag, Christopher Drew
 * [Cime Tempestose (Wuthering Heights)](/a-few-late-book-reviews/), Emily Bronte
