@@ -12,19 +12,19 @@ This is a partial list of the books I have read. I have it both to jog my memory
 ## 2023
 
 * Ferrovie del Messico, Gian Marco Griffi
-* ADHD negli adulti, Tara Wilson
-* La vita in alto. Una stagione sul'Himalaya (High), Erica Fatland
-* Il passeggero (The passenger), Cormac McCarthy
+* ADHD Workbook for Adults (ADHD negli adulti), Tara Wilson
+* High (La vita in alto. Una stagione sul'Himalaya), Erica Fatland
+* The passenger (Il passeggero), Cormac McCarthy
 * [Born to run 2](/a-few-late-book-reviews/), Chris McDougall and Eric Orton
-* [Immersione rapida (Blind's Man Bluff)](/a-few-late-book-reviews/), Sharry Sontag, Christopher Drew
-* [Cime Tempestose (Wuthering Heights)](/a-few-late-book-reviews/), Emily Bronte
+* [Blind's Man Bluff (Immersione rapida)](/a-few-late-book-reviews/), Sharry Sontag, Christopher Drew
+* [Wuthering Heights (Cime Tempestose)](/a-few-late-book-reviews/), Emily Bronte
 * [La vita è un tirocinio (Life is an apprenticeship)](/a-few-late-book-reviews/), Domenico Starnone
-* [Il sussurro del mondo (The Overstory)](/a-few-late-book-reviews/), Richard Powers
-* [La Mossa del Matto (The Fool's Move)](/book-review-la-mossa-del-matto-the-fools-move/), Alessandro Barbaglia
-* [Disastri (Disasters)](/book-review-disastri/), Daniil Charms
+* [The Overstory (Il sussurro del mondo)](/a-few-late-book-reviews/), Richard Powers
+* [The Fool's Move (La Mossa del Matto)](/book-review-la-mossa-del-matto-the-fools-move/), Alessandro Barbaglia
+* [Disasters (Disastri)](/book-review-disastri/), Daniil Charms
 * [Land and Sea](/book-review-land-and-sea/), Carl Schmitt
 * [Medieval callings](/book-review-medieval-callings/), Jacques Le Goff
-* [Essere lupo (Being Wolf)](/book-review-being-wolf/), Kerstin Ekman
+* [Being Wolf (Essere lupo)](/book-review-essere-lupo-being-wolf/), Kerstin Ekman
 * [No Sleep Till Shengal](/book-review-no-sleep-till-shengal/), Zerocalcare
 * [Red Mars](/book-review-red-mars/), Kim Stanley Robinson
 * [Sanguina Ancora (Still Bleeding)](/book-review-sanguina-ancora-still-bleeding/), Paolo Nori
