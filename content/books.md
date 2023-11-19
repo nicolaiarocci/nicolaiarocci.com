@@ -14,6 +14,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 * Stella Maris, Cormac McCarthy
 * Ferrovie del Messico, Gian Marco Griffi
 * ADHD Workbook for Adults (ADHD negli adulti), Tara Wilson
+* Codice Jury, Jury Chechi
 * High (La vita in alto. Una stagione sul'Himalaya), Erica Fatland
 * The passenger (Il passeggero), Cormac McCarthy
 * [Born to run 2](/a-few-late-book-reviews/), Chris McDougall and Eric Orton
