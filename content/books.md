@@ -11,6 +11,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2023
 
+* Stella Maris, Cormac McCarthy
 * Ferrovie del Messico, Gian Marco Griffi
 * ADHD Workbook for Adults (ADHD negli adulti), Tara Wilson
 * High (La vita in alto. Una stagione sul'Himalaya), Erica Fatland
