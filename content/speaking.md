@@ -11,6 +11,7 @@ engagements. Want me to talk at your event? [Get in touch][1]!
 
 ## 2023
 
+- .NET Conference Italia 2023, Milan: [C# 12 What's new and interesting](https://www.dotnetconference.it/e/sessione/3295/C-12-Cosa-c-e-di-nuovo-e-interessante)
 - WebDay 2023, Milan: [End-to-end testing with Microsoft Playwright](https://www.webdayconf.it/e/3087/Web-Day-2023)
 - DevRomagna Meetup, [.NET 7 Spotlight](https://www.meetup.com/it-IT/devromagna/events/289709131/)
 
