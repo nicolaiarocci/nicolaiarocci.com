@@ -11,6 +11,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ## 2023
 
+* Happiness, as Such (Caro Michele), Natialia Ginzburg
 * The Ancient Hours (L'ultima cosa bella sulla faccia della terra), M. Bible
 * Milano calibro 9, Giorgio Scerbanenco
 * Stella Maris, Cormac McCarthy
