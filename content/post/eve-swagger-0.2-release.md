@@ -2,7 +2,7 @@
 date: 2022-05-17T07:05:25+01:00
 title: "Eve-Swagger v0.2 released"
 share: false
-tags: ["open-soruce", "python", "eve"]
+tags: ["open-source", "python", "eve"]
 ---
 I just released [Eve-Swagger v0.2][1] on PyPI. Eve-Swagger is a Swagger/OpenAPI
 extension for [Eve][2] powered RESTful APIs. This maintenance release addresses

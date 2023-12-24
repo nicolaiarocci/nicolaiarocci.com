@@ -8,7 +8,7 @@ Yesterday was a beautiful, sunny, cold winter Sunday. I felt like going out and
 enjoying nature, so I took a solo hike in the Foreste Casentinesi National Park,
 about an hour's drive from home.
 
-![On my way to Poggio Montironi](/images/poggio-montironi.JPG)
+![On my way to Poggio Montironi](/images/poggio-montironi.jpg)
 
 This one marks my very first technology-assisted hiking adventure. It may seem
 weird for someone who's been hiking for so long, is a notorious geek and is a

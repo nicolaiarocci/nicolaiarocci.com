@@ -1,13 +1,14 @@
 ---
 title: Books I Have Read
-author: Nicola Iarocci
-date: 2015-06-09
 share: false
 weight: 7
 slug: books-i-have-read
+cover:
+    image: images/library.jpg
 ---
 This is a partial list of the books I have read. I have it both to jog my memory and because I have read a lot of stuff I have loved, and want other people to find it.
 
+My book reviews are available [here](/tags/reviews/).
 
 ## 2023
 

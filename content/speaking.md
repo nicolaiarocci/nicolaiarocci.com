@@ -1,10 +1,9 @@
 ---
 title: Speaking
-author: Nicola Iarocci
-date: 2013-04-27
 share: false
 weight: 8
-image: images/nicola@codemotion2017.jpeg
+cover:
+    image: images/speaking.png
 ---
 I speak at conferences and meetups. Here is a list of my most recent
 engagements. Want me to talk at your event? [Get in touch][1]!
@@ -98,9 +97,7 @@ engagements. Want me to talk at your event? [Get in touch][1]!
 - KnowCamp 2011: [Fuga dalla Comfort Zone][20]
 - RomagnaCamp 2011: [Quattro passi tra le nuvole][21]
 
-{{< tweet 931238736364531712 >}}
-
- [1]: mailto:speaking@nicolaiarocci.com
+ [1]: mailto:info@nicolaiarocci.com
  [2]: https://speakerdeck.com/nicola/python-tools-for-visual-studio
  [3]: https://speakerdeck.com/nicola/cerberus
  [4]: https://speakerdeck.com/nicola/eve-rest-api-for-humans

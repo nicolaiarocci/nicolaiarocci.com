@@ -1,11 +1,13 @@
 ---
 title: Open Source
-author: Nicola Iarocci
-date: 2013-04-28
 share: false
 weight: 9
+cover:
+    image: images/github-profile.jpg
 ---
-Here is a list of my open source projects. You can see check the source code for all of them on [GitHub][1].
+You can follow my open source activity on [this website](/tags/open-source/) or [GitHub][1].
+
+Here is a list of open source projects I authored:
 
 - [Eve][2]. Effortlessly build and deploy highly customizable, fully featured RESTful Web Services. Powered by Flask, MongoDB and good intentions.
 
@@ -36,10 +38,6 @@ Here is a list of my open source projects. You can see check the source code for
 - [Spesometro.NET][18]. Lettura, scrittura, convalida dello Spesometro (Comunicazione delle Fatture Emesse e Ricevute).
 
 - [Il Piccolo Libro di MongoDB][15]. Authorized Italian translation of The Little MongoDB Book di Karl Seguin. 
-
-- Many more OSS projects I have worked on have been released by [my company][17].
-
-You can follow my [open source activity][16].
 
  [1]: https://github.com/nicolaiarocci/
  [2]: http://python-eve.org "Eve"
