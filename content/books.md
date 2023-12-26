@@ -2,6 +2,7 @@
 title: Books I Have Read
 share: false
 weight: 7
+showToc: true
 slug: books-i-have-read
 cover:
     image: images/library.jpg
@@ -10,7 +11,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 My book reviews are available [here](/tags/reviews/).
 
-## 2023
+### 2023
 
 * Happiness, as Such (Caro Michele), Natialia Ginzburg
 * The Ancient Hours (L'ultima cosa bella sulla faccia della terra), M. Bible
@@ -36,7 +37,7 @@ My book reviews are available [here](/tags/reviews/).
 * [Sanguina Ancora (Still Bleeding)](/book-review-sanguina-ancora-still-bleeding/), Paolo Nori
 * [Uomini, boschi e api](/book-review-uomini-boschi-e-api/), Mario Rigoni Stern
 
-## 2022
+### 2022
 
 *[My favorite books of 2022](/my-favorite-books-of-2022/)*
 
@@ -60,7 +61,7 @@ My book reviews are available [here](/tags/reviews/).
 * [Eichmann in Jerusalem. A Report on the Banality of Evil](/book-review-eichmann-in-jerusalem.-a-report-on-the-banality-of-evil/), Hannah Arendt
 * [Fiabe finlandesi](/book-review-finnish-fairy-tales/), various authors
 
-## 2021
+### 2021
 
 *[Three good books I read in 2021](/three-good-books-i-read-in-2021/)*
 
@@ -87,7 +88,7 @@ My book reviews are available [here](/tags/reviews/).
 * [The Water Dancer](/book-review-the-water-dancer/), Ta-Nehisi Coates
 * [Erebus: The Story of a Ship](https://nicolaiarocci.com/book-review-erebus-the-story-of-a-ship/), Michael Palin 
 
-## 2020
+### 2020
 
 *[Five good books I read in 2020](/five-good-books-i-read-in-2020/)*
 
@@ -121,7 +122,7 @@ My book reviews are available [here](/tags/reviews/).
 * [Tyll](https://www.goodreads.com/review/show/3158213688), Daniel Kehlmann
 * [Mani](https://www.goodreads.com/review/show/3135712909), Patrick Leigh Fermor
 
-## 2019
+### 2019
 
 * [Fiabe norvegesi](https://www.goodreads.com/review/show/3106211910), AA.VV.
 * [Genesi](https://www.goodreads.com/review/show/3088448885), Guido Tonelli
@@ -149,7 +150,7 @@ My book reviews are available [here](/tags/reviews/).
 * [Peaks of Europe](https://www.goodreads.com/review/show/2659525895), Johan Lolos
 * [Marco Polo: Viaggio ai confini del Medioevo](https://www.goodreads.com/review/show/2655112513), Giulio Busy
 
-## 2018
+### 2018
 
 * [Fiabe faroesi](https://www.goodreads.com/review/show/2629690001), AA.VV.
 * [Lezioni di letteratura](https://www.goodreads.com/review/show/2625507016),
@@ -198,7 +199,7 @@ My book reviews are available [here](/tags/reviews/).
 * [Sinfonia Leningrado](https://www.goodreads.com/review/show/2263868348), Sarah Quigley
 * [Il silenzio](https://www.goodreads.com/review/show/2246560263), Erling Kagge
 
-## 2017
+### 2017
 
 * [Arboreto salvatico](https://www.goodreads.com/review/show/2237937699), Mario
     Rigoni Stern
@@ -254,7 +255,7 @@ My book reviews are available [here](/tags/reviews/).
 * [Born to run](https://www.goodreads.com/review/show/1890818775), Bruce Springsteen
 * [Fiabe lapponi](https://www.goodreads.com/review/show/1871063494), Bruno Berni
 
-## 2016
+### 2016
 
 * [I viaggi di Jupiter](https://www.goodreads.com/review/show/1856934440), Ted
     Simon
@@ -295,7 +296,7 @@ My book reviews are available [here](/tags/reviews/).
 * [L&#8217;invenzione della madre][27], Marco Peano
 * [Un infinito numero][28], Sebastiano Vassalli
 
-## 2015
+### 2015
 
 * [Fiabe Danesi][29], Bruno Berni
 * [Mattatoio n°5][30], Kurt Vonnegut
@@ -334,7 +335,7 @@ My book reviews are available [here](/tags/reviews/).
 * [The First 20 Minutes][63], Gretchen Reynolds
 * [La leggenda della Rosa di Natale][64], Selma Lagerlöf
 
-## 2014
+### 2014
 
 * [Shantaram][65], Gregory David Roberts
 * [Il costo di una vita][66], Angelo Ferracuti
@@ -356,7 +357,7 @@ My book reviews are available [here](/tags/reviews/).
 * [Invecchiando gli uomini piangono][82], Jean-Luc Seigle
 * [Il fiordo dell&#8217;eternità][83], Kim Leine
 
-## In no particular order
+### In no particular order
 
 * [Blackout][84], Marc Elsberg
 * [Open][85], Andre Agassi
