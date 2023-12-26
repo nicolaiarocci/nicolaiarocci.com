@@ -9,35 +9,30 @@ You can follow my open source activity on [this website](/tags/open-source/) or 
 
 Here is a list of open source projects I authored:
 
-- [Eve][2]. Effortlessly build and deploy highly customizable, fully featured RESTful Web Services. Powered by Flask, MongoDB and good intentions.
+### C# / .NET
 
-- [Cerberus][4]. Lightweight and extensible data validation library for Python. It provides type checking and other base functionality out of the box and is designed to be easily extensible, allowing for easy custom validation.
+- [**FatturaElettronica.NET**][11]. Validation and de/serialization of electronic invoices adhering to the standard defined by the Italian “Agenzia delle Entrate”. 
 
-- [Events][5]. Bringing the elegance of C# EventHanlder to Python. Here is a handy class that encapsulates the core to event subscription and event firing and feels like a “natural” part of the language. 
+### Python
 
-- [Flask-Sentinel][6]. OAuth2 Server bundled as a Flask extension. Add OAuth2 capabilities to an existing or brand new Flask application. 
+- [**Eve**][2]. Effortlessly build and deploy highly customizable, fully featured RESTful Web Services. Powered by Flask, MongoDB and good intentions.
 
-- [Eve-Swagger][7]. Swagger extension for Eve powered RESTful APIs. 
+- [**Cerberus**][4]. Lightweight and extensible data validation library for Python. It provides type checking and other base functionality out of the box and is designed to be easily extensible, allowing for easy custom validation.
 
-- [Flask-MimeRender][8]. Python module for RESTful resource representation using MIME Media-Types and the Flask Microframework. 
 
-- [JSON-Datetime][19]. Allows for proper decoding of datetime values contained in JSON streams.
+- [**Events**][5]. Bringing the elegance of C# EventHanlder to Python. Here is a handy class that encapsulates the core to event subscription and event firing and feels like a “natural” part of the language. 
 
-- [SimpleObjectCache][9]. Asynchronous, permanent, cross-platform key-value object cache for .NET. powered by SQLite3. 
+- [**Flask-Sentinel**][6]. OAuth2 Server bundled as a Flask extension. Add OAuth2 capabilities to an existing or brand new Flask application. 
 
-- [Eve.NET][10]. Simple HTTP and REST client for Web Services powered by the Eve Framework. It leverages both System.Net.HttpClient and Json.NET to provide the best possible Eve experience on the .NET platform. 
+- [**Eve-Swagger**][7]. Swagger extension for Eve powered RESTful APIs. 
 
-- [FatturaElettronica.NET][11]. Lettura, scrittura e convalida del formato standard delle fatture elettroniche per Pubblica Amministrazione. 
+- [**Flask-MimeRender**][8]. Python module for RESTful resource representation using MIME Media-Types and the Flask Microframework. 
 
-- [FatturaElettronica.Extensions][20]. Estensioni per FatturaElettronica.NET
+- [**JSON-Datetime**][19]. Allows for proper decoding of datetime values contained in JSON streams.
 
-- [FatturaElettronica.WebServices][12]. Raccolta di client per i diversi Web Service della Pubblica Amministrazione dedicati alla fatturazione elettronica. 
+### Other
 
-- [FatturaElettronica.Forms][13]. Libreria WinForms che provvede una UI per l’editing e la segnalazione degli errori di convalida delle fatture elettroniche. 
-
-- [Spesometro.NET][18]. Lettura, scrittura, convalida dello Spesometro (Comunicazione delle Fatture Emesse e Ricevute).
-
-- [Il Piccolo Libro di MongoDB][15]. Authorized Italian translation of The Little MongoDB Book di Karl Seguin. 
+- [**Il Piccolo Libro di MongoDB**][15]. Authorized Italian translation of The Little MongoDB Book di Karl Seguin. 
 
  [1]: https://github.com/nicolaiarocci/
  [2]: http://python-eve.org "Eve"
