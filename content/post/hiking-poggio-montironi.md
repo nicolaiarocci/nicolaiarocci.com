@@ -5,6 +5,7 @@ share: false
 tags: ["hiking", "apennines mountains"]
 cover:
     image: images/hiking-poggio-montironi.jpg
+    hidden: true
 ---
 Yesterday was a beautiful, sunny, cold winter Sunday. I felt like going out and
 enjoying nature, so I took a solo hike in the Foreste Casentinesi National Park,
