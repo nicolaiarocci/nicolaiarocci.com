@@ -3,6 +3,8 @@ date: 2023-12-15T07:05:25+01:00
 title: "The wilderness of Poggio Montironi"
 share: false
 tags: ["hiking", "apennines mountains"]
+cover:
+    image: images/poggio-montironi.jpg
 ---
 Yesterday was a beautiful, sunny, cold winter Sunday. I felt like going out and
 enjoying nature, so I took a solo hike in the Foreste Casentinesi National Park,
