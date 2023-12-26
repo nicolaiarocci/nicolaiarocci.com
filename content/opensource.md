@@ -2,10 +2,7 @@
 title: Open Source
 share: false
 weight: 9
-editPost:
-    hidden: true
 cover:
-    hidden: false
     image: images/github-profile.jpg
 ---
 You can follow my open source activity on [this website](/tags/open-source/) or [GitHub][1].
