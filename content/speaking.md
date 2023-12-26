@@ -8,19 +8,19 @@ cover:
 I speak at conferences and meetups. Here is a list of my most recent
 engagements. Want me to talk at your event? [Get in touch][1]!
 
-## 2023
+### 2023
 
 - .NET Conference Italia 2023, Milan: [C# 12 What's new and interesting](https://www.dotnetconference.it/e/sessione/3295/C-12-Cosa-c-e-di-nuovo-e-interessante)
 - WebDay 2023, Milan: [End-to-end testing with Microsoft Playwright](https://www.webdayconf.it/e/3087/Web-Day-2023)
 - DevRomagna Meetup, [.NET 7 Spotlight](https://www.meetup.com/it-IT/devromagna/events/289709131/)
 
-## 2022
+### 2022
 
 - WPC 2022, Milan: [Reliable end-to-end testing for  modern web apps](/my-session-at-wpc-2022/)
 - DevRomagna: [Modern Web Testing with Microsoft Playwright](https://www.meetup.com/it-IT/DevRomagna/events/284626987/)
 - WebDay 2022: [Reliable end-to-end testing for modern web apps](https://www.ugidotnet.org/e/sessione/2883/Reliable-end-to-end-testing-for-modern-web-apps-with-Playwright-for-NET)
 
-## 2021
+### 2021
 
 - DotNetPodcast: [My Open Source experience (Italian)](https://www.spreaker.com/user/dotnetpodcast/python-eve-open-source-e-fattura-elettro)
 - Scottish Summit 2021: [Introduction to F# and functional programming](https://scottishsummit.com/ss2021)
@@ -28,14 +28,14 @@ engagements. Want me to talk at your event? [Get in touch][1]!
 
 [upc]: https://nicolaiarocci.com/upcoming-speaking-engagements-with-ramblings/
 
-## 2020
+### 2020
 
 - Sharif University of Technology, Tehran: [Open Source Workshop](https://ssc.ce.sharif.edu)
 - The Python Show #7: [My Story with Open Source](https://www.youtube.com/watch?v=-B0QXTQN3yM)
 - Python Conf++ 2020, Moscow: [Cerberus or Data Validation for Humans](https://conf.python.ru/en/2020/)
 - Modena Tech Summit 2020: [Introduction to F# and functional programming](https://modenatechsummit.it/)
 
-## 2019
+### 2019
 
 - PiterPy 2019, St. Petersburg: [Python on Windows, the State of the Art](https://piterpy.com/materials/2631)
 - XPUG Bologna 2019: [Introduction to F# and functional programming](https://www.eventbrite.it/e/biglietti-introduzione-a-f-e-functional-programming-nicola-iarocci-74142958585#)
@@ -45,7 +45,7 @@ engagements. Want me to talk at your event? [Get in touch][1]!
 - Community Days 2019: [Introduction to F# and functional programming](http://www.communitydays.it/events/2019/dev11/)
 - KLab 2019 #3: [Git on the frontline][33]
 
-## Past
+### Past
 
 - WPC 2018, Milan: [The Mythical Open Source Contributor][32]
 - EuroPython 2018, Edinburgh: [My Story with Python and Open Source][34]
