@@ -128,9 +128,9 @@ params:
 
 menu:
   main:
-    - name: about
-      url: /about/
-      weight: 5
+    #- name: about
+    #  url: /about/
+    #  weight: 5
     - name: code
       url: /opensource/
       weight: 10
