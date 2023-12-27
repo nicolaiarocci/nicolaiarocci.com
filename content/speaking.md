@@ -4,6 +4,7 @@ share: false
 weight: 8
 cover:
     image: images/speaking.png
+    caption: WPC 2022 in Milan, Italy.
 ---
 I speak at conferences and meetups. Here is a list of my most recent
 engagements. Want me to talk at your event? [Get in touch][1]!

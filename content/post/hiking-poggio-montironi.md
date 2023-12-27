@@ -5,12 +5,11 @@ share: false
 tags: ["hiking", "apennines mountains"]
 cover:
     image: images/hiking-poggio-montironi.jpg
+    caption: First glimpse of the view that will open up later, once we reach the summit of Poggio Montironi.
 ---
 Yesterday was a beautiful, sunny, cold winter Sunday. I felt like going out and
 enjoying nature, so I took a solo hike in the Foreste Casentinesi National Park,
 about an hour's drive from home.
-
-![On my way to Poggio Montironi](/images/hiking-poggio-montironi.jpg)
 
 This one marks my very first technology-assisted hiking adventure. It may seem
 weird for someone who's been hiking for so long, is a notorious geek and is a

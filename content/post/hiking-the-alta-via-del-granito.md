@@ -3,7 +3,11 @@ date: 2022-07-15T07:05:25+01:00
 title: "Hiking the Alta Via del Granito"
 share: false
 tags: ["hiking", "mountaineering", "alps"]
+cover:
+    image: images/hiking-alta-via-del-granito.jpg
+    caption: The majestic south face of Cima d'Asta as seen from the lake below, near the Ottone Brentari mountain hut.
 ---
+
 Last year [I hiked the Translagorai route][2] while accompanying my nephew and
 his friend on their first hiking and wild camping experience.  To go full
 circle, I soloed the [Alta Via del Granito][3] last weekend, which covers the

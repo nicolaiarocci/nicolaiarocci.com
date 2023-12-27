@@ -2,12 +2,10 @@
 title: Open Source
 share: false
 weight: 9
-cover:
-    image: images/github-profile.jpg
 ---
 You can follow my open source activity on [this website](/tags/open-source/) or [GitHub][1].
 
-Here is a list of open source projects I authored:
+Here is a partial list of open source projects I authored:
 
 ### C# / .NET
 
@@ -27,8 +25,6 @@ Here is a list of open source projects I authored:
 - [**Eve-Swagger**][7]. Swagger extension for Eve powered RESTful APIs. 
 
 - [**Flask-MimeRender**][8]. Python module for RESTful resource representation using MIME Media-Types and the Flask Microframework. 
-
-- [**JSON-Datetime**][19]. Allows for proper decoding of datetime values contained in JSON streams.
 
 ### Other
 
