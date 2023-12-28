@@ -5,6 +5,9 @@ title: Nicola Iarocci
 theme: PaperMod
 # paginate: 5
 
+permalinks:
+  post: /:slug/
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
