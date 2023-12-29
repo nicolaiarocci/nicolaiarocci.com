@@ -125,11 +125,11 @@ discovered this year.
 
 ★★☆☆☆
 
-A relative of mine was recently diagnosed with ADHD this short introductory book
-allowed me to learn more about it. I didn't find it particularly enlightening
-(much of what it contains can be found online), nor is the author particularly
-titled to talk about it (she is a professional coach), but perhaps because of
-this the content remains simple, and serve its purpose.
+A relative of mine was recently diagnosed with ADHD and this short introductory
+book allowed me to learn more about it. I didn't find it particularly
+enlightening (much of what it contains can be found online), nor is the author
+particularly titled to talk about it (she is a professional coach), but perhaps
+because of this the content remains simple, and serve its purpose.
 
 ### High, by Erica Fatland
 
