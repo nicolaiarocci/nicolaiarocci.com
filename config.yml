@@ -9,8 +9,8 @@ permalinks:
   post: /:slug/
 
 enableRobotsTXT: true
-buildDrafts: false
-buildFuture: false
+buildDrafts: true
+buildFuture: true
 buildExpired: false
 
 # googleAnalytics: UA-123-45

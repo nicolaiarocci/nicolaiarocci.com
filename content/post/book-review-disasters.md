@@ -1,6 +1,7 @@
 ---
 date: 2023-05-14T07:05:25+01:00
 title: "Book Review: Disastri (Disasters)"
+slug: book-review-disastri
 share: false
 tags: ["books", "reviews"]
 ---

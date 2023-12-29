@@ -9,7 +9,7 @@ history told to my daughter Anna," this essay recounts and summarizes the geo-hi
 since the discovery of the New World. The originality of the work lies in the author's identification of the Earth-Sea
 dichotomy as the driving force of human history.
 
-![Land and Sea book cover](/images/terra-e-mare-book-cover.jpeg#right)
+![Land and Sea book cover](/images/terra-e-mare-book-cover.jpeg#center)
 I went into this book knowing very little about the author, Carl Schmitt, and the contents. From the first pages, I
 considered it a bizarre work, wondering whether a solid basis existed behind some of the assumptions and events
 narrated. Quoting the back cover of my Italian edition (Adelphi):

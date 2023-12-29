@@ -14,29 +14,32 @@ My book reviews are available [here](/tags/reviews/).
 
 ### 2023
 
-* Happiness, as Such (Caro Michele), Natialia Ginzburg
-* The Ancient Hours (L'ultima cosa bella sulla faccia della terra), M. Bible
-* Milano calibro 9, Giorgio Scerbanenco
-* Stella Maris, Cormac McCarthy
-* Ferrovie del Messico, Gian Marco Griffi
-* ADHD Workbook for Adults (ADHD negli adulti), Tara Wilson
-* Codice Jury, Jury Chechi
-* High (La vita in alto. Una stagione sul'Himalaya), Erica Fatland
-* The passenger (Il passeggero), Cormac McCarthy
-* [Born to run 2](/a-few-late-book-reviews/), Chris McDougall and Eric Orton
-* [Blind's Man Bluff (Immersione rapida)](/a-few-late-book-reviews/), Sharry Sontag, Christopher Drew
-* [Wuthering Heights (Cime Tempestose)](/a-few-late-book-reviews/), Emily Bronte
-* [La vita è un tirocinio (Life is an apprenticeship)](/a-few-late-book-reviews/), Domenico Starnone
-* [The Overstory (Il sussurro del mondo)](/a-few-late-book-reviews/), Richard Powers
-* [The Fool's Move (La Mossa del Matto)](/book-review-la-mossa-del-matto-the-fools-move/), Alessandro Barbaglia
-* [Disasters (Disastri)](/book-review-disastri/), Daniil Charms
-* [Land and Sea](/book-review-land-and-sea/), Carl Schmitt
-* [Medieval callings](/book-review-medieval-callings/), Jacques Le Goff
-* [Being Wolf (Essere lupo)](/book-review-essere-lupo-being-wolf/), Kerstin Ekman
-* [No Sleep Till Shengal](/book-review-no-sleep-till-shengal/), Zerocalcare
-* [Red Mars](/book-review-red-mars/), Kim Stanley Robinson
-* [Sanguina Ancora (Still Bleeding)](/book-review-sanguina-ancora-still-bleeding/), Paolo Nori
-* [Uomini, boschi e api](/book-review-uomini-boschi-e-api/), Mario Rigoni Stern
+[Books I read in 2023: wrap-up and reviews](/books-i-read-in-2023/)
+
+* [The sorrows of young Werther](/books-i-read-in-2023/#the-sorrows-of-young-werther-by-jw-von-goethe), J.W. von Goethe ★★★☆☆
+* [Happiness, as such (Caro Michele)](/books-i-read-in-2023/#happiness-as-such-by-natalia-ginzburg), Natialia Ginzburg ★★★☆☆
+* [The ancient hours (L'ultima cosa bella sulla faccia della terra)](/books-i-read-in-2023/#the-ancient-hours-by-michael-bible), M. Bible ★★★★☆
+* [Milano calibro 9](/books-i-read-in-2023/#milano-calibro-9-by-giorgio-scerbanenco), Giorgio Scerbanenco ★★☆☆☆
+* [Stella Maris](/books-i-read-in-2023/#stella-maris-by-cormac-mccarthy), Cormac McCarthy ★★★★☆
+* [Ferrovie del messico](/books-i-read-in-2023/#ferrovie-del-messico-by-gian-marco-griffi), Gian Marco Griffi ★★★★☆
+* [ADHD workbook for adults (ADHD negli adulti)](/books-i-read-in-2023/#adhd-workbook-for-adults-by-tara-wilson), Tara Wilson ★★☆☆☆
+* [Codice Jury](/books-i-read-in-2023/#codice-jury-by-jury-chechi), Jury Chechi ★★☆☆☆
+* [High (La vita in alto. Una stagione sul'Himalaya)](/books-i-read-in-2023/#high-by-erica-fatland), Erica Fatland ★★★☆☆
+* [The passenger (Il passeggero)](/books-i-read-in-2023/#the-passenger-by-cormac-mccarthy), Cormac McCarthy ★★★★☆
+* [Born to run 2](/books-i-read-in-2023/#born-to-run-2-by-chris-mcdougall-and-eric-orton), Chris McDougall and Eric Orton ★★☆☆☆
+* [Blind's man bluff (Immersione rapida)](/books-i-read-in-2023/#blinds-man-bluff-by-susan-sontag), Sharry Sontag, Christopher Drew ★★★☆☆
+* [Wuthering Heights (Cime Tempestose)](/books-i-read-in-2023/#wuthering-heights-by-emily-bronte), Emily Bronte ★★★★☆
+* [L'umanità è un tirocinio](/books-i-read-in-2023/#lumanità-è-un-tirocinio-by-domenico-starnone), Domenico Starnone ★★☆☆☆
+* [The overstory (Il sussurro del mondo)](/books-i-read-in-2023/#the-overstory-by-richard-powers), Richard Powers ★☆☆☆☆
+* [La mossa del matto](/books-i-read-in-2023/#la-mossa-del-matto-by-alessandro-barbaglia), Alessandro Barbaglia ★★★☆☆
+* [Disasters (Disastri)](/books-i-read-in-2023/#disasters-by-daniil-charms), Daniil Charms ★★★☆☆
+* [Land and Sea (Terra e mare)](/books-i-read-in-2023/#land-and-sea-by-carl-schmitt), Carl Schmitt ★★☆☆☆
+* [Medieval callings (Vita nel medioevo)](/books-i-read-in-2023/#medieval-callings-by-jacques-le-goff), Jacques Le Goff ★★★☆☆
+* [Being wolf (Essere lupo)](/books-i-read-in-2023/#being-wolf-by-kerstin-ekman), Kerstin Ekman ★★★☆☆
+* [No sleep till Shengal](/books-i-read-in-2023/#no-sleep-till-shengal-by-zerocalcare), Zerocalcare ★★☆☆☆
+* [Red Mars](/books-i-read-in-2023/#red-mars-by-kim-stanley-robinson), Kim Stanley Robinson ★★☆☆☆
+* [Sanguina ancora](/books-i-read-in-2023/#sanguina-ancora-by-paolo-nori), Paolo Nori ★★★☆☆
+* [Uomini, boschi e api](/books-i-read-in-2023/#uomini-boschi-e-api-by-mario-rigoni-stern), Mario Rigoni Stern ★★☆☆☆
 
 ### 2022
 
