@@ -12,6 +12,7 @@ enableRobotsTXT: true
 buildDrafts: true
 buildFuture: true
 buildExpired: false
+copyright: Produced / Written / Maintained by [Nicola Iarocci](/) since 2010
 
 # googleAnalytics: UA-123-45
 
