@@ -14,4 +14,11 @@ the 1950s. Here's my attempt to round up the highlights in one place!
 
 The links contained within the post are also valuable. You may know Simon's
 website if you are interested in LLMs and AI. If you don't, I suggest you start
-following him (via his RSS feed, of course.)
+following him, preferably via his RSS feed like real hackers do.
+
+*Subscribe to my [newsletter][nl] or the [RSS feed][rss]. Follow me on [Mastodon][m] or [X][x].*
+
+[nl]: https://buttondown.email/nicolaiarocci
+[rss]: https://nicolaiarocci.com/index.xml
+[m]: https://fosstodon.org/@nicola
+[x]: https://x.com/nicolaiarocci
