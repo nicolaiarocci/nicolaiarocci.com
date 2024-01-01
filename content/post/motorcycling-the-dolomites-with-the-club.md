@@ -41,4 +41,4 @@ a bright future and lots of fun.
  [^5]: Last year, I went there with a fellow TOMCC member and recorded a YouTube video. Check it out [here](/triumph-bonneville-dolomites-ride-2021/).
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

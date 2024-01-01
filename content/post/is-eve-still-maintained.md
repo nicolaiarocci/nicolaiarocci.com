@@ -46,4 +46,4 @@ latest version of Cerberus](https://github.com/pyeve/eve/issues/1278).
  [^2]: For some rationale behind the campaign, see [this post](http://nicolaiarocci.com/eve-and-cerberus-funding-campaign/) from 2017.
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

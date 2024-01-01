@@ -55,4 +55,4 @@ expected.
  [1]: https://docs.oracle.com/en/virtualization/virtualbox/6.0/admin/hyperv-support.html
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

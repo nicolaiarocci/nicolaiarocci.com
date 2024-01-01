@@ -61,4 +61,4 @@ We're a local meetup, and "local" hardly conjugates with "online."
  [^7]: Andrea is a DevRomagna co-organizer now. I am happy to have him onboard.
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

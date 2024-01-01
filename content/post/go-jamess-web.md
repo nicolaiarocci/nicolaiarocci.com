@@ -31,4 +31,4 @@ actors.
  [4]: https://www.npr.org/2022/01/24/1075437484/james-webb-telescope-final-destination
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

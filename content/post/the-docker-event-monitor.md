@@ -30,4 +30,4 @@ you're not employing heavy weaponry, like k8s.
  [2]: https://bitbucket.org/quaideman/dem/src/master/app/main.py
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

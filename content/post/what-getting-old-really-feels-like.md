@@ -28,4 +28,4 @@ A difficult yet worthwhile read.
  [1]: https://theconversation.com/loneliness-loss-and-regret-what-getting-old-really-feels-like-new-study-157731
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

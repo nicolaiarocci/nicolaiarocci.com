@@ -62,4 +62,4 @@ informs the reader when he's entering speculation territory.
  [1]: /book-review-erebus-the-story-of-a-ship/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

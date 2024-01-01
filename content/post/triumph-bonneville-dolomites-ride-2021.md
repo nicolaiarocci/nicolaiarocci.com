@@ -38,4 +38,4 @@ that's now a secondary goal.
  [^3]: For some quality moto vlogging, see the [Itchy Boots](https://www.youtube.com/c/ItchyBoots) on YouTube
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

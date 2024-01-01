@@ -26,4 +26,4 @@ More [here](https://www.theguardian.com/commentisfree/2023/apr/06/ai-chatgpt-gua
 
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

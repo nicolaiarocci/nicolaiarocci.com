@@ -22,4 +22,4 @@ happy and rewarding ride, and I'm glad the journey continues for another year.
 
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

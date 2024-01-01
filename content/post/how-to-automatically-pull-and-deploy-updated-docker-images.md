@@ -66,4 +66,4 @@ it (keep in mind, we don't use alternative orchestrators, just the built-in
  [3]: https://stackoverflow.com/a/51628017/323269
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

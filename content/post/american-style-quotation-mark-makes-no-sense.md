@@ -32,4 +32,4 @@ author illustrates the differences between the two styles, then argues that
  [^4]: In my rendition I moved the period after the end mark. Different languages, different rules. 
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -27,4 +27,4 @@ Jeffrey Stedfast.
  [2]: https://github.com/jstedfast/MailKit
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -16,4 +16,4 @@ Info and signup [here][1].
  [1]: https://www.meetup.com/it-IT/devromagna/events/291862771/
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

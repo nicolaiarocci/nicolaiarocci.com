@@ -46,4 +46,4 @@ scene. Can't say I'm thrilled by what I see.
  [^2]: On Moxie himself, see the New Yorker article I featured [a while ago](https://nicolaiarocci.com/on-the-ceo-and-founder-of-signal/).
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

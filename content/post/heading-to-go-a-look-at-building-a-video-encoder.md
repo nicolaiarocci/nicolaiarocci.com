@@ -32,4 +32,4 @@ The session will be held in person, in Italian. So if you're interested, j[oin u
  [1]: https://www.meetup.com/it-IT/devromagna/events/291027334/
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

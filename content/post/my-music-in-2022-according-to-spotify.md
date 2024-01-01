@@ -37,4 +37,4 @@ top 101 (not a typo) for 2022:
  [5]: https://open.spotify.com/track/2LRiyKKJf2RTuFx31DEU6E?si=57c827fd08b2499b
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

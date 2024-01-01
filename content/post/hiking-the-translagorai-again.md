@@ -78,4 +78,4 @@ want to have someone experienced with you.*
  [1]: https://www.azlyrics.com/lyrics/pinkfloyd/highhopes.html
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

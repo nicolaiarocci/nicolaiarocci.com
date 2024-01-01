@@ -138,4 +138,4 @@ oyster.
  [^6]: See my [Open Source](/opensource/) page. Also, I have a presentation titled [My Story With Open Source](https://speakerdeck.com/nicola/my-story-with-python-and-open-source). I presented it at [several conferences](/speaking/).
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

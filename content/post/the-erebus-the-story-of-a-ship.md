@@ -31,5 +31,5 @@ a book for you.
 *Enjoyed this post? Subscribe to the [newsletter][nl] or follow @[nicolaiarocci][tw] on Twitter.*
 
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci
 

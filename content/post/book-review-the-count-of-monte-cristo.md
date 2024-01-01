@@ -64,4 +64,4 @@ my library, and I can move on.
  [7]: https://www.raiplaysound.it/programmi/adaltavoce
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -39,4 +39,4 @@ my bet is on a hard yes on both questions.
  [1]: https://www.nature.com/articles/d41586-021-00592-0
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

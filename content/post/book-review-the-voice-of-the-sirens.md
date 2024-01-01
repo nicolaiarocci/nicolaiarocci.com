@@ -48,4 +48,4 @@ questions raised by the great minds of that age remain unanswered[^1].
  [^1]: Unfortunately, I am not aware of any international edition currently available for this book. It deserves one.
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

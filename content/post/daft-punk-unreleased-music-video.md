@@ -21,4 +21,4 @@ intelligence was a factor in why the group split in 2021.
  [2]: https://www.latimes.com/entertainment-arts/story/2023-04-04/daft-punk-member-thomas-bangalter-terrified-ai
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -38,4 +38,4 @@ awesomeness.
  [1]: https://medium.com/personal-growth/travel-is-no-cure-for-the-mind-e449d3109d71
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

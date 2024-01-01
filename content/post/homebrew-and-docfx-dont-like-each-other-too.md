@@ -24,4 +24,4 @@ dotnet tools via Homebrew anymore. Or maybe, I might stay clear of Homebrew alto
 [3]: https://fatturaelettronicaopensource.org
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

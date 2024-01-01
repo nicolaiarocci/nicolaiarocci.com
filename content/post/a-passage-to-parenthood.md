@@ -32,4 +32,4 @@ More [here][1].
  [1]: https://www.newyorker.com/magazine/2022/01/31/a-passage-to-parenthood
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

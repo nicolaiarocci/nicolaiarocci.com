@@ -48,4 +48,4 @@ I advise everyone to do.
  [6]: /a-trip-down-memory-lane-fidonet-and-usenet/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

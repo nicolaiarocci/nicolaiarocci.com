@@ -33,4 +33,4 @@ most fun would have been spoiled.
  [2]: https://acoup.blog/2019/08/16/collections-this-isnt-sparta-part-i-spartan-school/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

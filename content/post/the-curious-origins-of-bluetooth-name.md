@@ -42,4 +42,4 @@ our past, without which it wouldn't exist in the first place.
  [^3]: Source: [Harald Bluetooth, Wikipedia](https://en.wikipedia.org/wiki/Harald_Bluetooth#Name).
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

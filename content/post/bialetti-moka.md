@@ -32,4 +32,4 @@ downs), and design relevance. Of all this stuff, I was only marginally aware.
  [1]: https://www.atlasobscura.com/articles/make-coffee-moka-pot
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -39,4 +39,4 @@ The Brook of the System, which was my first adored DFW reading.)
  [1]: https://www.goodreads.com/review/show/14143044
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -64,4 +64,4 @@ few years. *Author: Richard Powers.*
 [1]: https://www.goodreads.com/review/show/4840111965
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -18,4 +18,4 @@ while the changelog is available [here][2]—special thanks to [Pieter De Clercq
  [4]: https://github.com/smeng9
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

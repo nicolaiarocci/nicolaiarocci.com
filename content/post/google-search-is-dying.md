@@ -21,4 +21,4 @@ I [switched to DuckDuckGo][2] a long time ago, and you probably should too.
  [2]: https://nicolaiarocci.com/yet-another-reason-to-use-duckduckgo/ 
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

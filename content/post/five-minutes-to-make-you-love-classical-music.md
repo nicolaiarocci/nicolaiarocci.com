@@ -49,4 +49,4 @@ finding out.
  [4]: https://www.nytimes.com/2020/06/03/arts/music/five-minutes-classical-music-cello.html
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

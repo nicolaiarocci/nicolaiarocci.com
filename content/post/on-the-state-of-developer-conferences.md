@@ -57,4 +57,4 @@ PS: Coincidentally, we're running an in-person meetup at DevRomagna [today][3].
  [^4]: According to [Treccani](https://www.treccani.it/vocabolario/ricerca/conferenza/)
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

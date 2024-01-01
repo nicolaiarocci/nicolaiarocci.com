@@ -35,4 +35,4 @@ all about fractals, baby!
  [2]: https://medium.com/@harlan.j.brothers/giants-steps-the-fractal-structure-of-coltranes-iconic-solo-706ee8c8e79e
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

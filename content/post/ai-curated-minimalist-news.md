@@ -20,4 +20,4 @@ for me. Yet, this is the best use case for LLM/AI I've seen until now.
  [1]: https://www.newsminimalist.com
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

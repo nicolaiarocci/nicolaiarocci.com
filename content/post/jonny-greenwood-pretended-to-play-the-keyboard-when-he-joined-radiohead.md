@@ -28,4 +28,4 @@ Full interview is available [here](https://www.npr.org/2022/02/07/1078802881/rad
  [1]: https://kottke.org/22/02/jonny-greenwood-pretended-to-play-the-keyboard-when-he-first-joined-radiohead
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

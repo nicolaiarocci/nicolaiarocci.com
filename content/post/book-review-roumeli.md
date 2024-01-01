@@ -27,4 +27,4 @@ musings on Greeks' nature, while interesting, tend to run long.
  [^2]: PLF's *Mani: Travels in the Southern Peloponnese* and the whole *A Time of Gits*  trilogy are some of my all-time favorite travel books.
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

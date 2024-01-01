@@ -23,4 +23,4 @@ unbeatable Russians at chess, but there's much more to him than that, and this b
 
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

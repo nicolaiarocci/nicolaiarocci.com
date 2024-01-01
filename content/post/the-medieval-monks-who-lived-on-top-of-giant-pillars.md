@@ -23,4 +23,4 @@ More [here](https://weirdmedievalguys.substack.com/p/the-medieval-monks-who-live
 
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

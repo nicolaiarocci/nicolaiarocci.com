@@ -13,4 +13,4 @@ album, *Your Mother Should Know: Brad Mehldau Plays the Beatles*.
 
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

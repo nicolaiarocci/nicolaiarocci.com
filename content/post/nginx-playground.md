@@ -23,4 +23,4 @@ how she built it.
  [2]: https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

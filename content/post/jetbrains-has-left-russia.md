@@ -28,4 +28,4 @@ years, so I'm biased, but look, now I'm even proud of supporting their products
  [3]: https://social.telemetrydeck.com/@daniel/109472601034214313
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -55,4 +55,4 @@ alone. Merging the above passages in a script is an option.
  [4]: https://stackoverflow.com/a/5408501/323269
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

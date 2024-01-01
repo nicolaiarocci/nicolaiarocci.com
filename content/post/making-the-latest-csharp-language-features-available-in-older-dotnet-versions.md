@@ -88,4 +88,4 @@ keyword is used anymore in my library, but that's for another story.
  [3]: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/init
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

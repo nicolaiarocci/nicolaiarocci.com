@@ -29,4 +29,4 @@ a couple. My family confirms the wolves. It was not a dream.
  [^1]: In hindsight, I think that having been sitting there motionless and not producing any sound for a long time did the trick. By pure luck, I also happened to be downwind to them.
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

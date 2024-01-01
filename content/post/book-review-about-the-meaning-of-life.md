@@ -52,4 +52,4 @@ mentioned above, are certainly recommended for a deeper investigation[^2].
  [^2]: Unfortunately, I am not aware of English editions of Mancuso's works.
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -31,4 +31,4 @@ and their real-world counterparts, and Proust himself.
  [1]: https://www.tabletmag.com/sections/arts-letters/articles/proust-madeleine-antisemitism-jewishness
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -33,4 +33,4 @@ advantages, remarkable [performance gains][2] included.
  [^4]: The Core tag was dropped in NET5, and it was a good move. The reason why the insist on using it with ASP.NET eludes me.
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

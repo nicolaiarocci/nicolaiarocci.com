@@ -65,4 +65,4 @@ earsly as next week.
 [7]: https://github.com/dotnet-foundation/Home/discussions/40
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

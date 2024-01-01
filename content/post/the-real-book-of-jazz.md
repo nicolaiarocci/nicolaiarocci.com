@@ -34,4 +34,4 @@ The whole story, both as text or podcast, is available [here][1].
  [1]: https://99percentinvisible.org/episode/the-real-book/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -42,4 +42,4 @@ buildings. According to Wikipedia, Charms loved to appear dressed like an Englis
 
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

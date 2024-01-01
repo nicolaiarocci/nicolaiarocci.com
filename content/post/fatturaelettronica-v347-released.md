@@ -19,4 +19,4 @@ details.
  [3]: https://github.com/FatturaElettronica/FatturaElettronica.NET/issues/394
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

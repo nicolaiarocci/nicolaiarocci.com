@@ -17,4 +17,4 @@ More [here](https://brooker.co.za/blog/2022/11/08/writing.html).
 
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

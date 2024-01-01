@@ -27,4 +27,4 @@ short post is worth reading[^4].
  [5]: https://www.sesse.net/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

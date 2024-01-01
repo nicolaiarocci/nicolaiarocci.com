@@ -19,4 +19,4 @@ More [here](https://aworkinglibrary.com/writing/latewood).
 
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

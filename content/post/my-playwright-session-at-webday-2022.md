@@ -23,4 +23,4 @@ CFPs. If you happen to know one, please let me know.
  [^2]: A couple weeks later I also presented at [DevRomagna](https://www.meetup.com/it-IT/DevRomagna/events/284626987/), the local meetup I run.
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

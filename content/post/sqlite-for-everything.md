@@ -19,4 +19,4 @@ Which, in the real world, happens way more frequently than we all imagine.
  [1]: https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

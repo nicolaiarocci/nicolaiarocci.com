@@ -15,4 +15,4 @@ between father and son. A depiction of the circle of life I gladly subscribe to.
 
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

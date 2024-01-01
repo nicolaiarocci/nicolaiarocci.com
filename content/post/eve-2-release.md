@@ -23,4 +23,4 @@ of features, and it is now in 'maintenance mode'.
  [2]: /is-eve-still-maintained/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

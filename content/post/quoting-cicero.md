@@ -18,4 +18,4 @@ original version found in *Orator Ad M. Brutum* (46 BC). It goes like this:
  [2]: https://en.wikiquote.org/wiki/Cicero
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

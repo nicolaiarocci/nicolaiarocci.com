@@ -37,4 +37,4 @@ IMHO), I am confident it will.
  [1]: https://indieweb.org/POSSE
  [rss]: https://nicolaiarocci.com/index.xml
  [masto]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

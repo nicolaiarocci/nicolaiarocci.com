@@ -36,4 +36,4 @@ it just great.
  [1]: https://www.thesmartset.com/born-to-be-cool/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

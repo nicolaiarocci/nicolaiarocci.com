@@ -39,5 +39,5 @@ It supports Apple's Private Relay, offers some configuration options and allows 
 *Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
 
  [rss]: https://nicolaiarocci.com/index.xml
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci
  [m]: https://fosstodon.org/@nicola

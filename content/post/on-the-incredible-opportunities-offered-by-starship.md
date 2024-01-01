@@ -28,4 +28,4 @@ topic.
  [2]: https://caseyhandmer.wordpress.com/2021/10/28/starship-is-still-not-understood/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -19,4 +19,4 @@ As a long time Tolkien fan, I truly enjoyed *[How Many Hobbits? A Demographic An
 
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -20,4 +20,4 @@ More [here](https://oscargws.substack.com/p/why-i-gave-up-drinking-in-my-twentie
 
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

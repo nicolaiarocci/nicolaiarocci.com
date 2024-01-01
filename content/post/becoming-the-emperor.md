@@ -39,4 +39,4 @@ Intriguing and, now that I have been enlightened, shareable.
  [2]: https://nicolaiarocci.com/book-review-memoirs-of-hadrian/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

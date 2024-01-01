@@ -16,4 +16,4 @@ More [here](https://www.wired.com/story/privacy-psychology-social-media/).
 
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

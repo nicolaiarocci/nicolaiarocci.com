@@ -18,4 +18,4 @@ Watch it, and get your mind blown away by the possibilities this could open up.
  [1]: /a-quick-preview-of-the-blazor-united-prototype-for-.net8/
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -60,4 +60,4 @@ me as many happy hours as Chesterton."
  [^6]: Further digging unearthed *The Red Angel* [original text](http://www.online-literature.com/chesterton/tremendous-trifles/17/).
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

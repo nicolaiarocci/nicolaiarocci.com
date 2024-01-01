@@ -101,5 +101,5 @@ Read them all on [Chris' website][1].
  [1]: https://chriskiehl.com/article/thoughts-after-6-years
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci
 

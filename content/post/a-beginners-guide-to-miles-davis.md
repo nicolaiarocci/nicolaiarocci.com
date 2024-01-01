@@ -30,4 +30,4 @@ move you, I am sorry, you're probably not a jazz person.
  [1]: https://samenright.com/2021/06/06/a-beginners-guide-to-miles-davis/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

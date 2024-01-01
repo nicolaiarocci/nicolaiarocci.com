@@ -64,4 +64,4 @@ could have kept me in the game for far longer.
  [3]: https://oldforums.eveonline.com/?a=topic&threadID=356966
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

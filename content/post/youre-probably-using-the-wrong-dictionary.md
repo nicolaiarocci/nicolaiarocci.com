@@ -48,4 +48,4 @@ Dictionary.
  [4]: https://s3.amazonaws.com/jsomers/dictionary.zip
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -20,4 +20,4 @@ Full article is available [here](https://www.theguardian.com/books/2022/dec/11/d
 
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -28,4 +28,4 @@ grand.
  [^2]: A partial list I digged out includes the likes of John Cage, Afrika Bambaataa, Juan Atkins, Bundy Brown, DJ Spooky, Future Sound of London, Fumiya Tanaka, Hardfloor, Kodwo Eshun, Teo Macero, Christian Marclay, Giorgio Moroder, Robert Moog, Mixmaster Morris, Orbital, Prodigy, Simon Reynolds, Ed Rush, Karlheinz Stockhausen, Tetsu Inoue and Westbam.
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

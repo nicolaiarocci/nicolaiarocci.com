@@ -68,4 +68,4 @@ I am confident it will be successful.
  [2]: https://nicolaiarocci.com/learn-in-public/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

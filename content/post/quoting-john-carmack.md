@@ -19,4 +19,4 @@ I have often fallen into the over-focusing trap in my career. The whole thread i
 
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

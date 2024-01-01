@@ -14,4 +14,4 @@ on PyPI and includes a relevant security fix so you might want to update ASAP.
 
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

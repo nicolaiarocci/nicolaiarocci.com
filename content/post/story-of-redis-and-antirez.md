@@ -25,4 +25,4 @@ Anyway, [here's the antirez & Redis story][1] I mentioned. Worth reading it.
  [1]: https://blog.brachiosoft.com/redis-en
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

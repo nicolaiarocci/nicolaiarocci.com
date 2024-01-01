@@ -54,4 +54,4 @@ I should probably adopt the #tirl tag, as in "Today I Re-Learned."
  [2]: https://stackoverflow.com/questions/115983/how-can-i-add-an-empty-directory-to-a-git-repository
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

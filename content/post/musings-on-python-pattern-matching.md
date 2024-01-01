@@ -66,4 +66,4 @@ oranges.
  [6]: https://news.ycombinator.com/item?id=26083779
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

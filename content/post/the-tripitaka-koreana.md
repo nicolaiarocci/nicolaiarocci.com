@@ -15,4 +15,4 @@ The full story  is available [here](https://threadreaderapp.com/thread/157454678
 
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

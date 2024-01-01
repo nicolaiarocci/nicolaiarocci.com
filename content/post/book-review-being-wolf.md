@@ -31,4 +31,4 @@ publishing so many exceptionally translated Northen-Europe works over the years.
 
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

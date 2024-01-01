@@ -29,4 +29,4 @@ be back-ordered, which sadly makes Amazon unbeatable.
  [1]: https://tedgioia.substack.com/p/what-can-we-learn-from-barnes-and
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

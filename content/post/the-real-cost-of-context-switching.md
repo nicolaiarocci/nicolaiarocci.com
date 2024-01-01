@@ -43,4 +43,4 @@ The brilliant comic that opens the article is the perfect TL;DR for the Watchmak
  [2]: http://en.citizendium.org/wiki/Parable_of_the_two_watchmakers
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

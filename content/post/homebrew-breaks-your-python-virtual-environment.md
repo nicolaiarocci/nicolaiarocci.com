@@ -36,4 +36,4 @@ explains the whys and then goes into the hows you solve the problem for good.
  [1]: https://justinmayer.com/posts/homebrew-python-is-not-for-you/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

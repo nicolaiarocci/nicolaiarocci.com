@@ -48,4 +48,4 @@ authentication (vetting solves a different problem).
  [4]: https://store.google.com/product/titan_security_key
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

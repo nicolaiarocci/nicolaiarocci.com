@@ -15,4 +15,4 @@ in which ETag generation failed if `uuidRepresentation` was not set in
  [2]: https://github.com/pyeve/eve/issues/1486
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

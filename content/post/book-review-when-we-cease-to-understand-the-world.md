@@ -59,4 +59,4 @@ A book worth reading.
  [^2]: In 2020, I read a non-fictionalized account of Heisenberg's and Schrödinger's struggles with quantum in Carlo Rovelli's excellent *Helgoland*.
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -18,4 +18,4 @@ to them) are unique and not for sale. Check them all out on [his website][1] *([
  [2]: https://kottke.org/23/05/tiny-electronic-desktop-sculptures
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

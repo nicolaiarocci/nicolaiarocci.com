@@ -15,4 +15,4 @@ adds a missing validation point. See the [changelog][1] for details (Italian).
 [2]: https://fatturaelettronicaopensource.org/docs
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

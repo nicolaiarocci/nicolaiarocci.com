@@ -24,4 +24,4 @@ science that makes this less terrible.
  [^1]: I'll have to pass on [tonight's DevRomagna meetup](https://www.meetup.com/DevRomagna/events/285149575/), though, and I'm likely to skip next weekend's [planned motorcycle trip](https://tomccitalia.org/evento/monte-baldo-2022/)—minor annoyances given the circumstances, but it still sucks.
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

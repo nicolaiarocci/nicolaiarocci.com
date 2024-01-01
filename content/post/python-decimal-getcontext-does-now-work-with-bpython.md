@@ -47,4 +47,4 @@ I suspect this has something to do with threads, as `decimal.getcontext` targets
  [2]: https://github.com/bpython/bpython/issues/918#issuecomment-1578911204
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -24,4 +24,4 @@ Read it all [here](https://werd.io/2022/indiepeople) ([via](https://adactio.com/
 
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -27,4 +27,4 @@ I will be trying them real soon. Like, today.
  [1]: http://blog.crunchydata.com/blog/cleaning-up-your-postgres-database
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

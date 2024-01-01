@@ -19,4 +19,4 @@ Romero][3] for his contributions to this release.
  [4]: https://github.com/rs/eve-auth-jwt
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

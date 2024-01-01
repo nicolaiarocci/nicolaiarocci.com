@@ -34,4 +34,4 @@ More [here](https://www.theverge.com/2022/10/28/23428132/elon-musk-twitter-acqui
 
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

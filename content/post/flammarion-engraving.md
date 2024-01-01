@@ -38,4 +38,4 @@ the Wikipedia page linked above.
  [^3]: With which I simpa
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

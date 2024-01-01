@@ -14,4 +14,4 @@ A little research on Steven Fuller, the protagonist, allowed me to dig out some 
 
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

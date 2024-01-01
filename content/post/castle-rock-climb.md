@@ -17,4 +17,4 @@ of the world.
  [1]: https://brr.fyi/posts/castle-rock-climb
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

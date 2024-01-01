@@ -14,4 +14,4 @@ My *Invisible Cities* review is available [here](/book-review-invisible-cities/)
 
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

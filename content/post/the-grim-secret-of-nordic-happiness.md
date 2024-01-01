@@ -45,4 +45,4 @@ of moving North persists.
  [1]: https://slate.com/news-and-politics/2021/04/finland-happiness-lagom-hygge.html
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -55,4 +55,4 @@ satisfaction, evasion, and entertainment as their predecessors.
  [5]: /books-i-have-read/
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

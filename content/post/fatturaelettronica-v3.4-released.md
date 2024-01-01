@@ -22,4 +22,4 @@ the appropriate [ticket][3] and the [changelog][4].
  [4]: https://fatturaelettronicaopensource.org/docs/changelog.html#v-34
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

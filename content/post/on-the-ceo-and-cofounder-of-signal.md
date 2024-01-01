@@ -39,4 +39,4 @@ he's the CEO of a booming startup.
  [^2]: See [The Activists Who Embrace Nuclear Power](/the-activists-who-embrace-nuclear-power/)
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

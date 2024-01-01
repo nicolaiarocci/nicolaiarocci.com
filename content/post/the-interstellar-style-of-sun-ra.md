@@ -18,4 +18,4 @@ More [here](https://pitchfork.com/features/from-the-pitchfork-review/9866-the-in
 
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

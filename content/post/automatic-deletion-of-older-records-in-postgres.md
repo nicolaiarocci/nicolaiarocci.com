@@ -63,4 +63,4 @@ the result.
  [5]: https://www.postgresql.org/docs/current/ddl-partitioning.html
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

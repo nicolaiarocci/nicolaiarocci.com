@@ -60,4 +60,4 @@ I Have Read][4] page for the list of books I read in 2021 and before.
  [8]: https://twitter.com/nicolaiarocci/status/1214857647314362368
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

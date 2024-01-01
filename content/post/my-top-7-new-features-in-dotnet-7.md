@@ -215,4 +215,4 @@ rapidly and I'm sure we'll soon see them in action in complex, real scenarios.
 
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

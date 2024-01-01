@@ -53,4 +53,4 @@ poetic poetry.
  [^2]: Short, informative essays enrich each one of Iperborea's Nordic Tales volumes. These are essential in framing the content within the correct background, outlining the links between Nordic cultures, and revealing the sources. Take the Kalevala. I have had it in my library since many years ago, but I didn't correlate it with Finnish folklore until I saw it mentioned in the essay.
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

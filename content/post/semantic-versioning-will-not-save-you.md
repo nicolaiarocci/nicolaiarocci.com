@@ -48,4 +48,4 @@ protecting your project from dependency hell.
  [4]: https://python-cerberus.org
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

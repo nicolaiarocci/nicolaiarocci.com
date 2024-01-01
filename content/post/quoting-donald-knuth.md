@@ -35,4 +35,4 @@ Some remarkable quotes:
  [2]: https://news.ycombinator.com/item?id=36012360
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

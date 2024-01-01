@@ -38,4 +38,4 @@ achievement as Gruber is renowned for dismissing most Markdown extensions.
 [5]: https://daringfireball.net/linked/2022/05/19/markdoc
 [rss]: https://nicolaiarocci.com/index.xml
 [tw]: http://twitter.com/nicolaiarocci
-[nl]: https://nicolaiarocci.substack.com
+[nl]: https://buttondown.email/nicolaiarocci

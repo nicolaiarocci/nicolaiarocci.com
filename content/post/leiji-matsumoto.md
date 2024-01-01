@@ -36,4 +36,4 @@ watched it this morning and loved every moment of it.
  [3]: https://en.wikipedia.org/wiki/Leiji_Matsumoto
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

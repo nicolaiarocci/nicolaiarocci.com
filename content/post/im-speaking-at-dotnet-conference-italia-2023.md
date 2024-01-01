@@ -22,4 +22,4 @@ If you will attend the conference (you should!), remember to meet me and say hi!
 [2]: https://www.meetup.com/it-IT/devromagna/
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

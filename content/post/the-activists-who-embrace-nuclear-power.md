@@ -28,4 +28,4 @@ working on smaller, more nimble nuclear reactors."
  [2]: https://www.forbes.com/sites/scottcarpenter/2020/08/31/bill-gates-nuclear-firm-says-new-reactor-can-backstop-grid-with-molten-salt-storage/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

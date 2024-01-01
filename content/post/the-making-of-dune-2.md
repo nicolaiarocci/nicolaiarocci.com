@@ -28,4 +28,4 @@ Reading the *Making of Dune II* took me down memory lane (*[via][2]*).
  [3]: /system-shock-is-back-home/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

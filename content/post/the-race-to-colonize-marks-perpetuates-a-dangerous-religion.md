@@ -23,4 +23,4 @@ More [here](https://nautil.us/the-race-to-colonize-mars-perpetuates-a-dangerous-
 
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -29,4 +29,4 @@ More [here][2].
  [2]: https://acoup.blog/2022/02/04/fireside-friday-february-4-2022/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

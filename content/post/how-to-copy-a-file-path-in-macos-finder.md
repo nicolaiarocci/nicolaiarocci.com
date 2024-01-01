@@ -21,4 +21,4 @@ I spotted this trick on [Jamie Smith's website][1], where other handy shortcuts
  [1]: https://www.jamieonkeys.dev/posts/keyboard-shortcuts/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

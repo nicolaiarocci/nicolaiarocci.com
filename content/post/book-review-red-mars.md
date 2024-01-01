@@ -47,4 +47,4 @@ not right away. Maybe in a while, when Mars dust has settled.
 [^5]: *Disclaimer*: I never read *The Expanse*; I only watched and loved the TV show. So yeah, I don't qualify for an informed opinion on that franchise, let alone compare it with another one.
 [rss]: https://nicolaiarocci.com/index.xml
 [m]: https://fosstodon.org/@nicola
-[nl]: https://nicolaiarocci.substack.com
+[nl]: https://buttondown.email/nicolaiarocci

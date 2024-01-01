@@ -20,4 +20,4 @@ those considerations still apply, but what can I say? I want Eve 2 out.
  [3]: /is-eve-still-maintained/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

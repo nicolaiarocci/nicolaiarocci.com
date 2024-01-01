@@ -54,4 +54,4 @@ divided into many diverse, often isolated cultures and societies.
  [^1]: First one being *A Time of Gifts: On Foot to Constantinople: from the Hook of Holland to the Middle Danube*. Browse some of his books in my [reading list](/books-i-have-read).
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

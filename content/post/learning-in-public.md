@@ -21,4 +21,4 @@ that.
  [^4]: I should do better. Post more [TILs](/tags/til/), for example.
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

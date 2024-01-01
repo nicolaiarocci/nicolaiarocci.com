@@ -48,4 +48,4 @@ a chance to come across one of these street flyers.
  [^1]: I am sure my friend [Emmaboshi](https://emmaboshi.net/) would love this special item. Some research suggests that the author, Matteo Sola, might be from Bologna, the same place where Emma practices his art, so maybe he knows about this book, or perhaps personally knows the author.
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

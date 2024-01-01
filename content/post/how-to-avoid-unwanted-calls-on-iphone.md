@@ -29,4 +29,4 @@ to me. It's a godsend. Now my iPhone doesn't even try to ring anymore.
 
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

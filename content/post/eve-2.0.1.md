@@ -21,4 +21,4 @@ available [here][4].
  [4]: https://docs.python-eve.org/en/stable/changelog.html
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

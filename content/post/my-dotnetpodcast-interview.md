@@ -24,4 +24,4 @@ src="https://widget.spreaker.com/widgets.js"></script>
  [2]: https://twitter.com/mauroservienti
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

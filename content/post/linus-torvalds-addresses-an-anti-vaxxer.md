@@ -18,4 +18,4 @@ As John Gruber [affirms][2], this is one rant we can all get behind.
  [2]: https://daringfireball.net/linked/2021/06/10/linus-torvalds
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

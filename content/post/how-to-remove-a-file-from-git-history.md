@@ -62,4 +62,4 @@ all make mistakes every once in a while, don't we?
  [^2]: Keep in mind, eventual stashed changes will be lost after `git filter-branch`. Make sure you unstash before issuing the command.
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

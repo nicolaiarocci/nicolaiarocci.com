@@ -23,4 +23,4 @@ again in front of a real crowd.
  [2]: https://nicolaiarocci.com/my-session-at-wpc-2022/
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

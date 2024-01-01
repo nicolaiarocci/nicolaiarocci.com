@@ -72,4 +72,4 @@ company, we're not going to adopt it.
  [^5]: Any sufficiently advanced technology is indistinguishable from magic *--Arthur C. Clark*
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

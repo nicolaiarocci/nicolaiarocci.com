@@ -20,4 +20,4 @@ my guilt.
  [1]: https://aeon.co/essays/who-could-dogs-become-without-humans-in-their-lives
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -14,4 +14,4 @@ electronic invoices following the Italian Revenue Agency standards. This release
 [2]: https://fatturaelettronicaopensource.org/docs
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

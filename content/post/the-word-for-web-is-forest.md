@@ -60,4 +60,4 @@ point of view to consider.
  [^3]: *Entangled Life* is a great read. It also features one of the most beautiful book covers of the modern age.
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

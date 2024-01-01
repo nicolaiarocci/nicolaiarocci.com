@@ -34,4 +34,4 @@ recognition at the top of her writing.
  [^1]: Somewhat recently, I reviewed [We Have Always Lived in the Castle](/book-review-we-have-always-lived-in-the-castle/).
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

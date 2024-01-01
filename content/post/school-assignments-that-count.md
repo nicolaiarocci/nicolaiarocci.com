@@ -54,4 +54,4 @@ Giulia's assignment being one of them.
  [1]: https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

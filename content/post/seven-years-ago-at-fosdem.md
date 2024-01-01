@@ -57,4 +57,4 @@ the back of his hand. Someone wasn't so smart on that night.
  [1]: /upcoming-speaking-engagements-with-ramblings/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

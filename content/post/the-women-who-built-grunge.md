@@ -18,4 +18,4 @@ More [here](https://longreads.com/2022/06/29/the-women-who-built-grunge/).
  [1]: https://twitter.com/nerdygirly
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

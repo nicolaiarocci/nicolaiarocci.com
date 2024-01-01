@@ -25,4 +25,4 @@ Make sure you read this [stuff][1].
  [1]: https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

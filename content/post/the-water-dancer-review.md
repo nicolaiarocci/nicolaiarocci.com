@@ -51,4 +51,4 @@ I think this book does an excellent job at recounting slavery from the enslaved
  [1]: https://www.penguinrandomhouse.com/books/550171/the-water-dancer-by-ta-nehisi-coates/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

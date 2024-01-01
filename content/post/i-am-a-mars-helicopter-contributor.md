@@ -63,4 +63,4 @@ leveraged in many different, even subtle ways. Let's hope for the best.
  [1]: https://github.blog/2021-04-19-open-source-goes-to-mars/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

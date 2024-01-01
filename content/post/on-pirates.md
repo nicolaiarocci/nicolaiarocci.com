@@ -20,4 +20,4 @@ More [here](https://www.neh.gov/humanities/2017/winter/feature/lot-what-known-ab
 
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

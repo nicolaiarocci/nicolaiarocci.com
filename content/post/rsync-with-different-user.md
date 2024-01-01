@@ -47,4 +47,4 @@ reasonably safe. Are there better ways? Please let me know.
 [^3]: Thanks to Sebastian on Mastodon for [pointing out](https://fosstodon.org/@DarkMetatron@rollenspiel.social/110939139075153024) that I should limit the sudoer to just rsync itself. I updated the post accordingly. By the way, this is why I love posting TILs in public.
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

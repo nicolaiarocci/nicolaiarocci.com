@@ -45,4 +45,4 @@ break, unexpected and undesirable for many reasons, did me good.
  [^2]: Having two-factor authentication up made it all less stressful.
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

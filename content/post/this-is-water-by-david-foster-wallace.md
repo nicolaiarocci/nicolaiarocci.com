@@ -41,4 +41,4 @@ list) for ages. Maybe it's time to deal with it.
  [3]: https://en.wikipedia.org/wiki/This_Is_Water
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

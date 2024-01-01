@@ -27,4 +27,4 @@ I purchased the license right away.
  [2]: https://www.robinrendle.com/notes/hookshot
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

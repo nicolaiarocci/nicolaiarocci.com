@@ -18,4 +18,4 @@ More [here][1].
  [1]: https://blog.jim-nielsen.com/2023/best-time-to-own-a-domain/
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

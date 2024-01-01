@@ -26,4 +26,4 @@ magazines are dead indeed, and it's a bittersweet sensation. Quoting McCracken's
 [^2]: This is a story I probably already mentioned on this site, but hey, it's my site; I can afford to repeat myself.
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

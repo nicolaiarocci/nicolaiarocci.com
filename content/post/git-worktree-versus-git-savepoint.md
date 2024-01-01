@@ -79,4 +79,4 @@ it for backup before starting the hotfix work.
  [2]: https://github.com/nicolaiarocci/dotfiles/blob/master/git/gitconfig
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

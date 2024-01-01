@@ -60,4 +60,4 @@ mind-blowing [recording][8] of sounds from Mars's surface.
  [8]: https://soundcloud.com/nasa/first-sounds-from-mars-filters-out-rover-self-noise
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

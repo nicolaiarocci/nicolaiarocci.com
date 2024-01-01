@@ -24,4 +24,4 @@ understatement—huge congrats to all of them.
  [1]: https://python-eve.org
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

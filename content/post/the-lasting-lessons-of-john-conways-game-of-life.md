@@ -31,4 +31,4 @@ them, Brian Eno, who, being Brian Eno, has some smart things to say:
 
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

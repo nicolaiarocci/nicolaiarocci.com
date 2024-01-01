@@ -44,4 +44,4 @@ too, of course.
  [10]: https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-1/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

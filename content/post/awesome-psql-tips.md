@@ -15,4 +15,4 @@ list][2] is always at hand.
  [2]: https://psql-tips.org/psql_tips_all.html
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -64,4 +64,4 @@ See also: *[Becoming the Emperor][1]*
  [1]: /becoming-the-emperor/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

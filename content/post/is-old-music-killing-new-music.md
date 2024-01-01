@@ -20,4 +20,4 @@ recent music trends is super-interesting.
  [1]: https://tedgioia.substack.com/p/is-old-music-killing-new-music
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

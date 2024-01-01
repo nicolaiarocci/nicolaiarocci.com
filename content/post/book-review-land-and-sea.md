@@ -29,4 +29,4 @@ distorted) point of view. This bizarre work left me unconvinced. I don't regret 
 
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

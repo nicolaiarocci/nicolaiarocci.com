@@ -53,4 +53,4 @@ question of all times.
  [1]: https://lithub.com/ian-mcewan-on-bach-philip-roth-and-living-an-episodic-life/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -16,4 +16,4 @@ ticket][3] for the details.
  [3]: https://github.com/FatturaElettronica/FatturaElettronica.NET/issues/396
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

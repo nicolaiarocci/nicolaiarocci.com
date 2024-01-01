@@ -33,4 +33,4 @@ I might re-read the novel. I'm curious about my opinion as a senior reader.
  [^3]: Not surprisingly, I'm having a hard time following the *Ulysses* too.
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

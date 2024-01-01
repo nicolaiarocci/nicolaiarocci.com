@@ -132,4 +132,4 @@ I'm not done yet. I'm having another [weird issue][5] with *.editorconfig* files
  [5]: https://github.com/OmniSharp/omnisharp-roslyn/issues/2510
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

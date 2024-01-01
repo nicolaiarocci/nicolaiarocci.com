@@ -43,4 +43,4 @@ present ever[^2].
  [^2]: The original price tag is still there.  In 1994, the damn thing cost a whopping 139.900 Italian Lire (€72). Pirating was wild in those days, and I won't negate that most of my mojo came from dark channels back then, but when a worthy game appeared, I was ready to pay homage to the authors.
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -38,4 +38,4 @@ society from afar.
  [^1]: I am afraid there's no English edition available. You could always read his WWII memoir and masterpiece, *The Sergeant in the Snow*.
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

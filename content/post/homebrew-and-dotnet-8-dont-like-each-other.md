@@ -27,4 +27,4 @@ I had to forego the Homebrew installation, which did not uninstall the SDK itsel
  [1]: https://www.meetup.com/it-IT/devromagna/events/293340671/
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

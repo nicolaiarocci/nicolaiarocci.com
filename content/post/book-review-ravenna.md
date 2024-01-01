@@ -61,4 +61,4 @@ Of thy great glories in the days of old' <br/>
  [1]: /book-review-king-and-emperor-a-new-life-of-charlemagne/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

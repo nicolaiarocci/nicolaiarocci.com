@@ -224,4 +224,4 @@ something we will be doing in the upcoming weeks.
  [^11]: My initial ramblings on Minimal APIs are available [here](/will-.net-6-minimal-apis-turn-heads/).
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

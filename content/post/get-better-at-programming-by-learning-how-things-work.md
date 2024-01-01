@@ -26,4 +26,4 @@ understands when it's worth digging deeper. In other words:
  [1]: https://jvns.ca/blog/learn-how-things-work/
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci

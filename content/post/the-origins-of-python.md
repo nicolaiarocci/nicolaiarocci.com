@@ -40,4 +40,4 @@ languages in general, make sure to read it.[^3]
  [^3]: In the same vein, another outstanding reading would be [The Early History of F#](https://dl.acm.org/doi/pdf/10.1145/3386325).
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://nicolaiarocci.substack.com
+ [nl]: https://buttondown.email/nicolaiarocci
