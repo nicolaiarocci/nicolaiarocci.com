@@ -7,7 +7,7 @@ You can follow my open source activity on [this website](/tags/open-source/) or 
 
 Here is a partial list of open source projects I authored:
 
-### C# / .NET
+### C#
 
 - [**FatturaElettronica.NET**][11]. Validation and de/serialization of electronic invoices adhering to the standard defined by the Italian “Agenzia delle Entrate”. 
 

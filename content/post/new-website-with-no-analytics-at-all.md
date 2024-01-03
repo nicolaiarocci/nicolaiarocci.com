@@ -12,15 +12,14 @@ I wanted new features like [fuzzy search](/search/), [archive](/archives/) and
 [table of contents](/books-i-have-read/), title anchors, and more. Also, the
 old theme kept me anchored to an ancient Hugo version, something I felt
 uncomfortable with. There are still a few loose parts, but I'm confident I made
-the right call by switching to
-[PaperMod](https://github.com/adityatelange/hugo-PaperMod); it offers all the
+the right call by switching to [PaperMod](https://github.com/adityatelange/hugo-PaperMod); it offers all the
 needed features (and plenty more), and it's frequently updated, which allows me
 to [open tickets](https://github.com/adityatelange/hugo-PaperMod/issues/1367)
 and offer improvements confidently.
 
 I also dropped web analytics. I've not counted visits or any other metric for
 years; I realized I'm not interested and certainly don't need metrics for
-motivation. Besides, I hate Google Analytics UX so much that I always wanted to
+motivation. I happen to hate Google Analytics UX so much that I always wanted to
 replace it, but never got around to doing that. Besides, from my small
 experiments, web metrics are unreliable. Just today, Manuel Moreale's [little
 analytics experiment](https://manuelmoreale.com/answers-to-my-analytics-inquiry)
