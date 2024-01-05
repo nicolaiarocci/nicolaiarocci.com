@@ -96,10 +96,3 @@ Ouch. This hurts.
 I am not sure I would have had so many well-formed opinions only six years in.
 Read them all on [Chris' website][1].
 
-*Subscribe to the [newsletter][nl] or the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [1]: https://chriskiehl.com/article/thoughts-after-6-years
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci
-

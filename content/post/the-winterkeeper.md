@@ -10,8 +10,3 @@ The Guardian's *The Winterkeeper: A Lifetime Spent Protecting Yellowstone Nation
 <br/>
 A little research on Steven Fuller, the protagonist, allowed me to dig out some promising [reading material](https://mountainjournal.org/a-winterkeeper-remembers-his-piece-in-natgo).
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
-
- [rss]: https://nicolaiarocci.com/index.xml
- [m]: https://fosstodon.org/@nicola
- [nl]: https://buttondown.email/nicolaiarocci

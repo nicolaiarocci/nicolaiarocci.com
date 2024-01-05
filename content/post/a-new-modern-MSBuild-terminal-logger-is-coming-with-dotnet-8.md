@@ -26,10 +26,3 @@ Interestingly, this marks only the first step in a series of upcoming MSBuild UX
 logger as the foundation for a new batch of UX improvements for MSBuild, including aspects like progress reporting and
 structured errors in the future."* Color me excited.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
-
-[1]: https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-preview-4/
-
- [rss]: https://nicolaiarocci.com/index.xml
- [m]: https://fosstodon.org/@nicola
- [nl]: https://buttondown.email/nicolaiarocci

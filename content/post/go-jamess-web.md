@@ -23,12 +23,3 @@ actors.
 
 *Update:* The James Webb Telescope [has reached its final destination][4].
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [1]: https://arstechnica.com/science/2022/01/remarkably-nasa-has-completed-deployment-of-the-webb-space-telescope/
- [2]: https://arstechnica.com/science/2022/01/all-hail-the-ariane-5-rocket-which-doubled-the-webb-telescopes-lifetime/
- [3]: https://www.jwst.nasa.gov/index.html
- [4]: https://www.npr.org/2022/01/24/1075437484/james-webb-telescope-final-destination
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

@@ -49,10 +49,3 @@ Hopefully, soon, once the currently "immature API" stabilizes, I will be able
 to come back to this article, edit it, and note that now everything works as
 expected.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [2]: https://github.com/MicrosoftDocs/WSL/issues/536
- [1]: https://docs.oracle.com/en/virtualization/virtualbox/6.0/admin/hyperv-support.html
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

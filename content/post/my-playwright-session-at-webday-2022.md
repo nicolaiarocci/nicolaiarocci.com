@@ -16,11 +16,3 @@ CFPs. If you happen to know one, please let me know.
 {{< youtube BaY9WIHUwFc >}}
 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
-
- [1]: https://www.ugidotnet.org/e/2840/Web-Day-2022
- [^2]: A couple weeks later I also presented at [DevRomagna](https://www.meetup.com/it-IT/DevRomagna/events/284626987/), the local meetup I run.
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

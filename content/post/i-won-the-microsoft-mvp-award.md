@@ -18,8 +18,3 @@ Then, one day, someone nominated me for the award. I was surprised, baffled and 
 the selection process. I was genuinely shocked when I received the first award. Being in the MVP program has been a
 happy and rewarding ride, and I'm glad the journey continues for another year.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
-
- [rss]: https://nicolaiarocci.com/index.xml
- [m]: https://fosstodon.org/@nicola
- [nl]: https://buttondown.email/nicolaiarocci

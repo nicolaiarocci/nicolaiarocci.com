@@ -46,13 +46,3 @@ Overall, I read great books in 2022. I'm now glancing at the dozen books
 waiting for me on the shelf. I hope they'll provide me with the same level of
 satisfaction, evasion, and entertainment as their predecessors.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
-
- [1]: /book-review-memoirs-of-hadrian/
- [2]: /book-review-italica/
- [3]: /book-review-stoner/
- [4]: /three-good-books-i-read-in-2021/
- [5]: /books-i-have-read/
- [rss]: https://nicolaiarocci.com/index.xml
- [m]: https://fosstodon.org/@nicola
- [nl]: https://buttondown.email/nicolaiarocci

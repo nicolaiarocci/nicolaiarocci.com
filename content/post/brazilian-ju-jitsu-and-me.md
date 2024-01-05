@@ -43,8 +43,3 @@ unknown, exhilarating course of uncertainty.
 
 ![](/images/ju-jitsu.jpeg)
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

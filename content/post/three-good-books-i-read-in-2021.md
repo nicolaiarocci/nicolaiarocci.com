@@ -48,16 +48,3 @@ Honorable mention goes to  *[About the Meaning of Life][5]*, *[King and
 Emperor: A New Life of Charlemagne][6]*, and *[Nomadland][7]*. See my [Books
 I Have Read][4] page for the list of books I read in 2021 and before.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [1]: /book-review-we-have-always-lived-in-the-castle/
- [2]: /book-review-endurance-shackletons-incredible-voyage/
- [3]: /book-review-consider-the-lobster/
- [4]: /books-i-have-read/
- [5]: /book-review-about-the-meaning-of-life/
- [6]: /book-review-king-and-emperor-a-new-life-of-charlemagne/
- [7]: /book-review-nomadland/
- [8]: https://twitter.com/nicolaiarocci/status/1214857647314362368
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

@@ -21,10 +21,3 @@ concludes with the following assessment:
 
 I agree wholeheartedly.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [^1]: I'm looking at you, NuGet.
- [2]: https://blog.craftyguy.net/cmdline-help/
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

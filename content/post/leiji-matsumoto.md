@@ -29,11 +29,3 @@ watched it this morning and loved every moment of it.
 {{< youtube TvMzyewwf5A >}}
 <br/>
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
-
- [^1]: Matsumoto was inspired to create *Galaxy Express 999* by the idea of a steam train running through the stars in the novel *Night on the Galactic Railroad* by Kenji Miyazawa.
- [^2]: *Space Battleship Yamato* was influential in the creation of many future series such as *Gundam*, *Evangelioon*, and *Macross*.
- [3]: https://en.wikipedia.org/wiki/Leiji_Matsumoto
- [rss]: https://nicolaiarocci.com/index.xml
- [m]: https://fosstodon.org/@nicola
- [nl]: https://buttondown.email/nicolaiarocci

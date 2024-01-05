@@ -17,10 +17,3 @@ WebDay 2023 will be a hybrid event, with over 380 in-person attendees and almost
 After the exhilarating experience of being back on an actual stage at WPC a few months ago, I'm excited to speak once
 again in front of a real crowd.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
-
- [1]: https://www.webdayconf.it/
- [2]: https://nicolaiarocci.com/my-session-at-wpc-2022/
- [rss]: https://nicolaiarocci.com/index.xml
- [m]: https://fosstodon.org/@nicola
- [nl]: https://buttondown.email/nicolaiarocci

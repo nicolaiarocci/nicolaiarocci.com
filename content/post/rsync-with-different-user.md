@@ -40,11 +40,3 @@ a sudoer (can only sudo rsync, though[^3]), and 'backup' now has shell access. A
 SSH keys-only access is allowed to the machine (and I'm the only person holding those keys), everything's still
 reasonably safe. Are there better ways? Please let me know. 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
-
-[1]: https://download.samba.org/pub/rsync/rsync.1#opt--rsync-path
-[2]: https://unix.stackexchange.com/a/546296
-[^3]: Thanks to Sebastian on Mastodon for [pointing out](https://fosstodon.org/@DarkMetatron@rollenspiel.social/110939139075153024) that I should limit the sudoer to just rsync itself. I updated the post accordingly. By the way, this is why I love posting TILs in public.
- [rss]: https://nicolaiarocci.com/index.xml
- [m]: https://fosstodon.org/@nicola
- [nl]: https://buttondown.email/nicolaiarocci

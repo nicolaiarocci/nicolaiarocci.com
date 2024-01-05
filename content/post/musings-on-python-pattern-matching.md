@@ -56,14 +56,3 @@ development crowd is into object-oriented languages, but look, it's going to
 exceptionally hard to successfully and seamlessly move features from apples to
 oranges.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [1]: https://lwn.net/Articles/845480/
- [2]: https://discuss.python.org/t/gauging-sentiment-on-pattern-matching/5770
- [3]: https://discuss.python.org/t/gauging-sentiment-on-pattern-matching/5770/21
- [4]: https://twitter.com/__amol__/status/1364205630928617473
- [5]: https://github.com/gvanrossum/patma/blob/master/README.md
- [6]: https://news.ycombinator.com/item?id=26083779
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

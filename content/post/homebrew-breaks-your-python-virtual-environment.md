@@ -31,9 +31,3 @@ length of serious Python work, you have), then go [read][1] Justin's piece. He
 explains the whys and then goes into the hows you solve the problem for good.
 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [1]: https://justinmayer.com/posts/homebrew-python-is-not-for-you/
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

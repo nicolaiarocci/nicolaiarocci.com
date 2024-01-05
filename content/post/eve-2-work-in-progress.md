@@ -13,11 +13,3 @@ before the release.
 I know. I [recently][3] stated that Eve was in maintenance mode. All of
 those considerations still apply, but what can I say? I want Eve 2 out.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [1]: https://docs.python-eve.org/en/latest/changelog.html
- [2]: https://github.com/pyeve/eve/issues/1278
- [3]: /is-eve-still-maintained/
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

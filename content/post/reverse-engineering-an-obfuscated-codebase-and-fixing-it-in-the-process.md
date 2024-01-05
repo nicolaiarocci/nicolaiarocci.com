@@ -20,9 +20,3 @@ protectors, are always playing a losing game.
 
 Make sure you read this [stuff][1].
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [1]: https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

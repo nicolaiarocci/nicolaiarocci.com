@@ -54,13 +54,3 @@ job with something similar to:
 Which ensures the script runs daily at 4 am. For a weekend task, I'm happy with
 the result.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [1]: https://docs.mongodb.com/manual/core/capped-collections/
- [2]: https://www.postgresql.org/docs/current/sql-createtrigger.html
- [3]: https://www.pgadmin.org/docs/pgadmin4/latest/pgagent.html
- [4]: https://github.com/citusdata/pg_cron
- [5]: https://www.postgresql.org/docs/current/ddl-partitioning.html
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

@@ -21,11 +21,3 @@ I'm lucky enough to have been awarded their [Open Source License][2] for many
 years, so I'm biased, but look, now I'm even proud of supporting their products
 *([via][3])*.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [1]: https://blog.jetbrains.com/blog/2022/12/06/update-on-jetbrains-statement-on-ukraine/
- [2]: https://www.jetbrains.com/community/opensource/#support
- [3]: https://social.telemetrydeck.com/@daniel/109472601034214313
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

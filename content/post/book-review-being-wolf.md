@@ -27,8 +27,3 @@ This novel has yet to see an English edition, so as for the English title, I mad
 edition. These quick notes offer me a chance to express my gratitude to Iperborea for their incredible work in
 publishing so many exceptionally translated Northen-Europe works over the years.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
-
- [rss]: https://nicolaiarocci.com/index.xml
- [m]: https://fosstodon.org/@nicola
- [nl]: https://buttondown.email/nicolaiarocci

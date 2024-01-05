@@ -16,10 +16,3 @@ As the adage goes, for learning a subject, nothing beats explaining it in front 
 
 If you will attend the conference (you should!), remember to meet me and say hi!
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
-
-[1]: https://dotnetconference.it/e/3281/dotNET-Conference-Italia-2023
-[2]: https://www.meetup.com/it-IT/devromagna/
- [rss]: https://nicolaiarocci.com/index.xml
- [m]: https://fosstodon.org/@nicola
- [nl]: https://buttondown.email/nicolaiarocci

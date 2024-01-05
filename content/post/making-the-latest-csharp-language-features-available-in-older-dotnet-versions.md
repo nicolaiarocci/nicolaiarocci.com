@@ -81,11 +81,3 @@ dependency for your library; it only needs to be there at compile time.
 Do you know what's funny? After all, I took a different route; no `init`
 keyword is used anymore in my library, but that's for another story.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
-
- [1]: https://developercommunity.visualstudio.com/t/error-cs0518-predefined-type-systemruntimecompiler/1244809#TPIN-N1249582
- [2]: https://github.com/Sergio0694/PolySharp
- [3]: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/init
- [rss]: https://nicolaiarocci.com/index.xml
- [m]: https://fosstodon.org/@nicola
- [nl]: https://buttondown.email/nicolaiarocci

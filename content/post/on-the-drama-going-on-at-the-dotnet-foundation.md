@@ -54,15 +54,3 @@ acts together and react immediately, at the risk of losing all of its credibilit
 earsly as next week.
 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
-[1]: https://fatturaelettronicaopensource.org/
-[2]: https://twitter.com/eric_sink/status/1445096990153613323
-[3]: https://www.theregister.com/2021/10/05/microsoft_net_foundation_under_fire/
-[4]: https://github.com/dotnet-foundation/Home/discussions/39
-[5]: https://news.ycombinator.com/item?id=28759630
-[^6]: One year later, someone from the same team got in touch and proposed the move again. I refused for the same reasons. The story is actually longer than that. A few months later, I was also invited to join Team Digitale. I even had a brief video call with their recruiter. I chukled when he realized I was a grey beard, not the typical just-out-of-college boy or girl they usually head-hunt.
-[7]: https://github.com/dotnet-foundation/Home/discussions/40
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

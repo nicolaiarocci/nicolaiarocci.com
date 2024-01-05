@@ -31,11 +31,3 @@ that's now a secondary goal.
 
 {{< youtube s7SUZZ1dvd0 >}}
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [1]: /musings-on-an-unexpected-motorcycle-trip/
- [^2]: The Triumph Owners MotorCycle Club ([italy](https://tomccitalia.org/); [international](https://tomcc.org))
- [^3]: For some quality moto vlogging, see the [Itchy Boots](https://www.youtube.com/c/ItchyBoots) on YouTube
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

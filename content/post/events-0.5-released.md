@@ -21,8 +21,3 @@ this mechanism to Python. It originated as a side experiment (I was a C# transfu
 [Eve](https://github.com/pyeve/eve) dependency. It slowly got some traction besides my projects. Read more on the project's [GitHub
 page](https://github.com/pyeve/events).
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
-
- [rss]: https://nicolaiarocci.com/index.xml
- [m]: https://fosstodon.org/@nicola
- [nl]: https://buttondown.email/nicolaiarocci

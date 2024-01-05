@@ -21,10 +21,3 @@ straightforward design, which makes getting on-board super easy. It's built on
 top of the excellent MimeKit, after all, and authored by the very same author
 Jeffrey Stedfast.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [1]: https://docs.microsoft.com/en-us/dotnet/api/system.net.mail.smtpclient?view=net-5.0&viewFallbackFrom=netcore-5.0#remarks
- [2]: https://github.com/jstedfast/MailKit
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

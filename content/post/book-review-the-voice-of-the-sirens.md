@@ -43,9 +43,3 @@ progressed in many incredible ways. Yet the mechanisms that drive modern
 societies have evolved only marginally and, what's humbling, the fundamental
 questions raised by the great minds of that age remain unanswered[^1].
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [^1]: Unfortunately, I am not aware of any international edition currently available for this book. It deserves one.
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

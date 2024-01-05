@@ -73,10 +73,3 @@ relevant branch. When you get back to it, `git log` will hint at what happened
 when you left. Assuming it is a private branch, you might even decide to push
 it for backup before starting the hotfix work.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [1]: https://git-scm.com/docs/git-worktree
- [2]: https://github.com/nicolaiarocci/dotfiles/blob/master/git/gitconfig
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

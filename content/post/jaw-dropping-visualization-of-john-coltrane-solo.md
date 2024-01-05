@@ -29,10 +29,3 @@ the author's [in-depth article][2] on the fractal structure of the solo. It's
 all about fractals, baby!
 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [1]: https://www.openculture.com/2022/08/watch-a-jaw-dropping-visualization-of-john-coltranes-giant-steps-solo.html
- [2]: https://medium.com/@harlan.j.brothers/giants-steps-the-fractal-structure-of-coltranes-iconic-solo-706ee8c8e79e
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

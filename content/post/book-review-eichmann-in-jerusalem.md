@@ -52,8 +52,3 @@ case, *Eichmann in Jerusalem* is an exceptionally documented and well-argued
 historical research. It is worth reading, especially so in our time when the
 memory of time passed tends to fade away.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

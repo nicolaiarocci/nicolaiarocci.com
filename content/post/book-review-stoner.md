@@ -49,11 +49,3 @@ Stoner is a deceptively simple novel written in 1965 that tells facts of the
 early twentieth century, yet it has much to say to the people of the modern
 age.[^3]
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
-
- [^3]: My paperback edition (Oscar Mondadori, Italian) includes a remarkable author interview. Also, while researching the book, I dug up an enlightening 2019 The Paris Review [interview](https://www.theparisreview.org/blog/2019/02/20/mrs-stoner-speaks-an-interview-with-nancy-gardner-williams/) with Nancy Gardner Williams, his widow.
- [1]: https://giovannizagni.substack.com/
- [2]: https://giovannizagni.substack.com/p/stoner
- [rss]: https://nicolaiarocci.com/index.xml
- [m]: https://fosstodon.org/@nicola
- [nl]: https://buttondown.email/nicolaiarocci

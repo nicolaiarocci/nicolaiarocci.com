@@ -32,13 +32,3 @@ been lucky to have people willing to take on the challenge and volunteer to
 hold events all around the country. As long as this continues, we'll have
 a bright future and lots of fun.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [1]: https://tomccitalia.org
- [2]: https://www.agordinodolomiti.it/index.php/cosa-vedere/natura/lago-del-mis/
- [3]: https://www.castellodiandraz.it
- [4]: https://en.wikipedia.org/wiki/Lake_Misurina
- [^5]: Last year, I went there with a fellow TOMCC member and recorded a YouTube video. Check it out [here](/triumph-bonneville-dolomites-ride-2021/).
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

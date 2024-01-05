@@ -34,11 +34,3 @@ novel *The Pale King*, posthumously published in 2011. With all its
 intimidating size, the Pale King has been sitting on my nightstand (aka reading
 list) for ages. Maybe it's time to deal with it.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
-
- [1]: https://youtu.be/DCbGM4mqEVw
- [2]: https://web.archive.org/web/20080213082423/http://www.marginalia.org/dfw_kenyon_commencement.html
- [3]: https://en.wikipedia.org/wiki/This_Is_Water
- [rss]: https://nicolaiarocci.com/index.xml
- [m]: https://fosstodon.org/@nicola
- [nl]: https://buttondown.email/nicolaiarocci

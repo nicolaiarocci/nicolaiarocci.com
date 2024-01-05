@@ -27,9 +27,3 @@ A very touching Akhil Sharma in *The New Yorker*:
 
 More [here][1].
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [1]: https://www.newyorker.com/magazine/2022/01/31/a-passage-to-parenthood
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

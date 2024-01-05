@@ -16,8 +16,3 @@ Margarita (one of my all-time favorite books).
 
 Full article is available [here](https://www.theguardian.com/books/2022/dec/11/dracula-vlad-the-impaler-letter-protein-clues).
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

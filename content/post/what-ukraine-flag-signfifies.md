@@ -10,9 +10,3 @@ tags: ["ukraine"]
 
 ![Ukarine](/images/ukraine.jpg)
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [^1]: The story of Ukraine's flag is rich and controversial. It [appears to be true](https://en.wikipedia.org/wiki/Flag_of_Ukraine#Yellow-blue_vs_blue-yellow), however, that "blue sky over sunflowers" forms Ukrainians' conception of their flag.
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

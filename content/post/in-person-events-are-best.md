@@ -49,16 +49,3 @@ guest or can't find a proper venue.
 
 We're a local meetup, and "local" hardly conjugates with "online."
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [1]: https://twitter.com/verlok
- [2]: https://www.meetup.com/it-IT/DevRomagna/
- [3]: https://en.wikipedia.org/wiki/Romagna
- [4]: https://www.facebook.com/centro.vaina
- [5]: https://twitter.com/gsantomaggio
- [8]: https://mvp.microsoft.com/
- [^6]: Sorry for the Facebook link. I couldn't find a better reference.
- [^7]: Andrea is a DevRomagna co-organizer now. I am happy to have him onboard.
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

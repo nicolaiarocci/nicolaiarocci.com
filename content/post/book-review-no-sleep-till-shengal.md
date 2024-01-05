@@ -22,8 +22,3 @@ Deja Vu sensation induced by the previous work; I don't know. *No Sleep* is a so
 theme. My affection for Zerocalcare is intact, but I'd pick *Kobane Calling* over *No Sleep*, especially for a first
 reading of this author.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
-
- [rss]: https://nicolaiarocci.com/index.xml
- [m]: https://fosstodon.org/@nicola
- [nl]: https://buttondown.email/nicolaiarocci

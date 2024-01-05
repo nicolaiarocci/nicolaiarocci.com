@@ -15,10 +15,3 @@ reconstruction of [all the citations included][1]. I'm especially fond of the 8-
 Another thing I learned is that Thomas Bangalter, formerly one-half of Daft Punk, [said][2] that his fear of artificial
 intelligence was a factor in why the group split in 2021.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
-
- [1]: https://www.youtube.com/watch?v=imBlPXbAv6E&lc=UgzaNoEwyYOxNyc53cB4AaABAg
- [2]: https://www.latimes.com/entertainment-arts/story/2023-04-04/daft-punk-member-thomas-bangalter-terrified-ai
- [rss]: https://nicolaiarocci.com/index.xml
- [m]: https://fosstodon.org/@nicola
- [nl]: https://buttondown.email/nicolaiarocci

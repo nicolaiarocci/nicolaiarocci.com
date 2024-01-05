@@ -57,11 +57,3 @@ roleplay!) while their ships were docked at those stunning space stations.
 That's something TW2002 nailed down to near perfection. I wish Eve had that. It
 could have kept me in the game for far longer.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [1]: https://nicolaiarocci.com/a-trip-down-memory-lane-fidonet-and-usenet/
- [2]: https://if50.substack.com/p/1991-trade-wars-2002
- [3]: https://oldforums.eveonline.com/?a=topic&threadID=356966
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

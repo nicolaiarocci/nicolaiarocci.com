@@ -70,11 +70,3 @@ Many factors influence the choice between service and library, use case and
 prevailing circumstances being the main ones. I am not even sure they are
 comparable, as they tend to solve different problems. 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [^2]: I know first hand. We've recently been impacted by a catastrophic event that happened to one of our providers. Our services went down and, with them, a good part of our users. How we overcame the situation and what we learned in the process would probably be worth telling, maybe in a future article.
-
- [1]: http://catern.com/services.html
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

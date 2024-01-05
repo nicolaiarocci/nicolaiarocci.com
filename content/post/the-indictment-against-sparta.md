@@ -27,10 +27,3 @@ Marx, one could say that ignorance is the opium of the people. Take 300 the
 movie.  I'm glad I saw it as entirely ignorant of Sparta's 'real' prowess, or
 most fun would have been spoiled.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [1]: https://acoup.blog/
- [2]: https://acoup.blog/2019/08/16/collections-this-isnt-sparta-part-i-spartan-school/
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

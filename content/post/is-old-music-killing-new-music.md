@@ -15,9 +15,3 @@ I can't say I can relate as my kids of ages 21, 18, and 16 do their best to
 stay clear from the music I like, but anyways, Ted Gioia's [latest piece][1] on
 recent music trends is super-interesting.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [1]: https://tedgioia.substack.com/p/is-old-music-killing-new-music
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

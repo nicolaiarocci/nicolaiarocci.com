@@ -30,18 +30,3 @@ of improvements.
 There are [a][4] [ton][5] [of][6] [new][7] [things][8] [coming][9] [up][10],
 too, of course.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [1]: https://nicolaiarocci.com/will-.net-6-minimal-apis-turn-heads/
- [2]: https://devblogs.microsoft.com/dotnet/file-io-improvements-in-dotnet-6/
- [3]: https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-6/#is-that-all
- [4]: https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-7/
- [5]: https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-6/
- [6]: https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-5/
- [7]: https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-4/
- [8]: https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-3/
- [9]: https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-2/
- [10]: https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-1/
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

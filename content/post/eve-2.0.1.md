@@ -13,12 +13,3 @@ available [here][4].
 
 ![](/images/eve-2.0.1.png)
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [1]: https://pypi.org/project/Eve/2.0.1/
- [2]: https://github.com/pyeve/eve/issues/1478
- [3]: https://github.com/pyeve/eve/issues/1485
- [4]: https://docs.python-eve.org/en/stable/changelog.html
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

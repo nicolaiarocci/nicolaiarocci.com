@@ -13,9 +13,3 @@ YouTube channel, Steve introduces an experimental new .NET package that allows t
 <br/>
 Watch it, and get your mind blown away by the possibilities this could open up.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
-
- [1]: /a-quick-preview-of-the-blazor-united-prototype-for-.net8/
- [rss]: https://nicolaiarocci.com/index.xml
- [m]: https://fosstodon.org/@nicola
- [nl]: https://buttondown.email/nicolaiarocci

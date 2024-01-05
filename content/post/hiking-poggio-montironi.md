@@ -46,8 +46,3 @@ Caution on the descent: Two or three turns could be more noticeable, but they
 are well reported in the GPX track. A fallen tree (surmountable) interrupts the
 trail near the ford of the Rio Sasso.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
-
- [rss]: https://nicolaiarocci.com/index.xml
- [m]: https://fosstodon.org/@nicola
- [nl]: https://buttondown.email/nicolaiarocci

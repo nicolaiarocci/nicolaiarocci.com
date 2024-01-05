@@ -13,12 +13,3 @@ that.
 [Learn in public][1], it gives superpowers[^4]. Also, in recent years, adopting
 [POSSE][3] was the best thing I did for my personal development.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [1]: https://www.swyx.io/learn-in-public/
- [2]: https://duckduckgo.com/
- [3]: https://indieweb.org/POSSE
- [^4]: I should do better. Post more [TILs](/tags/til/), for example.
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

@@ -31,9 +31,3 @@ recorded on stage less than a year before his premature, tragic death and then
 released posthumously. I am listening to it as I write this note, and man isn't
 it just great.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [1]: https://www.thesmartset.com/born-to-be-cool/
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

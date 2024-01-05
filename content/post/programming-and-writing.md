@@ -35,11 +35,3 @@ own activities, especially so when we perform them passionately. While common
 patterns emerge naturally, differences, even remarkable ones, tend to go
 unnoticed.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [^2]: The term *confirmation bias* is probably misused in this context. I am sure there is a better definition; it just eludes me and my own ignorance.
-
- [1]: http://antirez.com/news/135
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

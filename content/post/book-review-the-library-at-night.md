@@ -53,11 +53,3 @@ Last but not least, my favorite quote from the book:
 > Immensely generous, my books make no demands on me but offer all kind of
 > illuminations. 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [2]: https://www.theglobeandmail.com/arts/books/article-alberto-manguel-to-donate-40000-works-to-lisbons-centre-for-research/
- [^1]: **Spoiler alert**. I researched into the matter. It turns out that Manguel's library counted 40,000 titles. In 2020, he [donated them all][2] to Lisbon's Centre for Research into the History of Reading. 
-
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

@@ -29,9 +29,3 @@ many) vicious interests: Jazz music and books.
 The whole story, both as text or podcast, is available [here][1].
 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [1]: https://99percentinvisible.org/episode/the-real-book/
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

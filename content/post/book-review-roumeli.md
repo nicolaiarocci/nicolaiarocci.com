@@ -21,10 +21,3 @@ There's a certain lack of focus (the whole Crete divagation, while poetic and
 evocative, has little to do with the context of this book[^1]), and some
 musings on Greeks' nature, while interesting, tend to run long.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [^1]: On Fermor's activity as a secret agent in Crete during WWII, I greatly appreciated *Ill Met by Moonglight: The Abduction of General Kreipe*, by W. Stanley Moss.
- [^2]: PLF's *Mani: Travels in the Southern Peloponnese* and the whole *A Time of Gits*  trilogy are some of my all-time favorite travel books.
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

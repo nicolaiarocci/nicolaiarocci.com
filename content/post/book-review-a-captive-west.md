@@ -43,9 +43,3 @@ Europe history from a different, non-western-centric perspective and get
 precious insights into current events. Look at what is happening
 today before our incredulous and appalled eyes. 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [^1]: I'm not aware of any available English editions at this time, but it's likely that the transcriptions of the speeches can be found online.
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

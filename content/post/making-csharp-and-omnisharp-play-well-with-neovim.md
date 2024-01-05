@@ -123,13 +123,3 @@ It overrides the `on_attach` event to pass an LSP-digestible list of semantic to
 
 I'm not done yet. I'm having another [weird issue][5] with *.editorconfig* files. I'm still triaging it, and will report back when (if) I sort it out.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
-
- [1]: https://www.lazyvim.org/
- [2]: https://github.com/neovim/neovim/issues/21391
- [3]: https://github.com/OmniSharp/omnisharp-roslyn/issues/2483
- [4]: https://github.com/dotnet/roslyn/blob/3cca4fdc3b125995bfd32b3a02b5d5c2d2b82504/src/Workspaces/Core/Portable/Classification/ClassificationTypeNames.cs#L97
- [5]: https://github.com/OmniSharp/omnisharp-roslyn/issues/2510
- [rss]: https://nicolaiarocci.com/index.xml
- [m]: https://fosstodon.org/@nicola
- [nl]: https://buttondown.email/nicolaiarocci

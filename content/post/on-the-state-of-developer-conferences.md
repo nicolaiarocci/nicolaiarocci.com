@@ -49,12 +49,3 @@ pandemic hiatus threw a ton of fresh new viewers at them.
 
 PS: Coincidentally, we're running an in-person meetup at DevRomagna [today][3].
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
-
- [1]: https://remotesynthesis.com/blog/developer-conferences/
- [2]: https://www.meetup.com/it-IT/DevRomagna
- [3]: https://nicolaiarocci.com/heading-to-go-a-look-at-building-a-video-encoder-meetup/
- [^4]: According to [Treccani](https://www.treccani.it/vocabolario/ricerca/conferenza/)
- [rss]: https://nicolaiarocci.com/index.xml
- [m]: https://fosstodon.org/@nicola
- [nl]: https://buttondown.email/nicolaiarocci

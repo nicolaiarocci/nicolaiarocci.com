@@ -40,12 +40,3 @@ I think Armin's post is worth reading. I share some of his concerns, although
 I don't consider 'users vetting,' as he suggests, a suitable alternative for
 authentication (vetting solves a different problem).
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [1]: https://python-cerberus.org/
- [2]: https://lucumr.pocoo.org/2022/7/9/congratulations/
- [^3]: It did help that the Python Software Foundation provided a limited number of [Titan Security Keys][4] to critical project maintainers. I could redeem two for free, and I have to say they are a joy to use.
- [4]: https://store.google.com/product/titan_security_key
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

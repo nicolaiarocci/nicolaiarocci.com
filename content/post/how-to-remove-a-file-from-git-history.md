@@ -56,10 +56,3 @@ In so many years with git, this is the very first time I had to do something
 similar. Typically, you don't commit sensitive data to version control, but we
 all make mistakes every once in a while, don't we?
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [1]: https://git-scm.com/docs/git-filter-branch
- [^2]: Keep in mind, eventual stashed changes will be lost after `git filter-branch`. Make sure you unstash before issuing the command.
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

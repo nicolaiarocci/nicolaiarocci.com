@@ -48,8 +48,3 @@ to grit and desire for rebirth, Germany resurged from the catastrophe as
 a modern country and a sought-out model for democracy, economy, justice, and
 reception of diverse cultures. 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

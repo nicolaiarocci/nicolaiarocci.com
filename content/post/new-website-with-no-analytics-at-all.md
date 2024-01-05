@@ -39,10 +39,3 @@ analytics sparingly, if at all.  They might make sense on professional websites
 blogs? They do not serve any useful purpose other than slowing down the whole
 thing.
 
-*Subscribe to my [newsletter][nl] or the [RSS feed][rss]. Follow me on [Mastodon][m] or [X][x].*
-
-[nl]: https://buttondown.email/nicolaiarocci
-[rss]: https://nicolaiarocci.com/index.xml
-[m]: https://fosstodon.org/@nicola
-[x]: https://x.com/nicolaiarocci
-

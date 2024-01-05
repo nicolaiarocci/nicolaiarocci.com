@@ -17,9 +17,3 @@ to say on the COVID vaccine and never dared to say:
 > fucking moron. Go in the fucking ocean and fuck a piranha. Fuck. Fuck that.
 > Fuck you. Get vaccinated.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [1]: https://www.mcsweeneys.net/articles/oh-my-fucking-god-get-the-fucking-vaccine-already-you-fucking-fucks
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

@@ -45,8 +45,3 @@ the result is always smooth and at the same time dry, never yielding to
 hyperbole or exaltation, always close to the facts, which on the other hand,
 certainly do not need enrichment. A fantastic story, beautifully told.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

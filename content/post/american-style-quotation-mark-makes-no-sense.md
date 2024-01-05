@@ -24,12 +24,3 @@ In [The American Style of Quotation Mark Punctuation Makes No Sense][3] the
 author illustrates the differences between the two styles, then argues that
 "the British approach makes more sense, so use that one." Whoops.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
-
- [1]: https://accademia.tolkieniana.net/tesi/endicott/tlkefiabeng.html
- [2]: http://www.endore.it/Arretrati/9/Articoli/SuTolkienELeFiabe.pdf
- [3]: https://www.erichgrunewald.com/posts/the-american-style-of-quotation-mark-punctuation-makes-no-sense
- [^4]: In my rendition I moved the period after the end mark. Different languages, different rules. 
- [rss]: https://nicolaiarocci.com/index.xml
- [tw]: http://twitter.com/nicolaiarocci
- [nl]: https://buttondown.email/nicolaiarocci

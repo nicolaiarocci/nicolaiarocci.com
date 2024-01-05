@@ -32,9 +32,3 @@ IMHO), I am confident it will.
 
 [Join me on Mastodon](https://fosstodon.org/@nicola).
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][masto]*
-
- [1]: https://indieweb.org/POSSE
- [rss]: https://nicolaiarocci.com/index.xml
- [masto]: https://fosstodon.org/@nicola
- [nl]: https://buttondown.email/nicolaiarocci
