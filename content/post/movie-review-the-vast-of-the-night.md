@@ -2,9 +2,10 @@
 title: "Movie review: The Vast of the Night"
 date: 2023-12-30T10:08:07+01:00
 tags: ["movies", "reviews"]
+cover:
+    image: images/the-vast-of-the-night.jpg
 ---
-Yesterday evening, we watched "[The Vast of the
-Night](https://en.wikipedia.org/wiki/The_Vast_of_Night)", and what a pleasant
+Yesterday evening, we watched *The Vast of the Night*, and what a pleasant
 surprise it was.
 
 One night, in a small New Mexico town, a girl who works at a local radio station
