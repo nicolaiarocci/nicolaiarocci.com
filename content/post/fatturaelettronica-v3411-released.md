@@ -6,8 +6,7 @@ tags: ["open-source", "dotnet", "fattura-elettronica"]
 ---
 [Fattura Elettronica][2] for .NET v3.4.11 was released on NuGet today. The Fattura Elettronica project allows for the
 fixes a missing validation point. See the [changelog][1] for details (Italian). validation and de/serialization of
-electronic invoices following the Italian Revenue Agency standards. This release
-
+electronic invoices following the Italian Revenue Agency standards.
 
 
 [1]: https://fatturaelettronicaopensource.org/docs/changelog.html#v-3411
