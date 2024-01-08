@@ -26,7 +26,7 @@ and their real-world counterparts, and Proust himself.
 > here given his actual name, has a younger brother, an annoying one to boot,
 > who "though only five-and-a-half years-old, was of a rather violent nature."
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://www.tabletmag.com/sections/arts-letters/articles/proust-madeleine-antisemitism-jewishness
  [rss]: https://nicolaiarocci.com/index.xml

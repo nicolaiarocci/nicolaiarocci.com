@@ -22,7 +22,7 @@ from .NET canonical location to the Homebrew cellar, which magically solved the 
 TL; DR. Homebrew recipes don't play nicely with .NET canonical installer. To make all my SDK versions visible to .NET,
 I had to forego the Homebrew installation, which did not uninstall the SDK itself, but simply unlinked it.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
  [1]: https://www.meetup.com/it-IT/devromagna/events/293340671/
  [rss]: https://nicolaiarocci.com/index.xml

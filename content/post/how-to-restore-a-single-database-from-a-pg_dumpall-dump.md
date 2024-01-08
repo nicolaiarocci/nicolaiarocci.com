@@ -47,7 +47,7 @@ only get error messages:
 [force-drop][4] all active connections or tell your peers to leave the database
 alone. Merging the above passages in a script is an option.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://www.postgresql.org/docs/current/app-pg-dumpall.html
  [2]: https://www.postgresql.org/docs/current/app-pgdump.html

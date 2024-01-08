@@ -14,7 +14,7 @@ nothing about him.
 
 More [here](https://pitchfork.com/features/from-the-pitchfork-review/9866-the-interstellar-style-of-sun-ra/).
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola

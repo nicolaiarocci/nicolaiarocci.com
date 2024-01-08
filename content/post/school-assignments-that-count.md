@@ -49,7 +49,7 @@ curve."][1]* That's excellent work. It includes several animated simulations,
 Giulia's assignment being one of them.
 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
  [rss]: https://nicolaiarocci.com/index.xml

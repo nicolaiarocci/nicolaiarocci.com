@@ -58,7 +58,7 @@ this book goes straight into my all-time top ten.
 
 See also: *[Becoming the Emperor][1]*
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  
  [1]: /becoming-the-emperor/

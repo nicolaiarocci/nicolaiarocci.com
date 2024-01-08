@@ -21,7 +21,7 @@ the most appropriate CD cover for launch day ever.
 Whatever happens tomorrow, lay back and keep smiling.
 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://open.spotify.com/playlist/1WjnPw3PbQJOsEpEgJsz5f?si=53a83f9c31484310
  [^2]: Track #8, *Fly Away / Walking in the Sunshine*

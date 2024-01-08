@@ -32,7 +32,7 @@ pertain to the mind-boggling department. This novel fits more in the ok
 department. It could serve as a great, gentle introduction to DeLillo, though,
 as his other works can indeed be intimidating.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci

@@ -25,7 +25,7 @@ They are all ASP.NET 5, currently in beta, but before release we're likely to
 upgrade them to NET6. NET6 is LTS, NET5 isn't, and offers significant
 advantages, remarkable [performance gains][2] included.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [^1]: [Will .NET 6 Mininal APIs turn heads?](https://nicolaiarocci.com/will-.net-6-minimal-apis-turn-heads/) collects my thoughts on the subject.
  [2]: https://nicolaiarocci.com/performance-improvements-in-.net6/

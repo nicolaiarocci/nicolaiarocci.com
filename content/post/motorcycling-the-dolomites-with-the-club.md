@@ -32,7 +32,7 @@ been lucky to have people willing to take on the challenge and volunteer to
 hold events all around the country. As long as this continues, we'll have
 a bright future and lots of fun.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://tomccitalia.org
  [2]: https://www.agordinodolomiti.it/index.php/cosa-vedere/natura/lago-del-mis/

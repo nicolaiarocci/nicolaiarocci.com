@@ -30,7 +30,7 @@ social service.
 More [here](https://www.theverge.com/2022/10/28/23428132/elon-musk-twitter-acquisition-problems-speech-moderation).
 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci

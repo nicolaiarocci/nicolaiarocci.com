@@ -49,7 +49,7 @@ limit applies.
 
 For future reference, [here][2] are the current Kestrel limits.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://github.com/aspnet/Announcements/issues/267
  [2]: https://github.com/dotnet/aspnetcore/blob/main/src/Servers/Kestrel/Core/src/KestrelServerLimits.cs

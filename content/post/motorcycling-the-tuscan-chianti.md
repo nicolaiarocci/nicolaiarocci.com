@@ -15,7 +15,7 @@ astonishing amount of powder.
 *Eroica 2023* was the first in a series of events we'll run throughout the summer and fall. I'm looking forward to the
 next ones.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
  [1]: https://eroica.cc/en
  [2]: https:/tomccitalia.org

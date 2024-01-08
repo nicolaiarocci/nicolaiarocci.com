@@ -60,7 +60,7 @@ mentioning:
 > turns out to be the most familiar of all contemporary writers and, perhaps,
 > even of future writers, of all possible writers.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
  [^1]: One of my all-time favorites.
  [rss]: https://nicolaiarocci.com/index.xml

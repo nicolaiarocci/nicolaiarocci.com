@@ -40,7 +40,7 @@ latest version of Cerberus](https://github.com/pyeve/eve/issues/1278).
  Hopefully someone will join the ranks, maybe take the helm, and help bring it
  to the next level.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [^1]: I must admit, this failure hit me hard.
  [^2]: For some rationale behind the campaign, see [this post](http://nicolaiarocci.com/eve-and-cerberus-funding-campaign/) from 2017.

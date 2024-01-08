@@ -49,7 +49,7 @@ guest or can't find a proper venue.
 
 We're a local meetup, and "local" hardly conjugates with "online."
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://twitter.com/verlok
  [2]: https://www.meetup.com/it-IT/DevRomagna/

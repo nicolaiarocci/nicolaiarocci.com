@@ -23,7 +23,7 @@ the absence of it, even just meeting the Italian MVPs has been a rare
 occurrence. Hopefully, things will return to normal this year, although I'm
 doubtful.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci

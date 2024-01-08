@@ -56,7 +56,7 @@ Of thy great glories in the days of old' <br/>
 --Oscar Wilde*
 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: /book-review-king-and-emperor-a-new-life-of-charlemagne/
  [rss]: https://nicolaiarocci.com/index.xml

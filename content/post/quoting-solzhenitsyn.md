@@ -9,7 +9,7 @@ tags: ["quotes", "solzhenitsyn"]
 
 ![Sepia-toned photo of Aleksandr Solzhenitsyn in middle age, hairline receeded, bearded, in an open-collar shirt, a tired expression on his face.](/images/solzhenitsyn.jpg)
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola

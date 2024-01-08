@@ -30,7 +30,7 @@ of improvements.
 There are [a][4] [ton][5] [of][6] [new][7] [things][8] [coming][9] [up][10],
 too, of course.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://nicolaiarocci.com/will-.net-6-minimal-apis-turn-heads/
  [2]: https://devblogs.microsoft.com/dotnet/file-io-improvements-in-dotnet-6/

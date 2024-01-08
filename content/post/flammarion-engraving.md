@@ -31,7 +31,7 @@ The Flammarion engraving has inspired and has been used by many writers,
 artists, researchers, and jack-of-all-trades. The whole story is available at
 the Wikipedia page linked above.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
  [1]: https://ia.net/topics/the-end-of-writing-ia-on-ai
  [2]: https://en.wikipedia.org/wiki/Flammarion_engraving

@@ -40,7 +40,7 @@ I think Armin's post is worth reading. I share some of his concerns, although
 I don't consider 'users vetting,' as he suggests, a suitable alternative for
 authentication (vetting solves a different problem).
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://python-cerberus.org/
  [2]: https://lucumr.pocoo.org/2022/7/9/congratulations/

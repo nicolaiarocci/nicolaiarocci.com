@@ -34,7 +34,7 @@ scarecrow of software systems,  its most apparent consequence? I'm in no way an
 expert in human behaviour and its implications in software engineering. Still,
 my bet is on a hard yes on both questions.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://www.nature.com/articles/d41586-021-00592-0
  [rss]: https://nicolaiarocci.com/index.xml

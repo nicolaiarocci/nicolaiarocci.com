@@ -53,7 +53,7 @@ seems a bit clumsy. Someone suggested adopting `notnull` instead:
 I like this suggestion. I wouldn't want `notnull` on the left of the parameter
 name. To the right? Count me in.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://devblogs.microsoft.com/dotnet/early-peek-at-csharp-11-features/
  [2]: https://devblogs.microsoft.com/dotnet/early-peek-at-csharp-11-features/#c-11-preview-list-patterns

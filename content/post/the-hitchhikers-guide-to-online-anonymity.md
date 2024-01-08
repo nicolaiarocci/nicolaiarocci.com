@@ -22,7 +22,7 @@ a great job at panning out of all that. Armed with this kind of knowledge, we
 can then decide our threat level and act accordingly. The website is also
 chocked-full of links to valuable resources.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://anonymousplanet.org/index.html
  [rss]: https://nicolaiarocci.com/index.xml

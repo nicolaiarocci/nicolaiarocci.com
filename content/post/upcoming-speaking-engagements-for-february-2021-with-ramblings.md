@@ -51,7 +51,7 @@ Alright, enough with the rambling. Here's where I'm presenting next month:
 One significant advantage of virtual conferences is that anybody can take part
 no matter where she/he lives on the planet. So, maybe you will fancy join us?
 
-*Subscribe to the [newsletter][nl] or the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://codegen2021.azurewebsites.net/
  [2]: https://scottishsummit.com/

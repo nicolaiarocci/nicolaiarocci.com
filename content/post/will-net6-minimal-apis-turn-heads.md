@@ -68,7 +68,7 @@ a hard bet, but I sure hope so because C# and F# are great languages, and NET
 6 is modern, robust,  feature-rich, and powerful enough to go at war, and with
 no fear.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://flask.palletsprojects.com/en/2.0.x/quickstart/#a-minimal-application
  [^2]: You will still be able to scale up to (or start right away with) a fully-functional WebApi/MVC application, with all its classes and controllers.

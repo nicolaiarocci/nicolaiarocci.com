@@ -37,7 +37,7 @@ The brilliant comic that opens the article is the perfect TL;DR for the Watchmak
 
 ![This is why you shouldn't interrupt a programmer](/images/ProgrammerInterrupted.png)
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
  [1]: https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/
  [2]: http://en.citizendium.org/wiki/Parable_of_the_two_watchmakers

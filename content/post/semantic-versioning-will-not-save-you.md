@@ -40,7 +40,7 @@ there are no guarantees.
 Make sure you read the Taking Responsibility section. It has sound advice on
 protecting your project from dependency hell.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://hynek.me/articles/semver-will-not-save-you/
  [2]: https://python-eve.org

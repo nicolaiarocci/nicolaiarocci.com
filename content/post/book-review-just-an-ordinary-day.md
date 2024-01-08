@@ -29,7 +29,7 @@ must-read short-stories collection. Just an Ordinary Day is an excellent
 addition to any Jackson collection, with some of its tales deserving
 recognition at the top of her writing.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [^1]: Somewhat recently, I reviewed [We Have Always Lived in the Castle](/book-review-we-have-always-lived-in-the-castle/).
  [rss]: https://nicolaiarocci.com/index.xml

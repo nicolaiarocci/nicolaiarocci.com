@@ -13,7 +13,7 @@ Jim Nielsen:
 
 More [here][1].
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
  [1]: https://blog.jim-nielsen.com/2023/best-time-to-own-a-domain/
  [rss]: https://nicolaiarocci.com/index.xml

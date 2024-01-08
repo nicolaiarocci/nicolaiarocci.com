@@ -48,7 +48,7 @@ Overflow, where else):
 I should probably adopt the #tirl tag, as in "Today I Re-Learned."
 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://git.wiki.kernel.org/index.php/GitFaq#Can_I_add_empty_directories.3F
  [2]: https://stackoverflow.com/questions/115983/how-can-i-add-an-empty-directory-to-a-git-repository

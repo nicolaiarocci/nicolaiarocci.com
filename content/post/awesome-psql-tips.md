@@ -9,7 +9,7 @@ repository of `psql` (the CLI tool, not the database itself) tips. I like how
 one randomized tip is playfully served on the home page while the [complete
 list][2] is always at hand.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
  [1]: https://psql-tips.org
  [2]: https://psql-tips.org/psql_tips_all.html

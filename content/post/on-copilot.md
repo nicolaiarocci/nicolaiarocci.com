@@ -63,7 +63,7 @@ discussion around this topic:
 Copilot is great and feels like magic[^5]. And precisely for that reason, at my
 company, we're not going to adopt it.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://copilot.github.com/
  [^2]: For example, see Armin Ronacher's  on Copilot [regurgitating famous, GPL-license code](https://twitter.com/mitsuhiko/status/1410886329924194309). 

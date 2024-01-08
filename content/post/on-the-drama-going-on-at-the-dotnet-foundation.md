@@ -54,7 +54,7 @@ acts together and react immediately, at the risk of losing all of its credibilit
 earsly as next week.
 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
 [1]: https://fatturaelettronicaopensource.org/
 [2]: https://twitter.com/eric_sink/status/1445096990153613323

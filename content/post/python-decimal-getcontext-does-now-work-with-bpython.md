@@ -41,7 +41,7 @@ I suspect this has something to do with threads, as `decimal.getcontext` targets
 `DefaultContext` is global. I went to the bpython repository only to find that a ticket was already opened in 2021. I
 [added][2] my `DefaultContext` observation there.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
  [1]: https://bpython-interpreter.org
  [2]: https://github.com/bpython/bpython/issues/918#issuecomment-1578911204

@@ -8,7 +8,7 @@ tags: ["quotes"]
 
 -- [Jason Fried](https://twitter.com/jasonfried/status/1742701289316942131)
 
-*Subscribe to my [newsletter][nl] or the [RSS feed][rss]. Follow me on [Mastodon][m] or [X][x].*
+
 
 [nl]: https://buttondown.email/nicolaiarocci
 [rss]: https://nicolaiarocci.com/index.xml

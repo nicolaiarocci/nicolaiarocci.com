@@ -47,7 +47,7 @@ than the Grimms. One reason might be that until then (and up until now, I might
 add), Finnish folklore has always been hiding in the shadow of Kalevala's
 poetic poetry.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://nicolaiarocci.com/three-good-books-i-read-in-2021/
  [^2]: Short, informative essays enrich each one of Iperborea's Nordic Tales volumes. These are essential in framing the content within the correct background, outlining the links between Nordic cultures, and revealing the sources. Take the Kalevala. I have had it in my library since many years ago, but I didn't correlate it with Finnish folklore until I saw it mentioned in the essay.

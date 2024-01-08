@@ -11,7 +11,7 @@ performance and provide practical, high-impact, and easily applicable tips on im
 Info and signup [here][1].
 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
  [1]: https://www.meetup.com/it-IT/devromagna/events/291862771/
  [rss]: https://nicolaiarocci.com/index.xml

@@ -50,7 +50,7 @@ me as many happy hours as Chesterton."
 
 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://www.robinrendle.com/notes/fairy-tales/
  [2]: https://en.wikipedia.org/wiki/G._K._Chesterton#Literary

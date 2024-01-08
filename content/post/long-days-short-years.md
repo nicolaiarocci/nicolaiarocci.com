@@ -11,7 +11,7 @@ tags: ["links"]
 Above all, I liked the affection and serenity that shines, through all stages,
 between father and son. A depiction of the circle of life I gladly subscribe to.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola

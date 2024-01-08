@@ -49,7 +49,7 @@ a remarkable three-book series[^1]. Together, the stories of these two fearless
 authors draw a great picture of an age when the world was still enormous and
 divided into many diverse, often isolated cultures and societies.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [^1]: First one being *A Time of Gifts: On Foot to Constantinople: from the Hook of Holland to the Middle Danube*. Browse some of his books in my [reading list](/books-i-have-read).
  [rss]: https://nicolaiarocci.com/index.xml

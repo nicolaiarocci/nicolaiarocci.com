@@ -47,7 +47,7 @@ PS. I had all the hints—the brilliant guy from Switzerland who knows PyPy like
 the back of his hand. Someone wasn't so smart on that night.
 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
 {{<figure src="/images/fosdem2014_python_room.jpg" caption="*The Python room at FOSDEM 2014*" alt="The Python room at FOSDEM 2014">}}
 

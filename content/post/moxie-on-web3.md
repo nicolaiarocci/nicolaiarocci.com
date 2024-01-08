@@ -40,7 +40,7 @@ when the craze started. After a few experiments, I tagged it all as a nerds
 game and moved away. Moxie's article served me well in catching up on the whole
 scene. Can't say I'm thrilled by what I see.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://moxie.org/2022/01/07/web3-first-impressions.html
  [^2]: On Moxie himself, see the New Yorker article I featured [a while ago](https://nicolaiarocci.com/on-the-ceo-and-founder-of-signal/).

@@ -33,7 +33,7 @@ lucky, or smart enough, to keep living in his relatively secluded place in the
 mountains, from which he could observe the unstoppable transformation of our
 society from afar.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
  [^1]: I am afraid there's no English edition available. You could always read his WWII memoir and masterpiece, *The Sergeant in the Snow*.
  [rss]: https://nicolaiarocci.com/index.xml

@@ -37,7 +37,7 @@ dictionary to become part of the norm. We old farts should not be so quick to
 condemn our kids' slang: some of their jargon will soon be forgotten, some will
 join the canon. The same happened, of course, in our time and forever before.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci

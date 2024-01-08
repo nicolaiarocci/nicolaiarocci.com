@@ -28,7 +28,7 @@ tags: ["dfw", "quotes"]
 > --David Foster Wallace in "[This is Water](https://web.archive.org/web/20080213082423/http://www.marginalia.org/dfw_kenyon_commencement.html)" ([via](https://macwright.com/2022/03/29/recently.html))
 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci

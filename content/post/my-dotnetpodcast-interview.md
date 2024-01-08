@@ -18,7 +18,7 @@ data-width="100%" data-height="120px">Listen to "Python, Eve, open source
 e fattura elettronica. Con Nicola Iarocci" on Spreaker.</a><script async
 src="https://widget.spreaker.com/widgets.js"></script>
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://www.spreaker.com/show/dotnetpodcast
  [2]: https://twitter.com/mauroservienti

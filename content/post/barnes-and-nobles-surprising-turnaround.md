@@ -24,7 +24,7 @@ libraries, is that almost every time I need a particular title, it'll have to
 be back-ordered, which sadly makes Amazon unbeatable.
 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
  [1]: https://tedgioia.substack.com/p/what-can-we-learn-from-barnes-and
  [rss]: https://nicolaiarocci.com/index.xml

@@ -28,7 +28,7 @@ top 101 (not a typo) for 2022:
 
 - [My Top Songs of 2022](https://open.spotify.com/playlist/37i9dQZF1F0sijgNaJdgit?si=834dd8504bf3430b)
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://open.spotify.com/track/4v6soAl2R4sJB6Iyt2aiHw?si=5101c8519ddb4a2b
  [2]: https://open.spotify.com/track/3FoXWHV24HO9rpcwkYa9lF?si=773fe3def78c4423

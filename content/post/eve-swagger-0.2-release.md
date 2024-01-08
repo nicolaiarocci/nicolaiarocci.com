@@ -11,7 +11,7 @@ Romero][3] for his contributions to this release.
 
 ![Eve-Swagger 0.2](/images/eve-swagger-0.2.png)
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://pypi.org/project/Eve-Swagger/ 
  [2]: https://python-eve.org

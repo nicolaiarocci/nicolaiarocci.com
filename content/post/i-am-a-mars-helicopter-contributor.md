@@ -55,7 +55,7 @@ Achievements feature looks good on the surface. Still, it leans itself to be
 leveraged in many different, even subtle ways. Let's hope for the best.
 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [^2]: A quick `git shortlog -sne` on the flask repo confirms the rumors.
  [^3]: It seems gone now?

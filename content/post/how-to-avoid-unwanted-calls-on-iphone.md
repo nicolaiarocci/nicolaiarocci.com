@@ -25,7 +25,7 @@ only a little.
 The Silence Unknown Callers option has probably always been there, unbeknownst
 to me. It's a godsend. Now my iPhone doesn't even try to ring anymore.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci

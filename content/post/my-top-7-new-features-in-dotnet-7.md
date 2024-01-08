@@ -193,7 +193,7 @@ Minimal APIs are mostly targeted to newcomers, which is probably true[^16]. As
 someone coming from the Python REST ecosystem, I dig them a lot. They evolve
 rapidly and I'm sure we'll soon see them in action in complex, real scenarios.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://devblogs.microsoft.com/dotnet/performance_improvements_in_net_7
  [2]: https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-7/

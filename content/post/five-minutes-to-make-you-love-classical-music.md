@@ -41,7 +41,7 @@ Official NYT playlists for the series are available on Spotify and, I presume,
 other platforms. I know because I wasted a couple hours building my own before
 finding out.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://www.nytimes.com/2021/02/03/insider/five-minutes-love-classical-music.html
  [2]: https://www.nytimes.com/interactive/2020/arts/music/five-minutes-love-music.html

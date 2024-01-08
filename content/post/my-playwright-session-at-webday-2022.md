@@ -16,7 +16,7 @@ CFPs. If you happen to know one, please let me know.
 {{< youtube BaY9WIHUwFc >}}
 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
 
  [1]: https://www.ugidotnet.org/e/2840/Web-Day-2022

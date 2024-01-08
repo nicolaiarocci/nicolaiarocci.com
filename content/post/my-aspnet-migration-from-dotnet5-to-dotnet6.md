@@ -209,7 +209,7 @@ faster][10].) While the primary migration is done, there are a lot of changes
 and new features that are worth considering for our codebase, which is
 something we will be doing in the upcoming weeks.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://docs.microsoft.com/en-us/aspnet/core/migration/50-to-60
  [2]: https://docs.microsoft.com/en-us/dotnet/core/compatibility/serialization/6.0/jsonserializer-source-generator-overloads

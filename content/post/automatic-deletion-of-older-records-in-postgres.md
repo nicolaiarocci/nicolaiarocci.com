@@ -54,7 +54,7 @@ job with something similar to:
 Which ensures the script runs daily at 4 am. For a weekend task, I'm happy with
 the result.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://docs.mongodb.com/manual/core/capped-collections/
  [2]: https://www.postgresql.org/docs/current/sql-createtrigger.html

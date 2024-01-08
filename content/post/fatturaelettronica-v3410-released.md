@@ -9,7 +9,7 @@ tags: [open-source, dotnet, fattura-elettronica]
 validation and de/serialization of electronic invoices following the Italian Revenue Agency standards. This release
 adds a missing validation point. See the [changelog][1] for details (Italian).
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
 [1]: https://fatturaelettronicaopensource.org/docs/changelog.html#v-3410
 [2]: https://fatturaelettronicaopensource.org/docs

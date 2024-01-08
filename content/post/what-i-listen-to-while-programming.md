@@ -31,7 +31,7 @@ teleported here, right by my side. I can almost feel its warmth. Indeed,
 there's something cathartic about listening to these sound fragments from all
 over the world. 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [^6]: As I write this, news of the passing of Chick Corea hit me. Today his *Plays* album is on repeat.
  [5]: https://fieldrecordings.xyz/2021/01/12/inside-the-log-burner-devoran-cornwall-in-january-2021-by-chris-attaway/

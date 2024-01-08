@@ -17,7 +17,7 @@ I've been following Francesco Costa for a few years. He's talented,
 conscientious, brilliant, and gifted with good humor. He deserves to be
 featured in The New Yorker.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci

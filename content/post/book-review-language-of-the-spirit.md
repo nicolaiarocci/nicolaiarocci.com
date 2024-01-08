@@ -39,7 +39,7 @@ history. It allows the reader to collect a phenomenal list of composers and
 their works while, at the same time, delving into the momentous changes faced
 by (mainly European) society over the last few centuries.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci

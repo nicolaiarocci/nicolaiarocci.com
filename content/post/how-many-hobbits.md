@@ -15,7 +15,7 @@ tags: ["links", "middle-earth", "tolkien", "hobbits"]
 
 As a long time Tolkien fan, I truly enjoyed *[How Many Hobbits? A Demographic Analysis of Middle Earth](https://medium.com/@lymanstone/how-many-hobbits-a-demographic-analysis-of-middle-earth-cd53b91d141f)*.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola

@@ -10,7 +10,7 @@ while the changelog is available [here][2]—special thanks to [Pieter De Clercq
 
 ![Eve 2.1.0 on PyPI](/images/eve-2.1.0.png)
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
  [1]: https://pypi.org/project/Eve/2.1.0/
  [2]: https://docs.python-eve.org/en/stable/changelog.html#version-v2-1-0

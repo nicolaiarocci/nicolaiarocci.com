@@ -24,7 +24,7 @@ an experiment at this point.
 Blazor weakness so far has been more with the tooling than the features. Should
 Blazor United come with some solid tooling, it will be a huge hit.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola

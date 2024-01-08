@@ -54,7 +54,7 @@ Being the book junkie I am, I went out and bought the unabridged tome. I can't
 help it; I must possess the physical thing. The book is now happily resting in
 my library, and I can move on.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://www.raiplaysound.it/audiolibri/ilcontedimontecristo
  [2]: https://en.wikipedia.org/wiki/Bourbon_Restoration_in_France

@@ -20,7 +20,7 @@ And the new experimental UI? That's neat too.
 
 The full list of updates is available on their [What's New](https://www.jetbrains.com/rider/whatsnew/2022-3/) page.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci

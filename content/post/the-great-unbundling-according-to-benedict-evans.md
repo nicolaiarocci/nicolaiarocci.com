@@ -36,7 +36,7 @@ insights, with some foresight, into what might come next.
 
 Find the presentation at [ben-evans.com][1]
 
-*Subscribe to the [newsletter][nl] or the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://www.ben-evans.com/presentations
  [rss]: https://nicolaiarocci.com/index.xml

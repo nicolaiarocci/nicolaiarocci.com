@@ -15,7 +15,7 @@ I have often fallen into the over-focusing trap in my career. The whole thread i
 
 ([*via*](https://twitter.com/ID_AA_Carmack/status/1637087219591659520))
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola

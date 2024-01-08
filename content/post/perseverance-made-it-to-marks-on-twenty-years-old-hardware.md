@@ -48,7 +48,7 @@ planet. If it looks like aliens are descending on the surface, it's because,
 well, that is what happens. We are the aliens. NASA also released an absolutely
 mind-blowing [recording][8] of sounds from Mars's surface.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [^1]: As a non-native speaker, I was surprised (and delighted) to note that they refer to the drone as 'her'
  [^2]: [Perseverance](https://en.wikipedia.org/wiki/Perseverance_(rover)#Design)

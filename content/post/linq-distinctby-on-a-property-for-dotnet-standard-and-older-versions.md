@@ -38,7 +38,7 @@ don't need, but their base implementation is similar to mine (they use deferred 
 By the way, years after its open-sourcing, I still get thrills when I realize I can always look at, let alone contribute
 to, the .NET source code.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
 [1]: https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.distinctby?view=net-6.0
 [2]: https://stackoverflow.com/a/489421/323269

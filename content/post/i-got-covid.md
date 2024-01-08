@@ -19,7 +19,7 @@ France. As I write, I learn that my brother and his wife have tested positive.
 Hopefully, our elders will stay clear of it. I'm so thankful for all the
 science that makes this less terrible.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [^1]: I'll have to pass on [tonight's DevRomagna meetup](https://www.meetup.com/DevRomagna/events/285149575/), though, and I'm likely to skip next weekend's [planned motorcycle trip](https://tomccitalia.org/evento/monte-baldo-2022/)—minor annoyances given the circumstances, but it still sucks.
  [rss]: https://nicolaiarocci.com/index.xml

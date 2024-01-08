@@ -17,7 +17,7 @@ The playground is available [here][1]. Make sure you also read [Julia's
 introduction][2] to the tool. In there, she recounts why and, more importantly,
 how she built it.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://nginx-playground.wizardzines.com/
  [2]: https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/

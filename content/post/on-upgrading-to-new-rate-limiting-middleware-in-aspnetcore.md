@@ -184,7 +184,7 @@ Complete documentation for ASP.NET Core 7 rate-limiting middleware is available
 [here][4].
 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
  [1]: https://github.com/stefanprodan/AspNetCoreRateLimit
  [2]: https://devblogs.microsoft.com/dotnet/announcing-rate-limiting-for-dotnet/

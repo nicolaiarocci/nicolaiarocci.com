@@ -39,7 +39,7 @@ I had fun performing again in front of a real, live crowd. Perhaps the induced
 break, unexpected and undesirable for many reasons, did me good.
 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://www.wpc2022.it/
  [^2]: Having two-factor authentication up made it all less stressful.

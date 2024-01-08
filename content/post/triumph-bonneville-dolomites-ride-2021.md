@@ -31,7 +31,7 @@ that's now a secondary goal.
 
 {{< youtube s7SUZZ1dvd0 >}}
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: /musings-on-an-unexpected-motorcycle-trip/
  [^2]: The Triumph Owners MotorCycle Club ([italy](https://tomccitalia.org/); [international](https://tomcc.org))

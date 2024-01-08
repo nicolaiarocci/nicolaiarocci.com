@@ -29,7 +29,7 @@ Some remarkable quotes:
 > I myself shall certainly continue to leave such research to others, and to devote my time to developing concepts that
 > are authentic and trustworthy. And I hope you do the same.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
  [1]: https://cs.stanford.edu/~knuth/chatGPT20.txt
  [2]: https://news.ycombinator.com/item?id=36012360

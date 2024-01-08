@@ -10,7 +10,7 @@ on PyPI and includes a relevant security fix so you might want to update ASAP.
 - [Package info](https://pypi.org/project/Eve/2.0.4/) 
 - [Docs](https://docs.python-eve.org/en/stable/) 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci

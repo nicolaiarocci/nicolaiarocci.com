@@ -35,7 +35,7 @@ calls to action from all my 5K posts? With a variation of the above command, of
 course:
 
 ```bash
-find content/post/*.md -type f -exec sed -i .bak '/*Subscribe to.*$/,$d' {} +
+find content/post/*.md -type f -exec sed -i .bak '/
 ```
 
 It is the same logic as above, but we're replacing the matched string with a

@@ -36,7 +36,7 @@ OS Version: Version 13.3.1 (a) (Build 22E772610a)
 It supports Apple's Private Relay, offers some configuration options and allows setting up your own server. More info
 [here](https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/).
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
  [rss]: https://nicolaiarocci.com/index.xml
  [nl]: https://buttondown.email/nicolaiarocci

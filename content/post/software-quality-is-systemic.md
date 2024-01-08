@@ -23,7 +23,7 @@ But what does he mean by a *system designed for quality*? Read it all [here][1].
 
 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://jacobian.org/2022/sep/9/quality-is-systemic/
  [rss]: https://nicolaiarocci.com/index.xml

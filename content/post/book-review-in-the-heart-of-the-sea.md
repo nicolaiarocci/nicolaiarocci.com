@@ -57,7 +57,7 @@ Moby-Dick. Philbrick actually tries to reconstruct Melville's encounters with
 both Captain Pollard and First Mate Chase. I appreciate how the author always
 informs the reader when he's entering speculation territory.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: /book-review-erebus-the-story-of-a-ship/
  [rss]: https://nicolaiarocci.com/index.xml

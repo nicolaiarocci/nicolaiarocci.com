@@ -35,7 +35,7 @@ static content, some Javascript is probably going to be unavoidable. The point
 still stands, though: do not overdo it. Or, as Confucius would say, do not use
 a cannon to kill a mosquito.
 
-*Subscribe to the [newsletter][nl] or the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/
  [rss]: https://nicolaiarocci.com/index.xml

@@ -123,7 +123,7 @@ It overrides the `on_attach` event to pass an LSP-digestible list of semantic to
 
 I'm not done yet. I'm having another [weird issue][5] with *.editorconfig* files. I'm still triaging it, and will report back when (if) I sort it out.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
  [1]: https://www.lazyvim.org/
  [2]: https://github.com/neovim/neovim/issues/21391

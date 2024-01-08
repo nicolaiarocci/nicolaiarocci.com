@@ -38,7 +38,7 @@ pacified civilization and the idealistic United Federation of Planets are far aw
 Overall, I liked this book, probably a lot, but I don't think I will read the next installments in the series, at least
 not right away. Maybe in a while, when Mars dust has settled.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
 [1]: https://caseyhandmer.wordpress.com/
 [2]: https://caseyhandmer.wordpress.com/2022/12/13/mars-trilogy-technical-commentary/

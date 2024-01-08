@@ -33,7 +33,7 @@ about [The Origins of Python][2], an essay by his mentor, Lambert Meertens.
 It is a magnificent article. If you're passionate about Python, and programming
 languages in general, make sure to read it.[^3]
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://twitter.com/gvanrossum/status/1596268474518876160
  [2]: https://inference-review.com/article/the-origins-of-python

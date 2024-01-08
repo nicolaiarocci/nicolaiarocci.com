@@ -27,7 +27,7 @@ philosophies, and philosophers (Leibniz being his first target). An erratic,
 fantastical, picaresque novel with a fast-moving plot that enjoyed both great
 success and scandal at the time of its release.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola

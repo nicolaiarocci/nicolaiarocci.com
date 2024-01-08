@@ -48,7 +48,7 @@ Honorable mention goes to  *[About the Meaning of Life][5]*, *[King and
 Emperor: A New Life of Charlemagne][6]*, and *[Nomadland][7]*. See my [Books
 I Have Read][4] page for the list of books I read in 2021 and before.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: /book-review-we-have-always-lived-in-the-castle/
  [2]: /book-review-endurance-shackletons-incredible-voyage/

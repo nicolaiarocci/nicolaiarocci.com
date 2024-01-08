@@ -12,7 +12,7 @@ often the case, there are subtle differences between the theoretical implementat
 the actual validation implemented by the same Agency that released said specs. See the [relevant ticket][3] for the
 details.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
  [1]: https://www.nuget.org/packages/FatturaElettronica/3.4.7
  [2]: https://fatturaelettronicaopensource.org

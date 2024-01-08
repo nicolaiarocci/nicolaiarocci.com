@@ -21,7 +21,7 @@ understands when it's worth digging deeper. In other words:
 > about quickly being able to recognize when you don’t know something and learn
 > it. 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://jvns.ca/blog/learn-how-things-work/
  [rss]: https://nicolaiarocci.com/index.xml

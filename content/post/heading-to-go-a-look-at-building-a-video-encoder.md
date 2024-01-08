@@ -27,7 +27,7 @@ new expertise also proved invaluable in my C# & F# work.
 
 The session will be held in person, in Italian. So if you're interested, j[oin us][1]!
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
  [1]: https://www.meetup.com/it-IT/devromagna/events/291027334/
  [rss]: https://nicolaiarocci.com/index.xml

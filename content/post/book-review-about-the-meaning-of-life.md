@@ -45,7 +45,7 @@ a short text, but with dense content and lots of food for thought. It deserves
 more readings. Some of Mancuso's major works, like the Four Masters of Life
 mentioned above, are certainly recommended for a deeper investigation[^2].
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [^1]: The first episode, *Socrates*, is available [here](https://www.raiplaysound.it/audio/2020/11/quotChe-cosapos195168-un-maestro-I-quattro-cardini-della-spiritualit195160quot-con--Vito-Mancuso---1-puntata---Socrate-17ae3281-4536-4ee1-be21-248b347e8849.html) (Italian)
  [^3]: Further research reveals that his line of thought has received some [relevant criticism](https://it.wikipedia.org/wiki/Vito_Mancuso#Critiche), in the catholic circles especially.

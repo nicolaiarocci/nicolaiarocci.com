@@ -33,7 +33,7 @@ us that the text is, in fact, an adaptation of Seneca's letter to Lucilius on
 the subject of travel. Seneca's moral letters to Lucilius are just pure
 awesomeness.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://medium.com/personal-growth/travel-is-no-cure-for-the-mind-e449d3109d71
  [rss]: https://nicolaiarocci.com/index.xml

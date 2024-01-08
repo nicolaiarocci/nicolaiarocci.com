@@ -14,7 +14,7 @@ technically savvy.
 
 We need more content like this.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/
  [rss]: https://nicolaiarocci.com/index.xml

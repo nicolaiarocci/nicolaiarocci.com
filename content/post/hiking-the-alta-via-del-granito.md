@@ -209,7 +209,7 @@ I ran fast on the road; quite the contrary, given my tiredness. I learned that
 steady progress takes me home safely, pleasantly and often sooner than any
 other option.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [^1]: Unfortunately (or maybe not), the blasted device wouldn't turn on on Day Two, so I got no video there. I have mixed feelings about filming. On one side, it's great, as it captures the moment for future memory. Nothing beats videos for that. On the other side, it interferes with the experience breaking the flow. When hiking (or motorcycling, climbing, or running), I want to live the moment, stay connected, and enjoy the experience as it unfolds. Taking out the camera breaks that. I'm striking for balance, trying a few tricks to minimize interruptions, like mounting the GoPro directly on the hiking pole (which has its downsides, as I quickly learned on day one, damaging the lens' protective film.) 
 

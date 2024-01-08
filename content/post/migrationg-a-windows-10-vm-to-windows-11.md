@@ -62,7 +62,7 @@ Personally, I did not need to alter the registry, and I got *very* old VMs to
 upgrade. At the time of this writing, Windows 11 installation is at 94% and
 I am confident it will be successful.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://forum.parallels.com/threads/process-for-converting-from-legacy-to-uefi-in-prep-for-win-11.354888/
  [2]: https://nicolaiarocci.com/learn-in-public/

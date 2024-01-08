@@ -9,7 +9,7 @@ validation package for Python. This release officially supports Python 3.10 and 
 displays a new documentation theme which I dig, and I hope you'll do the same. As usual, see the [changelog][4] for
 details.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
 [1]: https://github.com/funkyfuture
 [2]: https://pypi.org/project/Cerberus/1.3.5/

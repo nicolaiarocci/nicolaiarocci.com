@@ -25,7 +25,7 @@ More [here][2], along with incredible footage.
 ![](/images/endurance.png)
 
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]:/book-review-endurance-shackletons-incredible-voyage/
  [2]: https://www.bbc.com/news/science-environment-60662541

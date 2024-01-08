@@ -53,7 +53,7 @@ point of view to consider.
 
 ![Entangled life](/images/entangled_life.jpg#center)
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://newpublic.org/article/1572/the-word-for-web-is-fores://newpublic.org/article/1572/the-word-for-web-is-forest 
  [^2]: The just-recently published magazine hosting the article, [New_Public](https://newpublic.org/), appears as a promising source of future content.

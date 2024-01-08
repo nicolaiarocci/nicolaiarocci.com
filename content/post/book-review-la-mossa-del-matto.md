@@ -19,7 +19,7 @@ manages to keep it all together.
 Before getting into this book, I knew very little about Bobby Fischer. He's known as the American genius who beat the
 unbeatable Russians at chess, but there's much more to him than that, and this book does a great job at telling.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
  [rss]: https://nicolaiarocci.com/index.xml
  [m]: https://fosstodon.org/@nicola

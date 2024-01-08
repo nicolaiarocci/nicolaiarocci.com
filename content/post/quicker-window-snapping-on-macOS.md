@@ -21,7 +21,7 @@ windows becomes a no-brainer. In a way, the experience reminds me of Vim and
 its unique muscle-memory superpower. The ten days trial ended today, and
 I purchased the license right away.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://hookshot.app/
  [2]: https://www.robinrendle.com/notes/hookshot

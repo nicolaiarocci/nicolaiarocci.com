@@ -37,7 +37,7 @@ present ever[^2].
 
 ![System Shock Box](/images/system-shock-box.JPG#center)
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://www.filfre.net/2021/03/system-shock/
  [^2]: The original price tag is still there.  In 1994, the damn thing cost a whopping 139.900 Italian Lire (€72). Pirating was wild in those days, and I won't negate that most of my mojo came from dark channels back then, but when a worthy game appeared, I was ready to pay homage to the authors.

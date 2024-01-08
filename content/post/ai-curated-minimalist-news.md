@@ -15,7 +15,7 @@ tags: ["links", "llm", "AI"]
 The concept is brilliant and well executed, but I can't help but feel uncomfortable at the notion of an AI curating news
 for me. Yet, this is the best use case for LLM/AI I've seen until now.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
  [1]: https://www.newsminimalist.com
  [rss]: https://nicolaiarocci.com/index.xml

@@ -21,7 +21,7 @@ pupate and make Nabokov one of the greatest.
 With this work, Nabokov tells us that no matter the pomp and nostalgia, one
 must leave the past behind and let the present life flow.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci

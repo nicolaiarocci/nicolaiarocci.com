@@ -20,7 +20,7 @@ to be endowed with the most diverse capabilities.
 
 Anyway, [here's the antirez & Redis story][1] I mentioned. Worth reading it.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
 
  [1]: https://blog.brachiosoft.com/redis-en
  [rss]: https://nicolaiarocci.com/index.xml

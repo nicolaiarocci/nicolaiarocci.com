@@ -18,7 +18,7 @@ it rarely gets more definitive than that. And authoritative, I might add, given
 both the role he covered at Oracle and his overall [track record][5]. The whole
 short post is worth reading[^4].
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://blog.sesse.net/blog/tech/2021-12-05-16-41_leaving_mysql
  [^2]: Emphasis is mine.

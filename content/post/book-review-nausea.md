@@ -43,7 +43,7 @@ Sartre's debut novel, and he always considered it his best fictional work.
 Nausea, by Jean-Paul Sartre, is a challenging but rewarding read. I think
 Sartre goes straight amongst the masters at describing the human condition.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci

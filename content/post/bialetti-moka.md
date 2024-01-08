@@ -27,7 +27,7 @@ downs), and design relevance. Of all this stuff, I was only marginally aware.
 > and maligned, with approval in the modern coffee world coming perhaps a bit
 > too late, in only the past few years. Get one while you can.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://www.atlasobscura.com/articles/make-coffee-moka-pot
  [rss]: https://nicolaiarocci.com/index.xml

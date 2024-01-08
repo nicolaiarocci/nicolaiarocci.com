@@ -27,7 +27,7 @@ busy, or otherwise unaware people - we've all been there.) I appreciate their
 stressing that MFA is essential while raising awareness of the potential
 pitfalls.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [rss]: https://nicolaiarocci.com/index.xml
  [tw]: http://twitter.com/nicolaiarocci

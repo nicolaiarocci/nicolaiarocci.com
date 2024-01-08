@@ -38,7 +38,7 @@ trip.
 ![](/images/foreste-casentinesi-tomcc-2.jpg)
 ![](/images/foreste-casentinesi-tomcc-1.jpg)
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://it.wikipedia.org/wiki/Parco_nazionale_delle_Foreste_Casentinesi%2C_Monte_Falterona_e_Campigna
  [2]: https://tomccitalia.org

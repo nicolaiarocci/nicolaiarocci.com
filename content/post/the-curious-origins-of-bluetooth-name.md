@@ -35,7 +35,7 @@ technology[^4].
 I'm a sucker for stories like this in which technology pays proper tribute to
 our past, without which it wouldn't exist in the first place.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [^4]: Source: [Bluetooth history, Wikipedia](https://en.wikipedia.org/wiki/Bluetooth#History)
  [^2]: Source: [Harald Bluetooth, Wikipedia](https://en.wikipedia.org/wiki/Harald_Bluetooth#Bluetooth_technology).

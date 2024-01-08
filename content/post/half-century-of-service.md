@@ -128,7 +128,7 @@ profession. I can't wait to see how our kids pursue their path in life. We will
 be accompanying them from a distance and when necessary. The world is their
 oyster.
 
-*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
 
  [1]: https://www.gyford.com/phil/writing/2021/03/18/half-century-notes/
  [2]: https://adactio.com/journal/17974
