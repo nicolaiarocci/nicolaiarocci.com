@@ -23,3 +23,9 @@ Kottke [reports][1] this juicy excerpt from Jonny Greenwood's interview at npr:
 
 Full interview is available [here](https://www.npr.org/2022/02/07/1078802881/radiohead-jonny-greenwood-the-power-of-the-dog).
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://kottke.org/22/02/jonny-greenwood-pretended-to-play-the-keyboard-when-he-first-joined-radiohead
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -33,3 +33,10 @@ He is not your average startup co-founder, not by any mean. He kind stands at
 the interconnection between activism, ethical hacking, and anarchy, and yet
 he's the CEO of a booming startup.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://www.newyorker.com/magazine/2020/10/26/taking-back-our-privacy
+ [^2]: See [The Activists Who Embrace Nuclear Power](/the-activists-who-embrace-nuclear-power/)
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

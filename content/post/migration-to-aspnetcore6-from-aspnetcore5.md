@@ -25,3 +25,12 @@ They are all ASP.NET 5, currently in beta, but before release we're likely to
 upgrade them to NET6. NET6 is LTS, NET5 isn't, and offers significant
 advantages, remarkable [performance gains][2] included.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [^1]: [Will .NET 6 Mininal APIs turn heads?](https://nicolaiarocci.com/will-.net-6-minimal-apis-turn-heads/) collects my thoughts on the subject.
+ [2]: https://nicolaiarocci.com/performance-improvements-in-.net6/
+ [3]: https://gist.github.com/davidfowl/0e0372c3c1d895c3ce195ba983b1e03d
+ [^4]: The Core tag was dropped in NET5, and it was a good move. The reason why the insist on using it with ASP.NET eludes me.
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

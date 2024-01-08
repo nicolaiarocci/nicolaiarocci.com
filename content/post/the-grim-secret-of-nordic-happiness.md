@@ -40,3 +40,9 @@ really appreciate what living in the North entails. As a Mediterranean guy,
 I imagine I might soon feel the long for warmer climates and still, the dream
 of moving North persists.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://slate.com/news-and-politics/2021/04/finland-happiness-lagom-hygge.html
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

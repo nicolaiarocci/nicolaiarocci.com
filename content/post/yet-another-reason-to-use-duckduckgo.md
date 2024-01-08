@@ -26,3 +26,13 @@ sure isn't the most prominent one, but it is handy to have around. It is also of
 some comfort to see that I'm obviously not the only one forgetting tmux
 commands.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+ [1]: https://duckduckgo.com/?t=ffab&q=tmux+cheat+sheet&atb=v224-1&ia=cheatsheet
+ [2]: https://duckduckgo.com/?q=new+guid&t=ffab&atb=v224-1&ia=answer
+ [3]: https://duckduckgo.com/?q=qrcode+for+https%3A%2F%2Fnicolaiarocci.com&t=ffab&atb=v224-1&ia=answer
+ [4]: https://duckduckgo.com/spread
+ [5]: https://github.com/tmux/tmux
+ [6]: https://duck.co/ia/dev
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

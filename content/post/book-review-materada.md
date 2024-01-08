@@ -34,3 +34,8 @@ have been a cathartic effort. Initially, I had a hard time connecting with the
 story. That happened, I think, *precisely* because of my ignorance about
 surrounding historical events. Materada was a great, painful, worthwhile read.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

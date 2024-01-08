@@ -39,3 +39,9 @@ decide if you want to invest in the book.
 
 {{< youtube CjVQJdIrDJ0 >}}
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://3quarksdaily.com/3quarksdaily/2022/03/daniel-kahneman-thinking-fast-and-slow.html
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

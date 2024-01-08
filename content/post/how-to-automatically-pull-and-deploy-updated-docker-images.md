@@ -59,3 +59,11 @@ ways around this problem. If you happen to know one, please let me know about
 it (keep in mind, we don't use alternative orchestrators, just the built-in
 'swarm' thing.)
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://containrrr.dev/watchtower/
+ [2]: https://github.com/containrrr/watchtower/issues/1113
+ [3]: https://stackoverflow.com/a/51628017/323269
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

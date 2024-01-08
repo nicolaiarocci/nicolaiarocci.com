@@ -33,3 +33,10 @@ style resembles a man rather than a woman.
 
 Intriguing and, now that I have been enlightened, shareable.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://www.newyorker.com/magazine/2005/02/14/becoming-the-emperor
+ [2]: https://nicolaiarocci.com/book-review-memoirs-of-hadrian/
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

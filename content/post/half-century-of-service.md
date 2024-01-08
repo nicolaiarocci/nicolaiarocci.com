@@ -128,3 +128,14 @@ profession. I can't wait to see how our kids pursue their path in life. We will
 be accompanying them from a distance and when necessary. The world is their
 oyster.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://www.gyford.com/phil/writing/2021/03/18/half-century-notes/
+ [2]: https://adactio.com/journal/17974
+ [^3]: I wrote a little about my time as a BBS Sysop, see [here](https://nicolaiarocci.com/a-trip-down-memory-lane-fidonet-and-usenet/).
+ [^4]: In 2021 I gave a talk about our switch to the online market. Both [slides](https://speakerdeck.com/nicola/online) and [video](https://www.youtube.com/watch?v=Al2VAa3jdm4) are available (Italian).
+ [^5]: A Triumph Bonneville T120. I also ended up founding and running the Italian branch of the [Triumph Owners Motorcycle Club](https://tomccitalia.org).
+ [^6]: See my [Open Source](/opensource/) page. Also, I have a presentation titled [My Story With Open Source](https://speakerdeck.com/nicola/my-story-with-python-and-open-source). I presented it at [several conferences](/speaking/).
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

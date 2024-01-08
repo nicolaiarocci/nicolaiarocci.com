@@ -47,3 +47,14 @@ PS. I had all the hints—the brilliant guy from Switzerland who knows PyPy like
 the back of his hand. Someone wasn't so smart on that night.
 
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+{{<figure src="/images/fosdem2014_python_room.jpg" caption="*The Python room at FOSDEM 2014*" alt="The Python room at FOSDEM 2014">}}
+
+{{<figure src="/images/fosdem2014.jpg" caption="*With Alessandro at FOSDEM 2014*" alt="With Alessandrio at FOSDEM 2014">}}
+
+ [2]: https://www.amazon.com/Alessandro-Molina/e/B07F8CTSHW?ref_=dbs_p_ebk_r00_abau_000000
+ [1]: /upcoming-speaking-engagements-with-ramblings/
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

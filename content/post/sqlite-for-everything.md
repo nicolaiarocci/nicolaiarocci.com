@@ -14,3 +14,9 @@ engine for embedded systems. But it should also be the go-to database for all
 those websites and services that don't need to scale to multiple machines.
 Which, in the real world, happens way more frequently than we all imagine.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

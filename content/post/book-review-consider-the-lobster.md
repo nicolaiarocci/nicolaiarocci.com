@@ -34,3 +34,9 @@ If you have never read DFW, my advice would be to start with his non-fiction,
 which is way more accessible than his fiction (with the notable exception of
 The Brook of the System, which was my first adored DFW reading.)
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://www.goodreads.com/review/show/14143044
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

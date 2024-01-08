@@ -23,3 +23,10 @@ applications of blockchain technology as seen from a historian's perspective.
 
 More [here][2].
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://acoup.blog/
+ [2]: https://acoup.blog/2022/02/04/fireside-friday-february-4-2022/
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

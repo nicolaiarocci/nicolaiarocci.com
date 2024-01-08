@@ -17,3 +17,8 @@ system style" is not too far off from what will emerge soon. The final segment o
 On his website, Karpathy also has a promising [zero-to-hero video series](https://karpathy.ai/zero-to-hero.html), "a
 course on building neural networks from scratch, in code."
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
+ [rss]: https://nicolaiarocci.com/index.xml
+ [m]: https://fosstodon.org/@nicola
+ [nl]: https://buttondown.email/nicolaiarocci

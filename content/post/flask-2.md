@@ -19,3 +19,9 @@ Flask is, of course, the giant on which shoulders the whole [Eve][1] project res
 To say that the Pallets team has been working hard at the forge is an
 understatement—huge congrats to all of them. 
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://python-eve.org
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

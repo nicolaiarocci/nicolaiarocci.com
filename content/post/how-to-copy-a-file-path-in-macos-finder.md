@@ -16,3 +16,9 @@ pathname" feature.
 I spotted this trick on [Jamie Smith's website][1], where other handy shortcuts
 (and the pretty gif above) reside.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://www.jamieonkeys.dev/posts/keyboard-shortcuts/
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

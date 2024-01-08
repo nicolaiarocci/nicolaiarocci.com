@@ -58,3 +58,14 @@ After so many years, I am thankful to Maher for bringing these two games back
 to memory. Now, I am impatiently waiting for his Ultima Online installment.
 I know it *must* be on his list, right?
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [^1]: In my library, I keep the original Pagan box as a relic, along with Ultima VII Serpent Island and a few other titles from around that age:  Spectrum Holobyte's Falcon 3.0, Command and Conquer, Dune II Battle for Arrakis, Ultima Online: Charter Edition, and a few others.
+ [^2]: By the way, if you haven't already, I strongly advise you to read *Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture* by David Kushner.
+ [3]: https://www.filfre.net/2021/02/ultima-viii-or-how-to-destroy-a-gaming-franchise-in-one-easy-step/
+ [4]: https://www.filfre.net/2021/03/system-shock/
+ [5]: https://www.filfre.net/
+
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

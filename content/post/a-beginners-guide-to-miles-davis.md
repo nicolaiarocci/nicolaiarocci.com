@@ -25,3 +25,9 @@ overwhelming for you, my shortcut advice would be: listen to Kind of Blue,
 especially the first two tracks, So What and Freddie Freeloader. If they don't
 move you, I am sorry, you're probably not a jazz person.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://samenright.com/2021/06/06/a-beginners-guide-to-miles-davis/
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

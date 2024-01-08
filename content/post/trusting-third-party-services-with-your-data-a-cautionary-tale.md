@@ -38,3 +38,14 @@ primary goal. I feel much better now that I own my content. The switch from
 social media content production to [POSSE][4] was beneficial and is something
 I advise everyone to do.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [^1]: Other compelling reasons are not being okay with platforms profiling me or profiting from my content.
+ [^5]: Besides, I wish more and more people would fall back to RSS for their content consumption. That's how I discover and collect content. Weblogs, YouTube channels, news and science sites, programming resources, and even top Twitter profiles all get digested by my RSS reader.
+ [2]: https://macwright.com/reading/
+ [3]: https://www.somebits.com/weblog/tech/bad/goodreads-lost-all-my-data.html
+ [4]: https://indieweb.org/POSSE
+ [6]: /a-trip-down-memory-lane-fidonet-and-usenet/
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

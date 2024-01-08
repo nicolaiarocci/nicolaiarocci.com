@@ -29,3 +29,13 @@ Spoiler alert, I'm quoting below his excellent closing thoughts.
 *Update*: MarkDoc even received [John Gruber's endorsement][5]. That's quite an
 achievement as Gruber is renowned for dismissing most Markdown extensions.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+[1]: https://stripe.com/docs
+[2]: https://markdoc.io/
+[3]: https://passo.uno/about
+[4]: https://passo.uno/markdoc-review/
+[5]: https://daringfireball.net/linked/2022/05/19/markdoc
+[rss]: https://nicolaiarocci.com/index.xml
+[tw]: http://twitter.com/nicolaiarocci
+[nl]: https://buttondown.email/nicolaiarocci

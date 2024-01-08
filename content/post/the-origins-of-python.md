@@ -33,3 +33,11 @@ about [The Origins of Python][2], an essay by his mentor, Lambert Meertens.
 It is a magnificent article. If you're passionate about Python, and programming
 languages in general, make sure to read it.[^3]
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://twitter.com/gvanrossum/status/1596268474518876160
+ [2]: https://inference-review.com/article/the-origins-of-python
+ [^3]: In the same vein, another outstanding reading would be [The Early History of F#](https://dl.acm.org/doi/pdf/10.1145/3386325).
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

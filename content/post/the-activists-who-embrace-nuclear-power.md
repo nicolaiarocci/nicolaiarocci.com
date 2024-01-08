@@ -22,3 +22,10 @@ mention Bill Gates' [Mini-Reactors][2] approach to the problem. It might have
 been a deliberate choice, as at some point, she does note that "scientists are
 working on smaller, more nimble nuclear reactors."
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://www.newyorker.com/tech/annals-of-technology/the-activists-who-embrace-nuclear-power
+ [2]: https://www.forbes.com/sites/scottcarpenter/2020/08/31/bill-gates-nuclear-firm-says-new-reactor-can-backstop-grid-with-molten-salt-storage/
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

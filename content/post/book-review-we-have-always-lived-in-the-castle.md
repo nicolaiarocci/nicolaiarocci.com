@@ -59,3 +59,8 @@ motivated by good intentions are only fulfilling their own ego or striving to
 behave with good manners, as society expects them to do. We cannot help but
 feel at least a drop of compassion and sympathy for the devil. 
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -25,3 +25,8 @@ Land and Sea is an essay written in 1942 by a then-eminent and internationally a
 the german nazi party in 1933. Historical events in the text are inevitably narrated from an opinionated (and sometimes
 distorted) point of view. This bizarre work left me unconvinced. I don't regret reading it, though.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
+ [rss]: https://nicolaiarocci.com/index.xml
+ [m]: https://fosstodon.org/@nicola
+ [nl]: https://buttondown.email/nicolaiarocci

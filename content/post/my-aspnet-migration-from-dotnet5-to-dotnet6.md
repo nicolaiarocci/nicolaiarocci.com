@@ -209,3 +209,19 @@ faster][10].) While the primary migration is done, there are a lot of changes
 and new features that are worth considering for our codebase, which is
 something we will be doing in the upcoming weeks.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://docs.microsoft.com/en-us/aspnet/core/migration/50-to-60
+ [2]: https://docs.microsoft.com/en-us/dotnet/core/compatibility/serialization/6.0/jsonserializer-source-generator-overloads
+ [3]: https://docs.microsoft.com/en-us/dotnet/fundamentals/syslib-diagnostics/syslib0023
+ [4]: https://github.com/dotnet/EntityFramework.Docs/pull/3305/files
+ [5]: https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-6.0/breaking-changes#high-impact-changes
+ [6]: https://github.com/efcore/EFCore.NamingConventions/issues/108
+ [7]: https://www.npgsql.org/efcore/release-notes/6.0.html#major-changes-to-timestamp-mapping
+ [8]: https://www.npgsql.org/efcore/release-notes/6.0.html#migrating-columns-from-timestamp-to-timestamptz
+ [9]: https://devblogs.microsoft.com/dotnet/announcing-net-6
+ [10]: https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-6.0/whatsnew#improved-performance-on-techempower-fortunes
+ [^11]: My initial ramblings on Minimal APIs are available [here](/will-.net-6-minimal-apis-turn-heads/).
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

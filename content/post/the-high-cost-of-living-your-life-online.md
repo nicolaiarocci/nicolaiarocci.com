@@ -12,3 +12,8 @@ tags: ["links", "social-media"]
 
 More [here](https://www.wired.com/story/privacy-psychology-social-media/).
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -48,3 +48,9 @@ question of all times.
 > about that waiting desk is that you must turn up—and get there before the
 > blank sheet that is you turns dog-eared.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://lithub.com/ian-mcewan-on-bach-philip-roth-and-living-an-episodic-life/
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

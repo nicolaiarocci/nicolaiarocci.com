@@ -52,3 +52,9 @@ solution for those who abandon ship. The last thing we need is yet another
 "official" package by the behemoth. If anything, we need more variance,
 certainly not less.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [4]: https://aaronstannard.com/dotnetoss-free-lunch-ends/
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

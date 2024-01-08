@@ -26,3 +26,11 @@ reader.).
 
 I might re-read the novel. I'm curious about my opinion as a senior reader.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://sabukaru.online/articles/how-neuromancer-birthed-cyberpunk
+ [^2]: At the time, I didn't know that *Neuromancer* was Gibson's first novel.
+ [^3]: Not surprisingly, I'm having a hard time following the *Ulysses* too.
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

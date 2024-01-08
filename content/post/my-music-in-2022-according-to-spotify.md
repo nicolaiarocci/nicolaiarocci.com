@@ -28,3 +28,13 @@ top 101 (not a typo) for 2022:
 
 - [My Top Songs of 2022](https://open.spotify.com/playlist/37i9dQZF1F0sijgNaJdgit?si=834dd8504bf3430b)
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://open.spotify.com/track/4v6soAl2R4sJB6Iyt2aiHw?si=5101c8519ddb4a2b
+ [2]: https://open.spotify.com/track/3FoXWHV24HO9rpcwkYa9lF?si=773fe3def78c4423
+ [3]: https://open.spotify.com/track/4HWC8Ymr2TlkTo97ttMiIq?si=10862b9eee7b496c
+ [4]: https://open.spotify.com/track/3Uxjvj6TXr742JOFa7qYn6?si=074fa76aa8c64b8b
+ [5]: https://open.spotify.com/track/2LRiyKKJf2RTuFx31DEU6E?si=57c827fd08b2499b
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

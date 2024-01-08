@@ -59,3 +59,9 @@ now. *Author: Domenico Starnone*.
 I found it overly dull and did not finish it. Strange, because it sounds like a book I'd love. Maybe I'll try again in a
 few years. *Author: Richard Powers.*
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
+[1]: https://www.goodreads.com/review/show/4840111965
+ [rss]: https://nicolaiarocci.com/index.xml
+ [m]: https://fosstodon.org/@nicola
+ [nl]: https://buttondown.email/nicolaiarocci

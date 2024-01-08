@@ -15,3 +15,8 @@ reclaiming disk space is a significant pain. I would expect `optimize-vhd` to
 achieve the goal with WSL2, but it's nice to know there are alternatives, like
 Stephen's above
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

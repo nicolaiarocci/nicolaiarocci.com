@@ -43,3 +43,9 @@ were no smartphones, and you only happened to know about an event when and if
 you were lucky enough to be in the right place at the right time, to have
 a chance to come across one of these street flyers.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [^1]: I am sure my friend [Emmaboshi](https://emmaboshi.net/) would love this special item. Some research suggests that the author, Matteo Sola, might be from Bologna, the same place where Emma practices his art, so maybe he knows about this book, or perhaps personally knows the author.
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -12,3 +12,10 @@ renouncing to an opening salvo of his good-ole, grumpy style.
 
 As John Gruber [affirms][2], this is one rant we can all get behind.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://lore.kernel.org/ksummit/CAHk-=wiB6FJknDC5PMfpkg4gZrbSuC3d391VyReM4Wb0+JYXXA@mail.gmail.com/
+ [2]: https://daringfireball.net/linked/2021/06/10/linus-torvalds
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

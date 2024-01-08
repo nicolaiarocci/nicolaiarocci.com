@@ -24,3 +24,9 @@ now as I write this. I keep telling myself it's impossible. And yet, I have
 photos on my cellphone. In the heat of the moment, I somehow managed to snap
 a couple. My family confirms the wolves. It was not a dream. 
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [^1]: In hindsight, I think that having been sitting there motionless and not producing any sound for a long time did the trick. By pure luck, I also happened to be downwind to them.
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

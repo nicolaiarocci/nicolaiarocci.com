@@ -19,3 +19,8 @@ States space program and how even modern science is still hostage to imperialist
 
 More [here](https://nautil.us/the-race-to-colonize-mars-perpetuates-a-dangerous-religion-298323/).
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
+ [rss]: https://nicolaiarocci.com/index.xml
+ [m]: https://fosstodon.org/@nicola
+ [nl]: https://buttondown.email/nicolaiarocci

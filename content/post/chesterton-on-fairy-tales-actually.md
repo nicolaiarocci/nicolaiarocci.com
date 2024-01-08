@@ -50,3 +50,14 @@ me as many happy hours as Chesterton."
 
 
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://www.robinrendle.com/notes/fairy-tales/
+ [2]: https://en.wikipedia.org/wiki/G._K._Chesterton#Literary
+ [3]: https://alleysiande.com/random-thoughts/gk-chesterton-an-actual-quote
+ [^4]: Along with many others on the Internet, E.M. Goldsmith attributes the simplified quote to the popular TV show *Criminal Minds*. It'd be interesting to find who quoted who here.
+ [^5]: G.K. Chesterton's [page](https://it.wikipedia.org/wiki/Gilbert_Keith_Chesterton#Posterit%C3%A0_e_influenza_culturale) on the Italian edition of Wikipedia; suspiciously flagged with a citation-needed note.
+ [^6]: Further digging unearthed *The Red Angel* [original text](http://www.online-literature.com/chesterton/tremendous-trifles/17/).
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

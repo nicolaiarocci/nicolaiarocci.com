@@ -12,3 +12,8 @@ tags: ["quotes", "llm", "ai"]
 
 -- [Andrej Karpathy](https://twitter.com/karpathy/status/1733299213503787018)
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
+ [rss]: https://nicolaiarocci.com/index.xml
+ [m]: https://fosstodon.org/@nicola
+ [nl]: https://buttondown.email/nicolaiarocci

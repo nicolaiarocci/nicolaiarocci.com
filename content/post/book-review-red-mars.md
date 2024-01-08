@@ -38,3 +38,13 @@ pacified civilization and the idealistic United Federation of Planets are far aw
 Overall, I liked this book, probably a lot, but I don't think I will read the next installments in the series, at least
 not right away. Maybe in a while, when Mars dust has settled.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
+[1]: https://caseyhandmer.wordpress.com/
+[2]: https://caseyhandmer.wordpress.com/2022/12/13/mars-trilogy-technical-commentary/
+[3]: https://en.wikipedia.org/wiki/Mars_trilogy
+[^4]: *Red Mars* was first published in 1992. That's something to be considered when evaluating it. Also, some details tenderly show its age, like when characters look at 'videotapes' recorded by remote satellites and surface cameras.
+[^5]: *Disclaimer*: I never read *The Expanse*; I only watched and loved the TV show. So yeah, I don't qualify for an informed opinion on that franchise, let alone compare it with another one.
+[rss]: https://nicolaiarocci.com/index.xml
+[m]: https://fosstodon.org/@nicola
+[nl]: https://buttondown.email/nicolaiarocci

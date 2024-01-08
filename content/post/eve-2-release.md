@@ -17,3 +17,10 @@ of features, and it is now in 'maintenance mode'.
 
 ![Eve 2.0](/images/eve2.png)
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://docs.python-eve.org/en/stable/changelog.html#version-v2-0
+ [2]: /is-eve-still-maintained/
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

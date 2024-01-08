@@ -74,3 +74,16 @@ the time being, I'm connecting to spotifyd from the official iPhone app. I get
 the lightweight service with the added benefit that I don't have to switch
 windows when I want to interact with Spotify.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://github.com/Rigellute/spotify-tui/issues/1000
+ [2]:https://twitter.com/flaper87/status/1564899493572710400
+ [3]: https://twitter.com/flaper87
+ [4]: https://github.com/Spotifyd/spotifyd/issues/1026
+ [5]: https://github.com/Spotifyd/spotifyd
+ [6]: https://github.com/Rigellute/spotify-tui
+ [^10]: mid-2012. Yes, I know. It's due for replacement later this year, when the M2 MacBook Pro 14" is announced.
+ [^11]: Spotifyd requires a Spotify Premium account.
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

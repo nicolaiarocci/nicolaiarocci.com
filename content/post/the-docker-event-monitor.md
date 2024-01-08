@@ -24,3 +24,10 @@ stack.
 I find [DEM][1] a useful little tool for lightweight, simple deployments where
 you're not employing heavy weaponry, like k8s.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://bitbucket.org/quaideman/dem
+ [2]: https://bitbucket.org/quaideman/dem/src/master/app/main.py
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -41,3 +41,11 @@ I wish I had this resource at hand when I was writing the docs for [my open
 source projects][2]. I think will adopt this framework on the next occasion,
 which will be very soon.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow
+@[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://documentation.divio.com/
+ [2]: /opensource/
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

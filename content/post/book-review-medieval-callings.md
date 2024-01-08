@@ -21,3 +21,8 @@ feudal Europe. The work shows signs of age, having passed more than 30 years sin
 newer, modern studies that improve on these texts, but it still serves as a fundamental resource for uneducated readers
 such as myself.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
+ [rss]: https://nicolaiarocci.com/index.xml
+ [m]: https://fosstodon.org/@nicola
+ [nl]: https://buttondown.email/nicolaiarocci

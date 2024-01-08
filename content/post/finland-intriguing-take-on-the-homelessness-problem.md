@@ -16,3 +16,9 @@ Francisco. Whenever I think back to my short time in San Francisco, I shudder
 at the terrifying homelessness situation I met there. There, in San Francisco,
 I realized the magnitude of "true liberalism"'s failure.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://scoop.me/housing-first-finland-homelessness/
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

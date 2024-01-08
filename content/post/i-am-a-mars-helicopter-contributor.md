@@ -55,3 +55,12 @@ Achievements feature looks good on the surface. Still, it leans itself to be
 leveraged in many different, even subtle ways. Let's hope for the best.
 
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [^2]: A quick `git shortlog -sne` on the flask repo confirms the rumors.
+ [^3]: It seems gone now?
+ [4]: https://github.com/pyeve/
+ [1]: https://github.blog/2021-04-19-open-source-goes-to-mars/
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

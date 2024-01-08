@@ -21,3 +21,11 @@ the library behind me, along with [other jewels][3] from the distant past.
 
 Reading the *Making of Dune II* took me down memory lane (*[via][2]*).
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://readonlymemory.vg/the-making-of-dune-ii/
+ [2]: https://news.ycombinator.com/item?id=33869118
+ [3]: /system-shock-is-back-home/
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

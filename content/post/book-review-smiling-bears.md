@@ -20,3 +20,8 @@ insights into the complexity and richness of bears behavior and emotional life.
 Individual bear stories are often touching, as is the relationship they develop
 with their care keeper.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

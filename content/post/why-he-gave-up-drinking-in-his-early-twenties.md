@@ -16,3 +16,8 @@ tags: ["links", "drinking"]
 
 More [here](https://oscargws.substack.com/p/why-i-gave-up-drinking-in-my-twenties).
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or [follow me on Mastodon][m]*
+
+ [rss]: https://nicolaiarocci.com/index.xml
+ [m]: https://fosstodon.org/@nicola
+ [nl]: https://buttondown.email/nicolaiarocci

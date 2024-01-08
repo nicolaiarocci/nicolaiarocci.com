@@ -22,3 +22,10 @@ It's long-form, yes, but well worth it. Oh, and while you're at it, you might
 as well read [Starship is Still Not Understood][2], Casey's previous article on the
 topic.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://caseyhandmer.wordpress.com/2021/11/17/science-upside-for-starship/
+ [2]: https://caseyhandmer.wordpress.com/2021/10/28/starship-is-still-not-understood/
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

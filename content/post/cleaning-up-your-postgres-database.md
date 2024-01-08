@@ -22,3 +22,9 @@ cache and index hit queries, for example.
 
 I will be trying them real soon. Like, today.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: http://blog.crunchydata.com/blog/cleaning-up-your-postgres-database
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

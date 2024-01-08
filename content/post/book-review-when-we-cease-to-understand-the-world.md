@@ -53,3 +53,10 @@ between Heisenberg and Schrödinger, and in their biographies especially[^2].
 
 A book worth reading.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://www.jstor.org/stable/10.5749/j.ctt1j7x9vm.10#metadata_info_tab_contents
+ [^2]: In 2020, I read a non-fictionalized account of Heisenberg's and Schrödinger's struggles with quantum in Carlo Rovelli's excellent *Helgoland*.
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

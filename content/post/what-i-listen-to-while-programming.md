@@ -31,3 +31,14 @@ teleported here, right by my side. I can almost feel its warmth. Indeed,
 there's something cathartic about listening to these sound fragments from all
 over the world. 
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [^6]: As I write this, news of the passing of Chick Corea hit me. Today his *Plays* album is on repeat.
+ [5]: https://fieldrecordings.xyz/2021/01/12/inside-the-log-burner-devoran-cornwall-in-january-2021-by-chris-attaway/
+ [4]: https://fieldrecordings.xyz/2020/12/14/the-sound-of-2020/
+ [3]: https://fieldrecordings.xyz/
+ [2]: https://open.spotify.com/playlist/1itC2kKqIqun8OU05J5G8v?si=iYtyuKAfT4ejArv1aaT4FQ
+ [1]: http://www.musicforprogramming.net/
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

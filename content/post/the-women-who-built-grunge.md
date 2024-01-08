@@ -13,3 +13,9 @@ Whittington-Hill][1], for her *The Women Who Built Grunge* on Longreads:
 
 More [here](https://longreads.com/2022/06/29/the-women-who-built-grunge/).
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://twitter.com/nerdygirly
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

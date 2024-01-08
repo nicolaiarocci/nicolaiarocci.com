@@ -68,3 +68,17 @@ a hard bet, but I sure hope so because C# and F# are great languages, and NET
 6 is modern, robust,  feature-rich, and powerful enough to go at war, and with
 no fear.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://flask.palletsprojects.com/en/2.0.x/quickstart/#a-minimal-application
+ [^2]: You will still be able to scale up to (or start right away with) a fully-functional WebApi/MVC application, with all its classes and controllers.
+ [3]: https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-4/#introducing-minimal-apis
+ [^4]: Mind you. The dev team isn't just adding a layer of abstraction on top of the existing code. Quoting fellow MVP [Dave Brock](https://www.telerik.com/blogs/low-ceremony-high-value-tour-minimal-apis-dotnet-6) "With minimal APIs, the goal is to move out core API-building capabilities—the ones that only exist in MVC today—and allow them to be used outside of MVC. When extracting these components away to a new paradigm, you can rely on middleware-like performance."
+ [^5]: Long story short, besides lazily maintaining my Python open source [projects](/opensource), I am mostly back to C# these days.
+ [^6]: Sure, all benchmarks should be taken with a grain of salt, but [check this out](https://www.techempower.com/benchmarks/#section=data-r20&hw=ph&test=plaintext). ASPCORE ranks at #2; Flask and Node #338 and #173 respectively. And NET 6 is expected to still improve on performance.
+ [^7]: For examples of real-life-scenarios, see Damian Edwards' [Minimal APIs playground](https://github.com/DamianEdwards/MinimalApiPlayground/blob/main/src/MinimalApiPlayground/Program.cs).
+ [^8]: Cool. As I am writing this, NET 6 Preview 6 is released, which adds [OpenAPI (Swagger UI) support](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-6/#configure-swagger-ui-with-minimal-apis) to Minimal APIs.
+
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

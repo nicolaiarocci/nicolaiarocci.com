@@ -63,3 +63,13 @@ discussion around this topic:
 Copilot is great and feels like magic[^5]. And precisely for that reason, at my
 company, we're not going to adopt it.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://copilot.github.com/
+ [^2]: For example, see Armin Ronacher's  on Copilot [regurgitating famous, GPL-license code](https://twitter.com/mitsuhiko/status/1410886329924194309). 
+ [3]: https://www.fast.ai/2021/07/19/copilot/
+ [4]: https://ericsink.com/entries/depth.html
+ [^5]: Any sufficiently advanced technology is indistinguishable from magic *--Arthur C. Clark*
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

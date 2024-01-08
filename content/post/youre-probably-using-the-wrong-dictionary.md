@@ -40,3 +40,12 @@ DictConv did the trick. Webster's 1913 is now happily residing in my macOS
 Dictionary.
 
 ![Webster's 1913](/images/webster1913.png)
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [^1]: Unfortunately, I failed miserably. The *DictUnifier* app I downloaded from the website crashes as soon as I drag the dictionary archive upon it.
+ [2]: https://github.com/jjgod/mac-dictionary-kit/pull/4#issuecomment-583801724
+ [3]: https://github.com/ritou11/dictconv
+ [4]: https://s3.amazonaws.com/jsomers/dictionary.zip
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

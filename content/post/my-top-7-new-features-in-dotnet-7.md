@@ -193,3 +193,26 @@ Minimal APIs are mostly targeted to newcomers, which is probably true[^16]. As
 someone coming from the Python REST ecosystem, I dig them a lot. They evolve
 rapidly and I'm sure we'll soon see them in action in complex, real scenarios.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [1]: https://devblogs.microsoft.com/dotnet/performance_improvements_in_net_7
+ [2]: https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-7/
+ [3]: https://devblogs.microsoft.com/dotnet/dotnet-7-performance-improvements-in-dotnet-maui/
+ [4]: https://dusted.codes/how-fast-is-really-aspnet-core
+ [5]: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-11.0/raw-string-literal
+ [6]: https://devblogs.microsoft.com/dotnet/announcing-builtin-container-support-for-the-dotnet-sdk/
+ [7]: https://learn.microsoft.com/en-us/dotnet/core/deploying/native-aot/
+ [8]: https://github.com/stefanprodan/AspNetCoreRateLimit/issues/382
+ [9]: https://devblogs.microsoft.com/dotnet/announcing-rate-limiting-for-dotnet/
+ [10]: https://learn.microsoft.com/en-us/aspnet/core/performance/caching/output?view=aspnetcore-7.0
+ [11]: https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis?view=aspnetcore-7.0#route-groups
+ [12]: https://www.meetup.com/it-IT/devromagna/events/289709131/
+ [13]: https://www.meetup.com/it-IT/devromagna/
+ [14]: https://twitter.com/imperugo
+ [15]: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/required
+ [^16]: Back when Minimal APIs were about to debut, I wrote *[Will .NET 6 Minimal APIs turn heads?](https://nicolaiarocci.com/will-.net-6-minimal-apis-turn-heads?)*, with some musings on their effectiveness and target audience.
+ [^17]: To Caesar what is Caesar's, short on time, I recycled both the idea and the materials from James Montemagno's [excellent video](https://www.youtube.com/watch?v=0BvCzZ9P7UY) on the same the topic.
+
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci

@@ -29,3 +29,8 @@ Overall, this is an excellent biography, and I would recommend it to an
 informed reader. The scholarly attention to sources might deter the casual
 reader, but the motivated ones will take profit from the effort.
 
+*Subscribe to the [newsletter][nl], the [RSS feed][rss], or follow @[nicolaiarocci][tw] on Twitter*
+
+ [rss]: https://nicolaiarocci.com/index.xml
+ [tw]: http://twitter.com/nicolaiarocci
+ [nl]: https://buttondown.email/nicolaiarocci
