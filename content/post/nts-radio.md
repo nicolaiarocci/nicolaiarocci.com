@@ -1,7 +1,7 @@
 ---
 date: 2024-01-13T10:53:40+01:00
 title: NTS Radio
-tags: ["radio", "music"]
+tags: ["links", "radio", "music"]
 ---
 > NTS Radio is a family of like-minded and passionate individuals, dedicated to
 supporting exciting music and culture through online radio and events. NTS
