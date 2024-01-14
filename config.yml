@@ -152,6 +152,9 @@ menu:
     - name: archive
       url: /archives/
       weight: 60
+    - name: tags
+      url: /tags/
+      weight: 65
     - name: search
       url: /search/
       weight: 70
