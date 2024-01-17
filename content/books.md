@@ -12,6 +12,10 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 My book reviews are available [here](/tags/reviews/).
 
+### 2024
+
+* The Palestinian question, Edward W. Said ★★★★☆
+
 ### 2023
 
 [Books I read in 2023: wrap-up and reviews](/books-i-read-in-2023/)
