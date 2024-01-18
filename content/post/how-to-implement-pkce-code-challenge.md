@@ -2,7 +2,7 @@
 date: 2024-01-17T18:28:14+01:00
 title: How to implement a PKCE code challenge in C#
 slug: how-to-implement-pkce-code-challenge-in-csharp
-tags: ["pkce", "dotnet", "csharp", "programming"]
+tags: ["til", "pkce", "dotnet", "csharp", "programming"]
 ---
 Today's fun was implementing OAuth2's [RFC
 7636](http://tools.ietf.org/html/rfc7636)'s PKCE (Proof Key for Code Exchange)
