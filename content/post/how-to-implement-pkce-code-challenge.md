@@ -18,7 +18,7 @@ even web apps that use client authentication
 
 In a nutshell:
 
-1. The client requests a single-use authorization code to an authentication server. In doing that, it includes a `code_challenge` with the request. 
+1. The client requests a single-use authorization code to an authorization server. In doing that, it includes a `code_challenge` with the request. 
 2. The server responds with the authorization code if the client is recognized and authorized. 
 3. The client requests an access token in exchange for the authorization code. It includes the `code_verifier` used to generate the original `code_challenge`; 
 4. The server confirms that the verifier is the same one used to generate the code challenge; hence, the client is the same.
