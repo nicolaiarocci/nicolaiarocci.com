@@ -10,7 +10,7 @@ permalinks:
 
 enableRobotsTXT: true
 buildDrafts: false
-buildFuture: true
+buildFuture: false
 buildExpired: false
 copyright: Produced / Written / Maintained by [Nicola Iarocci](/) since 2010
 

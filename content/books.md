@@ -14,7 +14,8 @@ My book reviews are available [here](/tags/reviews/).
 
 ### 2024
 
-* The Palestinian question, Edward W. Said ★★★★☆
+* The garden of the Finzi-Contini, Giorgio Bassani ★★★★☆
+* The question of Palestine, Edward W. Said ★★★☆☆
 
 ### 2023
 
