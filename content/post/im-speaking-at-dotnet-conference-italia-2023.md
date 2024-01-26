@@ -16,6 +16,7 @@ As the adage goes, for learning a subject, nothing beats explaining it in front 
 
 If you will attend the conference (you should!), remember to meet me and say hi!
 
+*Update:* the session is now [available online](/video-of-my-csharp-12-session-at-dotnet-conference-italia-2023/).
 
 
 [1]: https://dotnetconference.it/e/3281/dotNET-Conference-Italia-2023
