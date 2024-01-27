@@ -1,6 +1,6 @@
 ---
 date: 2024-01-26T15:39:31+01:00
-title: Video of my C#12 session at .NET Conference Italia 2023
+title: Video of my C# 12 session at .NET Conference Italia 2023
 slug: video-of-my-csharp-12-session-at-dotnet-conference-italia-2023
 tags: ["dotnet", "csharp", "speaking"]
 cover:
