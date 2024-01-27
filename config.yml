@@ -99,7 +99,7 @@ params:
       url: "https://twitter.com/nicolaiarocci"
     - name: mastodon
       url: "https://fosstodon.org/@nicola"
-    - name: email
+    - name: buttondown
       url: "https://buttondown.email/nicolaiarocci"
     - name: rss
       url: "https://nicolaiarocci.com/index.xml"
