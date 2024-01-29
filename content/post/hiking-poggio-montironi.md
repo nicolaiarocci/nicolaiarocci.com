@@ -2,7 +2,7 @@
 date: 2023-12-15T07:05:25+01:00
 title: "The wilderness of Poggio Montironi"
 share: false
-tags: ["hiking", "apennines mountains"]
+tags: ["hiking", "apennines"]
 cover:
     image: images/hiking-poggio-montironi.jpg
     caption: First glimpse of the view that will open up later, once we reach the summit of Poggio Montironi.
