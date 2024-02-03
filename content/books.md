@@ -14,6 +14,7 @@ My book reviews are available [here](/tags/reviews/).
 
 ### 2024
 
+* Meditations, Marcus Aurelius ★★★★☆
 * The garden of the Finzi-Contini, Giorgio Bassani ★★★★☆
 * The question of Palestine, Edward W. Said ★★★☆☆
 
