@@ -88,9 +88,9 @@ params:
   homeInfoParams:
     Title: Nicola Iarocci
     Content: >
-      I’m a coder-at-heart author of several [open-source projects](/opensource/), a [Microsoft MVP](https://mvp.microsoft.com/en-US/mvp/profile/a6892d61-aea0-e511-8114-c4346bac0abc), a [speaker](/speaking/), and sometimes a teacher. 
+      Welcome to my website. I’m a coder-at-heart author of several [open-source projects](/opensource/), a [Microsoft MVP](https://mvp.microsoft.com/en-US/mvp/profile/a6892d61-aea0-e511-8114-c4346bac0abc), a [speaker](/speaking/), and sometimes a teacher. 
       I co-founded CIR 2000, where I proudly lead the development of [Amica 20](https://gestionaleamica.com/), a hybrid (cloud and on-premise) accounting app for Italian small businesses. 
-      I like [reading good books](/books-i-have-read/), walking, running, hiking, working out, and riding my Triumph Bonneville.
+      I like [reading good books](/books-i-have-read/), hiking, working out, and riding my Triumph Bonneville.
 
   socialIcons:
     - name: github
