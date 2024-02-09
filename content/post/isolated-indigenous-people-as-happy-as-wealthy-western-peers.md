@@ -3,8 +3,6 @@ date: 2024-02-09T09:30:34+01:00
 title: Isolated indigenous people as happy as wealthy western peers
 tags: ["links", "happiness"]
 ---
-Interviews with people in remote communities challenge widely held perception
-that money buys happiness.
 
 > People living in remote Indigenous communities are as happy as those in
 wealthy developed countries despite having “very little money”, according to new

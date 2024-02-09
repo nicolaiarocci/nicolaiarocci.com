@@ -38,3 +38,19 @@ Marcus Aurelius, one of the Five Good Emperors of Rome, kept a journal to collec
 - live in accordance wit nature
 
 These and others were reflections and aims meant for the author, not lectures for an audience. That these thoughts came from the most powerful man in the world makes it all the more impressive. Two thousand years have passed, and humanity still struggles with the same essential topics and unanswered questions.
+
+### Lolita, by Vladimir Nabokov
+
+*(Lolita, audiolibro)*
+
+★★★★★
+
+I read many of Nabokov's works but avoided reading Lolita for a long time despite its universal acclaim as his masterpiece. I was not ready to confront its obscenity. In hindsight, I cowardly feared that my admiration for the writer would be affected. However, now that I have read the book, I know it is both shocking and disturbing, yet sublime. While reading, I couldn't help but appreciate the author's audacity in publishing a text like this in 1955. It was then pointed out to me that it was easier to publish works on the topic of pedophilia during that time as compared to today[^1].
+
+Quoting Nabokov in his afterword to the Italian edition (Adelphi):
+
+> Lolita does not carry any morals with it. For me, a work of fiction exists only if it provides me with what I will frankly call aesthetic voluptuousness, that is, the sense of being in touch, somehow, somewhere, with other states of being where art (curiosity, tenderness, goodness, ecstasy) is the norm. The others are topical garbage or what some call the Literature of Ideas, which very often consists of circumstantial shenanigans that are lovingly passed on from era to era in large chalk blocks until someone gives Balzac, Gorky, Mann a good hammering.
+
+I am glad to report that my admiration for the author is intact. Shoutout to Ennio Fantastichini for his exceptional audiobook reading (Ad Alta Voce, Radio Tre.)
+
+[^1]: *Lolita* was first published in France (1955), as the text was initially not accepted by any publisher in the States.
