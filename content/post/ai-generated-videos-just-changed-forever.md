@@ -3,7 +3,7 @@ date: 2024-02-16T18:16:15+01:00
 title: AI generated videos just changed forever
 tags: ["links", "youtube", "llm", "ai"]
 ---
-Yesterday's OpenAI launch of Sora is, as if always the case with OpenAI, mind-boggling. Marquees Browniee's comment is spot-on, so much so as he's obviously involved in the video-making scene.
+Yesterday's OpenAI launch of Sora is, as is always the case with OpenAI, mind-boggling. Marquees Browniee's comment is spot-on, so much so as he's obviously involved in the video-making scene.
 
 {{< youtube NXpdyAWLDas >}}
 
