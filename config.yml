@@ -143,7 +143,7 @@ menu:
     - name: library
       url: /books-i-have-read/
       weight: 30
-    - name: newsletter
+    - name: mailing list
       url: https://buttondown.email/nicolaiarocci
       weight: 40
     - name: rss
