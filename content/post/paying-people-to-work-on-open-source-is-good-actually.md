@@ -4,7 +4,7 @@ title: Paying people to work on open source is good actually
 tags: ["links", "open-source"]
 ---
 From my experience as a maintainer of midly successful open-source projects, I
-have come to the conclusion that people who criticize accepting payment for work
+have come to the conclusion that people who criticize accepting payment to work
 on such projects are either acting in bad faith or are incredibly naive. 
 
 Anyway, Jacob Kaplan-Moss's recent *Paying people to work on open source is
