@@ -1,7 +1,7 @@
 ---
 date: 2024-01-29T09:44:15+01:00
 title: Rio Petroso
-tags: ["hiking", "appennines"]
+tags: ["hiking", "apennine mountains"]
 cover:
     image: images/rio-petroso.jpg
     caption: "the Verghereto marls, along the ridge of Rio Petroso"

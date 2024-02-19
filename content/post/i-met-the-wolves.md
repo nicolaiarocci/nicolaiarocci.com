@@ -2,7 +2,7 @@
 date: 2021-10-20T07:05:25+01:00
 title: "I met with the wolves"
 share: false
-tags: ["wolwes", "wilderness", "appennines"]
+tags: ["wolwes", "wilderness", "apennine mountains"]
 ---
 I sit under a wild apple tree at the edge of the clearing. Like a plant,
 I absorb the mild October sun. At the same time, I attentively listen to the
