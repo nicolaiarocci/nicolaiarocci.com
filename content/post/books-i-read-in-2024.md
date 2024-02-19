@@ -54,3 +54,11 @@ Quoting Nabokov in his afterword to the Italian edition (Adelphi):
 I am glad to report that my admiration for the author is intact. Shoutout to Ennio Fantastichini for his exceptional audiobook reading (Ad Alta Voce, Radio Tre.)
 
 [^1]: *Lolita* was first published in France (1955), as the text was initially not accepted by any publisher in the States.
+
+### Family Lexigon, by Natalia Ginzburg
+
+*(Lessico Famigliare, Einaudi)*
+
+★★★★☆
+
+The key to this novel is outlined already in its title. It is familiar because it tells the story of a Jewish and antifascist family, the Levi family, in Turin between the 1930s and 1950s. And Lexicon because the paths of memory pass through the recollection of phrases, idioms, and slang expressions that only existed within the family. The Levi's were not just an ordinary family. During those years, characters who were already or would become influential for the time passed by their house: politicians, industrialists, and intellectuals are all told from the point of view of a kid (later a girl, then a woman) who observes them from an unusual and unprejudiced angle. The years of Jewish persecution, confinement, and the postwar period are recounted without drama; the Great Story is lived daily and flows around them; they're impacted in significant ways, yet the focus stays on the family, its members and the many characters that revolve around it. The outstanding characters are the mother and the father; Natalia, the author, stays on the fringe, rarely seen or mentioned, if not by the last part of the book.

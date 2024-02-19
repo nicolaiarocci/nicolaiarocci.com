@@ -14,6 +14,7 @@ My book reviews are available [here](/tags/reviews/).
 
 ### 2024
 
+* Family Lexicon (Lessico Famigliare), Natalia Ginzburg ★★★★☆
 * Lolita, Vladimir Nabokov ★★★★★
 * Meditations, Marcus Aurelius ★★★★☆
 * The garden of the Finzi-Contini, Giorgio Bassani ★★★★☆
