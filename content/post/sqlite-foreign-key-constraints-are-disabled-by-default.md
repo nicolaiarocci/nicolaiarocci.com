@@ -18,4 +18,4 @@ so must be enabled separately for each database connection.
 The quick fix was to add `"foreign keys=true;"` to our connection string.
 Alternatively, the application can also use a `PRAGMA foreign keys = ON;`
 statement to activate them once the connection is established, but it doesn't
-make sense, as we need constraints active throughout the connection's life.
+make sense, as we need constraints active throughout the connection's lifecycle.
