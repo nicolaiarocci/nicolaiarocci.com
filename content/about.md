@@ -25,7 +25,7 @@ far can possibly find out how far one can go (T.S. Eliot)"*
 
 Stay updated by subscribing to this website’s [RSS feed](/index.xml) or joining
 *[Ramblings of a Software Craftsman](https://buttondown.email/nicolaiarocci)*,
-my mailing list. 
+my newsletter. 
 
 Find me on [Mastodon](https://fosstodon.org/@nicola), [Twitter/X](https://x.com/nicolaiarocci), [GitHub](https://github.com/nicolaiarocci), [LinkedIn](http://www.linkedin.com/in/nicolaiarocci), or get in touch via [email](mailto:nicola@nicolaiarocci.com).
 
