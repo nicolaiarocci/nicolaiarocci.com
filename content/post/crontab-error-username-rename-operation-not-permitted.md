@@ -17,7 +17,7 @@ Puzzled, I checked whether my user permissions were all right, if the disk was
 full, and several other things. Long story short, the fix was this one:
 
 ```bash
-chattr -i /var/spool/cron/crontabs/<user>
+sudo chattr -i /var/spool/cron/crontabs/<user>
 sudo chown <user>:crontab /var/spool/cron/crontabs/<user>
 ```
 
