@@ -62,3 +62,19 @@ I am glad to report that my admiration for the author is intact. Shoutout to Enn
 ★★★★☆
 
 The key to this novel is outlined already in its title. It is familiar because it tells the story of a Jewish and antifascist family, the Levi family, in Turin between the 1930s and 1950s. And Lexicon because the paths of memory pass through the recollection of phrases, idioms, and slang expressions that only existed within the family. The Levi's were not just an ordinary family. During those years, characters who were already or would become influential for the time passed by their house: politicians, industrialists, and intellectuals are all told from the point of view of a kid (later a girl, then a woman) who observes them from an unusual and unprejudiced angle. The years of Jewish persecution, confinement, and the postwar period are recounted without drama; the Great Story is lived daily and flows around them; they're impacted in significant ways, yet the focus stays on the family, its members and the many characters that revolve around it. The outstanding characters are the mother and the father; Natalia, the author, stays on the fringe, rarely seen or mentioned, if not by the last part of the book.
+
+### Under the Volcano, by Malcom Lowry
+
+*(Sotto il Vulcano, Einaudi)*
+
+★★☆☆☆
+
+I gave up on this one. I wanted to like this one. I attempted it a couple of times last year, and then I tried with an audiobook, which was more engaging. However, in the end, I abandoned it again. Again, I'm sorry because the writing is good, and the author is remarkable in their art. Nothing happens throughout the 400+ pages of this book. The plot could be summarized as primarily drunk people wandering around a small Mexican town at the foot of two volcanoes, spending much of their time brooding over an old love triangle that was never entirely forgotten.
+
+### Women's Resistance, by Benedetta Tobagi
+
+*(La Resistenza delle Donne, Einaudi)*
+
+★★★☆☆
+
+This book is exciting and well-written. It tells the story of the Italian Resistance from the point of view of women who participated actively in it and with an often decisive role but never really saw their merits appreciated, much less their participation recognized. The Italian Resistance was a pivotal and dramatic period of World War II, and women who chose to participate had to show even more courage and attitude than their male comrades, as in those times, women were expected to serve as mothers, wives, and housekeepers at home. War was a male affair; women leaving for the mountains to join packs of male rebels tended to be ill-reputed, and when captured, they risked far more than their male counterparts. At times, it tends a bit toward rhetoric, which is entirely excusable in this case, but even when it happens, the author quickly picks up the thread.

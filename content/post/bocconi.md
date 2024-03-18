@@ -42,9 +42,9 @@ recharged and rested when I got up.
 
 {{< figure src=/images/bocconi2.jpg caption="A warm day for mid-March, and breezy with partly cloudy skies." >}}
 
-At the start, be careful not to take the trail in reverse (as I did): after
-crossing the beautiful humpback bridge known as the Brusia, do not take the
-trail directly in front of you, but turn sharply left, walk about 30 meters
+At the start, be careful not to take the trail in reverse (as I initially did):
+after crossing the beautiful humpback bridge known as the Brusia, do not take
+the trail directly in front of you, but turn sharply left, walk about 30 meters
 above the Montone river, then take the trail to the right, marked "Valbura".
 
 GPX track and some photos [here](https://www.outdooractive.com/en/route/hiking-route/province-of-forli-cesena/da-bocconi-verso-i-monti-gemelli/284291423/).

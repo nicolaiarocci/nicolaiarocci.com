@@ -14,6 +14,8 @@ My book reviews are available [here](/tags/reviews/).
 
 ### 2024
 
+* La resistenza delle donne, Benedetta Tobagi ★★★☆☆
+* Under the Volcano, Malcolm Lowry ★☆☆☆☆
 * Family Lexicon (Lessico Famigliare), Natalia Ginzburg ★★★★☆
 * Lolita, Vladimir Nabokov ★★★★★
 * Meditations, Marcus Aurelius ★★★★☆
