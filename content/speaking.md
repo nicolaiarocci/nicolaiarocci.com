@@ -9,6 +9,11 @@ cover:
 I speak at conferences and meetups. Here is a list of my most recent
 engagements. Want me to talk at your event? [Get in touch][1]!
 
+### 2024
+
+- WebDay 2024, Milan: [Oauth2 e Open ID Connect con ASP.NET Core 8](https://www.webdayconf.it/e/3328/Web-Day-2024)
+- .NET Rome Conference 2024: [Oauth2 e Open ID Connect con ASP.NET Core 8](https://www.dotnetconf.it/agenda)
+
 ### 2023
 
 - .NET Conference Italia 2023, Milan: [C# 12 What's new and interesting](https://www.dotnetconference.it/e/sessione/3295/C-12-Cosa-c-e-di-nuovo-e-interessante)
