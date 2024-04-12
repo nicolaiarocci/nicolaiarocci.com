@@ -14,6 +14,7 @@ My book reviews are available [here](/tags/reviews/).
 
 ### 2024
 
+* Replay, Jordan Mechner ★★★★☆
 * The Horde: how the Mongols changed the world, Marie Favereau ★★★★☆
 * La resistenza delle donne, Benedetta Tobagi ★★★☆☆
 * Under the Volcano, Malcolm Lowry ★☆☆☆☆
