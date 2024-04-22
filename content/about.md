@@ -29,6 +29,10 @@ my newsletter.
 
 Find me on [Mastodon](https://fosstodon.org/@nicola), [Twitter/X](https://x.com/nicolaiarocci), [GitHub](https://github.com/nicolaiarocci), [LinkedIn](http://www.linkedin.com/in/nicolaiarocci), or get in touch via [email](mailto:nicola@nicolaiarocci.com).
 
+## No guest posts
+
+This is my personal website. I will not accept any “guest posts” here, not for compensation and not for any “good cause”. You can stop asking.
+
  [1]: http://nicolaiarocci.com/opensource/
  [2]: https://mvp.microsoft.com/en-US/mvp/profile/a6892d61-aea0-e511-8114-c4346bac0abc
  [4]: /speaking/
