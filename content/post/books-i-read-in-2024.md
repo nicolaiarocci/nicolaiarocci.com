@@ -2,6 +2,7 @@
 date: 2024-12-31T17:36:24+01:00
 title: Books I read in 2024
 tags: ["books", "reviews"]
+showToc: true
 draft: false
 ---
 (intro)
@@ -96,3 +97,11 @@ This book interested me because it offered a historically researched and accurat
 > A graphic memoir by Prince of Persia creator Jordan Mechner, recounting his own family story of war, exile and new beginnings.
 
 It's the first comic book I've read in a long while, and I'm glad I did. I [pre-ordered](/replay-by-jordan-mechner/) a signed first edition from the USA that I received by post. The book is a work of craftsmanship. The story was a challenge for the author, I'm sure. Many characters from three (if not four) generations are juxtaposed and interwoven continuously; the risk of getting lost is real, but Mechner manages to keep control, also thanks to the comic form that he masters and lends itself to the purpose, for example, through the use of different color palettes depending on the era being narrated. Remarkably, this narrative would not have been possible without the diaristic fever that gripped at least three generations of this Jewish family that was uprooted and then dispersed across two continents by the dramatic events that followed the advent of Nazism in Europe.
+
+### Sixty Degrees North, by Malachy Tallack
+
+★★★☆☆
+
+*Iperborea, I Corvi*
+
+Sixty Degrees North is a travel book written in the 2000s based on the author's visits to each of the eight nations along this northern parallel. I didn't expect that so much of it would be about the impact on the author of his father's death when he was a teenager, his search to resolve his feelings about this, and his search to find somewhere to live that felt like home. These unexpected parts gravitate the book more toward the memoir genre, but the travel parts are still prevalent, well-researched, and recounted, some more interesting than others. This book touches on many things, often only superficially, which is a pity.

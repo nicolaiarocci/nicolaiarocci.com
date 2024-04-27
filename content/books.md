@@ -14,6 +14,7 @@ My book reviews are available [here](/tags/reviews/).
 
 ### 2024
 
+* Sixty Degrees North: Around the World in Search of Home, Malachy Tallack ★★★☆☆
 * Replay, Jordan Mechner ★★★★☆
 * The Horde: how the Mongols changed the world, Marie Favereau ★★★★☆
 * La resistenza delle donne, Benedetta Tobagi ★★★☆☆
