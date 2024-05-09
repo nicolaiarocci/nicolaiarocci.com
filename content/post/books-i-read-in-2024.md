@@ -105,3 +105,11 @@ It's the first comic book I've read in a long while, and I'm glad I did. I [pre-
 *Iperborea, I Corvi*
 
 Sixty Degrees North is a travel book written in the 2000s based on the author's visits to each of the eight nations along this northern parallel. I didn't expect that so much of it would be about the impact on the author of his father's death when he was a teenager, his search to resolve his feelings about this, and his search to find somewhere to live that felt like home. These unexpected parts gravitate the book more toward the memoir genre, but the travel parts are still prevalent, well-researched, and recounted, some more interesting than others. This book touches on many things, often only superficially, which is a pity.
+
+### Kind of Blue, the making of the Miles Davis masterpiece, Ashley Kahn
+
+★★★☆☆
+
+*Il Saggiatore*
+
+I saw the light the first time I listened to Kind of Blue, and I did a lot of research to find a text that would go into detail and explain how this legendary album came about and why it influenced jazz so much that it became the benchmark. Kind of Blue by Ashley Kahn fully met my expectations. Well-researched and written, full of first-hand accounts and quotes from the sextet members. I appreciated the introductory part that clearly illustrates where the jazz scene was at when the six came together to record this masterpiece, as well as the final part in which we understand the influence that Kind of Blue had, and is still having, in the decades that followed, not only in jazz but in all genres of music.
