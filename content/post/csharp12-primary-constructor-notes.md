@@ -6,9 +6,9 @@ tags: ["speaking", "csharp", "dotnet"]
 cover:
     image: images/abp-dotnetconf-2024.jpg
 ---
-I wrapped up my C# 12 session at the [ABP Dotnet Conference 2024](https://abp.io/conference/2024), and here I share the key points to take home about the two most essential features in this language version. These are my talk preparation notes; the slides were minimal, as all the content was in the live demo. I'm posting these as they may be helpful to some attendees or my future self. 
+I wrapped up my C# 12 session at the [ABP Dotnet Conference 2024](https://abp.io/conference/2024), and I wanted to share the take-home points, at least about the most relevant features in this language version. Posting the slides made no sense as they were minimal; all the content was packed in the live demo. 
 
-In a follow-up post, I plan to address Collection Expressions and maybe "type any aliases"; this one is devoted to Primary Constructors.
+In a follow-up post, I plan to address Collection Expressions and maybe "type any aliases"; this is about Primary Constructors.
 
 - We can now add a list of parameters to a struct or class declaration. This way, we avoid writing an explicit constructor method, sparing us some boilerplate code.
 
