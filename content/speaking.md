@@ -11,6 +11,7 @@ engagements. Want me to talk at your event? [Get in touch][1]!
 
 ### 2024
 
+- ABP Dotnet Conference 2024, Turkey: [C# 12 What's new and interesting](https://abpdotnetconf24.cventevents.com/hub/events/181460e1-5a3e-4dd6-9bbd-2b900050e01d)
 - WebDay 2024, Milan: [Oauth2 e Open ID Connect con ASP.NET Core 8](https://www.webdayconf.it/e/3328/Web-Day-2024)
 - .NET Rome Conference 2024: [Oauth2 e Open ID Connect con ASP.NET Core 8](https://www.dotnetconf.it/agenda)
 
