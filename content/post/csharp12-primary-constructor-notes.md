@@ -3,8 +3,6 @@ date: 2024-05-09T18:04:39+02:00
 title: "C# 12 Primary Constructors"
 slug: csharp-primary-constructors
 tags: ["speaking", "csharp", "dotnet"]
-cover:
-    image: images/abp-dotnetconf-2024.jpg
 ---
 I wrapped up my C# 12 session at the [ABP Dotnet Conference 2024](https://abp.io/conference/2024), and I wanted to share the take-home points, at least about the most relevant features in this language version. Posting the slides made no sense as they were minimal; all the content was packed in the live demo. 
 
