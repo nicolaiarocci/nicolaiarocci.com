@@ -6,11 +6,11 @@ tags: ["speaking", "csharp", "dotnet"]
 ---
 I wrapped up my C# 12 session at the [ABP Dotnet Conference 2024](https://abp.io/conference/2024), and I wanted to share the take-home points, at least about the most relevant features in this language version. Posting the slides made no sense as they were minimal; all the content was packed in the live demo. 
 
-In a follow-up post, I plan to address Collection Expressions and maybe "type any aliases"; this is about Primary Constructors.
+In a follow-up post, I plan to address Collection Expressions ([done](/csharp-collection-expressions)) and maybe "type any aliases"; this is about Primary Constructors.
 
 - We can now add a list of parameters to a struct or class declaration. This way, we avoid writing an explicit constructor method, sparing us some boilerplate code.
 
-- What I refer to as 'Primary parameters' are unique in that they are in scope throughout the type definition; this means they can be used anywhere within the type.
+- What I refer to as 'primary parameters' are unique in that they are in scope throughout the type definition; this means they can be used anywhere within the type.
 
 
 ```cs
@@ -63,3 +63,5 @@ public class CheckingAccount(string accountID, string owner, decimal overdraftLi
 - Visual Studio and Visual Studio code offer built-in support for primary constructors (refactorings, etc.) That's true for JetBrains Rider or any other IDEs leveraging Roslyn.
 
 - The primary constructor's original implementation dates back to C# 6 in 2015. It was publicly available in one of those version previews for a short period. Then, it was taken back to the drawing board, only to resurface with record types in C# 9 (?) and custom types in C# 12.
+
+Also see: [C# 12 Collection Expressions](/csharp-collection-expressions/).
