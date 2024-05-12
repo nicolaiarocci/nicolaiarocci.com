@@ -1,7 +1,7 @@
 ---
 date: 2024-05-03T15:56:46+02:00
-title: In the pinewood
-tags: ["walks"]
+title: In the pinewood [video]
+tags: ["walks", "video"]
 ---
 I went for a walk in the [local pinewood](https://maps.app.goo.gl/xYHc8GpX7fRN5ZqT6) the other day. It's one of my favorite places, especially the least frequented parts, where one can walk for hours (and risk getting lost) without meeting anyone. I cut it shorter this time as it started to drip rain, and I had nothing with me.
 {{< rawhtml >}}
