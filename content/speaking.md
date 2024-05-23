@@ -12,12 +12,12 @@ engagements. Want me to talk at your event? [Get in touch][1]!
 ### 2024
 
 - ABP Dotnet Conference 2024, Turkey: [C# 12 What's new and interesting](https://abp.io/conference/2024)
-- WebDay 2024, Milan: [Oauth2 e Open ID Connect con ASP.NET Core 8](https://www.webdayconf.it/e/3328/Web-Day-2024)
+- WebDay 2024, Milan: [Oauth2 e Open ID Connect con ASP.NET Core 8](https://www.webdayconf.it/e/3328/Web-Day-2024) ([video](https://www.improove.tech/videos/3376/Oauth2-e-Open-ID-Connect-con-ASP-NET-Core-8))
 - .NET Rome Conference 2024: [Oauth2 e Open ID Connect con ASP.NET Core 8](https://www.dotnetconf.it/agenda)
 
 ### 2023
 
-- .NET Conference Italia 2023, Milan: [C# 12 What's new and interesting](https://www.dotnetconference.it/e/sessione/3295/C-12-Cosa-c-e-di-nuovo-e-interessante)
+- .NET Conference Italia 2023, Milan: [C# 12 What's new and interesting](https://www.dotnetconference.it/e/sessione/3295/C-12-Cosa-c-e-di-nuovo-e-interessante) ([video](https://www.ugidotnet.org/e/sessione/3295/C-12-Cosa-c-e-di-nuovo-e-interessante))
 - WebDay 2023, Milan: [End-to-end testing with Microsoft Playwright](https://www.webdayconf.it/e/3087/Web-Day-2023)
 - DevRomagna Meetup, [.NET 7 Spotlight](https://www.meetup.com/it-IT/devromagna/events/289709131/)
 
