@@ -113,3 +113,11 @@ Sixty Degrees North is a travel book written in the 2000s based on the author's 
 *Il Saggiatore*
 
 I saw the light the first time I listened to Kind of Blue, and I did a lot of research to find a text that would go into detail and explain how this legendary album came about and why it influenced jazz so much that it became the benchmark. Kind of Blue by Ashley Kahn fully met my expectations. Well-researched and written, full of first-hand accounts and quotes from the sextet members. I appreciated the introductory part that clearly illustrates where the jazz scene was at when the six came together to record this masterpiece, as well as the final part in which we understand the influence that Kind of Blue had, and is still having, in the decades that followed, not only in jazz but in all genres of music.
+
+### My Ingeborg, by Tore Renberg
+
+★★★★☆
+
+*(La mia Ingeborg, Fazi)*
+
+Awarded best book of the year by Norwegian booksellers, this one is a literary bestseller dragged along by lashing writing, as taut as a thriller and as moving as a love story, My Ingeborg is an intense tale of a family that, headed by a destructive man, falls apart. A great book.

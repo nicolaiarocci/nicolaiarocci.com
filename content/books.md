@@ -14,6 +14,7 @@ My book reviews are available [here](/tags/reviews/).
 
 ### 2024
 
+* My Ingeborg, Tore Renberg ★★★★☆
 * Kind of Blue: the making of the Miles Davis masterpiece, Ashley Kahn ★★★☆☆
 * Sixty Degrees North: Around the World in Search of Home, Malachy Tallack ★★★☆☆
 * Replay, Jordan Mechner ★★★★☆
