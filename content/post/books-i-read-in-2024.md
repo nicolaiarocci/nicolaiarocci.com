@@ -121,3 +121,18 @@ I saw the light the first time I listened to Kind of Blue, and I did a lot of re
 *(La mia Ingeborg, Fazi)*
 
 Awarded best book of the year by Norwegian booksellers, this one is a literary bestseller dragged along by lashing writing, as taut as a thriller and as moving as a love story, My Ingeborg is an intense tale of a family that, headed by a destructive man, falls apart. A great book.
+
+### I love Russia, by Elena Kostyuchenko 
+
+★★★☆☆
+
+*(La mia Russia, Einaudi)*
+
+This book is written by an independent Russian journalist who worked at Novaja Gazeta for many years until it was banned. Mostly, these are reportages from the great rural Russia, far from the big cities (the story from small villages on the high-speed train line between Moscow and St. Petersburg is one of the best). I Love Russia helps us understand today's deep Russia and the consequences of the fall of the USSR and the advent of Putin. It is also a love letter to the homeland, hence the title, but it does not bend to the official narrative; quite the opposite.
+
+### Blame! Vol. 1, by Tsutomu Nihei 
+
+★★★★☆
+
+I came to this manga after watching the action movie on Netflix. The movie intrigued me, and I wanted to trace the source. It was well worth the effort. Cyberpunk is at its best here.
+
