@@ -1,0 +1,17 @@
+---
+date: 2024-06-11T16:01:15+02:00
+title: "Hidden Tracks: Domodossola – Weissmies"
+slug: hidden-tracks-domodossola-weissmies
+tags: ["music", "reviews"]
+---
+Lately, I have become increasingly interested in sound. Of the short films I shoot while [hiking](/tags/hiking), for example, I've noticed that I'm primarily interested in their sounds. Footsteps on the ground, birds singing, wind rustling through leaves, things like that. During my [motorcycle ride across Europe](/a-motorcycle-trip-across-europe/), I caught myself recording a walk with the Memo app on my iPhone. Listening to it allows me to reconstruct a sharp and surprisingly clear memory of that early morning, just out of the tent at Shelsley Walsh. My interest in sounds is not new; I've written about the [Field Recordings podcast](https://nicolaiarocci.com/what-i-listen-to-while-programming/) for example, but lately, I've become more aware of the importance of sound memory. During my daily early morning walk, I happen to listen to audiobooks or podcasts with the AirPods Pro, but there is always a lot of friction; I have to force myself into putting them on and, usually, after half an hour or so it is a great relief to take them off and listen to the world around me again (the jury is still out on whether I should leave my AirPods at home or not.)
+
+The other day, I read on about [Julian Sartorius](https://www.juliansartorius.com) (drummer, percussionist, and artist) latest work, [Hidden Tracks: Domodossola—Weissmies](https://juliansartorius.bandcamp.com/album/hidden-tracks-domodossola-weissmies). He took a five-day hike from Domodossola, Italy (272 meters above the sea) to Switzerland's Weissmies summit (4017 mt). He took his drumsticks and a recorder with him, and as he went by, he recorded many sounds, natural and not, and, most importantly, played his sticks on many different surfaces. Quoting [Bandcamp Daily](https://daily.bandcamp.com/features/julian-sartorius-hidden-tracks-interview):
+
+> Every track on Hidden Tracks: Domodossola – Weissmies is named according to that change (i.e., “272m ↗ 500m,” “1500m ↗ 2000m,” etc.). The first few, recorded in Domodossola and its surroundings, are lively—almost symphonic. You can hear passing cars and motorcycles, people talking, dogs barking, church bells tolling. Sartorius plays a hypnotic, techno-like rhythm—sometimes on wooden houses, sometimes with clanks on metal or footsteps on grass. With each subsequent track, the music becomes sparser and quieter. Sounds of nature prevail, as Sartorius plays the rhythm on a surface of a stream, and catches the sound of sheep as they pass through the meadow. It culminates on the mountain’s summit where the only sounds are wind, snow, and ice—and a distant helicopter.
+
+Being a hiker myself, I was immediately enthralled by this project. I listened and was not disappointed, so I bought the album to support the author. There's also a short film about the project on [YouTube](https://youtu.be/xCb3GTRpkXo?si=SrthrnEAVtK7doMl) that is worth watching.
+
+{{< rawhtml >}}
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2680166290/size=small/bgcol=333333/linkcol=0f91ff/artwork=none/track=865184655/transparent=true/" seamless><a href="https://juliansartorius.bandcamp.com/album/hidden-tracks-domodossola-weissmies">Hidden Tracks: Domodossola – Weissmies by Julian Sartorius</a></iframe>
+{{< /rawhtml >}}
