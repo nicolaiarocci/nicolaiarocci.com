@@ -136,3 +136,10 @@ This book is written by an independent Russian journalist who worked at Novaja G
 
 I came to this manga after watching the action movie on Netflix. The movie intrigued me, and I wanted to trace the source. It was well worth the effort. Cyberpunk is at its best here.
 
+
+### Taccuino 1870-1884, by Giuseppe De Nittis
+
+★★★☆☆
+
+We happened upon the [De Nittis exhibition](https://www.palazzorealemilano.it/mostre/pittore-della-vita-moderna) at the Royal Palace in Milan. It was a revelation, the best exhibition since the [Pre-Raphaelite Brotherhood](https://mostremuseisandomenico.it/preraffaelliti/) one in Forlì a few months ago. Giuseppe De Nittis's notebook, an inconspicuous booklet displayed in a few copies in the bookshop at the end of the exhibition, caught my eye. I bought it because I wanted to learn more about this artist from southern Italy who emigrated to Paris to become one of the most famous painters of his era. It turned out to be a good purchase. De Nittis recounts salient episodes of his life in the French period and in London (where "I made my fortune"), with several enjoyable episodes occurring during his travels in Italy, especially in Naples and his hometown Barletta in Apulia. We learn a lot about the artist's life, peculiar personality, and the upper-class lifestyle of the time. In contrast, Italian episodes often depict scenes of popular life that would come across as stereotypical today but are undoubtedly genuine.
+
