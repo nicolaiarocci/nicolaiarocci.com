@@ -4,9 +4,6 @@ share: false
 weight: 7
 showToc: true
 slug: books-i-have-read
-cover:
-    image: images/library.jpg
-    caption: The pile of recently read books, all waiting patiently for a spot on the shelves.
 ---
 This is a partial list of the books I have read. I have it both to jog my memory and because I have read a lot of stuff I have loved, and want other people to find it.
 
