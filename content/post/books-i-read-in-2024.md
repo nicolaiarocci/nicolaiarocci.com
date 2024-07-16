@@ -143,3 +143,11 @@ I came to this manga after watching the action movie on Netflix. The movie intri
 
 We happened upon the [De Nittis exhibition](https://www.palazzorealemilano.it/mostre/pittore-della-vita-moderna) at the Royal Palace in Milan. It was a revelation, the best exhibition since the [Pre-Raphaelite Brotherhood](https://mostremuseisandomenico.it/preraffaelliti/) one in Forlì a few months ago. Giuseppe De Nittis's notebook, an inconspicuous booklet displayed in a few copies in the bookshop at the end of the exhibition, caught my eye. I bought it because I wanted to learn more about this artist from southern Italy who emigrated to Paris to become one of the most famous painters of his era. It turned out to be a good purchase. De Nittis recounts salient episodes of his life in the French period and in London (where "I made my fortune"), with several enjoyable episodes occurring during his travels in Italy, especially in Naples and his hometown Barletta in Apulia. We learn a lot about the artist's life, peculiar personality, and the upper-class lifestyle of the time. In contrast, Italian episodes often depict scenes of popular life that would come across as stereotypical today but are undoubtedly genuine.
 
+### Trappole alimentari, by Stefano Vendrame
+
+★★★☆☆
+
+> There are four things that never cease to amaze me: first, how disastrous people's diets are; second, how little they realize; third, how even small changes in eating habits can make huge differences in health status; and fourth, how little people are willing to make such changes.
+
+Vendrami is a nutritional biologist with great expertise and undoubted popularization skills (he's also active on YouTube). In this book, he does not propose diets but highlights the "food traps" into which all of us in the West have fallen, induced mainly by the food industry. At the end of each chapter, Vendrami suggests behaviours and tricks that promise to get us back on track. Anchored in sound science, Food Traps is a valuable book worth keeping on hand, applying its suggestions a little at a time, without haste, with the long-term goal improving our nutrition strategy and, with it, achieve better health.
+

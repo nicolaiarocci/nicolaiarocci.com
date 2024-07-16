@@ -11,6 +11,7 @@ My book reviews are available [here](/tags/reviews/).
 
 ### 2024
 
+* Trappole alimentari, Stefano Vendrame ★★★☆☆
 * Taccuino 1870-1884, Giuseppe De Nittis ★★★☆☆
 * Blame! Vol. 1, Tsutomu Nihei ★★★★☆
 * I love Russia, Elena Kostyuchenko ★★★☆☆
