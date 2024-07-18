@@ -1,7 +1,7 @@
 ---
 date: 2024-01-07T16:15:10+01:00
 title: "Movie review: The Boy and the Heron"
-tags: ["reviews", "movies"]
+tags: ["reviews", "movies", "miyazaki"]
 cover:
     image: images/the-boy-and-the-heron.jpg
 ---
@@ -31,5 +31,3 @@ there. I cannot help but draw a parallel with J.R.R. Tolkien, who devoted much
 of his youth exploring the outskirts of Birmingham with his brother Hillary.
 That "kind of lost paradise" and the rural people who inhabited it were
 instrumental in inspiring the Hobbits and Hobbiton... but I'm getting off-topic.
-
-
