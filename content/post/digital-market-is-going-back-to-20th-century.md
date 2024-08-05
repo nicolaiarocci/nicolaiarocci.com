@@ -9,6 +9,6 @@ Rand Fishkin on the evolution of digital marketing:
 
 A 7 minutes video, with transcript, is available [here](https://sparktoro.com/blog/attribution-is-dying-clicks-are-dying-marketing-is-going-back-to-the-20th-century/).
 
-Yes, he's stating the obvious in some ways, but it's his job to spread the word to the masses, and he's been doing that for quite a long time. I remember seeing him on stage in San Marino many years ago when his gospel was about SEO, SERP attribution, and traceability.
+Yes, he's stating the obvious in some ways, but it's his job to spread the word to the masses, and he's been doing that for quite a long time. I remember seeing him on stage in San Marino many years ago when his gospel was about SEO, SERP attribution, and traceability. I am glad to find that he's still on the go.
 
 My colleague Stefano correctly points out that Rand's final advice on moving where the public is today is sound and reasonable, but it is nothing new. It's always been about that. In 2014, we went to Google AdWords and the likes because that's where the public was back then. In the 2020s, the public has flocked to platforms' walled gardens and digital marketers follow the herd, like a pack of wolves.
