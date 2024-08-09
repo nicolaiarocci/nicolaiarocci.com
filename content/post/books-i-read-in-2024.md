@@ -151,3 +151,22 @@ We happened upon the [De Nittis exhibition](https://www.palazzorealemilano.it/mo
 
 Vendrami is a nutritional biologist with great expertise and undoubted popularization skills (he's also active on YouTube). In this book, he does not propose diets but highlights the "food traps" into which all of us in the West have fallen, induced mainly by the food industry. At the end of each chapter, Vendrami suggests behaviours and tricks that promise to get us back on track. Anchored in sound science, Food Traps is a valuable book worth keeping on hand, applying its suggestions a little at a time, without haste, with the long-term goal improving our nutrition strategy and, with it, achieve better health.
 
+### Slow Horses, by Mick Herron
+
+★★★☆☆
+
+> The first book in CWA Gold Dagger Award-winning British espionage series starring a team of MI5 agents united by one common bond: They've screwed up royally and will do anything to redeem themselves.
+
+This was a fun read. I should read more fiction in the future, especially light-hearted fiction like this; it entertains and engages.
+
+### Pao Pao, by Pier Vittorio Tondelli
+
+★★★☆☆
+
+This book is a collection of autobiographical accounts from the author's military service in 1980. In Italy, military service was mandatory—a rite of passage for generations of young adults. I went through that ten years later (1990), but the experiences were very similar. His conscript life was much more transgressive and unruly than mine, and the book perhaps indulges too much in those excesses, but PVT was like that. Pao Pao is a worthwhile read, especially for remembering a long-gone, intensely lived era that will never return. Also, PVT was a great writer.
+
+### Storia di mia vita, Janek Gorczyca
+
+★★☆☆☆☆
+
+This book tells the the story of Janek, a Pole who has lived in Rome for over 30 years without a home, documents or a steady job. It is a work written in an overwhelming, cruel, and unique Italian language, as spoken by the protagonist. It is a short, rough and not wholly satisfying book.

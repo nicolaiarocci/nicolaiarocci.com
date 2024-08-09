@@ -11,6 +11,9 @@ My book reviews are available [here](/tags/reviews/).
 
 ### 2024
 
+* Storia di mia vita, Janek Gorczyca ★★☆☆☆
+* Pao Pao, Pier Vittorio Tondelli ★★★☆☆
+* Slow Horses, Mick Herron ★★★☆☆
 * Trappole alimentari, Stefano Vendrame ★★★☆☆
 * Taccuino 1870-1884, Giuseppe De Nittis ★★★☆☆
 * Blame! Vol. 1, Tsutomu Nihei ★★★★☆
