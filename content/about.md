@@ -27,7 +27,7 @@ Stay updated by subscribing to this website’s [RSS feed](/index.xml) or joinin
 *[Ramblings of a Software Craftsman](https://buttondown.email/nicolaiarocci)*,
 my newsletter. 
 
-Find me on [Mastodon](https://fosstodon.org/@nicola), [Twitter/X](https://x.com/nicolaiarocci), [GitHub](https://github.com/nicolaiarocci), [LinkedIn](http://www.linkedin.com/in/nicolaiarocci), or get in touch via [email](mailto:nicola@nicolaiarocci.com).
+Find me on [Mastodon](https://fosstodon.org/@nicola), [Last.fm](https://www.last.fm/user/nicolaiarocci), [GitHub](https://github.com/nicolaiarocci), [LinkedIn](http://www.linkedin.com/in/nicolaiarocci), or get in touch via [email](mailto:nicola@nicolaiarocci.com). My [Twitter/X](https://x.com/nicolaiarocci) account is currently [on hiatus](/im-leaving-twitter/x/).
 
 ## No guest posts
 
