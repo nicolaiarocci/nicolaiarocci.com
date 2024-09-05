@@ -7,8 +7,6 @@ slug: books-i-have-read
 ---
 This is a partial list of the books I have read. I have it both to jog my memory and because I have read a lot of stuff I have loved, and want other people to find it.
 
-My book reviews are available [here](/tags/reviews/).
-
 ### 2024
 
 * The bastard brigade, Sam Kean ★★★★☆
