@@ -11,6 +11,7 @@ My book reviews are available [here](/tags/reviews/).
 
 ### 2024
 
+* The bastard brigade, Sam Kean ★★★★☆
 * Storia di mia vita, Janek Gorczyca ★★☆☆☆
 * Pao Pao, Pier Vittorio Tondelli ★★★☆☆
 * Slow Horses, Mick Herron ★★★☆☆

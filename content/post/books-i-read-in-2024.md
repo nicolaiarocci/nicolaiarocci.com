@@ -170,3 +170,13 @@ This book is a collection of autobiographical accounts from the author's militar
 ★★☆☆☆☆
 
 This book tells the the story of Janek, a Pole who has lived in Rome for over 30 years without a home, documents or a steady job. It is a work written in an overwhelming, cruel, and unique Italian language, as spoken by the protagonist. It is a short, rough and not wholly satisfying book.
+
+
+### The bastard brigade, Sam Kean
+
+★★★★☆
+
+*(La brigata dei bastardi, Adelphi)*
+
+The Bastard Brigate tells the gripping, untold story of a renegade group of scientists and spies determined to keep Adolf Hitler from obtaining the ultimate prize: a nuclear bomb. In the middle of building an atomic bomb, the leaders of the Manhattan Project were alarmed to learn that Nazi Germany was far outpacing the Allies in nuclear weapons research. Hitler, with just a few pounds of uranium, would have the capability to reverse the entire D-Day operation and conquer Europe. So they assembled a rough and motley crew of geniuses - dubbed the Alsos Mission - and sent them reeling into Axis territory to spy on, sabotage, and even assassinate members of Nazi Germany's feared Uranium Club. This book is well conceived and executed, and I liked that there's humour in it on almost every page, despite the dramatic events it narrates. I want to read more by Sam Kean.
+
