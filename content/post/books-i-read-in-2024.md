@@ -180,3 +180,10 @@ This book tells the the story of Janek, a Pole who has lived in Rome for over 30
 
 The Bastard Brigate tells the gripping, untold story of a renegade group of scientists and spies determined to keep Adolf Hitler from obtaining the ultimate prize: a nuclear bomb. In the middle of building an atomic bomb, the leaders of the Manhattan Project were alarmed to learn that Nazi Germany was far outpacing the Allies in nuclear weapons research. Hitler, with just a few pounds of uranium, would have the capability to reverse the entire D-Day operation and conquer Europe. So they assembled a rough and motley crew of geniuses - dubbed the Alsos Mission - and sent them reeling into Axis territory to spy on, sabotage, and even assassinate members of Nazi Germany's feared Uranium Club. This book is well conceived and executed, and I liked that there's humour in it on almost every page, despite the dramatic events it narrates. I want to read more by Sam Kean.
 
+
+### Lacci, Domenico Starnone
+
+★★★★☆
+
+What are we willing to sacrifice so as not to feel trapped? And what do we lose when we choose to retrace our steps? Nothing is more radical than abandonment, but nothing is more tenacious than those invisible ties that bind people to one another. And sometimes, all it takes is the slightest gesture to resurface what we have tried to put aside. Domenico Starnone gives us a moving story, a masterful account of an escape, of a return, of all the failures that seem impossible to us and those that keep us company for a lifetime.
+
