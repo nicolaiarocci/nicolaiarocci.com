@@ -187,3 +187,11 @@ The Bastard Brigate tells the gripping, untold story of a renegade group of scie
 
 What are we willing to sacrifice so as not to feel trapped? And what do we lose when we choose to retrace our steps? Nothing is more radical than abandonment, but nothing is more tenacious than those invisible ties that bind people to one another. And sometimes, all it takes is the slightest gesture to resurface what we have tried to put aside. Domenico Starnone gives us a moving story, a masterful account of an escape, of a return, of all the failures that seem impossible to us and those that keep us company for a lifetime.
 
+
+### Walking, Erling Kagge
+
+*(Camminare, Einaudi)*
+
+★★★☆☆
+
+Walking, by Erling Kagge, is a book on walking. The author is an explorer who has walked to both poles and the summit of Everest; his performances are certainly out of the ordinary, yet in this book, he is more about the everyday act of walking: the walks he still takes every day, both in his neck of the woods (Norway) and around the many places in the world he has visited. The text contains thematic quotations from writers, philosophers, and other famous people, and it explores the meaning and utility, both physiological and psychological, of the act of walking. As a walker and hiker, I found myself in many of the arguments in the text, but Kagge explains and argues them better.
