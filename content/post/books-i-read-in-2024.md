@@ -195,3 +195,9 @@ What are we willing to sacrifice so as not to feel trapped? And what do we lose 
 ★★★☆☆
 
 Walking, by Erling Kagge, is a book on walking. The author is an explorer who has walked to both poles and the summit of Everest; his performances are certainly out of the ordinary, yet in this book, he is more about the everyday act of walking: the walks he still takes every day, both in his neck of the woods (Norway) and around the many places in the world he has visited. The text contains thematic quotations from writers, philosophers, and other famous people, and it explores the meaning and utility, both physiological and psychological, of the act of walking. As a walker and hiker, I found myself in many of the arguments in the text, but Kagge explains and argues them better.
+
+### Blame! Vol. 2, by Tsutomu Nihei 
+
+★★★★☆
+
+The second instalment of Blame didn't delude me. I'm not very deep into mangas, so sometimes I'm in trouble parsing what I'm seeing and making sense of a story often told via drawings rather than words, but I welcome the challenge.
