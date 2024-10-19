@@ -9,6 +9,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ### 2024
 
+* The Ministry of Ungentlemanly Warfare, Damien Lewis ★★★☆☆
+* The tree-body problem, Cixin Liu ★★★★☆
 * Blame! Vol. 2, Tsutomu Nihei ★★★★☆
 * Walking, Erling Kagge ★★★☆☆
 * Lacci, Domenico Starnone ★★★★☆

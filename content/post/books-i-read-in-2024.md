@@ -201,3 +201,17 @@ Walking, by Erling Kagge, is a book on walking. The author is an explorer who ha
 ★★★★☆
 
 The second instalment of Blame didn't delude me. I'm not very deep into mangas, so sometimes I'm in trouble parsing what I'm seeing and making sense of a story often told via drawings rather than words, but I welcome the challenge.
+
+### The Ministry of Ungentlemanly Warfare, Damien Lewis ★★★☆☆
+
+*(Il ministero della guerra sporca)*
+
+> Damien Lewis became an author largely by accident, when a British publisher asked him if he'd be willing to turn a TV documentary he was working on into a book ([source](https://www.goodreads.com/book/show/29247060-the-ministry-of-ungentlemanly-warfare)).
+
+Reading the book, one notices that the author must not have a literary background, as the language seems more appropriate for an action movie. It is not great literature, but it does tell a story worth knowing, that of the early clandestine actions that saw the baptism of the British SOE and Anders Lassen (SOE, SAS, SBS), a role model for all brave and swaggering agents operating behind the lines. In celebrating the daring actions of these outlawed warriors, this book does not hide their flaws, such as the abundant use of drugs to sustain themselves in action. I was surprised to learn that at the end of WWII, SOE operated in my area, and Lassen ultimately found his death in Comacchio (FE). His body is buried at the Argenta Gap War Cemetery, not too far from where I live. 
+
+### The three-body problem, Cixin Liu ★★★★☆
+
+*(Il problema dei tre corpi, Mondadori)*
+
+It took me oh-so-long to get to this book. I was scared it would be a delusion, and I'm glad to say I was wrong. Excellent writing, an enthralling story, and lots of science intermixed with intriguing philosophical concepts and wild ideas—Sci-fi at his best.
