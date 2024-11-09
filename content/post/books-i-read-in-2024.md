@@ -215,3 +215,21 @@ Reading the book, one notices that the author must not have a literary backgroun
 *(Il problema dei tre corpi, Mondadori)*
 
 It took me oh-so-long to get to this book. I was scared it would be a delusion, and I'm glad to say I was wrong. Excellent writing, an enthralling story, and lots of science intermixed with intriguing philosophical concepts and wild ideas—Sci-fi at his best.
+
+### White noise, Don DeLillo ★★★★☆
+
+*(Rumore Bianco, Einaudi)*
+
+I missed DeLillo, as it had been some years since I read him. White Noise is from 1985 but is still fresh and relevant today, maybe especially today. It's the book that brought him to prominence and with merit. A couple random quotes:
+
+> Man’s guilt in history and in the tides of his own blood has been complicated by technology, the daily seeping falsehearted death.
+
+> No sense of the irony of human experience, that we are the highest form of life on earth, and yet ineffably sad because we know what no other animal knows, that we must die.
+
+DeLillo is The american postmodern writer. Well, along with Paul Auster, of course.
+
+### Class trip, Emmanuel Carrère ★★★☆☆
+
+*(La settimana bianca, Einaudi)*
+
+I thought this would be a chilly psychological murder mystery with a classic French Existentialism gloss. Instead, I read a haunting character study of a child filled with angst and dread, trying and failing to make sense of the disorienting world around him, never understanding the true nature of his existence in this meaningless, absurd, and often deadly world, which is French Existentialism in a nutshell. Class Trip is the only Carrere book I read that is pure fiction. He soon moved on to the fictionalised biography genre and became more effective there. Mine was a reread, as I found out today when I went to add the book to my library page and discovered I read it in 2016. It should tell either about the book's impact on me, my ageing and sadly vanishing memory, or both. And yes, I own two copies of this book now; they're different editions, at least.
