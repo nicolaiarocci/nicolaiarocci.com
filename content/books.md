@@ -9,6 +9,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ### 2024
 
+* New York Trilogy, Paul Auster ★★★★☆
 * Class trip, Emmanuel Carrère ★★★☆☆
 * White noise, Don DeLillo ★★★★☆
 * The Ministry of Ungentlemanly Warfare, Damien Lewis ★★★☆☆
