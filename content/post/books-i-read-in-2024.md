@@ -1,11 +1,24 @@
 ---
-date: 2024-12-31T17:36:24+01:00
+date: 2024-12-26T7:36:24+01:00
 title: Books I read in 2024
 tags: ["books", "reviews"]
 showToc: true
 draft: false
 ---
-(intro)
+
+I read 30 books or 8365 pages in 2024, a solid improvement over [last
+year](/books-i-read-in-2023/)'s, and many of those books were excellent.
+*Lolita* by Vladimir Nabokov was outstanding, Marcus Aurelius' *Meditations* was
+incredible, and then there's *Family Lexicon* and *The garden of Finzi-Contini*,
+and many others were close to that league. Yeah, color me satisfied.
+
+The usual scoring system applies:
+
+* One star means a book is meh.
+* Two stars mean a book is perfectly fine.
+* Three stars mean a book is good—consider it recommended.
+* Four stars mean a book is exceptional.
+* Five stars is pretty much unheard of.
 
 ### The question of Palestine, by E.W. Said
 
@@ -56,7 +69,7 @@ I am glad to report that my admiration for the author is intact. Shoutout to Enn
 
 [^1]: *Lolita* was first published in France (1955), as the text was initially not accepted by any publisher in the States.
 
-### Family Lexigon, by Natalia Ginzburg
+### Family Lexicon, by Natalia Ginzburg
 
 *(Lessico Famigliare, Einaudi)*
 
@@ -244,3 +257,9 @@ The city is more than a backdrop; it is a unifying and symbolic element. With it
 ### Altri libertini, by Pier Vittorio Tondelli ★★★★☆
 
 After [Pao Pao](#pao-pao-by-pier-vittorio-tondelli), I wanted to go back to Pier Vittorio Tondelli, to his early work, to understand better what it was all about. I wanted to know more about the author, but also about what he was telling about, about that Italian generation of the late 70s and early 80s orphaned of the great ideals of the 60s, much more ramshackle, desperate and at the same time full of will to live. Great.
+
+### All your children, scattered, by Beata Umubyeyi Mairesse ★★★★☆
+
+*(I tuoi figli ovunque dispersi, e/o)*
+
+I read this book almost by accident. It was a home reading assignment for my daughter Anna, who liked it and recommended it to me. It is a novel but also an autobiography, given the many commonalities between the author's story and the Rwandan family featured in this novel. Everyone remembers the 1994 Tutsi genocide in Rwanda, if only from following the news on TV. This book tells us about those dramatic events and the trauma that followed, along with the life-long attempt to reconcile, from the point of view of those who experienced them firsthand. It isn't easy to hold together the stories of four generations of protagonists and do so engagingly—good, solid book. I am grateful to Anna's literature teacher; she always gives me stimulating and enriching readings.

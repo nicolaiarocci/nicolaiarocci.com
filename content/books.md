@@ -9,35 +9,36 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ### 2024
 
-* Altri libertini, Pier Vittorio Tondelli ★★★★☆
-* New York Trilogy, Paul Auster ★★★★☆
-* Class trip, Emmanuel Carrère ★★★☆☆
-* White noise, Don DeLillo ★★★★☆
-* The Ministry of Ungentlemanly Warfare, Damien Lewis ★★★☆☆
-* The tree-body problem, Cixin Liu ★★★★☆
-* Blame! Vol. 2, Tsutomu Nihei ★★★★☆
-* Walking, Erling Kagge ★★★☆☆
-* Lacci, Domenico Starnone ★★★★☆
-* The bastard brigade, Sam Kean ★★★★☆
-* Storia di mia vita, Janek Gorczyca ★★☆☆☆
-* Pao Pao, Pier Vittorio Tondelli ★★★☆☆
-* Slow Horses, Mick Herron ★★★☆☆
-* Trappole alimentari, Stefano Vendrame ★★★☆☆
-* Taccuino 1870-1884, Giuseppe De Nittis ★★★☆☆
-* Blame! Vol. 1, Tsutomu Nihei ★★★★☆
-* I love Russia, Elena Kostyuchenko ★★★☆☆
-* My Ingeborg, Tore Renberg ★★★★☆
-* Kind of Blue: the making of the Miles Davis masterpiece, Ashley Kahn ★★★☆☆
-* Sixty Degrees North: Around the World in Search of Home, Malachy Tallack ★★★☆☆
-* Replay, Jordan Mechner ★★★★☆
-* The Horde: how the Mongols changed the world, Marie Favereau ★★★★☆
-* La resistenza delle donne, Benedetta Tobagi ★★★☆☆
-* Under the Volcano, Malcolm Lowry ★☆☆☆☆
-* Family Lexicon (Lessico Famigliare), Natalia Ginzburg ★★★★☆
-* Lolita, Vladimir Nabokov ★★★★★
-* Meditations, Marcus Aurelius ★★★★☆
-* The garden of the Finzi-Contini, Giorgio Bassani ★★★★☆
-* The question of Palestine, Edward W. Said ★★★☆☆
+* [All your children, scattered](/books-i-read-in-2024/#all-your-children-scattered-by-beata-umubyeyi-mairesse-), Beata Umubyeyi Mairesse ★★★★☆
+* [Altri libertini](/books-i-read-in-2024/#altri-libertini-by-pier-vittorio-tondelli-), Pier Vittorio Tondelli ★★★★☆
+* [New York Trilogy](/books-i-read-in-2024/#the-new-york-trilogy-paul-auster-), Paul Auster ★★★★☆
+* [Class trip](/books-i-read-in-2024/#class-trip-emmanuel-carrère-), Emmanuel Carrère ★★★☆☆
+* [White noise](/books-i-read-in-2024/#white-noise-don-delillo-), Don DeLillo ★★★★☆
+* [The Ministry of Ungentlemanly Warfare](/books-i-read-in-2024/#the-ministry-of-ungentlemanly-warfare-damien-lewis-), Damien Lewis ★★★☆☆
+* [The tree-body problem](/books-i-read-in-2024/#the-three-body-problem-cixin-liu-), Cixin Liu ★★★★☆
+* [Blame! Vol. 2](/books-i-read-in-2024/#blame-vol-2-by-tsutomu-nihei), Tsutomu Nihei ★★★★☆
+* [Walking](/books-i-read-in-2024/#walking-erling-kagge), Erling Kagge ★★★☆☆
+* [Lacci](/books-i-read-in-2024/#lacci-domenico-starnone), Domenico Starnone ★★★★☆
+* [The bastard brigade](/books-i-read-in-2024/#the-bastard-brigade-sam-kean), Sam Kean ★★★★☆
+* [Storia di mia vita](/books-i-read-in-2024/#storia-di-mia-vita-janek-gorczyca), Janek Gorczyca ★★☆☆☆
+* [Pao Pao](/books-i-read-in-2024/#pao-pao-by-pier-vittorio-tondelli), Pier Vittorio Tondelli ★★★☆☆
+* [Slow Horses](/books-i-read-in-2024/#slow-horses-by-mick-herron), Mick Herron ★★★☆☆
+* [Trappole alimentari](/books-i-read-in-2024/#trappole-alimentari-by-stefano-vendrame), Stefano Vendrame ★★★☆☆
+* [Taccuino 1870-1884](/books-i-read-in-2024/#taccuino-1870-1884-by-giuseppe-de-nittis), Giuseppe De Nittis ★★★☆☆
+* [Blame! Vol. 1](/books-i-read-in-2024/#blame-vol-1-by-tsutomu-nihei), Tsutomu Nihei ★★★★☆
+* [I love Russia](/books-i-read-in-2024/#i-love-russia-by-elena-kostyuchenko), Elena Kostyuchenko ★★★☆☆
+* [My Ingeborg](/books-i-read-in-2024/#my-ingeborg-by-tore-renberg), Tore Renberg ★★★★☆
+* [Kind of Blue: the making of the Miles Davis masterpiece](/books-i-read-in-2024/#kind-of-blue-the-making-of-the-miles-davis-masterpiece-ashley-kahn), Ashley Kahn ★★★☆☆
+* [Sixty Degrees North: Around the World in Search of Home](/books-i-read-in-2024/#sixty-degrees-north-by-malachy-tallack), Malachy Tallack ★★★☆☆
+* [Replay](/books-i-read-in-2024/#replay-by-jordan-mechner), Jordan Mechner ★★★★☆
+* [The Horde: how the Mongols changed the world](/books-i-read-in-2024/#the-horde-how-the-mongols-changed-the-world-by-marie-favereau), Marie Favereau ★★★★☆
+* [La resistenza delle donne](/books-i-read-in-2024/#womens-resistance-by-benedetta-tobagi), Benedetta Tobagi ★★★☆☆
+* [Under the Volcano](/books-i-read-in-2024/#under-the-volcano-by-malcom-lowry), Malcolm Lowry ★☆☆☆☆
+* [Family Lexicon (Lessico Famigliare)](/books-i-read-in-2024/#family-lexicon-by-natalia-ginzburg), Natalia Ginzburg ★★★★☆
+* [Lolita](/books-i-read-in-2024/#lolita-by-vladimir-nabokov), Vladimir Nabokov ★★★★★
+* [Meditations](/books-i-read-in-2024/#meditations-by-marcus-aurelius), Marcus Aurelius ★★★★☆
+* [The garden of the Finzi-Contini](/books-i-read-in-2024/#the-garden-of-the-finzi-contini-by-giorgio-bassani), Giorgio Bassani ★★★★☆
+* [The question of Palestine](/books-i-read-in-2024/#the-question-of-palestine-by-ew-said), Edward W. Said ★★★☆☆
 
 ### 2023
 
