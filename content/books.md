@@ -7,6 +7,10 @@ slug: books-i-have-read
 ---
 This is a partial list of the books I have read. I have it both to jog my memory and because I have read a lot of stuff I have loved, and want other people to find it.
 
+### 2025
+
+* The heartbeat of the wild, David Quammen ★★★☆☆
+
 ### 2024
 
 * [All your children, scattered](/books-i-read-in-2024/#all-your-children-scattered-by-beata-umubyeyi-mairesse-), Beata Umubyeyi Mairesse ★★★★☆
