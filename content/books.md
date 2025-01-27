@@ -9,6 +9,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ### 2025
 
+* Mornings in Jenin, Susan Abulhawa ★★★★☆
 * The heartbeat of the wild, David Quammen ★★★☆☆
 
 ### 2024
