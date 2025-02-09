@@ -5,11 +5,6 @@ description: .NET 5 brings support for Windows Task Dialog to Windows Forms, and
 share: false
 ---
 
-This morning on my twitter feed, this surprising tweet showed
-up:
-
-{{< tweet 1251480894436601857 >}}
-
 Apparently, .NET 5 brings support for Windows TaskDialog to Windows Forms, and
 that is relevant for several reasons. Before I dig in, let me start by
 addressing your inevitable question right away. 
