@@ -16,6 +16,12 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### La scomparsa di Majorana, by Leonardo Sascia
+
+★★★☆☆
+
+Since March 26, 1938, traces have been lost, between his departure and arrival on a sea voyage from Palermo to Naples, of the 31-year-old Sicilian physicist Ettore Majorana, whom Fermi would not hesitate to call a genius of the stature of Galileo and Newton. Suicide, as the investigators of the time want to believe and let belief, or voluntary escape from the world and the terrible fates that such a mind may have read into the future and the near future of science? In this admittedly speculative work, Sascia favours the latter. Sciascia's arguments are intriguing but not entirely convincing to me. The value of this work lies in Majorana's biography, which is well-documented and told. One is left wondering what Majorana could have achieved in his career if he hadn't fled from it.
+
 ### The Moon and the Bonfires, by Cesare Pavese
 
 ★★★★☆

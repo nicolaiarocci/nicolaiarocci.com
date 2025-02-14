@@ -9,6 +9,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ### 2025
 
+* La scomparsa di Majorana, Leonardo Sascia ★★★☆☆
 * The Moon and the Bonfires, Cesare Pavese ★★★★☆
 * Mornings in Jenin, Susan Abulhawa ★★★☆☆
 * The heartbeat of the wild, David Quammen ★★★☆☆
