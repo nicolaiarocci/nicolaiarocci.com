@@ -16,6 +16,14 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### The death of Ivan Ilyc, by Lev Tolstoy
+
+★★★★☆
+
+(*La morte di Ivan Ilyc, Feltrinelli*)
+
+This work is a potent warning against the superficiality of life and a call to seek a more authentic and conscious existence. The main themes (and there are many for a booklet of a few pages, but that is what can be achieved by a giant of literature) are the inevitability of death, the hypocrisy of "civilized" society, alienation and loneliness, the meaning of life, and redemption through suffering. It is one of Tolstoy's minor works, the philosophical-religious period from his second and last periods. Admirable.
+
 ### La scomparsa di Majorana, by Leonardo Sascia
 
 ★★★☆☆
