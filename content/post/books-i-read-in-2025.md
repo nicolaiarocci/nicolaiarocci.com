@@ -16,6 +16,16 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### Grandma Gatewood's Walk, by Ben Montgomery
+
+★★★☆☆
+
+(*La signora degli Appalachi, Terre di mezzo*)
+
+"Grandma Gatewood's Walk" by Ben Montgomery tells the remarkable true story of Emma Gatewood, who, at age 67, became the first woman to hike the entire Appalachian Trail solo in 1955. After enduring decades of domestic abuse and raising 11 children, Emma left home with minimal supplies—wearing Keds sneakers and carrying only a tiny denim bag with necessities. She told her family she was "going for a walk" without revealing her ambitious 2,050-mile journey from Georgia to Maine. The book weaves Emma's extraordinary hike together with her complicated personal history, highlighting her physical resilience and mental determination. Montgomery reveals how her journey captured America's imagination, bringing significant publicity to the then-obscure Appalachian Trail. Emma's accomplishments established her as a pioneering figure in hiking and inspired generations of hikers, particularly women. The book portrays her as a hiking legend and a symbol of perseverance who found freedom and purpose in nature after a life of hardship.
+
+Emma Gatewood was genuinely revolutionary in what we now recognize as ultralight hiking philosophy decades before it became a formal movement. While experienced hikers of her era typically carried 30+ pounds of gear, Emma completed the entire Appalachian Trail with a homemade denim bag containing minimal essentials—a change of clothes, a shower curtain for shelter, some food, and little else. Her choice to wear simple Keds sneakers instead of heavy hiking boots was remarkably ahead of her time. What makes her achievement even more extraordinary is the context—she had no GPS, no specialized lightweight equipment, no online trail forums, and minimal trail markings compared to today. The Appalachian Trail was rougher and less developed in 1955, with fewer shelters and support infrastructure. Her approach embodied the core ultralight philosophy: bring only what you need, rely on your knowledge and adaptability rather than gear, and understand that mental fortitude often matters more than equipment. Emma proved that age, gender, and expensive gear were not prerequisites for tackling ambitious wilderness challenges.
+
 ### The death of Ivan Ilyc, by Lev Tolstoy
 
 ★★★★☆
