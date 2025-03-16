@@ -9,6 +9,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ### 2025
 
+* Cambiare la storia, Adriano Prosperi ★★★★☆
 * Grandma Gatewood's Walk, Ben Montgomery ★★★☆☆
 * The death of Ivan Ilych, Lev Tolstoj ★★★★☆
 * La scomparsa di Majorana, Leonardo Sascia ★★★☆☆

@@ -16,6 +16,12 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### Cambiare la storia, by Adriano Prosperi
+
+★★★★☆
+
+Is human history editable? One way people have tried to change the historical course of humanity is by fabricating fakes. There is no shortage of examples; in this book, Adriano Prosperi focuses on a few in particular—the Donation of Constantine, perhaps the most famous among historical fakes. The second case concerns the historical inventions of the visionary Annio da Viterbo, who rewrote world history, starting with the Flood and prophesying the place and date of the apocalypse. One finds its model in the false chronicles and fake archaeological finds of seventeenth-century Granada, where moriscos threatened with expulsion from Spain invented the existence of a very ancient presence of Christian Arabs who came to Spain before St. James. But the most disturbing of the examples is the fourth, that of the "Protocols of the Elder Saviors of Zion," notoriously false yet still widespread and operating. Changing or negating history does not pertain to the modern day; it has always been part of the process.
+
 ### Grandma Gatewood's Walk, by Ben Montgomery
 
 ★★★☆☆
