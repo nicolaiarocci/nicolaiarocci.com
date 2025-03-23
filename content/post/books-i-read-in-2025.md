@@ -16,6 +16,12 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### Libera Università, by Tomaso Montanari
+
+★★★★☆
+
+Tomaso Montanari is a lucid and sharp thinker; this text proves it. By the author's admission, this is a militant, non-technical work. No solutions are offered to the many problems of Italian universities; that is not the goal (albeit one of his own texts on the subject would be interesting). The importance of a clear separation between the tertiary education system and executive power is emphasized more than ever in a season such as the current one, dominated by parties that hark back to totalitarian ideologies. I found the chapter about Italian telematic universities and how they're encouraged and leveraged by at least parts of the executive power fascinating.
+
 ### Cambiare la storia, by Adriano Prosperi
 
 ★★★★☆
