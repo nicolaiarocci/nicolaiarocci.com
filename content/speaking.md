@@ -9,6 +9,10 @@ cover:
 I speak at conferences and meetups. Here is a list of my most recent
 engagements. Want me to talk at your event? [Get in touch][1]!
 
+### 2025
+
+- .NET Conf 2025, Rome: [C# 13 What's new and interesting](https://dotnetconf.it)
+
 ### 2024
 
 - .NET Conference Italia 2024, Milan: [C# 13 What's new and interesting](https://www.dotnetconference.it/e/3538/-NET-Conference-Italia-2024)
