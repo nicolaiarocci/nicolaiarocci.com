@@ -16,6 +16,12 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### Papyrus, by Irene Vallejo
+
+★★★★☆
+
+Papyrus by Irene Vallejo (originally titled "El infinito en un junco" in Spanish) is a fascinating work about the history of books in antiquity. I think Vallejo did an excellent job telling the history of writing and books in an accessible yet scholarly way. Her ability to weave historical facts with interesting anecdotes makes the text engaging. As I understand, the autobiographical digressions that sometimes can annoy the reader are characteristic of her style - she uses her personal experience as a bridge to connect modern readers with the ancient world. The book is particularly strong when describing how texts survived through centuries thanks to dedicated copyists, libraries like Alexandria, and the transition from papyrus scrolls to codices (the ancestors of modern books).
+
 ### Libera Università, by Tomaso Montanari
 
 ★★★★☆
