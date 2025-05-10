@@ -16,6 +16,12 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### Source code, by Bill Gates
+
+★★★★☆
+
+Autobiography of Bill Gates from early childhood to the early steps of Microsoft. An interesting work for many reasons, not the least of which is that I find myself in many of the traits and passions of young Gates, on an almost disturbing level. One of the main characters recounts a key moment: the advent of micro and personal computers, and how they changed everything.
+
 ### Papyrus, by Irene Vallejo
 
 ★★★★☆

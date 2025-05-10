@@ -9,6 +9,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ### 2025
 
+* Source code, Bill Gates ★★★★☆
 * Papyrus, Irene Vallejo ★★★★☆
 * Libera Università, Tomaso Montanari ★★★★☆
 * Cambiare la storia, Adriano Prosperi ★★★★☆
