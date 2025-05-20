@@ -16,6 +16,14 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### The man who mistook his wife for a hat and other clinical tales, Oliver Sacks
+
+★★★☆☆
+
+(_L'uomo che scambio sua moglie per un cappello, Adelphi_)
+
+Quoting a comment on Goodreads, to which I have nothing to add: "This book has many fascinating studies of neurological disorders, and the stories behind the patients are easily understood and, in many cases, enthralling. However, Dr. Sacks seems to give his readers too much credit when he throws off "hyperagnosia", "Korsokovian", and "meningioma" like he assumes we had read an entire neurology textbook before picking this one up."
+
 ### Source code, by Bill Gates
 
 ★★★★☆
