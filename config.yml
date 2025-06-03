@@ -144,11 +144,11 @@ menu:
     - name: library
       url: /books-i-have-read/
       weight: 30
-    - name: newsletter
+    #- name: rss
+    #  url: /index.xml
+    #  weight: 50
+    - name: subscribe
       url: https://buttondown.email/nicolaiarocci
-      weight: 40
-    - name: rss
-      url: /index.xml
       weight: 50
     - name: archive
       url: /archives/
