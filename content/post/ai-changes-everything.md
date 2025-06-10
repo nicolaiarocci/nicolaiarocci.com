@@ -7,4 +7,6 @@ Today's Armin Ronacher's [AI Changes Everything](https://lucumr.pocoo.org/2025/6
 
 It wasn't the purpose of his article, but I wish Armin had gone into the details of how, why, and when he delegates tasks to Claude Code.
 
+_Update:_ Armin later a [follow-up](https://lucumr.pocoo.org/2025/6/10/genai-criticism/).
+
 [^1]: [My AI Skeptic Friends All Nuts](https://fly.io/blog/youre-all-nuts/), linked in Armin's piece, is also worth reading.
