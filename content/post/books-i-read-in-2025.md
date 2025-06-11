@@ -16,6 +16,14 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### A supposedly fun thing I'll never do again, David Foster Wallace
+
+★★★☆☆
+
+(_Tennis, tv, trigonometria, tornado e altre cose divertenti che non farò mai più_, Minimum fax)
+
+Three stories stand out: DFW's youth tennis, his visit to the Illinois State Fair, and his account of his experience following David Lynch as a director. The one about American TV started well but quickly became too US-centric to follow. DFW, however, is always a joy to read.
+
 ### The man who mistook his wife for a hat and other clinical tales, Oliver Sacks
 
 ★★★☆☆
