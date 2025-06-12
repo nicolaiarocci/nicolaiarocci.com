@@ -11,6 +11,7 @@ engagements. Want me to talk at your event? [Get in touch][1]!
 
 ### 2025
 
+- DevRomagna Meetup: [MCP or how to connect our apps to LLMs](https://www.meetup.com/devromagna/events/308179204/)
 - .NET Conf 2025, Rome: [C# 13 What's new and interesting](https://dotnetconf.it)
 
 ### 2024
