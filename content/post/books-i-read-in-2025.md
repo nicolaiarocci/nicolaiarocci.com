@@ -16,6 +16,12 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### La grande rimozione, Roberto Grossi
+
+★★★★☆
+
+It is an essential comic book that effectively presents the situation of climate change, its urgency, and how to become aware of it and act collectively and individually before it is too late. Some of the panels, often compositions that compare two similar yet opposite situations, are brilliant and very effective. I hope it will be translated and receive the broadest possible distribution. I learned about this book thanks to the Coconino Festival held in my hometown this weekend. A small but well-executed exhibition was dedicated to this work.
+
 ### A supposedly fun thing I'll never do again, David Foster Wallace
 
 ★★★☆☆
