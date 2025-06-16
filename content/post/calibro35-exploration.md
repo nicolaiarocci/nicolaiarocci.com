@@ -2,6 +2,9 @@
 date: 2025-06-13T15:38:08+02:00
 title: Exploration by Calibro 35
 tags: ["music", "purchase"]
+cover:
+    image: images/exploration-cover.jpg
+    alt: Calibro 35's Exploration album cove
 ---
 
 Calibro 35's Exploration, their latest album that I have just purchased, supremely fits and redefines the instrumental jazz-funk genre, adding a firm pinch of "vintage futurism," as they call it. 
