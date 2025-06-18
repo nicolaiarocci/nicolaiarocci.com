@@ -132,29 +132,26 @@ params:
 
 menu:
   main:
-    - name: about
-      url: /about/
-      weight: 5
-    - name: code
-      url: /opensource/
-      weight: 10
-    - name: speaking
-      url: /speaking/
-      weight: 20
-    - name: library
-      url: /books-i-have-read/
-      weight: 30
-    #- name: rss
-    #  url: /index.xml
-    #  weight: 50
     - name: subscribe
       url: https://buttondown.email/nicolaiarocci
+      weight: 10
+    - name: code
+      url: /opensource/
+      weight: 20
+    - name: speaking
+      url: /speaking/
+      weight: 30
+    - name: library
+      url: /books-i-have-read/
+      weight: 40
+    - name: search
+      url: /search/
       weight: 50
     - name: archive
       url: /archives/
       weight: 60
-    - name: search
-      url: /search/
+    - name: about
+      url: /about/
       weight: 70
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
