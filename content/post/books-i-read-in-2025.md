@@ -16,6 +16,12 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### La mia vita disegnata male, Gipi
+
+★★★★☆
+
+It is a journey back in time to rediscover the author's own life, but also an evolution in comic book representation, moving towards a more simplified style. The essential, shaky, almost childish lines correspond, from a psychological point of view to the loss of references, the display of the author's problems and his vision of the world. Gipi has a taste for jokes; he plays down and demystifies humbly and entertainingly. It's just a life lived (very) badly, like so many others. But the "poorly drawn" cartoons are interspersed with "well-drawn" ones, almost as if the author wanted to show us that, if he wanted to, he is an artist with excellent technical skill. All in all, between dreams, nightmares, irony, melancholy, and reality, the book stimulates reflection on what life is, how to face it, and how to deal with one's feelings of guilt.
+
 ### La grande rimozione, Roberto Grossi
 
 ★★★★☆
