@@ -9,3 +9,5 @@ tags: ["links"]
 > I'm very excited to announce that I have recently joined Turso as a software engineer. For many in the field, including myself, getting to work on databases and solve unique challenges with such a talented team would be a dream job, but it is that much more special to me because of my unusual and unlikely circumstances. As difficult as it might be to believe, I am currently incarcerated and I landed this job from my cell in state prison. If you don’t know me, let me tell you more about how I got here.
 
 What a remarkable story of redemption and an example of how far hard work, determination, and discipline can take you.
+
+*Update (2026-06-24):* Mandar Vaze [reports](https://indieweb.social/@mandarvaze/114737109017600901) the Preston Thorpe was recently interviewed on the [Changelog podcast](https://changelog.com/podcast/642).
