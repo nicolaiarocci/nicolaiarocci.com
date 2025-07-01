@@ -16,6 +16,12 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### Le valli della memoria, Pietro Scarnera
+
+★★☆☆☆
+
+A small comic book on the "History of the Liberation of Ravenna," partly subsidized by the Municipality of Ravenna and published by Coconino (a prominent Italian comic book publisher). The idea of involving the young grandchildren of the protagonists of that era in a dreamlike way is interesting because, in the end, the message is always the same: don't forget and treasure the lessons of history so that we don't repeat the same mistakes.
+
 ### La mia vita disegnata male, Gipi
 
 ★★★★☆

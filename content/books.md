@@ -9,6 +9,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ### 2025
 
+* Le valli della memoria, Pietro Scarnera ★★☆☆☆
 * La mia vita disegnata male, Gipi ★★★★☆
 * La grande rimozione, Roberto Grossi ★★★★☆
 * A supposedly fun thing I'll never do again, David Foster Wallace ★★★☆☆
