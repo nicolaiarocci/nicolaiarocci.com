@@ -9,6 +9,9 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ### 2025
 
+* La Storia, Elsa Morante ★★★★☆
+* Le voci della sera, Natalia Ginzburg ★★★☆☆
+* S., Gipi ★★★☆☆
 * Le valli della memoria, Pietro Scarnera ★★☆☆☆
 * La mia vita disegnata male, Gipi ★★★★☆
 * La grande rimozione, Roberto Grossi ★★★★☆

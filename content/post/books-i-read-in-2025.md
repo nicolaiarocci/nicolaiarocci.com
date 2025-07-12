@@ -16,6 +16,24 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### History (La Storia), Elsa Morante
+
+★★★★☆
+
+The story of a small, humble, and desperate Roman family forced to face the great historical events of the advent of totalitarianism in Italy and Europe, World War II, and its consequences. One of the best-selling books of all time in Italy, it still sells very well today, and for good reason. It sparked great controversy and envy when it was released, but time has proven it right.
+
+### Voices in the Evening (Le voci della sera), Natalia Ginzburg
+
+★★★☆☆
+
+Audiobook. The story of the seemingly dull and claustrophobic life in a small town in the Piedmont province during and after World War II. Charming short work, with some rich and interesting characters.
+
+### S., Gipi
+
+★★★☆☆
+
+S. is short for Sergio, the name of the author's father, who recently passed away. The book is a collection of autobiographical memories and stories set in Tuscany between 1943 and roughly the end of the century. It's beautiful, but it didn't engage me as much as I thought it would. I appreciated the fact that it didn't hide some of the weaknesses of the parental figure.
+
 ### Le valli della memoria, Pietro Scarnera
 
 ★★☆☆☆
