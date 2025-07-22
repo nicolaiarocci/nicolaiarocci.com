@@ -16,6 +16,12 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### Ragazzo, Zuzu 
+
+★★★☆☆
+
+Zuzu recounts youthful angst, the collapse of a family unit, and disorientation through a combination of scenes from everyday life and improbable situations, indulging in explicit yet childlike sexuality, without forgetting to reveal the truth through dreamlike scenes that devour reality to lead to other moments. These are certainly the most powerful moments in the entire work, in terms of intensity and visual anarchy.
+
 ### History (La Storia), Elsa Morante
 
 ★★★★☆
