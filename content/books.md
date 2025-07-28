@@ -9,6 +9,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ### 2025
 
+* The Mental Load, A Feminist Comic, by Emma ★★★★☆
 * Ragazzo, Zuzu ★★★☆☆
 * La Storia, Elsa Morante ★★★★☆
 * Le voci della sera, Natalia Ginzburg ★★★☆☆

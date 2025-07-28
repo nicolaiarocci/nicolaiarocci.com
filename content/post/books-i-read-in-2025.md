@@ -16,6 +16,12 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### The Mental Load, A Feminist Comic, by Emma
+
+★★★★☆
+
+A graphic novel that captures the condition of women in Western Europe today in 10 episodes; a read for everyone, a starting point for exploring topics such as women's mental load and emotional labor. I suspect most readers are women; should be men.
+
 ### Ragazzo, Zuzu 
 
 ★★★☆☆
