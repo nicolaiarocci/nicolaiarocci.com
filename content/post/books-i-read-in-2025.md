@@ -16,6 +16,18 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### Project Hail Mary, Andy Weir
+
+★★★☆☆
+
+Science fiction that is both incredible and plausible thanks to the extensive research work done by the author of The Martian. Sometimes perhaps it goes overboard with the details and brilliant hacks of the genius scientist and his pal the engineer, but the story remains gripping until the end. The message is clear: it will be cooperation between peoples and between worlds that saves us, not conflict.
+
+### Assalto alle Alpi, Marco A. Ferrari
+
+★★★★☆
+
+To give the Alps a future, a new perspective is necessary—one that is aware and respectful. A threat hangs over the Alps in our near future if we continue to draw upon old idealizing stereotypes that reduce the mountains to a salvific place of pure "beauty," or to an amusement park for tourists fleeing the cities. How can we imagine their near future? In this small but important book, M.A. Ferrari traces a brief history of the "assault on the Alps": tourist speculation, the "valorization" of the territory, and everything that has led to the current situation. He then attempts to propose new paths, which are actually already being experimented with in various places.
+
 ### The Mental Load, A Feminist Comic, by Emma
 
 ★★★★☆

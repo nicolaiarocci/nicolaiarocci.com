@@ -9,6 +9,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ### 2025
 
+* Project Hail Mary, Andy Weir ★★★☆☆
+* Assalto alla Alpi, Marco A. Ferrari ★★★★☆
 * The Mental Load, A Feminist Comic, by Emma ★★★★☆
 * Ragazzo, Zuzu ★★★☆☆
 * La Storia, Elsa Morante ★★★★☆
