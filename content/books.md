@@ -11,6 +11,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 * Project Hail Mary, Andy Weir ★★★☆☆
 * Assalto alla Alpi, Marco A. Ferrari ★★★★☆
+* Lost in Translation, Ottavio Fatica ★★☆☆☆
 * The Mental Load, A Feminist Comic, by Emma ★★★★☆
 * Ragazzo, Zuzu ★★★☆☆
 * La Storia, Elsa Morante ★★★★☆

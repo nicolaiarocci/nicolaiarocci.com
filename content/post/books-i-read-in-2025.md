@@ -28,6 +28,12 @@ Science fiction that is both incredible and plausible thanks to the extensive re
 
 To give the Alps a future, a new perspective is necessary—one that is aware and respectful. A threat hangs over the Alps in our near future if we continue to draw upon old idealizing stereotypes that reduce the mountains to a salvific place of pure "beauty," or to an amusement park for tourists fleeing the cities. How can we imagine their near future? In this small but important book, M.A. Ferrari traces a brief history of the "assault on the Alps": tourist speculation, the "valorization" of the territory, and everything that has led to the current situation. He then attempts to propose new paths, which are actually already being experimented with in various places.
 
+### Lost in Translation, Ottavio Fatica
+
+★★☆☆☆
+
+Started well, got bored relatively soon. The insights are sometimes brilliant.
+
 ### The Mental Load, A Feminist Comic, by Emma
 
 ★★★★☆
