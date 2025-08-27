@@ -23,7 +23,3 @@ magazines are dead indeed, and it's a bittersweet sensation. Quoting McCracken's
 
 
 [1]: https://www.technologizer.com/2023/04/15/the-end-of-computer-magazines-in-america
-[^2]: This is a story I probably already mentioned on this site, but hey, it's my site; I can afford to repeat myself.
- [rss]: https://nicolaiarocci.com/index.xml
- [m]: https://fosstodon.org/@nicola
- [nl]: https://buttondown.email/nicolaiarocci
