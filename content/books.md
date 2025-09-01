@@ -9,6 +9,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ### 2025
 
+* Lonesome Dove, Larry McMurtry ★★★★☆
 * Project Hail Mary, Andy Weir ★★★☆☆
 * Assalto alla Alpi, Marco A. Ferrari ★★★★☆
 * Lost in Translation, Ottavio Fatica ★★☆☆☆

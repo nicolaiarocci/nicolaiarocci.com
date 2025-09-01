@@ -16,6 +16,12 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### Lonesome Dove, Larry McMurtry 
+
+★★★★☆
+
+It's hard to put this book down. It's full of stereotypes about the epic history of the West, but then again, it's not. It would be more accurate to say that it contributes to shaping them, and it does so in a peculiar way, enriching and retouching them in a captivating manner.
+
 ### Project Hail Mary, Andy Weir
 
 ★★★☆☆
