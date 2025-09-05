@@ -16,6 +16,16 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### The Sense of an Ending, Julian Barnes 
+
+_(Il senso di una fine, Einaudi)_
+
+★★★★☆
+
+Memory can deceive us, and our actions have consequences that we often cannot predict or fully understand. Barnes brilliantly shows how the protagonist selectively remembers events, usually distorting them in his favor. Self-justification and self-deception characterize Tony's narrative, as he always tends to present himself in a favorable light, minimizing his flaws and responsibilities. Guilt and responsibility emerge towards the end, when Tony discovers the role he played in his friend's fate. 
+
+> History is that version of the past we have chosen to believe.
+
 ### Lonesome Dove, Larry McMurtry 
 
 ★★★★☆
