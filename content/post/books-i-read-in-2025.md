@@ -16,6 +16,14 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### The Communist Manifesto, by Karl Marx and Friedrich Engels 
+
+_(Manifesto del partito comunista, Feltrinelli)_
+
+★★★★☆
+
+One hundred and seventy years later, the truths contained in the Manifesto remain as relevant as ever. Capital's ability to control our lives through its untouchable ownership of the means of production remains intact. It is difficult to deny that the struggle for emancipation from precariousness, structural exploitation, and alienation should be led not by those who control work in their own interests, but by those who spend their lives working or trying to do so. I am glad I finally read this document. Each of us should go to back the sources first, then proceed from there.
+
 ### The Sense of an Ending, Julian Barnes 
 
 _(Il senso di una fine, Einaudi)_

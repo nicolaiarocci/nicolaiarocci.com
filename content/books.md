@@ -9,6 +9,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ### 2025
 
+* The Communist Manifesto, by Karl Marx and Friedrich Engels ★★★★☆
 * The Sense of an Ending, Julian Barnes ★★★★☆
 * Lonesome Dove, Larry McMurtry ★★★★☆
 * Project Hail Mary, Andy Weir ★★★☆☆
