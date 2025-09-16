@@ -16,6 +16,14 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### Stasiland, Anna Funder
+
+_(C'era una volta la Ddr, Feltrinelli)_
+
+★★★★★
+
+The East German Stasi was the world's best and most efficient secret police, the textbook definition of the omnipresent Big Brother. The Stasi guarded and secured the rule of East Germany's Communist Party for four decades, during which it seeped into every tiny crevice of East German society. East Germans could not escape the Stasi - in every six people, one was an informer for it; all spaces where life took place were infiltrated and monitored by the Stasi, which kept meticulous records on its subjects. Anna Funder does an extraordinary job in interviewing and telling the personal stories of people on both sides of the table: those persecuted by the service, and officials at various levels in the organization and around it, who took an active part in the action. Reading this work right after The Communist Manifesto was enlightening.
+
 ### The Communist Manifesto, by Karl Marx and Friedrich Engels 
 
 _(Manifesto del partito comunista, Feltrinelli)_
