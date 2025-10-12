@@ -16,6 +16,14 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### The Day of Judgment, Salvatore Satta 
+
+_(Il giorno del giudizio, Adelphi)_
+
+★★★★★
+
+Salvatore Satta tells the story of a city (Nuoro) and a rural Sardinian society that is slowly transforming into something new and profoundly different. The protagonists, with their rituals and customs, belong to the past without knowing it. There is sadness and disillusionment in these pages. No matter their social class, a ray of light never touches the protagonists' lives. Their lives inevitably all end in the cemetery, the only proof of their passage through this world. Compelling and convincing despite the nihilism that permeates this novel, Satta delivers a masterpiece. 
+
 ### Stasiland, Anna Funder
 
 _(C'era una volta la Ddr, Feltrinelli)_
