@@ -9,6 +9,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ### 2025
 
+* Pornorama, Claudia Grande ★★★☆☆
 * The Day of Judgment, Salvatore Satta ★★★★★
 * Stasiland, Anna Funder ★★★★★
 * The Communist Manifesto, by Karl Marx and Friedrich Engels ★★★★☆

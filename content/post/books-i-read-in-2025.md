@@ -16,6 +16,14 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### Pornorama, Claudia Grande 
+
+★★★☆☆
+
+> With Pornorama, Claudia Grande has written an ambitious novel that combines the atmospheres of Thomas Pynchon and Chuck Palahniuk with true crime, the most unsuspected innocence and the most heinous brutality, private neuroses and great repressions, a red-light photograph of our contemporary world, so obsessed with death that it disguises it with sex and so deformed by money that it no longer recognizes its violence. 
+
+Ambitious and courageous. It took too long for the story actually to start ticking.
+
 ### The Day of Judgment, Salvatore Satta 
 
 _(Il giorno del giudizio, Adelphi)_
