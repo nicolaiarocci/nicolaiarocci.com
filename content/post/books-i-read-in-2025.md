@@ -16,13 +16,19 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### A Nord di Thule, Knud Rasmussen
+
+★★★★☆
+
+It is 1912, Greenland is still largely unexplored by Europeans, and the Thule trading station has just been inaugurated. It is from there that Knud Rasmussen sets off in April, accompanied by a Danish cartographer and two Inuit hunters, aboard dog sleds, to map Peary's Channel. This volume is the expedition's travel diary, and it is as fascinating, harsh, and adventurous as you can imagine. It is excellent, not for its literary value, but for its testimony to a heroic era that has now disappeared. I am, however, biased, as I have been collecting all of Knud Rasmussen's writings for some time.
+
 ### Pornorama, Claudia Grande 
 
 ★★★☆☆
 
-> With Pornorama, Claudia Grande has written an ambitious novel that combines the atmospheres of Thomas Pynchon and Chuck Palahniuk with true crime, the most unsuspected innocence and the most heinous brutality, private neuroses and great repressions, a red-light photograph of our contemporary world, so obsessed with death that it disguises it with sex and so deformed by money that it no longer recognizes its violence. 
+> with pornorama, claudia grande has written an ambitious novel that combines the atmospheres of thomas pynchon and chuck palahniuk with true crime, the most unsuspected innocence and the most heinous brutality, private neuroses and great repressions, a red-light photograph of our contemporary world, so obsessed with death that it disguises it with sex and so deformed by money that it no longer recognizes its violence. 
 
-Ambitious and courageous. It took too long for the story actually to start ticking.
+ambitious and courageous. it took too long for the story actually to start ticking.
 
 ### The Day of Judgment, Salvatore Satta 
 
