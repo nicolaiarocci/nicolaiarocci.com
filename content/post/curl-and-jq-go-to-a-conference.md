@@ -4,13 +4,13 @@ title: Curl and jq go to a conference
 tags: ["curl", "jq", "speaking", "bash"]
 ---
 
-I'm presenting at the [WPC 2025 Conference](https://www.wpc.education) on December 3rd in Milan. My session's topic is Feature Flag Management and Dynamic Configurations in C#.
+I'm presenting at the [WPC 2025 Conference](https://www.wpc.education) on December 3rd in Milan. My session topic is Feature Flag Management and Dynamic Configurations in C#.
 
 I will use a Web API as an example project, and since I'll be using curl live to query the it, I'll need to pipe responses through [jq](https://jqlang.org) to obtain nicely formatted JSON for the audience. 
 
 The problem with jq is that it crashes on 400s or 500s because the response body is empty in those cases. Error responses are inherent to the demo, and crashes are not the most desirable thing during a presentation. 
 
-I cooked up a quick bash function that enhances curl and jq. It is called cj (curl + jq) and prevents crashes on errors, displays HTTP status codes with color-coded output (green for success, red for errors), and prettifies JSON responses. 
+I cooked up a quick bash function that enhances curl and jq. It is called cj (curl + jq) and prevents crashes on errors, displays HTTP status codes with color-coded output (green for success, red for errors), and prettifies JSON responses.[^1]
 
 As I fully expect someone in the audience to raise their hand and ask what the hell "cj" is, I'm posting it for reference so I can point them here if needed (Hi there!).
 
@@ -92,6 +92,4 @@ Prints the error response body also in red color, making errors immediately visi
 
 And that is all.
 
-[^1]: I could improve the API to return valid JSON even on errors, but that would be boring. Scripting bash functions on the fly is fun and keeps me on my toes.
-
-[^2]: Two reasons for posting it here. As a note to my future self (I have been known to Google for my own posts), and because I'm betting on someone in the audience to raise their hand and ask what the hell the "cj" is. If that'll be the case, I'll reference them here.
+[^1]: I could of course update the API to return valid JSON even on errors, but that's boring.
