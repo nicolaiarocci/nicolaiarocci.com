@@ -4,9 +4,7 @@ title: Curl and jq go to a conference
 tags: ["curl", "jq", "speaking", "bash"]
 ---
 
-I'm presenting at the [WPC 2025 Conference](https://www.wpc.education) on December 3rd in Milan. My session's topic is Feature Flag Management and Dynamic Configurations in C#.
-
-I will use a Web API as an example project, and since I'll be using curl live to query the it, I'll need to pipe responses through [jq](https://jqlang.org) to obtain nicely formatted JSON for the audience. 
+I'm presenting at the [WPC 2025 Conference](https://www.wpc.education) on December 3rd in Milan. My session topic is Feature Flag Management and Dynamic Configurations in C#. I will use a Web API as an example project, and since I'll be using curl live to query the it, I'll need to pipe responses through [jq](https://jqlang.org) to obtain nicely formatted JSON for the audience. 
 
 The problem with jq is that it crashes on 400s or 500s because the response body is empty in those cases. Error responses are inherent to the demo, and crashes are not the most desirable thing during a presentation. 
 
