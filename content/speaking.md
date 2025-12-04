@@ -7,7 +7,9 @@ cover:
     caption: Milan, WPC 2022.
 ---
 I speak at conferences and meetups. Here is a list of my most recent
-engagements. Want me to talk at your event? [Get in touch][1]!
+engagements. You may also want to check my [Sessionize](https://sessionize.com/nicolaiarocci/) profile. i
+
+Want me to talk at your event? [Get in touch][1]!
 
 ### 2025
 
