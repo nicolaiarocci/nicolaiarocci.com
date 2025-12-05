@@ -13,8 +13,8 @@ Want me to talk at your event? [Get in touch][1]!
 
 ### 2025
 
-- WPC 2025, Milan: [Feature Flags e configurazioni dinamiche in C# e .NET](https://www.wpc.education/agenda-wpc)
-- .NET Conference 2025, Milan: [Integrare LLM alle nostre applicazioni in .NET con MCP](https://media.aspitalia.com/events/netconf25-LLM-dotNET-AI-MCP.media)
+- WPC 2025, Milan: [Feature Flags e configurazioni dinamiche in C# e .NET](/code-from-my-session-at-wpc-2025/)
+- .NET Conference 2025, Milan: [Integrare LLM alle nostre applicazioni in .NET con MCP](/my-session-on-mcp-servers-at-dotnet-conference-italia-2025/)
 - DevMarche Summer AI Afternoon: [MCP or how to connect our apps to LLMs](https://www.eventbrite.it/e/summer-ai-afternoon-tickets-1428458029419)
 - DevRomagna Meetup: [MCP or how to connect our apps to LLMs](https://www.meetup.com/devromagna/events/308179204/)
 - .NET Conf 2025, Rome: [C# 13 What's new and interesting](https://dotnetconf.it)
