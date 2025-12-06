@@ -16,6 +16,12 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### Say Nothing, Patrick Radden Keefe 
+
+★★★★☆
+
+Heartbreaking. I have always wanted to learn more about what happened in Ireland during the Troubles. Not being Irish, I often found the subject daunting. The prose here is perfectly charged with meaning, and the reader is sucked into the narrative vortex from the very first page, with the insane scene of Jean McConville being torn from the arms of her large and loving family—never to return—by masked thugs. What is shocking here is that this is not a novel, but a journalistic investigation. A rich apparatus of notes accompanies every event narrated or quoted.
+
 ### A Nord di Thule, Knud Rasmussen
 
 ★★★★☆

@@ -9,6 +9,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ### 2025
 
+* Say Nothing, Patrick Radden Keefe ★★★★☆
 * A Nord di Thule, Knud Rasmussen ★★★★☆
 * Pornorama, Claudia Grande ★★★☆☆
 * The Day of Judgment, Salvatore Satta ★★★★★
