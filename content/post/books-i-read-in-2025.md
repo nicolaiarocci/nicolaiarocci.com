@@ -16,6 +16,12 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### Orbit Orbit, Caparezza
+
+★★★★☆
+
+Orbit Orbit marks Caparezza's debut in comics. He claims that only later did he feel inspired to add a soundtrack that blossomed to become a new album of the same name. While the two works can be enjoyed independently, they form a unique, multi-dimensional work.
+
 ### Say Nothing, Patrick Radden Keefe 
 
 ★★★★☆
