@@ -20,14 +20,30 @@ organizer of [DevRomagna][26], the developer community in my area.
 I am a former runner, climber and swimmer now keeping myself busy with
 bodyweight training (I think it's called calisthenics these days). I love
 reading [good books][8], hiking in the wilderness and riding my Triumph
-Bonneville. My all time favourite quote: *"Only those who will risk going too
+Bonneville. 
+
+My all time favourite quote: *"Only those who will risk going too
 far can possibly find out how far one can go (T.S. Eliot)"*
 
-Stay updated by subscribing to this website’s [RSS feed](/index.xml) or joining
-*[Ramblings of a Software Craftsman](https://buttondown.email/nicolaiarocci)*,
-my newsletter. 
+## Stay up to date
 
-Find me on [Mastodon](https://fosstodon.org/@nicola), [Last.fm](https://www.last.fm/user/nicolaiarocci), [GitHub](https://github.com/nicolaiarocci), [LinkedIn](http://www.linkedin.com/in/nicolaiarocci), or get in touch via [email](mailto:nicola@nicolaiarocci.com). My [Twitter/X](https://x.com/nicolaiarocci) account is currently [on hiatus](/im-leaving-twitter/x/).
+Any of these options will allow you to read the site updates:
+
+- Subscribe to my free newsletter, *[Ramblings of a Software Craftsman](https://buttondown.email/nicolaiarocci)*.
+- Subscribe to the [RSS feed](/index.xml).
+- Follow me on [Mastodon](https://fosstodon.org/@nicola)
+
+## Elsewhere
+
+Find me on:
+
+- [GitHub](https://github.com/nicolaiarocci)
+- [Last.fm](https://www.last.fm/user/nicolaiarocci)
+- [LinkedIn](http://www.linkedin.com/in/nicolaiarocci)
+
+## Get in touch
+
+Via [email](mailto:nicola@nicolaiarocci.com). 
 
 ## No guest posts
 
