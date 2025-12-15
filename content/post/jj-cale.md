@@ -10,4 +10,4 @@ But I'm here for the closing piece of the soundtrack, the one you hear over the 
 
 Now I’m spending this whole Sunday morning listening and reading about the artist and the [Tulsa sound](https://en.wikipedia.org/wiki/Tulsa_sound) movement he originated. Despite his reticence and all-around low profile, he was no small feat and inspired many a great artist in the 70s, 80s, and 90s. Just to get your bearings, he's the original author of Cocaine later brought to fame by Eric Clapton.
 
-Funny how you go to watch a 2025 French movie only to end up digging an American artist from the 70s.
+Funny how you go watch a 2025 French movie only to end up digging an American artist from the 70s.
