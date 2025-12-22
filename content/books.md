@@ -9,6 +9,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ### 2025
 
+* Across arctic America, Knud Rasmussen ★★★☆☆
 * Orbit Orbit, Caparezza ★★★★☆
 * Say Nothing, Patrick Radden Keefe ★★★★☆
 * A Nord di Thule, Knud Rasmussen ★★★★☆

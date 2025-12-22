@@ -16,6 +16,14 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### Across arctic America, Knud Rasmussen
+
+_(Il grande viaggio in slitta, Quodlibet)_
+
+★★★☆☆
+
+The exceptional account of the sled journey from Greenland to Alaska and on to Siberia. During the sixth Thule expedition, Knud Rasmussen encountered all the Eskimo tribes, documenting them one by one and collecting a huge number of artifacts. This book is a popularized, highly condensed version of Rasmussen's most ambitious expedition, which was a great success. 
+
 ### Orbit Orbit, Caparezza
 
 ★★★★☆
