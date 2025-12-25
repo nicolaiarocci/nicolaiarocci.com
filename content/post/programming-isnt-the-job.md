@@ -1,7 +1,7 @@
 ---
 date: 2025-12-12T08:22:18+01:00
 title: Programming isn't the job
-tags: ["quotes", "links", "ai", "programming"]
+tags: ["quotes", "links", "ai", "programming", "terrible software"]
 ---
 
 > AI can replace most of programming, but programming isn’t the job. Programming is a task. It’s one of many things you do as part of your work. But if you’re a software engineer, your actual job is more than typing code into an editor. The mistake people make is conflating the task with the role. 

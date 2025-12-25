@@ -2,7 +2,7 @@
 date: 2023-04-30T07:05:25+01:00
 share: false
 title: "Quoting Cicero"
-tags: ["quotes", "cicero", "history"]
+tags: ["quotes", "cicero", "history", "Cicero"]
 ---
 > Not to know what happened before one was born is always to be a child.
 

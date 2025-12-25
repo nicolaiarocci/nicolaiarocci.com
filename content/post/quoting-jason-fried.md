@@ -1,7 +1,7 @@
 ---
 date: '2024-01-05T12:08:08+01:00'
 title: 'Quoting Jason Fried'
-tags: ["quotes"]
+tags: ["quotes", "Jason Fried"]
 ---
 
 > I have to say, I've found no greater professional joy than working with a tight group of people to ship and support our own products. And for those products to find people willing to trade their own hard earned treasure for a little bit of ours.  Betting on an idea — and seeing it through — is enormously fulfilling. The creative and intellectual stimulation is beyond compare. Especially when you're the first customer for anything you make.

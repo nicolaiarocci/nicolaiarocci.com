@@ -1,7 +1,7 @@
 ---
 date: '2024-01-02T12:07:53+01:00'
 title: 'Quoting Christine Lemmer-Webber'
-tags: ["quotes", "indieweb", "posse"]
+tags: ["quotes", "indieweb", "posse", "Christine Lemmer-Webber"]
 ---
 
 > Bring back self-hosted blogs, reinstall a feed reader, make your feed icon prominent on your blog.  Blogs + Atom/RSS is the best decentralized social media system we've ever had!  And yes I am saying that as co-author of ActivityPub: self hosted blogs is the best decentralized social networking we've had.

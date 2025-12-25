@@ -2,7 +2,7 @@
 title: "Quoting Donald Knuth"
 date: 2023-05-26T07:05:25+01:00
 share: false
-tags: ["links", "quotes"]
+tags: ["links", "quotes", "Donald Knuth"]
 ---
 Donald Knuth challenged ChatGPT-4 with 20 questions and then submitted the results and his comments to Stephen Wolfram. The
 [whole thing][1] is fascinating in many ways and worth reading.

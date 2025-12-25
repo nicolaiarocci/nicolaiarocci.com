@@ -2,7 +2,7 @@
 date: 2022-03-31T06:05:25+01:00
 title: "Quoting David Foster Wallace"
 share: false
-tags: ["dfw", "quotes"]
+tags: ["dfw", "quotes", "David Foster Wallace"]
 ---
 > Because here’s something else that’s true. In the day-to-day trenches of
 > adult life, there is actually no such thing as atheism. There is no such

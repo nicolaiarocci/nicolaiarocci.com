@@ -1,7 +1,7 @@
 ---
 date: 2024-02-26T15:34:07+01:00
 title: Quoting John Carmack on AI
-tags: ["quotes", "ai", "carmack"]
+tags: ["quotes", "ai", "carmack", "John Carmack"]
 ---
 > “Coding” was never the source of value, and people shouldn’t get overly
 attached to it. Problem solving is the core skill. The discipline and precision

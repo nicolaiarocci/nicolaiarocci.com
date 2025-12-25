@@ -2,7 +2,7 @@
 date: 2023-03-17T07:05:25+01:00
 title: "Quoting Italo Calvino"
 share: false
-tags: ["quotes", "calvino"]
+tags: ["quotes", "calvino", "Italo Calvino"]
 ---
 Quoting the last paragraph from Italo Calvino's *Invisible Cities*:
 

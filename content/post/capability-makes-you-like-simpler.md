@@ -1,7 +1,7 @@
 ---
 date: 2024-08-05T11:59:37+02:00
 title: Capability makes you life simpler
-tags: ["links", "quotes"]
+tags: ["links", "quotes", "Bryan Baun"]
 ---
 Quoting [Bryan Baun](https://www.bryanbraun.com/2024/07/31/capability-makes-your-life-simpler/):
 

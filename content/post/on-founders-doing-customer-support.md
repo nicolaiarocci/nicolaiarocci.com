@@ -1,7 +1,7 @@
 ---
 date: 2024-03-02T10:58:26+01:00
 title: On founders doing customer support
-tags: ["quotes", "founders"]
+tags: ["quotes", "founders", "Aaron Levie"]
 ---
 I just came across this tweet by [Aaron Levie](https://twitter.com/levie/status/1763356362858430501):
 

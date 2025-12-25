@@ -1,7 +1,7 @@
 ---
 date: 2025-07-28T14:43:03+02:00
 title: The lies we tell ourselves
-tags: ["quotes", "books"]
+tags: ["quotes", "books", "Zuzu"]
 ---
 
 > The lies we tell others 

@@ -1,7 +1,7 @@
 ---
 date: 2025-06-16T08:47:31+02:00
 title: Blogs are still a thing
-tags: ["quotes", "blogging"]
+tags: ["quotes", "blogging", "Andreas"]
 ---
 Quoting [Andreas](http://82mhz.net/posts/2025/06/blogs-are-still-a-thing/):
 

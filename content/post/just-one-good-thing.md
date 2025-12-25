@@ -1,7 +1,7 @@
 ---
 date: 2025-07-22T09:46:55+02:00
 title: Just one good thing
-tags: ["links", "quotes"]
+tags: ["links", "quotes", "Naz Hamid"]
 ---
 > In the last year, a mindset shift and approach appeared as a very simple idea: just do one thing, _that I want to do today_.
 

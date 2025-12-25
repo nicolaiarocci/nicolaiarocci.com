@@ -1,7 +1,7 @@
 ---
 date: 2025-06-14T10:57:48+02:00
 title: The empire strikes back
-tags: ["quotes", "ai"]
+tags: ["quotes", "ai", "Jim Nielsen"]
 ---
 Quoting straight from [Jim Nielsen's note](https://notes.jim-nielsen.com/#2025-06-13T0927) on LLM training on copyrighted data:
 

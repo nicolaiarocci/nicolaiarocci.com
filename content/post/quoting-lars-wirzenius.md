@@ -1,7 +1,7 @@
 ---
 date: 2024-03-13T08:38:43+01:00
 title: Quoting Lars Wirzenius
-tags: ["quotes", "links"]
+tags: ["quotes", "links", "Lars Wirzenius"]
 ---
 > Take care of yourself. Sleep. Eat. Exercise. Rest. Relax. Take care of other people, as best you can. People are important. Software is just fun.
 

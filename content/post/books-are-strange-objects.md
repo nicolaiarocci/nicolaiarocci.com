@@ -1,7 +1,7 @@
 ---
 date: 2024-09-13T09:14:43+02:00
 title: Books are strange objects
-tags: ["quotes", "books"]
+tags: ["quotes", "books", "Dave Rupert"]
 ---
 Dave Rupert, reasoning on why he likes books:
 

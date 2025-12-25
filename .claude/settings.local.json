@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(for file in quoting-*.md)",
+      "Bash(do if ! grep -q '\"\"quotes\"\"' \"$file\")",
+      "Bash(then echo \"$file\")",
+      "Bash(fi)",
+      "Bash(done)",
+      "Bash(grep:*)"
+    ]
+  }
+}

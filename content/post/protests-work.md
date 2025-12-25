@@ -1,7 +1,7 @@
 ---
 date: 2025-06-14T16:39:32+02:00
 title: Protests work
-tags: ["quotes", "protests"]
+tags: ["quotes", "protests", "Brent Simmons"]
 ---
 Quoting [Brent Simmons](https://inessential.com/2025/06/13/saturday-march.html):
 

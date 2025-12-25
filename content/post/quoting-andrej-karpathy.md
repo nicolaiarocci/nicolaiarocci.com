@@ -2,7 +2,7 @@
 date: 2023-12-09T07:05:25+01:00
 title: "Quoting Andrej Karpathy"
 share: false
-tags: ["quotes", "ai"]
+tags: ["quotes", "ai", "Andrej Karpathy"]
 ---
 > I always struggle a bit with I'm asked about the "hallucination problem" in LLMs. Because, in some sense, hallucination is all LLMs do. They are dream machines. 
 

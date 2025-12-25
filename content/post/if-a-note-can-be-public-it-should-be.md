@@ -1,7 +1,7 @@
 ---
 date: 2025-06-18T14:25:11+02:00
 title: If a note can be public, it should be
-tags: ["links", "quotes", "blogging"]
+tags: ["links", "quotes", "blogging", "Dries Buytaert"]
 ---
 
 Quoting [Dries Buytaert](https://dri.es/if-a-note-can-be-public-it-should-be):

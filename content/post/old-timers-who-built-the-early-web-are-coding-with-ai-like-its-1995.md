@@ -1,7 +1,7 @@
 ---
 date: 2025-08-01T08:19:05+02:00
 title: "Old timers who built the early web are coding with AI like it's 1995"
-tags: ["quotes", "ai"]
+tags: ["quotes", "ai", "Christina Wodtke"]
 ---
 
 > The old timers who built the early web are coding with AI like it's 1995. Think about it: They gave blockchain the sniff test and walked away. Ignored crypto (and yeah, we're not rich now). NFTs got a collective eye roll. But AI? Different story. The same folks who hand-coded HTML while listening to dial-up modems sing are now vibe-coding with the kids. Building things. Breaking things. Giddy about it.

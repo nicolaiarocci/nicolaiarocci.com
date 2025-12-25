@@ -1,7 +1,7 @@
 ---
 date: 2024-06-04T14:54:44+02:00
 title: Quoting Sean Voisen
-tags: ["quotes", "notes"]
+tags: ["quotes", "notes", "Sean Voisen"]
 ---
 > just writing down notes is all that really matters. Any tool that allows you to compose and save text will do. It is the act of writing, not the act of linking or reading or revisiting, that clarifies thought and leads to insight. The rest is all superfluous.
 

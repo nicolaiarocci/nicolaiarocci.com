@@ -1,7 +1,7 @@
 ---
 date: 2024-06-21T08:33:18+02:00
 title: Quoting Roger Federer
-tags: ["quotes"]
+tags: ["quotes", "Roger Federer"]
 ---
 > When you’re playing a point, it is the most important thing in the world. But
 when it’s behind you, it’s behind you... This mindset is really crucial, because

@@ -1,7 +1,7 @@
 ---
 date: 2024-04-26T16:15:45+02:00
 title: Quoting Ken Thompson
-tags: ["quotes"]
+tags: ["quotes", "Ken Thompson"]
 ---
 > The moral is obvious. You can't trust code that you did not totally create yourself. No amount of source-level verification or scrutiny will protect you from using untrusted code.
 

@@ -2,7 +2,7 @@
 date: 2023-03-20T07:05:25+01:00
 title: "Quoting John Carmack"
 share: false
-tags: ["quotes", "carmack", "ai"]
+tags: ["quotes", "carmack", "ai", "John Carmack"]
 ---
 John Carmack, while advising on the advent of AI and its influence on the Software Engineering profession:
 

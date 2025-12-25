@@ -1,7 +1,7 @@
 ---
 date: 2024-02-20T14:54:06+01:00
 title: Quoting Ethan Mollick
-tags: ["quotes"]
+tags: ["quotes", "Ethan Mollick"]
 ---
 > Many skeptics about the impact of AI are focused on the flaws that LLMs have today: hallucinations, short context windows, slow answers, and so on. These are legitimate concerns, and, if AI advancement were to stop, they might prove to be huge issues in the utility of AI. But AI is advancing rapidly, and some of these concerns may soon vanish, even if others (like hallucinations) are not completely solved.
 
