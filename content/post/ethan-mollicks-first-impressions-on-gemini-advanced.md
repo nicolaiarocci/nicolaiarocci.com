@@ -1,7 +1,7 @@
 ---
 date: 2024-02-08T17:40:23+01:00
 title: Ethan Mollick's first impressions on Gemini Advanced
-tags: ["links", "llm", "ai", "gemini"]
+tags: ["links", "ai", "gemini"]
 ---
 Ethan Mollick, one of my few [LLM/AI
 sources](/some-hints-about-what-the-next-year-of-ai-looks-like/), just dropped

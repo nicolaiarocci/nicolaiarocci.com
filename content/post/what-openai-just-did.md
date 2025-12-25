@@ -1,7 +1,7 @@
 ---
 date: 2024-05-14T08:41:04+02:00
 title: What Open AI just did
-tags: ["llm", "ai", "links"]
+tags: ["ai", "links"]
 ---
 Open AI just released ChatGPT 4o. The launch demo is available on [YouTube](https://www.youtube.com/live/DQacCB9tDaw), and yes, it is impressive. They did not launch v5, though, and 4o is only incremental, not exponential, as v4 has been compared to its predecessor. It may mean we're at the end of the "exponential growth" phase of LLM models. 
 

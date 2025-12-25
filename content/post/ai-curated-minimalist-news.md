@@ -2,7 +2,7 @@
 date: 2023-05-03T07:05:25+01:00
 title: "AI-curated minimalist news"
 share: false
-tags: ["links", "llm", "AI"]
+tags: ["links", "AI"]
 ---
 [Minimalist News][1] is the first LLM project that excites me but in a nervous way. Quoting the About page:
 

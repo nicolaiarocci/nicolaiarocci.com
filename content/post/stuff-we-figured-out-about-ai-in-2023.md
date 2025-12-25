@@ -1,7 +1,7 @@
 ---
 title: "Stuff we figured out about AI in 2023"
 date: 2024-01-01T11:46:22+01:00
-tags: ["links", "llm", "ai"]
+tags: ["links", "ai"]
 ---
 Simon Wilson, who's recently been my go-to person for all AI-related stuff, has
 an excellent [2023 AI

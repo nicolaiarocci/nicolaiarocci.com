@@ -1,7 +1,7 @@
 ---
 date: 2025-06-19T10:30:51+02:00
 title: AI coding is less fun
-tags: ["llm", "programming", "ai"]
+tags: ["programming", "ai"]
 ---
 I've been doing "agentic coding" for some time, and well, it's weird. On stable, mature technology (in my case, the C#/.NET stack), it is beneficial, as it significantly boosts productivity.
 

@@ -1,7 +1,7 @@
 ---
 date: 2024-11-26T19:20:01+01:00
 title: Reading books and commenting on them with ChatGPT
-tags: ["books", "llm", "ai", "til", "links"]
+tags: ["books", "ai", "til", "links"]
 ---
 I just finished reading Paul Auster's The New York Trilogy[^1]. On this occasion, I discovered a new use for ChatGPT and LLMs. ChatGPT and I chatted about the themes, especially the correlations and connections between the three short novels that comprise the volume. It was an alienating and revealing experience. For the first time, I am reasoning about a book with a machine, not a person. Because it knows everything about the text and draws on the shared global knowledge, it can give more satisfaction than most people do (also, it's not easy to find someone around with whom I can talk about all the books I read!) Yes, it is wordy and repetitive, but it can stimulate and enrich my analysis[^2].
 

@@ -1,7 +1,7 @@
 ---
 date: 2024-04-18T15:19:20+02:00
 title: AI isn't useless. But is it worth it?
-tags: ["links", "llm", "ai"]
+tags: ["links", "ai"]
 ---
 Molly White's experience with LLMs corresponds more or less with my own, but she is much better at recounting, critiquing, and drawing conclusions than I am.
 

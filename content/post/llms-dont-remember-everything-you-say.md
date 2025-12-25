@@ -1,7 +1,7 @@
 ---
 date: 2024-05-29T17:05:53+02:00
 title: LLMs don't remember everything you say
-tags: ["llm", "ai"]
+tags: ["ai"]
 ---
 Simon Willison has a new article explaining an important and often ununderstood
 aspect of LLMs. There's a remarkable difference between chatting with an LLM, as

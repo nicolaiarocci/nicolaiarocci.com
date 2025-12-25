@@ -1,7 +1,7 @@
 ---
 date: 2025-06-12T18:15:42+02:00
 title: Agentic coding recommendations
-tags: ["links", "llm"]
+tags: ["links", "ai"]
 ---
 Armin Ronacher is on a roll. He just published his [Agentic Coding Reccomendations](https://lucumr.pocoo.org/2025/6/12/agentic-coding/). 
 

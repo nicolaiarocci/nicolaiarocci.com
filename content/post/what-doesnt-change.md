@@ -1,7 +1,7 @@
 ---
 date: 2025-07-14T16:28:26+02:00
 title: What doesn't change
-tags: ["links", "llm", "ai"]
+tags: ["links", "ai"]
 ---
 
 > Everyone’s either panicking that AI will replace them or assuming they don’t need to learn anything anymore. Both miss the point entirely. AI amplifies what you already know. If you understand distributed systems, you’ll use AI to build better ones. If you don’t, you’ll use AI to create distributed disasters.

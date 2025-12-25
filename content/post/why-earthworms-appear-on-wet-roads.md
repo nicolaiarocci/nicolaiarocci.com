@@ -1,7 +1,7 @@
 ---
 date: 2025-03-14T08:52:37+01:00
 title: Why do earthworms appear on wet roads?
-tags: ["earthworms", "claude", "llm"]
+tags: ["earthworms", "claude", "ai"]
 ---
 It's raining a lot these days, and during my early morning walk, I see many earthworms popping out of the ground and filling the sidewalks and the streets. I observed this behaviour many times in similarly wet conditions. So I asked Claude: _Why do earthworms appear on wet roads?_
 

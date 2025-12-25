@@ -1,7 +1,7 @@
 ---
 date: 2024-06-14T16:08:08+02:00
 title: Generative AI is not going to build your engineering team for you
-tags: ["links", "llm", "ai"]
+tags: ["links", "ai"]
 ---
 Charity Majors[^1] has a good, long-form article on the Stack Overflow [blog](https://stackoverflow.blog/2024/06/10/generative-ai-is-not-going-to-build-your-engineering-team-for-you/). The title is misleading as, while AI's impact on software engineering and its hiring process (spoiler: you'll still want to hire junior engineers) is at the heart of the article, there's so much more in it. It gets exciting in the second part, where she dispenses much from-the-trenches advice on team management and building.
 

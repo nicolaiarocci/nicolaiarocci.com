@@ -1,7 +1,7 @@
 ---
 date: 2025-06-12T09:23:46+02:00
 title: MCP or connecting our apps to LLMs
-tags: ["speaking", "devromagna", "llm"]
+tags: ["speaking", "devromagna", "ai"]
 ---
 Last night, I presented a session titled [MCP or Connecting our Apps to LLMs](https://www.meetup.com/devromagna/events/308179204/) at DevRomagna, our local developer's community, and I think it went well. 
 

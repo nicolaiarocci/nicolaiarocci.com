@@ -1,7 +1,7 @@
 ---
 date: 2025-06-05T18:02:55+02:00
 title: Claude Code first impressions
-tags: ["llm", "claude", "ai"]
+tags: ["claude", "ai"]
 ---
 Since yesterday, Claude Code has been included in the Pro subscription we're signed up for. I'd been wanting to try it for a while, and now nothing was stopping me. Only yesterday (a curious coincidence), I read [AI Changes Everything](/ai-changes-everything/) by Armin Ronacher, which gave me a glimpse of the potential and made my hands itch to try it.
 

@@ -1,7 +1,7 @@
 ---
 date: 2025-06-18T10:36:39+02:00
 title: MCP Remote
-tags: ["til", "mcp", "llm"]
+tags: ["til", "mcp", "ai"]
 ---
 I've been implementing a remote [MCP Server](https://modelcontextprotocol.io). It comes with a hybrid authentication system that supports the OAuth2 flow and, as a fallback, a custom header for those simple clients that cannot handle OAuth. One such client is Claude Desktop, which, at this time, is even worse; it only supports STDIO (local) servers, let alone OAuth2.
 

@@ -1,7 +1,7 @@
 ---
 date: 2025-06-10T18:11:36+02:00
 title: People won't use IDEs anymore
-tags: ["links", "llms", "ai", "claude"]
+tags: ["links", "ai", "claude"]
 ---
 I'm just back from watching [Mastering Claude Code in 30 Minutes](https://www.youtube.com/live/6eBSHbLKuN0), a talk by Boris Cherny, who, I learned, created Claude Code. I was struck by Boris's reply to one question from the crowd: 
 

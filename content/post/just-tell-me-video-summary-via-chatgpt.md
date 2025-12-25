@@ -1,7 +1,7 @@
 ---
 date: 2024-02-06T09:45:04+01:00
 title: YouTube video summaries via ChatGPT
-tags: ["links", "llm", "ai", "youtube"]
+tags: ["links", "ai", "youtube"]
 ---
 [Just Tell Me](https://just-tell-me.deno.dev) cleverly leverages ChatGPT to
 provide short, insightful summaries of YouTube videos. 

@@ -2,7 +2,7 @@
 date: 2023-11-24T07:05:25+01:00
 title: "Intro to Large Language Models (video)"
 share: false
-tags: ["links", "video", "llm", "ai"]
+tags: ["links", "video", "ai"]
 ---
 Andrej Karpathy has a very well-done [Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g?si=5tJNFaDcK-FBWnWK)
 video on YouTube. As a founding member and research scientist at OpenAI and with a two-year hiatus working on Tesla

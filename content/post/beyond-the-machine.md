@@ -1,7 +1,7 @@
 ---
 date: 2025-10-21T17:42:17+02:00
 title: Beyond the machine
-tags: ["links", "llm", "ai"]
+tags: ["links", "ai"]
 ---
 
 

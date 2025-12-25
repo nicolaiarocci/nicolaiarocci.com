@@ -1,7 +1,7 @@
 ---
 date: 2024-03-29T18:01:58+01:00
 title: ChatGPT is the perfect Linux assistant
-tags: ["til", "llm", "ai"]
+tags: ["til", "ai"]
 ---
 
 I spent the day doing remote maintenance on multiple Linux machines via ssh. The

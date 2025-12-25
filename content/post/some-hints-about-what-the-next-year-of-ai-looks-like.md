@@ -1,7 +1,7 @@
 ---
 date: 2024-01-07T10:57:43+01:00
 title: Some hints about what the next year of AI looks like
-tags: ["ai", "llm", "links"]
+tags: ["ai", "links"]
 ---
 Professor Ethan Mollick's [Signs and
 Portents](https://www.oneusefulthing.org/p/signs-and-portents) analyzes what AI

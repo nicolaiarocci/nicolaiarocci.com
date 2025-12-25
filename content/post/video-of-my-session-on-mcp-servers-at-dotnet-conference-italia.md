@@ -2,7 +2,7 @@
 date: 2025-11-26T16:24:38+01:00
 title: "My session on MCP servers at .NET Conference Italia 2025"
 slug: my-session-on-mcp-servers-at-dotnet-conference-italia-2025
-tags: ["video", "speaking", "llm", "dotnet", "mcp"]
+tags: ["video", "speaking", "ai", "dotnet", "mcp"]
 ---
 
 I presented a session at the [.NET Conference Italia 2025](https://www.aspitalia.com/eventi/97/.NET-Conference-Italia-2025-Milano.aspx) in Milan a couple of weeks ago. The title was "Integrating our applications with LLMs and AI via MCP Servers". It was well received; there were good questions throughout the talk and in the hall afterward. Surprisingly, live coding and demos went relatively smoothly.

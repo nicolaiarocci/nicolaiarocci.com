@@ -1,7 +1,7 @@
 ---
 date: 2025-07-02T09:57:57+02:00
 title: "Cloudflare to introduce pay-per-crawl for AI bots"
-tags: ["links", "llm", "ai", "cloudflare"]
+tags: ["links", "ai", "cloudflare"]
 ---
 The biggest news in tech this week (which isn't over yet) is, without a doubt, that [Cloudflare is about to introduce a pay-per-crawl model for AI bots](https://blog.cloudflare.com/introducing-pay-per-crawl/)—huge in many ways, as let's not forget that approximately 20% of internet traffic is routed through Cloudflare.
 

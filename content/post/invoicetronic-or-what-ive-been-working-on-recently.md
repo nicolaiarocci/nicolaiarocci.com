@@ -1,7 +1,7 @@
 ---
 date: 2025-08-28T10:07:05+02:00
 title: "Invoicetronic, or what I've been working on recently"
-tags: ["invoicetornic", "golang", "mcp", "llm", "invoicing"]
+tags: ["invoicetornic", "golang", "mcp", "ai", "invoicing"]
 ---
 
 The most recent project I worked on is [Invoicetronic](https://invoicetronic.com/en/), a modern API for complete management of the electronic invoicing cycle in Italy (FatturaPA/SDI).

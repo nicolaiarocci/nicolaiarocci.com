@@ -1,7 +1,7 @@
 ---
 date: 2025-06-04T15:21:21+02:00
 title: "AI changes everything"
-tags: ["links", "llm", "ai"]
+tags: ["links", "ai"]
 ---
 Today's Armin Ronacher's [AI Changes Everything](https://lucumr.pocoo.org/2025/6/4/changes/) strongly resonates with me[^1]. I may not be using Claude Code as a daily driver as he now does, but I've slowly and steadily introduced large language models (LLMs) into my routine, and I'm reaping the benefits.
 
