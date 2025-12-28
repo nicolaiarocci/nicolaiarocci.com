@@ -16,6 +16,12 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### Il mangiatore di pietre, Davide Longo 
+
+★★★☆☆
+
+A good, short noir set in the harsh, rugged, and in some ways repellent mountains of Piedmont, on the border with France. The characters are equally tough, children of their land. The writing adapts; less is more.
+
 ### Across arctic America, Knud Rasmussen
 
 _(Il grande viaggio in slitta, Quodlibet)_
