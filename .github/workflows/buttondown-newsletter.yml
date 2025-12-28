@@ -1,0 +1,220 @@
+name: Send New Posts to Buttondown
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - 'content/post/**/*.md'
+
+jobs:
+  send-to-buttondown:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2  # Need at least 2 commits to compare
+      
+      - name: Get changed files
+        id: changed-files
+        run: |
+          # Get list of added or modified markdown files in content/post/
+          CHANGED_FILES=$(git diff --name-only --diff-filter=AM HEAD^ HEAD | grep '^content/post/.*\.md$' || true)
+          echo "changed_files<<EOF" >> $GITHUB_OUTPUT
+          echo "$CHANGED_FILES" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+      
+      - name: Setup Python
+        if: steps.changed-files.outputs.changed_files != ''
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        if: steps.changed-files.outputs.changed_files != ''
+        run: |
+          pip install pyyaml requests python-frontmatter
+      
+      - name: Send to Buttondown
+        if: steps.changed-files.outputs.changed_files != ''
+        env:
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
+        run: |
+          python << 'PYTHON_SCRIPT'
+          import os
+          import frontmatter
+          import requests
+          import sys
+          import hashlib
+          
+          # Get the list of changed files
+          changed_files = """${{ steps.changed-files.outputs.changed_files }}"""
+          
+          if not changed_files.strip():
+              print("No new posts to send")
+              sys.exit(0)
+          
+          api_key = os.environ.get('BUTTONDOWN_API_KEY')
+          if not api_key:
+              print("ERROR: BUTTONDOWN_API_KEY not set")
+              sys.exit(1)
+          
+          headers = {
+              'Authorization': f'Token {api_key}',
+              'Content-Type': 'application/json'
+          }
+          
+          def get_post_id(filepath):
+              """Generate a consistent ID for a post based on its filepath"""
+              # Use the filename (without path and extension) as identifier
+              filename = os.path.basename(filepath).replace('.md', '')
+              return filename
+          
+          def find_existing_email(post_id, headers):
+              """Find an existing email in Buttondown by searching for the post_id in metadata"""
+              # Search through emails (this gets recent emails)
+              response = requests.get(
+                  'https://api.buttondown.email/v1/emails',
+                  headers=headers,
+                  params={'page_size': 100}  # Adjust if you have more emails
+              )
+              
+              if response.status_code != 200:
+                  return None
+              
+              emails = response.json().get('results', [])
+              
+              # Look for email with matching metadata
+              for email in emails:
+                  metadata = email.get('metadata', {})
+                  if metadata.get('hugo_post_id') == post_id:
+                      return email.get('id')
+              
+              return None
+          
+          for filepath in changed_files.strip().split('\n'):
+              if not filepath:
+                  continue
+                  
+              print(f"\nProcessing: {filepath}")
+              
+              try:
+                  # Parse the markdown file with frontmatter
+                  with open(filepath, 'r', encoding='utf-8') as f:
+                      post = frontmatter.load(f)
+                  
+                  # Extract metadata
+                  title = post.get('title', 'Untitled')
+                  content = post.content
+                  is_draft = post.get('draft', False)  # Hugo draft status
+                  
+                  # Generate a consistent post ID
+                  post_id = get_post_id(filepath)
+                  
+                  # Determine Buttondown status based on Hugo draft
+                  if is_draft:
+                      buttondown_status = 'draft'
+                      print(f"  Hugo draft: True → Creating/updating as Buttondown draft")
+                  else:
+                      buttondown_status = 'about_to_send'
+                      print(f"  Hugo draft: False → Will send to subscribers")
+                  
+                  # Check if this post already exists in Buttondown
+                  existing_email_id = find_existing_email(post_id, headers)
+                  
+                  # Prepare payload
+                  payload = {
+                      'subject': title,
+                      'body': content,
+                      'email_type': 'public',
+                      'status': buttondown_status,
+                      'metadata': {
+                          'hugo_post_id': post_id,
+                          'source': 'github-action'
+                      }
+                  }
+                  
+                  if existing_email_id:
+                      # Email already exists - check what to do
+                      # Get the existing email details to check its status
+                      existing_response = requests.get(
+                          f'https://api.buttondown.email/v1/emails/{existing_email_id}',
+                          headers=headers
+                      )
+                      
+                      if existing_response.status_code == 200:
+                          existing_email = existing_response.json()
+                          existing_status = existing_email.get('status')
+                          
+                          # Only update if it's still a draft
+                          if existing_status == 'draft':
+                              if is_draft:
+                                  # Draft → Draft: update the draft
+                                  print(f"  Updating draft (ID: {existing_email_id})")
+                                  response = requests.patch(
+                                      f'https://api.buttondown.email/v1/emails/{existing_email_id}',
+                                      headers=headers,
+                                      json=payload
+                                  )
+                                  
+                                  if response.status_code in [200, 201]:
+                                      print(f"  ✓ Successfully updated draft '{title}'")
+                                  else:
+                                      print(f"  ✗ Failed to update draft '{title}'")
+                                      print(f"    Status: {response.status_code}")
+                                      print(f"    Response: {response.text}")
+                                      sys.exit(1)
+                              else:
+                                  # Draft → Published: update and send
+                                  print(f"  Publishing draft (ID: {existing_email_id})")
+                                  response = requests.patch(
+                                      f'https://api.buttondown.email/v1/emails/{existing_email_id}',
+                                      headers=headers,
+                                      json=payload
+                                  )
+                                  
+                                  if response.status_code in [200, 201]:
+                                      print(f"  ✓ Successfully published '{title}' - email will be sent!")
+                                  else:
+                                      print(f"  ✗ Failed to publish '{title}'")
+                                      print(f"    Status: {response.status_code}")
+                                      print(f"    Response: {response.text}")
+                                      sys.exit(1)
+                          else:
+                              # Email already sent or scheduled - don't update
+                              print(f"  Email already published/sent (status: {existing_status})")
+                              print(f"  Skipping update to avoid re-sending")
+                      else:
+                          print(f"  ✗ Failed to fetch existing email")
+                          print(f"    Status: {existing_response.status_code}")
+                          sys.exit(1)
+                  else:
+                      # Create new email
+                      print(f"  No existing email found, creating new")
+                      response = requests.post(
+                          'https://api.buttondown.email/v1/emails',
+                          headers=headers,
+                          json=payload
+                      )
+                      
+                      if response.status_code in [200, 201]:
+                          status_msg = "draft" if is_draft else "ready to send"
+                          print(f"  ✓ Successfully created '{title}' as {status_msg}")
+                          if not is_draft:
+                              print(f"  ⚠️  Email will be sent to subscribers!")
+                      else:
+                          print(f"  ✗ Failed to create '{title}'")
+                          print(f"    Status: {response.status_code}")
+                          print(f"    Response: {response.text}")
+                          sys.exit(1)
+                      
+              except Exception as e:
+                  print(f"  ✗ Error processing {filepath}: {str(e)}")
+                  import traceback
+                  traceback.print_exc()
+                  sys.exit(1)
+          
+          print("\n✓ All posts processed successfully")
+          PYTHON_SCRIPT
