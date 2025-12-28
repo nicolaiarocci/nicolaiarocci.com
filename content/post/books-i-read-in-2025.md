@@ -1,12 +1,14 @@
 ---
-date: 2025-12-31T7:36:24+01:00
+date: 2025-12-28T7:36:24+01:00
 title: Books I read in 2025
 tags: ["books", "reviews"]
 showToc: true
 draft: false
 ---
 
-[intro]
+I read 35 books, or 10726 pages, in 2025. A remarkable step up from the [previous year](/books-i-read-in-2024/). I have not read so many books since 2015 (36), and I never read so many pages before. Having read a few comic books helps pump up the stats, I reckon, and I suspect switching to ebooks played a role, too, as reading is more accessible than ever.
+
+I bought a first-edition Kindle back in the day, but never got around to using it much. After a few attempts to like it, it ended up in a drawer. Fast forward to 2025, I gave myself a second chance and got a Kobo Clara BW, a device I’m digging a lot. Yes, every time I finish an ebook I liked, I'm sad I cannot shelf it, but the advantages are many that I don't think I’m going back to paper books anytime soon. There will be exceptions, I’m sure, but the norm will be ebook first. 
 
 The usual scoring system applies:
 
@@ -54,7 +56,7 @@ It is 1912, Greenland is still largely unexplored by Europeans, and the Thule tr
 
 > with pornorama, claudia grande has written an ambitious novel that combines the atmospheres of thomas pynchon and chuck palahniuk with true crime, the most unsuspected innocence and the most heinous brutality, private neuroses and great repressions, a red-light photograph of our contemporary world, so obsessed with death that it disguises it with sex and so deformed by money that it no longer recognizes its violence. 
 
-ambitious and courageous. it took too long for the story actually to start ticking.
+ambitious and courageous. it took too long for the story to start ticking.
 
 ### The Day of Judgment, Salvatore Satta 
 
