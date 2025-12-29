@@ -9,40 +9,40 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ### 2025
 
-* Il mangiatore di pietre, Davide Longo ★★★☆☆
-* Across arctic America, Knud Rasmussen ★★★☆☆
-* Orbit Orbit, Caparezza ★★★★☆
-* Say Nothing, Patrick Radden Keefe ★★★★☆
-* A Nord di Thule, Knud Rasmussen ★★★★☆
-* Pornorama, Claudia Grande ★★★☆☆
-* The Day of Judgment, Salvatore Satta ★★★★★
-* Stasiland, Anna Funder ★★★★★
-* The Communist Manifesto, by Karl Marx and Friedrich Engels ★★★★☆
-* The Sense of an Ending, Julian Barnes ★★★★☆
-* Lonesome Dove, Larry McMurtry ★★★★☆
-* Project Hail Mary, Andy Weir ★★★☆☆
-* Assalto alla Alpi, Marco A. Ferrari ★★★★☆
-* Lost in Translation, Ottavio Fatica ★★☆☆☆
-* The Mental Load, A Feminist Comic, by Emma ★★★★☆
-* Ragazzo, Zuzu ★★★☆☆
-* La Storia, Elsa Morante ★★★★☆
-* Le voci della sera, Natalia Ginzburg ★★★☆☆
-* S., Gipi ★★★☆☆
-* Le valli della memoria, Pietro Scarnera ★★☆☆☆
-* La mia vita disegnata male, Gipi ★★★★☆
-* La grande rimozione, Roberto Grossi ★★★★☆
-* A supposedly fun thing I'll never do again, David Foster Wallace ★★★☆☆
-* The man who mistook his wife for a hat and other clinical tales, Oliver Sacks ★★★☆☆
-* Source code, Bill Gates ★★★★☆
-* Papyrus, Irene Vallejo ★★★★☆
-* Libera Università, Tomaso Montanari ★★★★☆
-* Cambiare la storia, Adriano Prosperi ★★★★☆
-* Grandma Gatewood's Walk, Ben Montgomery ★★★☆☆
-* The death of Ivan Ilych, Lev Tolstoj ★★★★☆
-* La scomparsa di Majorana, Leonardo Sascia ★★★☆☆
-* The Moon and the Bonfires, Cesare Pavese ★★★★☆
-* Mornings in Jenin, Susan Abulhawa ★★★☆☆
-* The heartbeat of the wild, David Quammen ★★★☆☆
+* [Il mangiatore di pietre](/books-i-read-in-2025/#il-mangiatore-di-pietre-davide-longo), Davide Longo ★★★☆☆
+* [Across arctic America](/books-i-read-in-2025/#across-arctic-america-knud-rasmussen), Knud Rasmussen ★★★☆☆
+* [Orbit Orbit](/books-i-read-in-2025/#orbit-orbit-caparezza), Caparezza ★★★★☆
+* [Say Nothing](/books-i-read-in-2025/#say-nothing-patrick-radden-keefe), Patrick Radden Keefe ★★★★☆
+* [A Nord di Thule](/books-i-read-in-2025/#a-nord-di-thule-knud-rasmussen), Knud Rasmussen ★★★★☆
+* [Pornorama](/books-i-read-in-2025/#pornorama-claudia-grande), Claudia Grande ★★★☆☆
+* [The Day of Judgment](/books-i-read-in-2025/#the-day-of-judgment-salvatore-satta), Salvatore Satta ★★★★★
+* [Stasiland](/books-i-read-in-2025/#stasiland-anna-funder), Anna Funder ★★★★★
+* [The Communist Manifesto](/books-i-read-in-2025/#the-communist-manifesto-by-karl-marx-and-friedrich-engels), by Karl Marx and Friedrich Engels ★★★★☆
+* [The Sense of an Ending](/books-i-read-in-2025/#the-sense-of-an-ending-julian-barnes), Julian Barnes ★★★★☆
+* [Lonesome Dove](/books-i-read-in-2025/#lonesome-dove-larry-mcmurtry), Larry McMurtry ★★★★☆
+* [Project Hail Mary](/books-i-read-in-2025/#project-hail-mary-andy-weir), Andy Weir ★★★☆☆
+* [Assalto alle Alpi](/books-i-read-in-2025/#assalto-alle-alpi-marco-a-ferrari), Marco A. Ferrari ★★★★☆
+* [Lost in Translation](/books-i-read-in-2025/#lost-in-translation-ottavio-fatica), Ottavio Fatica ★★☆☆☆
+* [The Mental Load, A Feminist Comic](/books-i-read-in-2025/#the-mental-load-a-feminist-comic-by-emma), by Emma ★★★★☆
+* [Ragazzo](/books-i-read-in-2025/#ragazzo-zuzu), Zuzu ★★★☆☆
+* [La Storia](/books-i-read-in-2025/#history-la-storia-elsa-morante), Elsa Morante ★★★★☆
+* [Le voci della sera](/books-i-read-in-2025/#voices-in-the-evening-le-voci-della-sera-natalia-ginzburg), Natalia Ginzburg ★★★☆☆
+* [S.](/books-i-read-in-2025/#s-gipi), Gipi ★★★☆☆
+* [Le valli della memoria](/books-i-read-in-2025/#le-valli-della-memoria-pietro-scarnera), Pietro Scarnera ★★☆☆☆
+* [La mia vita disegnata male](/books-i-read-in-2025/#la-mia-vita-disegnata-male-gipi), Gipi ★★★★☆
+* [La grande rimozione](/books-i-read-in-2025/#la-grande-rimozione-roberto-grossi), Roberto Grossi ★★★★☆
+* [A supposedly fun thing I'll never do again](/books-i-read-in-2025/#a-supposedly-fun-thing-ill-never-do-again-david-foster-wallace), David Foster Wallace ★★★☆☆
+* [The man who mistook his wife for a hat and other clinical tales](/books-i-read-in-2025/#the-man-who-mistook-his-wife-for-a-hat-and-other-clinical-tales-oliver-sacks), Oliver Sacks ★★★☆☆
+* [Source code](/books-i-read-in-2025/#source-code-by-bill-gates), Bill Gates ★★★★☆
+* [Papyrus](/books-i-read-in-2025/#papyrus-by-irene-vallejo), Irene Vallejo ★★★★☆
+* [Libera Università](/books-i-read-in-2025/#libera-università-by-tomaso-montanari), Tomaso Montanari ★★★★☆
+* [Cambiare la storia](/books-i-read-in-2025/#cambiare-la-storia-by-adriano-prosperi), Adriano Prosperi ★★★★☆
+* [Grandma Gatewood's Walk](/books-i-read-in-2025/#grandma-gatewoods-walk-by-ben-montgomery), Ben Montgomery ★★★☆☆
+* [The death of Ivan Ilych](/books-i-read-in-2025/#the-death-of-ivan-ilyc-by-lev-tolstoy), Lev Tolstoj ★★★★☆
+* [La scomparsa di Majorana](/books-i-read-in-2025/#la-scomparsa-di-majorana-by-leonardo-sascia), Leonardo Sascia ★★★☆☆
+* [The Moon and the Bonfires](/books-i-read-in-2025/#the-moon-and-the-bonfires-by-cesare-pavese), Cesare Pavese ★★★★☆
+* [Mornings in Jenin](/books-i-read-in-2025/#mornings-in-jenin-by-susan-abulhawa), Susan Abulhawa ★★★☆☆
+* [The heartbeat of the wild](/books-i-read-in-2025/#the-heartbeat-of-the-wild-by-david-quammen), David Quammen ★★★☆☆
 
 ### 2024
 
