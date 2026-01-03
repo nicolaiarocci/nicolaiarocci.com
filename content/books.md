@@ -7,6 +7,10 @@ slug: books-i-have-read
 ---
 This is a partial list of the books I have read. I have it both to jog my memory and because I have read a lot of stuff I have loved, and want other people to find it.
 
+### 2026
+
+* Il caso Bramard, Davide Longo ★★★☆☆
+
 ### 2025
 
 * [Il mangiatore di pietre](/books-i-read-in-2025/#il-mangiatore-di-pietre-davide-longo), Davide Longo ★★★☆☆
