@@ -48,14 +48,15 @@ jobs:
           import requests
           import sys
           import hashlib
-          
+          from datetime import datetime, timezone
+
           # Get the list of changed files
           changed_files = """${{ steps.changed-files.outputs.changed_files }}"""
-          
+
           if not changed_files.strip():
               print("No new posts to send")
               sys.exit(0)
-          
+
           api_key = os.environ.get('BUTTONDOWN_API_KEY')
           if not api_key:
               print("ERROR: BUTTONDOWN_API_KEY not set")
@@ -109,17 +110,48 @@ jobs:
                   title = post.get('title', 'Untitled')
                   content = post.content
                   is_draft = post.get('draft', False)  # Hugo draft status
-                  
+                  post_date = post.get('date')  # Post publication date
+
                   # Generate a consistent post ID
                   post_id = get_post_id(filepath)
-                  
-                  # Determine Buttondown status based on Hugo draft
+
+                  # Check if post date is in the future
+                  is_future_post = False
+                  if post_date:
+                      try:
+                          # Parse the date (handle both date and datetime formats)
+                          if isinstance(post_date, str):
+                              # Try parsing as datetime with timezone
+                              try:
+                                  parsed_date = datetime.fromisoformat(post_date.replace('Z', '+00:00'))
+                              except:
+                                  # Try parsing as simple date
+                                  parsed_date = datetime.strptime(post_date, '%Y-%m-%d').replace(tzinfo=timezone.utc)
+                          else:
+                              # Already a datetime object
+                              parsed_date = post_date
+                              if parsed_date.tzinfo is None:
+                                  parsed_date = parsed_date.replace(tzinfo=timezone.utc)
+
+                          # Compare with current time
+                          now = datetime.now(timezone.utc)
+                          is_future_post = parsed_date > now
+
+                          if is_future_post:
+                              print(f"  Post date ({post_date}) is in the future → Will be saved as draft")
+                      except Exception as e:
+                          print(f"  Warning: Could not parse date '{post_date}': {e}")
+
+                  # Determine Buttondown status based on Hugo draft and post date
                   if is_draft:
                       buttondown_status = 'draft'
                       print(f"  Hugo draft: True → Creating/updating as Buttondown draft")
+                  elif is_future_post:
+                      buttondown_status = 'draft'
+                      print(f"  Future post → Creating/updating as Buttondown draft (will auto-publish when date arrives)")
                   else:
                       buttondown_status = 'about_to_send'
-                      print(f"  Hugo draft: False → Will send to subscribers")
+                      print(f"  Hugo draft: False, date not in future → Will send to subscribers")
                   
                   # Check if this post already exists in Buttondown
                   existing_email_id = find_existing_email(post_id, headers)
@@ -150,7 +182,7 @@ jobs:
                           
                           # Only update if it's still a draft
                           if existing_status == 'draft':
-                              if is_draft:
+                              if buttondown_status == 'draft':
                                   # Draft → Draft: update the draft
                                   print(f"  Updating draft (ID: {existing_email_id})")
                                   response = requests.patch(
@@ -158,7 +190,7 @@ jobs:
                                       headers=headers,
                                       json=payload
                                   )
-                                  
+
                                   if response.status_code in [200, 201]:
                                       print(f"  ✓ Successfully updated draft '{title}'")
                                   else:
@@ -174,7 +206,7 @@ jobs:
                                       headers=headers,
                                       json=payload
                                   )
-                                  
+
                                   if response.status_code in [200, 201]:
                                       print(f"  ✓ Successfully published '{title}' - email will be sent!")
                                   else:
