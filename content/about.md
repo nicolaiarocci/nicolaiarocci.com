@@ -13,9 +13,10 @@ other platforms.
 
 I'm a coder at heart author of several [open source projects][1], a [Microsoft
 MVP][2], [conference speaker][4], teacher and consultant. I live in Ravenna,
-Italy, where I lead the development of [Amica 20][5], a hybrid (cloud and
-on-premise) accounting app for Italian small businesses. I also the creator and
-organizer of [DevRomagna][26], the developer community in my area.
+Italy, where I lead the development of [Invoicetronic][9], and electronic
+invoicing API, and [Amica][5], a hybrid (cloud and on-premise) accounting app
+for Italian small businesses. I also the creator and organizer of
+[DevRomagna][26], the developer community in my area.
 
 I am a former runner, climber and swimmer now keeping myself busy with
 bodyweight training (I think it's called calisthenics these days). I love
@@ -49,9 +50,10 @@ Via [email](mailto:nicola@nicolaiarocci.com).
 
 This is my personal website. I will not accept any “guest posts” here, not for compensation and not for any “good cause”. You can stop asking.
 
- [1]: http://nicolaiarocci.com/opensource/
+ [1]: /opensource/
  [2]: https://mvp.microsoft.com/en-US/mvp/profile/a6892d61-aea0-e511-8114-c4346bac0abc
  [4]: /speaking/
- [5]: http://gestionaleamica.com/
- [8]: http://nicolaiarocci.com/books-i-have-read/
- [26]: http://meetup.com/it-IT/devromagna/
+ [5]: https://gestionaleamica.com/
+ [8]: /books-i-have-read/
+ [9]: https://invoicetronic.com/en
+ [26]: https://meetup.com/it-IT/devromagna/
