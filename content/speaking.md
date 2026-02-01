@@ -11,6 +11,10 @@ engagements. You may also want to check my [Sessionize](https://sessionize.com/n
 
 Want me to talk at your event? [Get in touch][1]!
 
+### 2026
+
+- .NET Saturday 2026, Pordenone: [Feature Flags e configurazioni dinamiche in C# e .NET](https://dotnetsat2026pn.1nn0va.it/#schedule)
+
 ### 2025
 
 - WPC 2025, Milan: [Feature Flags e configurazioni dinamiche in C# e .NET](/code-from-my-session-at-wpc-2025/)
