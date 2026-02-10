@@ -14,6 +14,15 @@ Want me to talk at your event? [Get in touch][1]!
 ### 2026
 
 - .NET Saturday 2026, Pordenone: [Feature Flags e configurazioni dinamiche in C# e .NET](https://dotnetsat2026pn.1nn0va.it/#schedule)
+curl -u "ik_live_33OYhTW8MdnEpM62HIA8w4OGrsiMKKFK:" \
+    -X POST https://api.invoicetronic.com/v1/company \
+    -H "Content-Type: application/json" \
+    -H "Accept: application/json" \
+    -d '{
+      "vat": "IT12345",
+      "fiscal_code": "12345",
+      "name": "ciao"
+    }'
 
 ### 2025
 
