@@ -15,6 +15,12 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### La giusta distanza dal male, Giorgia Protti
+
+★★★★★
+
+This was a gift I received from a close friend who happens to be an ER doctor. Not a coincidence, as the book is centered on the life and... well, existence of an ER doctor, and it is based on the experiences of the author, an ER doctor herself, in her debut novel. This was a phenomenal read that I'd recommend to anyone, especially fellow Italians who should all be well aware (spoiler: not all of us are) of the incredible struggles and psychological toll on personnel inflicted by our public health service. The novel goes way beyond that, however. The writing is excellent and engaging, and it only gets better as the story unfolds. I may be exaggerating here as I'm about to mention one of my all-time favourites, but at a certain point, it reminded me of The Master and Margarita (I won't spoil why), and that's as far as I can go as a compliment.
+
 ### Il caso Bramard, Davide Longo 
 
 ★★★☆☆

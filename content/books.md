@@ -9,6 +9,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ### 2026
 
+* La giusta distanza dal male, Giorgia Protti ★★★★★
 * Il caso Bramard, Davide Longo ★★★☆☆
 
 ### 2025
