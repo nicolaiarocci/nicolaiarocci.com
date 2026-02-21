@@ -10,6 +10,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 ### 2026
 
 * La giusta distanza dal male, Giorgia Protti ★★★★★
+* Lone Wolf, Adam Weymouth ★★★★☆
+* Jens Munk, Thorkild Hansen ★★★★☆
 * Il caso Bramard, Davide Longo ★★★☆☆
 
 ### 2025

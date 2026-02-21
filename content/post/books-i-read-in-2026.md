@@ -21,6 +21,24 @@ The usual scoring system applies:
 
 This was a gift I received from a close friend who happens to be an ER doctor. Not a coincidence, as the book is centered on the life and... well, existence of an ER doctor, and it is based on the experiences of the author, an ER doctor herself, in her debut novel. This was a phenomenal read that I'd recommend to anyone, especially fellow Italians who should all be well aware (spoiler: not all of us are) of the incredible struggles and psychological toll on personnel inflicted by our public health service. The novel goes way beyond that, however. The writing is excellent and engaging, and it only gets better as the story unfolds. I may be exaggerating here as I'm about to mention one of my all-time favourites, but at a certain point, it reminded me of The Master and Margarita (I won't spoil why), and that's as far as I can go as a compliment.
 
+###  Lone Wolf, Adam Weymouth 
+
+_(Il lupo solitario, Iperborea)_
+
+★★★★☆
+
+The story of Slavc's dispersal — the wolf that first colonized the eastern Italian Alps, arriving from the Slovenian mountains. A journey of hundreds of kilometers, tracked by the radio collar that Slovenian researchers had fitted him with before his unexpected departure, and retraced on foot by the author, step by step. A rich opportunity to portray the people and valleys of central-eastern mountain Europe in these years of dizzying change, ideological conflict, climate anxiety and devastation, and shifting attitudes toward the relationship between humans and apex predators. A thoroughly well-documented work, which I greatly enjoyed.
+
+I had previously read La Via del Lupo by Marco Albino Ferrari, which told the story of the first Apennine wolf migrating toward the Alps. The two works complement each other, closing a circle (Juliet, who founded the first wolf pack with Slavc, migrated from the Apennines). Long live the wolf.
+
+### Jens Munk, Thorkild Hansen 
+
+_(Il capitano Jens Munk, Iperborea)_
+
+★★★★☆
+
+I had never heard of Jens Munk, yet I've read plenty of books about the Far North, particularly about naval exploration in the Northwest Passage. This man's life was phenomenal. It was well worth having an expert and determined biographer like Thorkild Hansen set out to reconstruct his story with the greatest possible accuracy — going so far as to take part in a research expedition in the area himself—essential reading for anyone interested in the history of Far North exploration.
+
 ### Il caso Bramard, Davide Longo 
 
 ★★★☆☆
