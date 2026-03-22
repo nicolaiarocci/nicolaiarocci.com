@@ -15,6 +15,12 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### Una ballata del mare salato, Hugo Pratt
+
+★★☆☆☆
+
+Hugo Pratt has always been on my horizon, but somehow I never managed to get to read his works until today. This graphic novel specifically, is where his most famous character, Corto Maltese, appears for the first time. I do see how and why, when published, this work was sensational and became a huge hit: the perfect story at the perfect time. Can't say I was enthralled by the plot, unfortunately, but through no fault of the author's: it simply did not age well.
+
 ### La giusta distanza dal male, Giorgia Protti
 
 ★★★★★
