@@ -10,6 +10,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 ### 2026
 
 * Una ballata del mare salato, Hugo Pratt ★★☆☆☆
+* Varie cose sulle sequoie e sul tempo, Jón Kalman Stefánsson ★★★☆☆
 * La giusta distanza dal male, Giorgia Protti ★★★★★
 * Lone Wolf, Adam Weymouth ★★★★☆
 * Jens Munk, Thorkild Hansen ★★★★☆

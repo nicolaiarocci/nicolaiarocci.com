@@ -21,6 +21,12 @@ The usual scoring system applies:
 
 Hugo Pratt has always been on my horizon, but somehow I never managed to get to read his works until today. This graphic novel specifically, is where his most famous character, Corto Maltese, appears for the first time. I do see how and why, when published, this work was sensational and became a huge hit: the perfect story at the perfect time. Can't say I was enthralled by the plot, unfortunately, but through no fault of the author's: it simply did not age well.
 
+### Varie cose sulle sequoie e sul tempo, Jón Kalman Stefánsson
+
+★★★☆☆
+
+A fine book. Ingenious in its structure (brief chapters linked to memories of a summer spent with grandparents in Norway), in its form (half novel, half biography), and beautifully written. It is, in short, a book about childhood as a place in time — not as sentimental nostalgia, but as a philosophical inquiry into what it means to exist, to grow up, and, inevitably, to lose.
+
 ### La giusta distanza dal male, Giorgia Protti
 
 ★★★★★
