@@ -15,6 +15,14 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### The hunting gun, Inoue Yasushi
+
+★★★☆☆
+
+There is one aspect of Eastern literature, and Japanese literature in particular, that eludes me and yet always attracts me: the predominance of the unsaid, which on a superficial reading may seem like coldness or insensitivity, when in fact it conceals the opposite; yet awareness, focus and perception are required to really embrace the full picture.
+
+The Hunting Gun (1949) is regarded as one of the masterpieces of 20th-century Japanese literature. Noue writes in a concise, elliptical style of extraordinary emotional precision. The choice of an epistolary form allows the same story to be viewed from radically different angles, without any single version emerging as the true one. It is a novel about perspective and the impossibility of truly knowing another person. The loneliness of modern man; Josuke is an enigmatic and distant figure, incapable of true intimacy with anyone. Deception and silence: all three women live within a conscious fiction. Silence is not innocence, but a painful choice. Pain as an inner condition: each letter reveals a different, layered suffering, never displayed. Love as impossibility: none of the relationships is truly happy or complete; every character is fundamentally alone.
+
 ### Una ballata del mare salato, Hugo Pratt
 
 ★★☆☆☆
