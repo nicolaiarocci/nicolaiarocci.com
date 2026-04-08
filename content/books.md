@@ -9,6 +9,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ### 2026
 
+* Il segreto del Bosco Vecchio, Dino Buzzati ★★★★★
+* Lettere luterane, Pier Paolo Pasolini ★☆☆☆☆
 * The hunting gun, Inoue Yasushi ★★★☆☆
 * Una ballata del mare salato, Hugo Pratt ★★☆☆☆
 * Varie cose sulle sequoie e sul tempo, Jón Kalman Stefánsson ★★★☆☆

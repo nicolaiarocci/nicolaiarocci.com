@@ -15,6 +15,18 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### Il segreto del Bosco Vecchio, Dino Buzzati
+
+★★★★★
+
+What struck me most is how naturally the supernatural sits in this book. Nobody is surprised by the spirits. Nobody needs convincing. They're just there, the way the weather is there. Reading it, I kept thinking of Miyazaki — the same sense that the world is more crowded than we usually admit, the same melancholy that never tips into sentimentality. Written in 1935, it feels like it comes from a moment when the old world and the new hadn't fully separated yet, and nobody had thought to mourn the distance. Exceptionally good.
+
+### Lettere luterane, Pier Paolo Pasolini
+
+★☆☆☆☆
+
+A collection of articles for Italian newspapers and magazines in 1975, focused on pedagogy. The central theme is the country's "anthropological mutation." There are some gems, but most articles are tied to the then-current political events and are difficult to follow today. I also didn't enjoy Pasolini's frequent nostalgia for "the good old days." He was called a traditionalist, which surprised me since he wasn't a conservative, but this collection shows that progressive traditionalists can exist.
+
 ### The hunting gun, Inoue Yasushi
 
 ★★★☆☆
