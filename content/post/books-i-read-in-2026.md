@@ -15,6 +15,19 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### Portnoy's complaint, Philip Roth 
+
+_(Portnoy, Adelphi)_
+
+★★★★★
+
+
+The book is an uninterrupted monologue: Alexander Portnoy, a thirty-three-year-old Jewish man from New York, speaks—rants, confesses, complains, raves—on the couch of his psychoanalyst. The analyst remains silent throughout the novel, right up to the very last line, a line that has become famous: ‘And now, perhaps, we can begin. “Yes?” In short, everything we have read was merely the preamble.
+
+Portnoy recounts his own neurosis: the suffocating relationship with his mother Sophie (the archetype of the overprotective and omnipresent Jewish mother), his constipated father, humiliated by his work, the Jewish upbringing experienced as a cage, and above all a compulsive sexual obsession — the adolescent masturbation described in pages that caused a scandal in ’69, and then the adult women, in particular the ‘Monkey’, a beautiful and vulgar model with whom he has a toxic relationship. All of this is permeated by a sense of guilt that never abates.
+
+Portnoy is torn between his Jewish superego (be good, be pure, be a worthy son) and the desire to finally be free — sexually, morally, and from his very identity. He craves shiksas, those kind, blonde girls, as a symbol of an America that is beyond his reach. But the more he rebels, the more guilty he feels; the more guilty he feels, the more he rebels. It is a machine of resentment running on empty. Brilliant.
+
 ### Il segreto del Bosco Vecchio, Dino Buzzati
 
 ★★★★★
