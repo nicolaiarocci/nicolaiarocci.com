@@ -141,7 +141,7 @@ menu:
     - name: speaking
       url: /speaking/
       weight: 30
-    - name: library
+    - name: bookshelf
       url: /books-i-have-read/
       weight: 40
     - name: search
