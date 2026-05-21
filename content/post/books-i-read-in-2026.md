@@ -15,6 +15,12 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### Saltblood, Francesca De Tores 
+
+★★★☆☆
+
+The story is inspired by the real-life story of Mary Read, one of the most fascinating figures of the Golden Age of Piracy. Born in a rented room outside Plymouth in 1685, on the very day her half-brother died, her mother made a decision: Mary would become Mark, so that her mother could continue to collect the inheritance intended for the boy. This ‘secret’ identity continued throughout her life as a servant, then in the navy and the cavalry — always as a woman posing as a man — until she became a pirate. The novel weaves together high-seas adventure, fluid gender identity, survival, love and transformation. Entertaining.
+
 ### Portnoy's complaint, Philip Roth 
 
 _(Portnoy, Adelphi)_
