@@ -9,6 +9,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ### 2026
 
+* Fight Oligarchy, Bernie Sanders ★★★☆☆
+* Within the walls, Giorgio Bassani ★★★☆☆
 * Saltblood, Francesca De Tores ★★★☆☆
 * Portnoy's complaint, Philip Roth ★★★★★
 * Il segreto del Bosco Vecchio, Dino Buzzati ★★★★★

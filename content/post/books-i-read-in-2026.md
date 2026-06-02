@@ -15,6 +15,18 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### Fight Oligarchy, Bernie Sanders ★★★☆☆
+
+★★★☆☆
+
+Like most Europeans, I am appalled and shocked by what is happening in the world, and perhaps even more so by how Donald Trump could be re-elected for a second term by the very same Americans who had witnessed his first term and the attempted coup with which it ended. I wanted to read Sanders to try to understand what is happening within the opposition, and whether there is a glimmer of hope that the population might finally wake up from the malevolent spell cast on them. I was already familiar with a good 90% of the data presented in the book, as well as the general state of American society (disastrous). It is a relief, however, to learn that something is stirring, partly and perhaps above all thanks to the initiatives of this elderly, indomitable senator who never gives up and, indeed, pushes forward with energy and unrivaled communication skills.
+
+### Within the walls, Giorgio Bassani ★★★☆☆
+
+★★★☆☆
+
+After _The Garden of the Finzi-Continis_ I wanted to read something else by Giorgio Bassani and, perhaps above all, something set in his native Ferrara. Like *The Garden of the Finzi-Continis*, this collection – winner of the 1956 Strega Prize – focuses on the city of Ferrara, the local Jewish community, and the period of Fascism, the racial laws and the war. In short, it is an attempt to come to terms with those tragic events.
+
 ### Saltblood, Francesca De Tores 
 
 ★★★☆☆
