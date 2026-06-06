@@ -44,11 +44,14 @@ jobs:
         run: |
           python << 'PYTHON_SCRIPT'
           import os
+          import re
           import frontmatter
           import requests
           import sys
           import hashlib
           from datetime import datetime, timezone
+
+          BASE_URL = 'https://nicolaiarocci.com'
 
           # Get the list of changed files
           changed_files = """${{ steps.changed-files.outputs.changed_files }}"""
@@ -67,6 +70,38 @@ jobs:
               'Content-Type': 'application/json'
           }
           
+          def render_hugo_shortcodes(text):
+              """Convert Hugo shortcodes that Buttondown can't understand into plain HTML."""
+
+              def parse_params(raw):
+                  return dict(re.findall(r'(\w+)\s*=\s*"([^"]*)"', raw))
+
+              def absolutize(url):
+                  if url.startswith('/'):
+                      return BASE_URL + url
+                  return url
+
+              def figure_repl(match):
+                  params = parse_params(match.group(1))
+                  src = absolutize(params.get('src', ''))
+                  alt = params.get('alt', params.get('caption', ''))
+                  caption = params.get('caption', '')
+                  link = params.get('link')
+
+                  img = f'<img src="{src}" alt="{alt}" />'
+                  if link:
+                      img = f'<a href="{absolutize(link)}">{img}</a>'
+
+                  parts = ['<figure>', img]
+                  if caption:
+                      parts.append(f'<figcaption>{caption}</figcaption>')
+                  parts.append('</figure>')
+                  return '\n'.join(parts)
+
+              # Match both {{< figure ... >}} and {{% figure ... %}}
+              text = re.sub(r'\{\{[<%]\s*figure\s+(.*?)\s*[%>]\}\}', figure_repl, text, flags=re.DOTALL)
+              return text
+
           def get_post_id(filepath):
               """Generate a consistent ID for a post based on its filepath"""
               # Use the filename (without path and extension) as identifier
@@ -108,7 +143,7 @@ jobs:
                   
                   # Extract metadata
                   title = post.get('title', 'Untitled')
-                  content = post.content
+                  content = render_hugo_shortcodes(post.content)
                   is_draft = post.get('draft', False)  # Hugo draft status
                   post_date = post.get('date')  # Post publication date
 
