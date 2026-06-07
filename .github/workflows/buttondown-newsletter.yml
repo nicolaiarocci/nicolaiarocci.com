@@ -102,6 +102,19 @@ jobs:
               text = re.sub(r'\{\{[<%]\s*figure\s+(.*?)\s*[%>]\}\}', figure_repl, text, flags=re.DOTALL)
               return text
 
+          def absolutize_markdown_links(text):
+              """Make root-relative Markdown links/images absolute.
+
+              Hugo resolves '/path/' against the site root, but email clients like
+              Fastmail have no base URL, so relative links are broken. Rewrite the
+              URL part of '[text](/path)' and '![alt](/path)' to include BASE_URL.
+              """
+              return re.sub(
+                  r'(\]\(\s*)(/[^)\s]+)',
+                  lambda m: m.group(1) + BASE_URL + m.group(2),
+                  text,
+              )
+
           def get_post_id(filepath):
               """Generate a consistent ID for a post based on its filepath"""
               # Use the filename (without path and extension) as identifier
@@ -143,7 +156,7 @@ jobs:
                   
                   # Extract metadata
                   title = post.get('title', 'Untitled')
-                  content = render_hugo_shortcodes(post.content)
+                  content = absolutize_markdown_links(render_hugo_shortcodes(post.content))
                   is_draft = post.get('draft', False)  # Hugo draft status
                   post_date = post.get('date')  # Post publication date
 
