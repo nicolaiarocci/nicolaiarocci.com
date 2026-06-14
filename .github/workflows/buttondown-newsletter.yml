@@ -284,6 +284,10 @@ jobs:
                           print(f"  ✓ Successfully created '{title}' as {status_msg}")
                           if not is_draft:
                               print(f"  ⚠️  Email will be sent to subscribers!")
+                      elif response.status_code == 400 and response.json().get('code') == 'email_duplicate':
+                          # Email already exists in Buttondown (e.g. workflow re-trigger
+                          # after the email was already created/sent). Idempotent skip.
+                          print(f"  Email already exists in Buttondown (duplicate) → skipping")
                       else:
                           print(f"  ✗ Failed to create '{title}'")
                           print(f"    Status: {response.status_code}")
