@@ -10,7 +10,10 @@
       "Bash(head:*)",
       "Bash(python3 *)",
       "Bash(git add *)",
-      "Bash(git commit -m 'fix: render Hugo figure shortcode in newsletter emails *)"
+      "Bash(git commit -m 'fix: render Hugo figure shortcode in newsletter emails *)",
+      "Bash(git commit -m 'fix: absolutize internal links in newsletter emails *)",
+      "Bash(git remote *)",
+      "Bash(git push *)"
     ]
   }
 }

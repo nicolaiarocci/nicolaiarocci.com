@@ -15,6 +15,16 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### The gambler, Fëdor Dostoevskij 
+
+★★★★★
+
+The story is set in the fictional German spa town of Roulettenburg and follows Aleksej Ivanovič, a young tutor in the service of a ruined Russian general. Aleksej is obsessively in love with Polina, the general’s stepdaughter, and through roulette he is drawn into a gambling addiction.
+
+The novel came into being under dramatic circumstances: Dostoevsky dictated it in about a month (October 1866) to honor a draconian contract with the publisher Stellovsky, who would otherwise have taken away his rights to future works. To achieve this, he enlisted the help of the stenographer Anna Grigorievna Snitkina, whom he married shortly afterward. The theme of gambling is highly autobiographical: Dostoevsky himself suffered for a long time from an addiction to roulette during his travels in Europe.
+
+My favorite character is the general’s grandmother. She is the catalyst of the story, the one who unwittingly plunges the protagonist into addiction. She is bizarre, over-the-top, amusing, yet such a tremendously realistic character.
+
 ### Fight Oligarchy, Bernie Sanders ★★★☆☆
 
 ★★★☆☆

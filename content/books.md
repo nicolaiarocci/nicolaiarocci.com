@@ -9,6 +9,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ### 2026
 
+* The gambler, Fëdor Dostoevskij ★★★★★
 * Fight Oligarchy, Bernie Sanders ★★★☆☆
 * Within the walls, Giorgio Bassani ★★★☆☆
 * Saltblood, Francesca De Tores ★★★☆☆
