@@ -15,6 +15,12 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### Arabia Felix, Thorkild Hansen 
+
+★★★★☆
+
+The incredibly adventurous story of the 1761 Danish mission that set out to explore Arabia Felix (modern-day Yemen), as magistrally recounted by Thorkild Hanse, the author of Jens Munk that I read earlier this year. The figure of Carsten Niebuhr emerges supreme: what a remarkable person, and what a life he lived. This book is 442 pages thick, and they go down by like a breeze.
+
 ### The gambler, Fëdor Dostoevskij 
 
 ★★★★★
