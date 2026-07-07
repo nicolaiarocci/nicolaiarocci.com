@@ -9,6 +9,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ### 2026
 
+* Kraftwerk: Future Music from Germany, Uwe Schütte ★★★☆☆
 * Arabia Felix, Thorkild Hansen ★★★★☆
 * The gambler, Fëdor Dostoevskij ★★★★★
 * Fight Oligarchy, Bernie Sanders ★★★☆☆

@@ -15,6 +15,12 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### Kraftwerk: Future Music from Germany, Uwe Schütte 
+
+★★★☆☆
+
+Schütte is a Germanist, university lecturer and scholar of post-war German culture, and this perspective is evident: rather than a traditional biography of the group, the book offers a cultural and intellectual analysis of the Kraftwerk project. Schütte positions Kraftwerk as heirs to the German avant-garde (the Bauhaus, Stockhausen, the Wagnerian concept of the Gesamtkunstwerk reinterpreted through a technological lens) and as an attempt to forge a new German cultural identity in the wake of the catastrophe of Nazism — hence the idea of ‘industrial folk music’ (Industrielle Volksmusik) rooted in the industrial Rhineland and in Düsseldorf. The book proceeds more or less album by album and the museum/live 3D phase of recent years, analyzing the concepts behind each record: mobility, radio, the man-machine, the computer, and the bicycle as the perfect fusion of body and technology. There is also a strong focus on the visual and performative dimensions — the robots, the Kling Klang Studio, and the band’s transformation into a total work of art, now closer to the world of museums (the retrospectives at MoMA and the Tate) than to that of rock music.
+
 ### Arabia Felix, Thorkild Hansen 
 
 ★★★★☆
