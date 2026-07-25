@@ -15,6 +15,18 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### Parallel lines, Edward St Aubyn 
+
+★★★★★
+
+It’s a tough start, and you’re soon tempted to give up on it. The first chapter is a stream of consciousness from Sebastian: a schizophrenic who’s been in treatment for years, and the twin brother of Olivia, who is his therapist’s adopted daughter. Confusing? Quite.Persevering was the right choice. Other characters enter the scene, and the picture begins to come into focus. However, the arrival of some of them is disorientating: there they are, without a single line of introduction. The writing is brilliant, ingenious, rich to the point of excess.Then the book cuts off. I turned the page for the next chapter, and it wasn’t there. It was only later, whilst reading up on the author, that I discovered *Parallel Lines* is the second instalment in a trilogy: the characters who appeared out of nowhere were from the first volume, and the cliffhanger ending awaits the third, which is still in the works. This explains much of the confusion. All in all, an excellent read.
+
+### The brotherood of the grape, John Fante 
+
+★★★★☆
+
+Henry Molise, a fifty-year-old writer in crisis, is summoned back to San Elmo because his parents — after fifty years of marriage — are threatening to separate. He ends up being drawn into the absurd project of his father Nick, an elderly bricklayer from Abruzzo: to build a stone smokehouse together in the mountains, with their bare hands, alongside a son who has never even held a trowel. The ‘brotherhood’ of the title refers to the elderly Italian regulars at Café Roma – Zarlingo, Cavallaro and the others – who spend their days drinking and putting the world to rights. But it is also, of course, the impossible bond between father and son: two men who express their love for one another only through work, wine and insults. Nick Molise is a cruel yet adoring portrait of Fante’s father. The ending, with the trowel passing from one hand to another, is among the most understated and moving passages I have ever read.
+
 ### Kraftwerk: Future Music from Germany, Uwe Schütte 
 
 ★★★☆☆
