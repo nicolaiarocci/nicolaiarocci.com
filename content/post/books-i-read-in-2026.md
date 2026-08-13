@@ -15,6 +15,12 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### I benandanti, Carlo Ginzburg 
+
+★★★☆☆
+
+Carlo Ginzburg’s debut book, written when he was in his early twenties, was based on the Holy Office files held in the Archives of the Archdiocesan Curia of Udine.The text explores the Benandanti – who, along with witches and sorcerers, were full-fledged members of the agrarian, magical and visionary tradition of Friuli, in north-eastern Italy. The historical period examined spans roughly 100 years, straddling the 1500s and 1600s. It is fascinating to see how the figure of the Benandante changes over time, from a defender of agricultural fertility and a standard-bearer of the Christian faith in opposition to the forces of evil to a malevolent entity, by now entirely absorbed into the ranks of witches and warlocks. One of Ginzburg’s arguments is that the Inquisition itself, through its heresy trials, influenced this shift in popular perception. It is not an easy read (it is a pity that translations from the Latin of some passages quoted from the Holy Office’s files are missing).
+
 ### Parallel lines, Edward St Aubyn 
 
 ★★★★★
