@@ -15,6 +15,12 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### The italian dream, Alec Ross
+
+★★★☆☆
+
+A useful and thought-provoking book, whose arguments are easy to agree with. Italy’s problems are well known, and in some respects the text even seems predictable, yet it is not: the central argument is sound. It works because the author is not Italian; otherwise, he would be accused of hypocrisy. The passages on ‘agency’ are excellent. Steven Covey’s four-quadrant method is also interesting.
+
 ### I benandanti, Carlo Ginzburg 
 
 ★★★☆☆
