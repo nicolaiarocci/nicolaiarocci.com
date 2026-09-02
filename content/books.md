@@ -9,6 +9,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ### 2026
 
+* A very easy death, Simone de Beauvoir ★★★★★
 * The italian dream, Alec Ross ★★★☆☆
 * I benandanti, Carlo Ginzburg ★★★☆☆
 * Parallel lines, Edward St Aubyn ★★★★★

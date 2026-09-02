@@ -15,6 +15,12 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### A very easy death, Simone de Beauvoir 
+
+★★★★★
+
+Her mother’s illness and death. This is what the writer records in a diary spanning a month spent in hospital. As the illness progresses, the outside world loses more and more of its substance, until it disappears altogether. All that remains is the hospital room where three women – the mother and her daughters – continue to fight a war that is impossible to win. Excellent.
+
 ### The italian dream, Alec Ross
 
 ★★★☆☆
