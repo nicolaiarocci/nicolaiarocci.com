@@ -15,6 +15,12 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+### Crazy Horse, Larry McMurtry
+
+★★★☆☆
+
+A short biography that McMurtry – the author of *Lonesome Dove* – dedicated to the war chief Crazy Horse. McMurtry begins with an observation: very little is known for certain about Crazy Horse. There is no authenticated photograph of him, the location of his grave is unknown, and almost all accounts are second-hand, gathered decades later, and often contradictory. McMurtry therefore proceeds with caution, pointing out each time where the historical record ends and the legend begins, and focuses precisely on the way in which a man becomes a myth. It is a work that is at once too sparse, perhaps too skeptical, and commendable for its admission of not knowing. A fine, useful read for appreciating the way of life of the Native Americans, and the terrible injustices to which they were subjected.
+
 ### A very easy death, Simone de Beauvoir 
 
 ★★★★★
