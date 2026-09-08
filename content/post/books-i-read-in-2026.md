@@ -15,6 +15,18 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+###  The great Gatsby, F. Scott Fitzgerald ★★★★★
+
+★★★★★
+
+Everything good that is said about this book is true. The American Dream and its soft underbelly, the bonfire of vanities, the hypocrisy, the class divisions in American society – all in a short novel where everything is in motion: characters, settings, events. The characters are, to a greater or lesser extent, all despicable, except perhaps him, Gatsby, who nevertheless commits the gravest sin: being unable to let go of what he has lost. A great book.
+
+###  Custer, Larry McMurtry ★☆☆☆☆
+
+★☆☆☆☆
+
+Adds very little to _Crazy Horse_. Some paragraphs, I'm afraid, are even copied from that book. Get _Crazy Horse_ instead. 
+
 ### Crazy Horse, Larry McMurtry
 
 ★★★☆☆

@@ -9,6 +9,8 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ### 2026
 
+* The great Gatsby, F. Scott Fitzgerald ★★★★★
+* Custer, Larry McMurtry ★☆☆☆☆
 * Crazy Horse, Larry McMurtry ★★★☆☆
 * A very easy death, Simone de Beauvoir ★★★★★
 * The italian dream, Alec Ross ★★★☆☆
