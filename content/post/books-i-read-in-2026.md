@@ -15,6 +15,19 @@ The usual scoring system applies:
 * Four stars mean a book is exceptional.
 * Five stars is pretty much unheard of.
 
+
+### Flesh, David Szalay
+
+★★★★☆
+
+The story begins in the concrete suburbs of Budapest and follows István throughout his life, all the way to London and back. Along the way, violence, sex and war pile up, and he climbs the ladder of social and economic success. Yet every achievement comes at a cost. He cannot really justify his own choices and often goes along with those made by others, from his first lover to his employers, right through to his wife Helen. The most distinctive feature is the ellipsis. Szalay systematically omits precisely those plot points that, on paper, would be the most powerful, and yet the book works; it engages and draws the reader in. The writing is minimalist, and the dialogue is stripped down to the bare essentials: the most frequent word is ‘Okay’, almost always spoken by István
+
+### The secret garden, Frances H. Burnett
+
+★★★☆☆
+
+It is one of the great classics for children, and holds up very well even when read by adults. Some themes: Nature as a cure: the open air, the earth and working with one’s hands as a counterbalance to confinement and constant preoccupation with illness. The ‘Magic’, as the children call it: one can sense the influence of Christian Science and ‘positive thinking’ on Burnett – that is, the idea that thoughts can heal or cause illness. Social classes: the spontaneity and common sense of Dickon, his sister Martha and their mother Susan Sowerby – who speak in a Yorkshire dialect – stand in contrast to the rigidity and isolation of the manor house. Colonialism: the India depicted in the novel, and certain views on Indians, reflect the attitudes of the time and seem out of place today.
+
 ###  The great Gatsby, F. Scott Fitzgerald ★★★★★
 
 ★★★★★
