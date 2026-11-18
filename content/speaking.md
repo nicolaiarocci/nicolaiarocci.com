@@ -22,14 +22,14 @@ Want me to talk at your event? [Get in touch][1]!
 - .NET Conference 2025, Milan: [Integrare LLM alle nostre applicazioni in .NET con MCP](/my-session-on-mcp-servers-at-dotnet-conference-italia-2025/)
 - DevMarche Summer AI Afternoon: [MCP or how to connect our apps to LLMs](https://www.eventbrite.it/e/summer-ai-afternoon-tickets-1428458029419)
 - DevRomagna Meetup: [MCP or how to connect our apps to LLMs](https://www.meetup.com/devromagna/events/308179204/)
-- .NET Conf 2025, Rome: [C# 13 What's new and interesting](https://dotnetconf.it)
+- .NET Conf 2025, Rome: [C# 13 What's new and interesting](https://dotnetconf.it) ([video](https://youtu.be/GqQhp7Iw4XE?si=sSpCTj377RT-gniq))
 
 ### 2024
 
-- .NET Conference Italia 2024, Milan: [C# 13 What's new and interesting](https://www.dotnetconference.it/e/3538/-NET-Conference-Italia-2024)
+- .NET Conference Italia 2024, Milan: [C# 13 What's new and interesting](https://www.dotnetconference.it/e/3538/-NET-Conference-Italia-2024) 
 - ABP Dotnet Conference 2024, Turkey: [C# 12 What's new and interesting](https://abp.io/conference/2024)
 - WebDay 2024, Milan: [Oauth2 e Open ID Connect con ASP.NET Core 8](https://www.webdayconf.it/e/3328/Web-Day-2024) ([video](https://www.improove.tech/videos/3376/Oauth2-e-Open-ID-Connect-con-ASP-NET-Core-8))
-- .NET Rome Conference 2024: [Oauth2 e Open ID Connect con ASP.NET Core 8](https://www.dotnetconf.it/agenda)
+- .NET Rome Conference 2024: [Oauth2 e Open ID Connect con ASP.NET Core 8](https://www.dotnetconf.it/agenda) ([video](https://youtu.be/Dud6UVn3XY0?si=0340BXKyMjCa923M))
 
 ### 2023
 

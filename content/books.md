@@ -9,6 +9,7 @@ This is a partial list of the books I have read. I have it both to jog my memory
 
 ### 2026
 
+* Homage to Catalonia, George Orwell ★★★★☆
 * Flesh, David Szalay ★★★★☆
 * The secret garden, Frances Hodgson Burnet ★★★☆☆
 * The great Gatsby, F. Scott Fitzgerald ★★★★★

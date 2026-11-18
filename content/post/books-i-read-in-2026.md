@@ -16,6 +16,12 @@ The usual scoring system applies:
 * Five stars is pretty much unheard of.
 
 
+### Homage to Catalonia, George Orwell
+
+★★★★☆
+
+I know very little about Spain’s recent history, and even less about Orwell’s life, so this one turned into quite a deep dive on both. The appendices help: Orwell himself wanted the two most political, journalistic chapters moved to the end so they wouldn’t break the flow of the story. Still, I needed some extra digging to fully grasp the context. What struck me most is how often Orwell warns the reader that his account is partial, that he only saw his corner of the war, and that he may have got things wrong. That’s rare in a book written from such a committed position. You can also see the seeds of Animal Farm and 1984 here: the propaganda, the rewriting of events, and the way the truth itself becomes a battlefield. Well worth the effort.
+
 ### Flesh, David Szalay
 
 ★★★★☆
