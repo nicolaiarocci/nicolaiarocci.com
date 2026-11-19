@@ -10,6 +10,8 @@ It's becoming a habit. I did [C# 12][2] and [C# 13][3] here, and last year it wa
 
 The venue is Lodestar, in Via Fabio Filzi. It's free, but you need to register. If you're coming, find me and say hi!
 
+_Edit_: [Demos and slides](https://github.com/nicolaiarocci/dotnet11).
+
 [1]: https://www.aspitalia.com/eventi/101/.NET-Conference-Italia-2026-Milano.aspx
 [2]: /i-am-speaking-at-the-dotnet-conference-italia-2023/
 [3]: /speaking-at-the-dotnet-conference-italia-2024/
