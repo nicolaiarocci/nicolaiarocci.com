@@ -13,7 +13,7 @@ Want me to talk at your event? [Get in touch][1]!
 
 ### 2026
 
-- .NET Conference Italia 2026, Milan: [.NET 11: non un semplice upgrade](/speaking-at-the-dotnet-conference-italia-2026/) ([demo & slides](https://github.com/nicolaiarocci/dotnet11))
+- .NET Conference Italia 2026, Milan: [.NET 11: non un semplice upgrade](/speaking-at-the-dotnet-conference-italia-2026/) ([demo](https://github.com/nicolaiarocci/dotnet11)) ([video](https://media.aspitalia.com/events/netconf26-.NET-11-Chiamatelo-Semplice-Upgrade.media))
 - .NET Saturday 2026, Pordenone: [Feature Flags e configurazioni dinamiche in C# e .NET](https://dotnetsat2026pn.1nn0va.it/#schedule)
 
 ### 2025
