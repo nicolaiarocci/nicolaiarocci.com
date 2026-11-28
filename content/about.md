@@ -20,7 +20,7 @@ for Italian small businesses. I also the creator and organizer of
 
 I am a former runner, climber and swimmer now keeping myself busy with
 bodyweight training (I think it's called calisthenics these days). I love
-reading [good books][8], hiking in the wilderness and riding my Triumph
+reading [good books][8], [hiking](/tags/hiking/) in the wilderness and [riding](/tags/motorcycling/) my Triumph
 Bonneville. 
 
 My all time favourite quote: *"Only those who will risk going too
